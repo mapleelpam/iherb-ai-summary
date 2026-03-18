@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117164,
+  "last_updated": "2026-03-20T10:10:01.395Z",
+  "first_scraped": "2026-03-20T10:10:01.395Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Promising bacteria, High CFU, Improves digestion, Effective probiotics, Gets job done, Shelf stable, Good blend, Natural ingredients, Love thorne. Some note: More potency.",
+    "tags": [
+      {
+        "name": "Promising bacteria",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High CFU",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective probiotics",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gets job done",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shelf stable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love thorne",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More potency",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:01.395Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

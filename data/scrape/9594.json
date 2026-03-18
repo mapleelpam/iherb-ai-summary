@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9594,
+  "last_updated": "2026-03-20T10:31:53.005Z",
+  "first_scraped": "2026-03-20T10:31:53.005Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great immune support, Good taste, Works wonders, Liquid form, Stronger flow, Easy to use, Gentle support, Helps cancer. Some note: Winter months, Follow dosage.",
+    "tags": [
+      {
+        "name": "Great immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liquid form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger flow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps cancer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Winter months",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Follow dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:53.005Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

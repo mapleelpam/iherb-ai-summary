@@ -1,0 +1,68 @@
+{
+  "iherb_id": 31154,
+  "last_updated": "2026-03-20T09:52:45.755Z",
+  "first_scraped": "2026-03-20T09:52:45.755Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great herb, Huge package, Relieving menstrual cramps, Clean ingredients, Antiviral herb, Excellent tea, Good color, Organic yarrow. Some note: Multiple supplements.",
+    "tags": [
+      {
+        "name": "Great herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Huge package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieving menstrual cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antiviral herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent tea",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good color",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic yarrow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Multiple supplements",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:45.755Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 50888,
+  "last_updated": "2026-03-20T09:49:28.816Z",
+  "first_scraped": "2026-03-20T09:49:28.816Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved heart function, Regulate blood pressure, Preventative measures, Feet swelling, Reduces candida, Lower BP, Normal heartbeat, Good berries.",
+    "tags": [
+      {
+        "name": "Improved heart function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventative measures",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feet swelling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces candida",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower BP",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal heartbeat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good berries",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Serious side effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Serving size",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:28.816Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

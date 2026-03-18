@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78435,
+  "last_updated": "2026-03-20T10:13:58.206Z",
+  "first_scraped": "2026-03-20T10:13:58.206Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clearer skin, Perfect size, Satisfied purchase, Easy regimen, Detox tonic, Skin infections, Good serving size, Digestion improvement, Enhanced immunity, Natural remedy.",
+    "tags": [
+      {
+        "name": "Clearer skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy regimen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox tonic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin infections",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good serving size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:58.206Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

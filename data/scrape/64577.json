@@ -1,0 +1,68 @@
+{
+  "iherb_id": 64577,
+  "last_updated": "2026-03-20T09:41:36.468Z",
+  "first_scraped": "2026-03-20T09:41:36.468Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Citrusy taste, Effective purchase, No fish smell, Tasty flavor, Natural ingredients, Delivered quickly, Good scent, Yummy gummies. Some note: Looks good.",
+    "tags": [
+      {
+        "name": "Citrusy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fish smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delivered quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Looks good",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:36.468Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

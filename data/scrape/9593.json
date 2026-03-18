@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9593,
+  "last_updated": "2026-03-20T10:29:38.451Z",
+  "first_scraped": "2026-03-20T10:29:38.451Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice alternative, Works wonders, Add to tea, Beneficial properties, Immune boost, Good taste, Nausea relief, Natural remedy.",
+    "tags": [
+      {
+        "name": "Nice alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Add to tea",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nausea relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weaker batch",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:29:38.451Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

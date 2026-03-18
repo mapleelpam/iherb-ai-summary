@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110358,
+  "last_updated": "2026-03-20T10:30:22.590Z",
+  "first_scraped": "2026-03-20T10:30:22.590Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosts immune, Benefiting overall, Trust brand, Good taste, Travel size, Easy to use, Reduces sick, Absorption good, Improvement seen, Child winter.",
+    "tags": [
+      {
+        "name": "Boosts immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefiting overall",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Travel size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces sick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorption good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Child winter",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:30:22.590Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

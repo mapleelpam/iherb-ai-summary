@@ -1,0 +1,68 @@
+{
+  "iherb_id": 126566,
+  "last_updated": "2026-03-20T10:15:52.366Z",
+  "first_scraped": "2026-03-20T10:15:52.366Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energetic, Nice smell, Easy to swallow, Healthy development, Quick effect, Good ingredient, Improving hemoglobin, High potency. Some note: Efficiency okay.",
+    "tags": [
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy development",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving hemoglobin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficiency okay",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Impractical packaging",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:52.366Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110905,
+  "last_updated": "2026-03-20T10:21:15.766Z",
+  "first_scraped": "2026-03-20T10:21:15.766Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy dosage, Clean & refreshing, Mild taste, Lots of energy, Boost immunity, Yummy drops, Detox antioxidant, Great flavor, Organic & vegan.",
+    "tags": [
+      {
+        "name": "Easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean & refreshing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lots of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy drops",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic & vegan",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not pigmented",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:15.766Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

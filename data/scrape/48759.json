@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48759,
+  "last_updated": "2026-03-20T09:52:31.644Z",
+  "first_scraped": "2026-03-20T09:52:31.644Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great electrolytes, No taste, Tasteless drops, Easy hydration, Reduced fatigue, Good for cramps, More potassium, Boosting energy. Some note: Slight taste, Good and simple.",
+    "tags": [
+      {
+        "name": "Great electrolytes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasteless drops",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced fatigue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More potassium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slight taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good and simple",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:31.644Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

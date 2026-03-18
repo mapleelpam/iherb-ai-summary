@@ -1,0 +1,68 @@
+{
+  "iherb_id": 103601,
+  "last_updated": "2026-03-20T10:17:45.641Z",
+  "first_scraped": "2026-03-20T10:17:45.641Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Gut health, Effective choice, No side effects, Works great, Good strains, DIY culturing, Good combination, Regular bowel movement. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good strains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "DIY culturing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular bowel movement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad reaction",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:45.641Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

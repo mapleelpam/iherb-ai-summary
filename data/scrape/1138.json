@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1138,
+  "last_updated": "2026-03-20T09:26:33.103Z",
+  "first_scraped": "2026-03-20T09:26:33.103Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosting immunity, Easy swallow, Less scratching, Nutrient-rich fluid, Reduces illnesses, Lean muscle, No side effects, Great supplement. Some note: Selected ingredients.",
+    "tags": [
+      {
+        "name": "Boosting immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less scratching",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrient-rich fluid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces illnesses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lean muscle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Selected ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:33.103Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1594,
+  "last_updated": "2026-03-20T10:02:30.932Z",
+  "first_scraped": "2026-03-20T10:02:30.932Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Good sleep, Fast shipping, Gentle cleansing, Encouraged, Digestive regularity, Good for detox, Wonderful herb.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle cleansing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Encouraged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive regularity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wonderful herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low dosage",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:30.932Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

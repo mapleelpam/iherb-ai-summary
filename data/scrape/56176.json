@@ -1,0 +1,63 @@
+{
+  "iherb_id": 56176,
+  "last_updated": "2026-03-20T09:55:24.080Z",
+  "first_scraped": "2026-03-20T09:55:24.080Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Eliminated odor, Reduce sweat, Less smell, Nice scent, No taste, Convenient purchase, Return customer. Some note: Digestion improved.",
+    "tags": [
+      {
+        "name": "Eliminated odor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce sweat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Return customer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Digestion improved",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:24.080Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

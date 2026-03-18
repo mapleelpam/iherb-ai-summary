@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8864,
+  "last_updated": "2026-03-20T09:55:18.327Z",
+  "first_scraped": "2026-03-20T09:55:18.327Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast acting, Brain health, Strong flush, Easy to take, Fast shipping, Cardiovascular support, Flush reaction, Overseas postage. Some note: Flush sensation.",
+    "tags": [
+      {
+        "name": "Fast acting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong flush",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flush reaction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overseas postage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Side effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Flush sensation",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:18.327Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

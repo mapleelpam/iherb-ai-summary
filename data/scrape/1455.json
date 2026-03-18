@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1455,
+  "last_updated": "2026-03-20T09:55:38.885Z",
+  "first_scraped": "2026-03-20T09:55:38.885Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lower cholesterol, Cholesterol droped, No flush, Skin clearer, Good alternative, Fully corresponds, Value for money, Immune support. Some note: Everyday cardio.",
+    "tags": [
+      {
+        "name": "Lower cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol droped",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No flush",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin clearer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fully corresponds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Causes flushing",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Everyday cardio",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:38.885Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

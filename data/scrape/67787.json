@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67787,
+  "last_updated": "2026-03-20T09:57:47.205Z",
+  "first_scraped": "2026-03-20T09:57:47.205Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this, Heart health, Fast shipping, Easy to swallow, Skin improvement, Internally expected, Energetic feeling, Easy transaction. Some note: Nice dosage.",
+    "tags": [
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Internally expected",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energetic feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy transaction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice dosage",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Missed dosage",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:47.205Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

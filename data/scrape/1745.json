@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1745,
+  "last_updated": "2026-03-20T10:01:19.522Z",
+  "first_scraped": "2026-03-20T10:01:19.522Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Quick service, Relaxed and balanced, Added b6, Reasonable price, Effective supplement, Energy boost, Feeling warmer, Absorption aid. Some note: Size regular, Early stage.",
+    "tags": [
+      {
+        "name": "Quick service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxed and balanced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Added b6",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling warmer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorption aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Size regular",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Early stage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:19.522Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15108,
+  "last_updated": "2026-03-20T10:19:39.509Z",
+  "first_scraped": "2026-03-20T10:19:39.509Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Strongest extract, Energy support, Good rotation, Good adaptogen, Unique flavor, Steady support, Great energy, Energy booster. Some note: Standardised eleuthero.",
+    "tags": [
+      {
+        "name": "Strongest extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good rotation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good adaptogen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Steady support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Standardised eleuthero",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Low energy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:39.509Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 129634,
+  "last_updated": "2026-03-20T10:21:47.967Z",
+  "first_scraped": "2026-03-20T10:21:47.967Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works for me, Good results, Stays stable, Natural solution, All ingredients, Huge improvement, Good sign, Physical training.",
+    "tags": [
+      {
+        "name": "Works for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stays stable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "All ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Huge improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sign",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Physical training",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Big tablet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:47.967Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

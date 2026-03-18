@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4733,
+  "last_updated": "2026-03-20T10:25:39.035Z",
+  "first_scraped": "2026-03-20T10:25:39.035Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Benefit health, Daily essential, Small size, Antioxidant boost, Herbal extract, High extraction, Immunity boost, Relaxes me. Some note: Not bad.",
+    "tags": [
+      {
+        "name": "Benefit health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily essential",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herbal extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High extraction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxes me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not bad",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Polluted city",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:39.035Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

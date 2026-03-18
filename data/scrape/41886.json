@@ -1,0 +1,68 @@
+{
+  "iherb_id": 41886,
+  "last_updated": "2026-03-20T09:22:28.678Z",
+  "first_scraped": "2026-03-20T09:22:28.678Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High potency, More energy, Good for health, Potent brand, Nutrient-rich blend, Great vitamins, Energized feel, Boosts energy. Some note: Effective multivitamin, Great all in one.",
+    "tags": [
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrient-rich blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energized feel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective multivitamin",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great all in one",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:28.678Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

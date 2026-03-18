@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2132,
+  "last_updated": "2026-03-20T10:06:17.797Z",
+  "first_scraped": "2026-03-20T10:06:17.797Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works great, Loosens things, Good improvement, Love this, Good benefits, Itch mostly gone, Immune system, Good for circulation. Some note: Good results.",
+    "tags": [
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loosens things",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Itch mostly gone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Minimal effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:17.797Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

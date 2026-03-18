@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104315,
+  "last_updated": "2026-03-20T10:24:14.865Z",
+  "first_scraped": "2026-03-20T10:24:14.865Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great alternative, Improvement on health, Brain-boosting omega, Increased stamina, Easy to chew, Bright flavor, Delicious gummies, Economical purchase. Some note: Smell ok.",
+    "tags": [
+      {
+        "name": "Great alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement on health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain-boosting omega",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to chew",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bright flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economical purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "3 a day",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Smell ok",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:14.865Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 64444,
+  "last_updated": "2026-03-20T10:20:48.119Z",
+  "first_scraped": "2026-03-20T10:20:48.119Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improvement digestion, Portable and blends well, Convenient packets, Great probiotic, Feel great, Weight loss support, Recommended by, Easy package.",
+    "tags": [
+      {
+        "name": "Improvement digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Portable and blends well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended by",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No refrigeration",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not work",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:48.119Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

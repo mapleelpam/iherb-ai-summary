@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116514,
+  "last_updated": "2026-03-20T10:19:13.045Z",
+  "first_scraped": "2026-03-20T10:19:13.045Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious taste, Muscle growth, Good protein, Affordable option, Easy digestion, Support muscle, Good taste, Rich chocolate flavor.",
+    "tags": [
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support muscle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich chocolate flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Qualify gone",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:13.045Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

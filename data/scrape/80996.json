@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80996,
+  "last_updated": "2026-03-20T10:34:40.423Z",
+  "first_scraped": "2026-03-20T10:34:40.423Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Simple ingredients, Trust ingredients, Lower blood sugar, Tremendous supplement, Blood sugar support, Blood glucose levels, Works great, Recommended to buy, Highly recommend, Performed well.",
+    "tags": [
+      {
+        "name": "Simple ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tremendous supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood glucose levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended to buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Performed well",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:34:40.423Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

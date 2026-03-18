@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3995,
+  "last_updated": "2026-03-20T09:22:48.323Z",
+  "first_scraped": "2026-03-20T09:22:48.323Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Selected ingredients, Good results, Feeling better, Easy on stomach, Helps anemia, No side effects, Easy to swallow, More energy. Some note: Low iron, Very happy.",
+    "tags": [
+      {
+        "name": "Selected ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps anemia",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low iron",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:48.323Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

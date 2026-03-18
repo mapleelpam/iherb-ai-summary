@@ -1,0 +1,68 @@
+{
+  "iherb_id": 35044,
+  "last_updated": "2026-03-20T09:39:42.190Z",
+  "first_scraped": "2026-03-20T09:39:42.190Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very satisfied, Good ingredient, Normalize insulin, Good sleep, Clean ingredients, Nerve regeneration, Look great, Bioactive form, High mg, Muscle recovery.",
+    "tags": [
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normalize insulin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nerve regeneration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Look great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioactive form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High mg",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:42.190Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

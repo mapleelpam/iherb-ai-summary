@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115173,
+  "last_updated": "2026-03-20T10:10:53.262Z",
+  "first_scraped": "2026-03-20T10:10:53.262Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good dose, Really happy, Boost in energy, High levels, Small package, Building blocks, Easy to take, Tastes good.",
+    "tags": [
+      {
+        "name": "Good dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Really happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost in energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Building blocks",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not possible",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:53.262Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

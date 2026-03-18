@@ -1,0 +1,68 @@
+{
+  "iherb_id": 76072,
+  "last_updated": "2026-03-20T09:17:27.004Z",
+  "first_scraped": "2026-03-20T09:17:27.004Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energetic, High potency, Convenient solution, Value for money, Improvement noticed, Softgel form, Feel excellent, Great multivitamin. Some note: Effective blend, Great benefit.",
+    "tags": [
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Softgel form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel excellent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great benefit",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:27.004Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

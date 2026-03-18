@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114580,
+  "last_updated": "2026-03-20T10:21:57.453Z",
+  "first_scraped": "2026-03-20T10:21:57.453Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No flavor, Big size, Easy to take, Maximum absorption, Convenient use, Great supplement, Immune system, Convenient dropper.",
+    "tags": [
+      {
+        "name": "No flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maximum absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dropper",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweetener unnecessary",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Confusing dosage",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:57.453Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

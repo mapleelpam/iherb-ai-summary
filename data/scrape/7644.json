@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7644,
+  "last_updated": "2026-03-20T10:02:50.339Z",
+  "first_scraped": "2026-03-20T10:02:50.339Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Neat packaging, No bad smell, Fast shipping, Good package, Water retention, Affordable cost, Heart health, Good option.",
+    "tags": [
+      {
+        "name": "Neat packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No bad smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Water retention",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable cost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Burpy capsules",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive solution",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:50.339Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

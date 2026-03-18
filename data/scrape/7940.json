@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7940,
+  "last_updated": "2026-03-20T09:59:50.904Z",
+  "first_scraped": "2026-03-20T09:59:50.904Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Start slow, Satisfied longer, Helps control, Natural supplement, Energy levels, Works great, Suppresses appetite, Nice ingredients.",
+    "tags": [
+      {
+        "name": "Start slow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied longer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suppresses appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thick jelly",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Gas issues",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:50.904Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 491,
+  "last_updated": "2026-03-20T09:33:12.364Z",
+  "first_scraped": "2026-03-20T09:33:12.364Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Trusted brand, Fast shipping, Small softgels, Vitamin A, Easy to swallow, Beneficial product, Helped nails. Some note: Nice fish oil.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small softgels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin A",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive, hard",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Nice fish oil",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:12.364Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

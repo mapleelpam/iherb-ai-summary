@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70060,
+  "last_updated": "2026-03-20T09:21:56.794Z",
+  "first_scraped": "2026-03-20T09:21:56.794Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Potent, Youthful protection, Time release, Boost immunity, Immune health, Gradual release, Easy swallow, Game-changer. Some note: Acidic but overall.",
+    "tags": [
+      {
+        "name": "Potent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Youthful protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Time release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gradual release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acidic but overall",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Never received",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:56.794Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

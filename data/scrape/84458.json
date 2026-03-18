@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84458,
+  "last_updated": "2026-03-20T09:51:30.583Z",
+  "first_scraped": "2026-03-20T09:51:30.583Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for brain, Convenient dosage, Most optimal, Cholesterol control, Liver support, Works great, Highly recommend, High dose. Some note: Same price.",
+    "tags": [
+      {
+        "name": "Good for brain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Most optimal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Same price",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not great",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:30.583Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

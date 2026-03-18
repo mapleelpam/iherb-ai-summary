@@ -1,0 +1,68 @@
+{
+  "iherb_id": 124140,
+  "last_updated": "2026-03-20T10:00:39.836Z",
+  "first_scraped": "2026-03-20T10:00:39.836Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Affordable option, Excited results, Good stack, Fresh, accurate, Boosts memory, Improvement noticed, Essential mineral, Works for me. Some note: Brain fog.",
+    "tags": [
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excited results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh, accurate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential mineral",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain fog",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Misleading dosage",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:39.836Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

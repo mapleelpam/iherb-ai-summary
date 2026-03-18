@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72134,
+  "last_updated": "2026-03-20T09:24:10.832Z",
+  "first_scraped": "2026-03-20T09:24:10.832Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Enhance cognition, Seems good, Energy boost, Increased concentration, Improved mind, Brain health, Improved circulation, Love ginkgo. Some note: Control my vertigo.",
+    "tags": [
+      {
+        "name": "Enhance cognition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seems good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love ginkgo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control my vertigo",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No visible effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:10.832Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

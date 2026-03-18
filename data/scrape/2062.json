@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2062,
+  "last_updated": "2026-03-20T09:59:57.705Z",
+  "first_scraped": "2026-03-20T09:59:57.705Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Recommend, Helps sleep, Relaxation aid, Relaxed sleep, High potency, Effective aid, Sleepy enough, Consistent benefit. Some note: Happy with this, Works fine.",
+    "tags": [
+      {
+        "name": "Recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxation aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxed sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleepy enough",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consistent benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with this",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Works fine",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:57.705Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

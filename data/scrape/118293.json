@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118293,
+  "last_updated": "2026-03-20T09:30:36.556Z",
+  "first_scraped": "2026-03-20T09:30:36.556Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Economical price, Small size, Correct amount, Love these, Smooth capsule, Convenient dosage, Good source, Works great. Some note: Immune defense, Happy size.",
+    "tags": [
+      {
+        "name": "Economical price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Correct amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love these",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune defense",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Happy size",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:36.556Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

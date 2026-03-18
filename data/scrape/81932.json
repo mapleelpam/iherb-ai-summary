@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81932,
+  "last_updated": "2026-03-20T10:14:59.043Z",
+  "first_scraped": "2026-03-20T10:14:59.043Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Relief forever, Natural ingredients, No taste, Skin smoother, Good improvement, Effective collagen, Safe supplement, Affordable option. Some note: Raw taste.",
+    "tags": [
+      {
+        "name": "Relief forever",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin smoother",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Raw taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Rancid smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:59.043Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

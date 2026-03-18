@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118101,
+  "last_updated": "2026-03-20T09:48:04.658Z",
+  "first_scraped": "2026-03-20T09:48:04.658Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Care size, Fast benefit, Small size, Harmon balance, Refreshing formula, Improved clarity, Improved mood, Increase strength, Easy to swallow.",
+    "tags": [
+      {
+        "name": "Care size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Harmon balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too much",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:04.658Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

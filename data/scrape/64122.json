@@ -1,0 +1,68 @@
+{
+  "iherb_id": 64122,
+  "last_updated": "2026-03-20T09:20:19.092Z",
+  "first_scraped": "2026-03-20T09:20:19.092Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice taste, Helps greatly, Noticeable impact, Improvement symptoms, Improvement acid reflux, Digestive relief, Easy to swallow, Natural solution. Some note: Mastic gum, Good ingredients.",
+    "tags": [
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps greatly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement acid reflux",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mastic gum",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:19.092Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 45650,
+  "last_updated": "2026-03-20T09:53:24.862Z",
+  "first_scraped": "2026-03-20T09:53:24.862Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Supports bone health, Natural ingredients, Holistic approach, Bone pain relief, Fast shipping, Healing process, Easy to take, Bone supplement.",
+    "tags": [
+      {
+        "name": "Supports bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Holistic approach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healing process",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not happy",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stomach upset",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:24.862Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

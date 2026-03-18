@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104477,
+  "last_updated": "2026-03-20T10:28:31.797Z",
+  "first_scraped": "2026-03-20T10:28:31.797Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Impressed, Good results, Increases energy, Maximum benefit, Fast shipping, Suitable for, Nice benefits, Noticeable difference. Some note: Slight effect.",
+    "tags": [
+      {
+        "name": "Impressed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increases energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maximum benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suitable for",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Slight effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:31.797Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

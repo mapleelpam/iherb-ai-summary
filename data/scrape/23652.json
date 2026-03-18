@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23652,
+  "last_updated": "2026-03-20T09:23:48.501Z",
+  "first_scraped": "2026-03-20T09:23:48.501Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast delivery, Easy to swallow, Dietary fiber supplements, Really works, Less bathroom trips, Reduced enlarged prostate, High potency, Improvement noticed. Some note: So far, Less impact.",
+    "tags": [
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dietary fiber supplements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Really works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bathroom trips",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced enlarged prostate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "So far",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Less impact",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:48.501Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

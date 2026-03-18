@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5220,
+  "last_updated": "2026-03-20T09:47:51.518Z",
+  "first_scraped": "2026-03-20T09:47:51.518Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Good option, Tastes best, Easy dosing, Happy with, Alcohol-free drops, Protect myself, Taste is ok. Some note: Mild taste.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes best",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dosing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alcohol-free drops",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protect myself",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste is ok",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Mild taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:51.518Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

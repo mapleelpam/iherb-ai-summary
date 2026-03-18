@@ -1,0 +1,68 @@
+{
+  "iherb_id": 288,
+  "last_updated": "2026-03-20T09:27:16.213Z",
+  "first_scraped": "2026-03-20T09:27:16.213Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Alert feeling, Low dose, Brain health, Thyroid health, Focus improvement, Improved concentration, Effective supplement, Immune support. Some note: Improvement noticed, Not tested yet.",
+    "tags": [
+      {
+        "name": "Alert feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thyroid health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Focus improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not tested yet",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:16.213Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86459,
+  "last_updated": "2026-03-20T10:16:46.348Z",
+  "first_scraped": "2026-03-20T10:16:46.348Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good balance, Digestion help, Proper order, More potency, All vitamins, Improved complexion, Top tier, Potent ingredients.",
+    "tags": [
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Proper order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "All vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved complexion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top tier",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too large",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Big tablets",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:46.348Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 30835,
+  "last_updated": "2026-03-20T10:01:07.406Z",
+  "first_scraped": "2026-03-20T10:01:07.406Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Economic package, Good decor, Big package, Fresh berries, Strong taste, Great flavor, Nice ingredients, Fast delivery. Some note: No adverse effect.",
+    "tags": [
+      {
+        "name": "Economic package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good decor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh berries",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No adverse effect",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:07.406Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 59524,
+  "last_updated": "2026-03-20T10:00:06.858Z",
+  "first_scraped": "2026-03-20T10:00:06.858Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy absorption, Expensive but worth, Improved performance, Great flavor, Seamless experience, Energy boost, High dose, Bioavailable b12.",
+    "tags": [
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but worth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seamless experience",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioavailable b12",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ineffective product",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sugary crap",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:06.858Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

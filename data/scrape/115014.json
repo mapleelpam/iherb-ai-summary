@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115014,
+  "last_updated": "2026-03-20T09:49:18.387Z",
+  "first_scraped": "2026-03-20T09:49:18.387Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very affordable, Sickness prevention, Collagen synthesis, Cold sores, Well-packed product, Easy to swallow, Quick shipment, High dosage. Some note: Big pills, Boost energy.",
+    "tags": [
+      {
+        "name": "Very affordable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sickness prevention",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Collagen synthesis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cold sores",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well-packed product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big pills",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:18.387Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

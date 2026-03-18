@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3693,
+  "last_updated": "2026-03-20T09:53:10.322Z",
+  "first_scraped": "2026-03-20T09:53:10.322Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective brand, Energy boost, Natural vitamin C, Boosted immunity, Natural source, Quick relief, Fast shipping, Immune support. Some note: Traditional herb.",
+    "tags": [
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural vitamin C",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Traditional herb",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:10.322Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

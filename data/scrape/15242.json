@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15242,
+  "last_updated": "2026-03-20T09:31:27.095Z",
+  "first_scraped": "2026-03-20T09:31:27.095Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Effective supplement, Great active form, Highly recommend, Great addition, Clear acne, Improved wellbeing, Triggered finger. Some note: Fast shipping.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great active form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear acne",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved wellbeing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Triggered finger",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Upset stomach",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:27.095Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

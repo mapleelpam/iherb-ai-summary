@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72625,
+  "last_updated": "2026-03-20T09:21:39.014Z",
+  "first_scraped": "2026-03-20T09:21:39.014Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Iron supplement, Boost energy, Seems good, Good supplements, Helpful product, Improved skin, Blood improvement, Improved levels. Some note: High absorption.",
+    "tags": [
+      {
+        "name": "Iron supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seems good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good supplements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Disappointed with",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High absorption",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:39.014Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

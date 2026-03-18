@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81598,
+  "last_updated": "2026-03-20T10:19:01.259Z",
+  "first_scraped": "2026-03-20T10:19:01.259Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good buy, More bottles, High dose, Easy use, Fast delivery, Great flavor, Balanced energy, Quick energy.",
+    "tags": [
+      {
+        "name": "Good buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More bottles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Harmful cyanide",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not correct",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:01.259Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

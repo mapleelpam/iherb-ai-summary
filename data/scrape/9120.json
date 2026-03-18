@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9120,
+  "last_updated": "2026-03-20T10:12:33.314Z",
+  "first_scraped": "2026-03-20T10:12:33.314Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Meticulously crafted, Skin tone improvement, Feel good, Long time, Brand values, Absorbs quickly, More energy, Clean ingredients, Liver support. Some note: Himalaya's liver.",
+    "tags": [
+      {
+        "name": "Meticulously crafted",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin tone improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brand values",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorbs quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Himalaya's liver",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:33.314Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

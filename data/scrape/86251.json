@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86251,
+  "last_updated": "2026-03-20T10:03:19.521Z",
+  "first_scraped": "2026-03-20T10:03:19.521Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Simple ingredients, Anxiety sleep, Great effect, Life changing, Sufficient quantity, Natural way, Knock-out, Deep sleep aid. Some note: Made in china, Gently relaxes.",
+    "tags": [
+      {
+        "name": "Simple ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sufficient quantity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Knock-out",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Made in china",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Gently relaxes",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:19.521Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

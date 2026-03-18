@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7880,
+  "last_updated": "2026-03-20T10:31:52.030Z",
+  "first_scraped": "2026-03-20T10:31:52.030Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Healthy taste, Natural ingredient, Works wonders, Efficient fight, Out of stock, Seems good, Works fast, Quality supplement. Some note: Takes longer.",
+    "tags": [
+      {
+        "name": "Healthy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient fight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Out of stock",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seems good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Takes longer",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not what expected",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:52.030Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110922,
+  "last_updated": "2026-03-20T10:14:29.030Z",
+  "first_scraped": "2026-03-20T10:14:29.030Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Muscle tension, Stress relief, Good taste, Fast shipping, Recommended by, Tasty supplement, Easy to take, Regulate bowels.",
+    "tags": [
+      {
+        "name": "Muscle tension",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended by",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate bowels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No measuring cup",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Weird aftertaste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:29.030Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

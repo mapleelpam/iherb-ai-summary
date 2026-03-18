@@ -1,0 +1,68 @@
+{
+  "iherb_id": 256,
+  "last_updated": "2026-03-20T09:25:03.195Z",
+  "first_scraped": "2026-03-20T09:25:03.195Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Excellent choice, Big transformations, Happy starting, Energy change, Bone health, Better absorption, Easy to swallow, Perfect dosage. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Excellent choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big transformations",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy starting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bad headache",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:03.195Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

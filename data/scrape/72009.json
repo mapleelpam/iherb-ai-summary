@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72009,
+  "last_updated": "2026-03-20T09:43:49.380Z",
+  "first_scraped": "2026-03-20T09:43:49.380Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Complete ingredients, Weight loss support, Great energy, No jitters, Curbs appetite, Great fat burner, Helped me, Good results.",
+    "tags": [
+      {
+        "name": "Complete ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No jitters",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Curbs appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great fat burner",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel sick",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Big appetite",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:49.380Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

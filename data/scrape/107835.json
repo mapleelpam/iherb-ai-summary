@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107835,
+  "last_updated": "2026-03-20T10:04:14.104Z",
+  "first_scraped": "2026-03-20T10:04:14.104Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Nicely packed, Boosts stamina, Good energy, Good ingredient, Effective before exercise, Clean energy, Increase metabolic rate. Some note: Great results, Dosage good.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nicely packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective before exercise",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase metabolic rate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Dosage good",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:14.104Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

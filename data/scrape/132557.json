@@ -1,0 +1,68 @@
+{
+  "iherb_id": 132557,
+  "last_updated": "2026-03-20T09:55:36.920Z",
+  "first_scraped": "2026-03-20T09:55:36.920Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Size packing, Wellbeing difference, Prostate health, Natural ingredients, Affordable, shipped, Blocks DHT, Positive experience, Absorption norms, Hair strength, Works great.",
+    "tags": [
+      {
+        "name": "Size packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wellbeing difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prostate health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable, shipped",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blocks DHT",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive experience",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorption norms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:36.920Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

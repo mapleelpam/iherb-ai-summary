@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2019,
+  "last_updated": "2026-03-20T09:55:01.554Z",
+  "first_scraped": "2026-03-20T09:55:01.554Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good alternative, Hormonal balance, Quicker birth, Clear skin, Mild fruity, Immediate relief, Fast shipping, Easy to swallow, Reduced pain.",
+    "tags": [
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormonal balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quicker birth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild fruity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:01.554Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

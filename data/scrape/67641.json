@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67641,
+  "last_updated": "2026-03-20T10:20:13.026Z",
+  "first_scraped": "2026-03-20T10:20:13.026Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Happy with, Muscle recovery, Sweet after-effects, Works as described, Good taste, Mixes well, Perfect ingredients, Fast shipping.",
+    "tags": [
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet after-effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works as described",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tastes bad",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:13.026Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

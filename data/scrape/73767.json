@@ -1,0 +1,63 @@
+{
+  "iherb_id": 73767,
+  "last_updated": "2026-03-20T09:43:33.607Z",
+  "first_scraped": "2026-03-20T09:43:33.607Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great for skin, Skin health, Normal package, Joint aggravation, More energy, Hair growth, Reduce age. Some note: Painful joints, Good ingredients.",
+    "tags": [
+      {
+        "name": "Great for skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint aggravation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce age",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Painful joints",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:33.607Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 20961,
+  "last_updated": "2026-03-20T09:29:06.238Z",
+  "first_scraped": "2026-03-20T09:29:06.238Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Eye floaters, Protein digestion, Digestive enzyme, High potency, Helped greatly, Immune health, Easy swallow, Fantastic addition. Some note: Useful supplement, Too early.",
+    "tags": [
+      {
+        "name": "Eye floaters",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protein digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive enzyme",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped greatly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Useful supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too early",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:06.238Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

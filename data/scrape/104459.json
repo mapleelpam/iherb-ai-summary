@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104459,
+  "last_updated": "2026-03-20T09:30:51.147Z",
+  "first_scraped": "2026-03-20T09:30:51.147Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Cost-effective purchase, Kosher product, Improves levels, Comfortable size, Bone health, Good dosage, Increased levels, Enhanced absorption. Some note: First time, Clean ingredients.",
+    "tags": [
+      {
+        "name": "Cost-effective purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kosher product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comfortable size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First time",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:51.147Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

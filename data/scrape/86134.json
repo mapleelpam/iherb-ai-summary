@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86134,
+  "last_updated": "2026-03-20T09:41:25.594Z",
+  "first_scraped": "2026-03-20T09:41:25.594Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps jet lag, Effective dosage, Insomnia help, Potent relief, Sleep like a baby, Convenient option, Great sleep, Easy to swallow. Some note: Sleep balance.",
+    "tags": [
+      {
+        "name": "Helps jet lag",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Insomnia help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep like a baby",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep balance",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:25.594Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

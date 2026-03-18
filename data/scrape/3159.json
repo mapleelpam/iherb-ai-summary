@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3159,
+  "last_updated": "2026-03-20T10:23:12.705Z",
+  "first_scraped": "2026-03-20T10:23:12.705Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Dramatic effect, Easy to take, Soil based organisms, Helped with, Works great, Immune system, Prompt delivery, More energy.",
+    "tags": [
+      {
+        "name": "Dramatic effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soil based organisms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste changed",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:12.705Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

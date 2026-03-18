@@ -1,0 +1,68 @@
+{
+  "iherb_id": 65768,
+  "last_updated": "2026-03-20T09:28:12.842Z",
+  "first_scraped": "2026-03-20T09:28:12.842Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Effective supplement, High potency, Bioactive form, Size and package, Quick arrival, Immune support, Energy production. Some note: Fast shipping, Improved vitality.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioactive form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Size and package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick arrival",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy production",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Improved vitality",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:12.842Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

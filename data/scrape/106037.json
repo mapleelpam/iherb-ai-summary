@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106037,
+  "last_updated": "2026-03-20T10:26:44.474Z",
+  "first_scraped": "2026-03-20T10:26:44.474Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious and fresh, Tastes great, Nice and chewy, Good alternative, Healthy snack, Sweetness appreciated, Convenient packaging, Nice choice.",
+    "tags": [
+      {
+        "name": "Delicious and fresh",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice and chewy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweetness appreciated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not quite",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bit sour",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:44.474Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

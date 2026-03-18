@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23863,
+  "last_updated": "2026-03-20T10:15:36.930Z",
+  "first_scraped": "2026-03-20T10:15:36.930Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sweet taste, Best choice, More energy, Easy to regulate, Tastes good, Nutritional support, Easy to take, Fruity flavor.",
+    "tags": [
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to regulate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutritional support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fruity flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to consume",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive cost",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:36.930Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

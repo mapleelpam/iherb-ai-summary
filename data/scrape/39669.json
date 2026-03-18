@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39669,
+  "last_updated": "2026-03-20T09:40:02.403Z",
+  "first_scraped": "2026-03-20T09:40:02.403Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Item received, Recover faster, High energy, Good effects, Easy swallow, Highly recommend, Very satisfied, Convenient blend. Some note: Reducing deficiencies, Nourishes body.",
+    "tags": [
+      {
+        "name": "Item received",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recover faster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reducing deficiencies",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nourishes body",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:02.403Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

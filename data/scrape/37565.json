@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37565,
+  "last_updated": "2026-03-20T09:54:08.192Z",
+  "first_scraped": "2026-03-20T09:54:08.192Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean ingredients, Natural ingredients, Antioxidant precursor, Glass jar, No complaints, Antidote, Boost immunity, Integrity exceeded, Great supplement. Some note: High serotonin.",
+    "tags": [
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant precursor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass jar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No complaints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antidote",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Integrity exceeded",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High serotonin",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:08.192Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

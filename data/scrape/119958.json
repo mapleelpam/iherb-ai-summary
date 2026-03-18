@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119958,
+  "last_updated": "2026-03-20T10:33:40.934Z",
+  "first_scraped": "2026-03-20T10:33:40.934Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Good sleep, Bedtime game-changer, Quick absorption, Customize dosage, Taste amazing, Recommended dosage, Helps sleep, Kids sleep, Lovely ingredients.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bedtime game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Customize dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lovely ingredients",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:33:40.934Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

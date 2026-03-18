@@ -1,0 +1,68 @@
+{
+  "iherb_id": 125560,
+  "last_updated": "2026-03-20T09:50:19.805Z",
+  "first_scraped": "2026-03-20T09:50:19.805Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trust carlson, Easy to swallow, Good option, Big package, Boost immunity, Energy levels, Effective replenishing, Good level.",
+    "tags": [
+      {
+        "name": "Trust carlson",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective replenishing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good level",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Out of stock",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Lemon aftertaste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:19.805Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

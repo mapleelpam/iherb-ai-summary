@@ -1,0 +1,68 @@
+{
+  "iherb_id": 139437,
+  "last_updated": "2026-03-20T10:11:09.491Z",
+  "first_scraped": "2026-03-20T10:11:09.491Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost in energy, Mixes easily, Decent packaging, Enhanced strength, Benefit tasted package, Vitamin replacement, Pure potency, Cost-effective option. Some note: Effective supplement, Pure creatine.",
+    "tags": [
+      {
+        "name": "Boost in energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit tasted package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin replacement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cost-effective option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Pure creatine",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:09.491Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118476,
+  "last_updated": "2026-03-20T09:47:29.231Z",
+  "first_scraped": "2026-03-20T09:47:29.231Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves digestion, Nice supplement, Reduced bloating, Effective probiotic, Gut health, Less eczema, Immunity booster, Immune system. Some note: Fairly decent.",
+    "tags": [
+      {
+        "name": "Improves digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less eczema",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No impact",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fairly decent",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:29.231Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

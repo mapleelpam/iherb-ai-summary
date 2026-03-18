@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110048,
+  "last_updated": "2026-03-20T10:15:03.913Z",
+  "first_scraped": "2026-03-20T10:15:03.913Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Real product, Feel better, Easy to swallow, Good package, Improved energy, Trusted brand, Immune benefits. Some note: Lyme protocol, Origin suspect.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lyme protocol",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Origin suspect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:03.913Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

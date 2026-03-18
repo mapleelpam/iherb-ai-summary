@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85501,
+  "last_updated": "2026-03-20T10:11:31.154Z",
+  "first_scraped": "2026-03-20T10:11:31.154Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Taste is good, Delicious gummies, Easy to take, Value for money, Tastes like candy, No aftertaste, Trustworthy ingredients, Perfect combination. Some note: Impulse buy, Lower sugar.",
+    "tags": [
+      {
+        "name": "Taste is good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes like candy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trustworthy ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impulse buy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Lower sugar",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:31.154Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113477,
+  "last_updated": "2026-03-20T10:23:37.489Z",
+  "first_scraped": "2026-03-20T10:23:37.489Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective choice, Joint pain, Big difference, Improves health, High cholesterol, Good impact, Reduced inflammatory, Quick relief.",
+    "tags": [
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced inflammatory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large capsules",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fishy taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:37.489Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 17811,
+  "last_updated": "2026-03-20T09:57:22.018Z",
+  "first_scraped": "2026-03-20T09:57:22.018Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Cold season, Good taste, Acai berry, Boost immunity, Nice change, Convenient shipping, Tastes great, Favorite flavor. Some note: Love the product, Great addition.",
+    "tags": [
+      {
+        "name": "Cold season",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acai berry",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Favorite flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great addition",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:22.018Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

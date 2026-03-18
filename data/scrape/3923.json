@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3923,
+  "last_updated": "2026-03-20T10:32:41.032Z",
+  "first_scraped": "2026-03-20T10:32:41.032Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Wonderful composition, Easy to consume, Great energy, Boosts energy, Feel energy, Good ingredients, Nice alternative, Feel good, Energized.",
+    "tags": [
+      {
+        "name": "Wonderful composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to consume",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energized",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too much pills",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:41.032Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2688,
+  "last_updated": "2026-03-20T09:48:47.667Z",
+  "first_scraped": "2026-03-20T09:48:47.667Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pain relief, Reliable item, Helpful for inflammation, Fast shipping, Easy digestion, Significant relief, Efficient ingredients, Digestive benefits. Some note: Great combination, Authentic ingredients.",
+    "tags": [
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable item",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful for inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Significant relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combination",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Authentic ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:47.667Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

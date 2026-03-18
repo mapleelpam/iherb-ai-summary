@@ -1,0 +1,68 @@
+{
+  "iherb_id": 128521,
+  "last_updated": "2026-03-20T10:10:07.899Z",
+  "first_scraped": "2026-03-20T10:10:07.899Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Dissolves well, Tastes good, Amazingly tasty, Vanilla flavor, Good protein, Muscle recovery, Easy digestion, Good experience. Some note: Legitimate product, Occasional treat.",
+    "tags": [
+      {
+        "name": "Dissolves well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazingly tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vanilla flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good experience",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Legitimate product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Occasional treat",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:07.899Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

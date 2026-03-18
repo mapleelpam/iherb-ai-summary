@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1045,
+  "last_updated": "2026-03-20T09:42:46.506Z",
+  "first_scraped": "2026-03-20T09:42:46.506Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Heart health, Relieved muscle aches, Boost energy, Feel good, Cell energy, Support mitochondria, Easy to swallow, Improved skin, Good taste. Some note: Helpful addition.",
+    "tags": [
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieved muscle aches",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cell energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support mitochondria",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful addition",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:46.506Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

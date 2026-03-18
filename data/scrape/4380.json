@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4380,
+  "last_updated": "2026-03-20T09:37:50.687Z",
+  "first_scraped": "2026-03-20T09:37:50.687Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosts memory, High benefit, Restful sleep, Boosts energy, Effective ingredients, Immediate result, Excellent addition, Fast shipping.",
+    "tags": [
+      {
+        "name": "Boosts memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restful sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Did not work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No noticeable effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:50.687Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

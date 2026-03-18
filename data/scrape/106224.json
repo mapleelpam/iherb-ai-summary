@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106224,
+  "last_updated": "2026-03-20T10:00:13.743Z",
+  "first_scraped": "2026-03-20T10:00:13.743Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Great alternative, Decrease in pain, Reduces inflammation, Joint health, Good for joints, Trusted supplement, Well packaged, Easy swallow, Feeling great.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decrease in pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling great",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:13.743Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

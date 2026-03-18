@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14627,
+  "last_updated": "2026-03-20T09:26:54.501Z",
+  "first_scraped": "2026-03-20T09:26:54.501Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lemon flavor, Easy to take, More energy, Good taste, Mild taste, Pure oil, No fishy smell, Thicken coat.",
+    "tags": [
+      {
+        "name": "Lemon flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thicken coat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Discontinued product",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bad burps",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:54.501Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

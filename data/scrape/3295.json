@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3295,
+  "last_updated": "2026-03-20T10:00:59.515Z",
+  "first_scraped": "2026-03-20T10:00:59.515Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural factors, Feel full, Blood sugar control, Works great, Decreased sugar cravings, Old standby, Good ingredients, Weight loss. Some note: Easy to take, Fast dispatch.",
+    "tags": [
+      {
+        "name": "Natural factors",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel full",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decreased sugar cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Old standby",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Fast dispatch",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:59.515Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 52821,
+  "last_updated": "2026-03-20T09:18:39.554Z",
+  "first_scraped": "2026-03-20T09:18:39.554Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Affordable and well-packed, Improved health, Nice package, Best absorption, Favorite vitamin, Highly recommend, Strong bones. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable and well-packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Favorite vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle spasm",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:39.554Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 27509,
+  "last_updated": "2026-03-20T09:17:47.027Z",
+  "first_scraped": "2026-03-20T09:17:47.027Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Taste good, Rich chocolate, Best protein, Fast dissolve, Mix with milk, Good taste, Yummy flavor, Easy to mix. Some note: Not too sweet.",
+    "tags": [
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mix with milk",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Horrible acne",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not too sweet",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:47.027Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

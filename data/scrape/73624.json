@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73624,
+  "last_updated": "2026-03-20T09:43:34.634Z",
+  "first_scraped": "2026-03-20T09:43:34.634Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Muscle cramps, Tasty flavor, Good taste, Noticeable reduction, Works great, Good sleep, Refreshing lemonade, Good package. Some note: Helps relax.",
+    "tags": [
+      {
+        "name": "Muscle cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable reduction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing lemonade",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps relax",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Upset stomach",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:34.634Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

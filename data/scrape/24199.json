@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24199,
+  "last_updated": "2026-03-20T10:02:50.339Z",
+  "first_scraped": "2026-03-20T10:02:50.339Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin improvement, Affordable, High dosage, Energy boost, Good addition, Clears breakouts, Immunity booster, Easy to swallow. Some note: Love this.",
+    "tags": [
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clears breakouts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:50.339Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

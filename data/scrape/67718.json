@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67718,
+  "last_updated": "2026-03-20T10:26:36.491Z",
+  "first_scraped": "2026-03-20T10:26:36.491Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Taste super, Smooth feeling, Budget option, Works great, Nice price, Fast energy, Great preworkout.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste super",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Budget option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great preworkout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lacks kick",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Less sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:36.491Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

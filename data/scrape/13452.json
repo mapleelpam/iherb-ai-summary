@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13452,
+  "last_updated": "2026-03-20T10:18:00.384Z",
+  "first_scraped": "2026-03-20T10:18:00.384Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty syrup, Pleasant flavor, Irregular heart, Works great, Good tonic, Heart protection, Fast shipping, Supports heart.",
+    "tags": [
+      {
+        "name": "Tasty syrup",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Irregular heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good tonic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "More than recommended",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:00.384Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 62859,
+  "last_updated": "2026-03-20T09:44:59.662Z",
+  "first_scraped": "2026-03-20T09:44:59.662Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Dissolves well, Clean ingredient list, Taste mild, Mixes well, Good taste, Plant protein, Neutral flavor, Love this. Some note: Very happy, Clean protein.",
+    "tags": [
+      {
+        "name": "Dissolves well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredient list",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste mild",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Clean protein",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:59.662Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

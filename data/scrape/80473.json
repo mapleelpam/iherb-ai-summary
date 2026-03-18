@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80473,
+  "last_updated": "2026-03-20T09:44:19.584Z",
+  "first_scraped": "2026-03-20T09:44:19.584Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Value for money, Chewable option, Economic package, Fruity taste, Improvement noticed, Easy to chew, Tastes ok, Delicious taste. Some note: Convenient packaging.",
+    "tags": [
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chewable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economic package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fruity taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to chew",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes ok",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:19.584Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

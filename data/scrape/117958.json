@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117958,
+  "last_updated": "2026-03-20T10:06:27.733Z",
+  "first_scraped": "2026-03-20T10:06:27.733Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Liked the result, Balanced combination, Natural ingredient, Effective antiinflammatory, Good energy boost, Magic pill, Healthier day by day, Game-changer, Improved focus. Some note: No difference.",
+    "tags": [
+      {
+        "name": "Liked the result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective antiinflammatory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Magic pill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthier day by day",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:27.733Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

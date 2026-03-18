@@ -1,0 +1,68 @@
+{
+  "iherb_id": 30566,
+  "last_updated": "2026-03-20T09:22:16.597Z",
+  "first_scraped": "2026-03-20T09:22:16.597Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Safe and effective, Supports cholesterol, High potency, Improved energy, Good taste, Lower cholesterol, Flush tolerance, Easy to swallow.",
+    "tags": [
+      {
+        "name": "Safe and effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flush tolerance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intense niacin flush",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Extreme flush reaction",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:16.597Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

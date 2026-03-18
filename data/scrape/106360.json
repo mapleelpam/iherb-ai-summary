@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106360,
+  "last_updated": "2026-03-20T09:58:35.120Z",
+  "first_scraped": "2026-03-20T09:58:35.120Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective remedy, Received in good condition, Improved health, Immune boost, Vegan alternative, Lower dosage, Perfect dosage, Integrity in production.",
+    "tags": [
+      {
+        "name": "Effective remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Received in good condition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Integrity in production",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Toxic ingredients",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:35.120Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

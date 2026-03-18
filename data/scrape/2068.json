@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2068,
+  "last_updated": "2026-03-20T09:26:41.591Z",
+  "first_scraped": "2026-03-20T09:26:41.591Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Noticeable difference, Good addition, Serotonin boost, Natural relief, Good for anxiety, Helps mood, Good sleep, Natural herb. Some note: Be careful.",
+    "tags": [
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Serotonin boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Be careful",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sun sensitivity",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:41.591Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

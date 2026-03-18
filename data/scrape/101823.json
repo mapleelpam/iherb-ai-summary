@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101823,
+  "last_updated": "2026-03-20T10:19:02.190Z",
+  "first_scraped": "2026-03-20T10:19:02.190Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved regularity, Good probiotic, Best valued, Very helpful, Good option, Consistent results, Easy to swallow, Works best. Some note: Keeps fresh.",
+    "tags": [
+      {
+        "name": "Improved regularity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best valued",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very helpful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consistent results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works best",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Didn't help",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Keeps fresh",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:02.190Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

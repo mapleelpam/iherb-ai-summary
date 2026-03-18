@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4247,
+  "last_updated": "2026-03-20T10:08:20.584Z",
+  "first_scraped": "2026-03-20T10:08:20.584Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost energy, 100% pure, Pure product, Good dosage, Skin improvement, Works great, Fast shipping, Helps with PMS, Boosts immunity, Feel better.",
+    "tags": [
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "100% pure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with PMS",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:20.584Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

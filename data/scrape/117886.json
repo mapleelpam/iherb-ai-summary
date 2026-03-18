@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117886,
+  "last_updated": "2026-03-20T09:43:44.256Z",
+  "first_scraped": "2026-03-20T09:43:44.256Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Overall health, Prompt shipping, Improves health, Helps digestion, High prices, Small size, Effective supplement, Raise in energy.",
+    "tags": [
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High prices",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Raise in energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Acidic nature",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:44.256Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

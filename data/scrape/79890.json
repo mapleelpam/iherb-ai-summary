@@ -1,0 +1,68 @@
+{
+  "iherb_id": 79890,
+  "last_updated": "2026-03-20T10:10:19.216Z",
+  "first_scraped": "2026-03-20T10:10:19.216Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Instant energy, High iron, Good for digestion, Tastes great, Blends well, Full feeling, Smoothie blend, Good protein. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Instant energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High iron",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blends well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Full feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smoothie blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Packaging freshness",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:19.216Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

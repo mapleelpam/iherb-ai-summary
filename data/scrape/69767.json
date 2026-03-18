@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69767,
+  "last_updated": "2026-03-20T10:25:08.368Z",
+  "first_scraped": "2026-03-20T10:25:08.368Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Inflammation gone, Natural formulation, Bioavailable B vitamins, Effective brand, Good amounts, More energy, Ideal type, All natural. Some note: Neutral taste.",
+    "tags": [
+      {
+        "name": "Inflammation gone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural formulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioavailable B vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good amounts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ideal type",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "All natural",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Low vitamin levels",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:08.368Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

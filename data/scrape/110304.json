@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110304,
+  "last_updated": "2026-03-20T10:29:07.537Z",
+  "first_scraped": "2026-03-20T10:29:07.537Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty indulgent snack, Tasty, fudge-like, Decadent delight, Amazing taste, Satisfying harmony, Rich chocolate, Pure ingredients, Highly recommend. Some note: Mid protein mid carb.",
+    "tags": [
+      {
+        "name": "Tasty indulgent snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty, fudge-like",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decadent delight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfying harmony",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bland texture",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Mid protein mid carb",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:29:07.537Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

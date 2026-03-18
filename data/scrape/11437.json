@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11437,
+  "last_updated": "2026-03-20T09:49:44.294Z",
+  "first_scraped": "2026-03-20T09:49:44.294Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural taste, Strong rose scent, Nice taste, Pleasant flavor, Great smell, Feel beautiful, Skin care, Pure rosewater.",
+    "tags": [
+      {
+        "name": "Natural taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong rose scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel beautiful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin care",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure rosewater",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No noticeable difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:44.294Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

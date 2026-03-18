@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117137,
+  "last_updated": "2026-03-20T09:25:19.939Z",
+  "first_scraped": "2026-03-20T09:25:19.939Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Gentle on stomach, Buffered C, Good ingredient, Effective supplement, Highly recommend, Boost immunity, Improved sleep, Strength boost.",
+    "tags": [
+      {
+        "name": "Gentle on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buffered C",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strength boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Horse pill",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Big capsules",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:19.939Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

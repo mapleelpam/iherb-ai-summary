@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84158,
+  "last_updated": "2026-03-20T09:33:16.196Z",
+  "first_scraped": "2026-03-20T09:33:16.196Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Excellent additive, Fix face, Works better, Healing teeth, Good results, Pain decreasing, Easy to swallow, Great benefits. Some note: Helps with focusing.",
+    "tags": [
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fix face",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healing teeth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain decreasing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High GI",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Helps with focusing",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:16.196Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

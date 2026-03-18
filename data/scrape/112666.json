@@ -1,0 +1,68 @@
+{
+  "iherb_id": 112666,
+  "last_updated": "2026-03-20T10:12:03.320Z",
+  "first_scraped": "2026-03-20T10:12:03.320Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved absorption, Easy on stomach, Pure form, Good ingredients, Competitive price, Easy swallowing, Boost immunity, Changed significantly.",
+    "tags": [
+      {
+        "name": "Improved absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Competitive price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallowing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Changed significantly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low dosage",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:03.320Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

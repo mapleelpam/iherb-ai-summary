@@ -1,0 +1,68 @@
+{
+  "iherb_id": 544,
+  "last_updated": "2026-03-20T09:51:42.565Z",
+  "first_scraped": "2026-03-20T09:51:42.565Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Large size, Weight loss, Eat less, Good composition, Comprehensive formula, Boost of energy, Appetite suppression.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eat less",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comprehensive formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Appetite suppression",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Acid reflux",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:42.565Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

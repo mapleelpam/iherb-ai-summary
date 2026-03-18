@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70138,
+  "last_updated": "2026-03-20T10:02:21.069Z",
+  "first_scraped": "2026-03-20T10:02:21.069Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Surprised, Reasonable price, Highly recommend, Helps manage, Nice taste, Top seller, Improved digestion, Effective pill. Some note: Hemp package.",
+    "tags": [
+      {
+        "name": "Surprised",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps manage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top seller",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective pill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hemp package",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:21.069Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113550,
+  "last_updated": "2026-03-20T10:21:47.011Z",
+  "first_scraped": "2026-03-20T10:21:47.011Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredient, PMS symptoms, Powerful supplement, Balanced hormones, Expensive but worth, No pain, Improved circulation, Natural alternative. Some note: Price expected, Skin improvement.",
+    "tags": [
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "PMS symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but worth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Price expected",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:47.011Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

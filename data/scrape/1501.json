@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1501,
+  "last_updated": "2026-03-20T09:37:48.770Z",
+  "first_scraped": "2026-03-20T09:37:48.770Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosted focus, Life saver, More motivated, Improved mood, Clean ingredients, Thyroid support, Functional medicine, Good impact. Some note: Small size pill.",
+    "tags": [
+      {
+        "name": "Boosted focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More motivated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thyroid support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Functional medicine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size pill",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hard to swallow",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:48.770Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

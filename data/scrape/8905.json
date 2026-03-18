@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8905,
+  "last_updated": "2026-03-20T09:36:04.796Z",
+  "first_scraped": "2026-03-20T09:36:04.796Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Deep sleep, Helpful sleep, Calming effect, Reducing anxiety, Superior form, Amazing miracles, Works wonders, Relaxation aid. Some note: Effective supplement, Fast acting.",
+    "tags": [
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reducing anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superior form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing miracles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxation aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Fast acting",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:04.796Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

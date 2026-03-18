@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14227,
+  "last_updated": "2026-03-20T10:30:28.632Z",
+  "first_scraped": "2026-03-20T10:30:28.632Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Herbal calcium, Natural variety, All herbs, Working advantage, Healing aid, Direct minerals, Highly absorbable, Clean formula.",
+    "tags": [
+      {
+        "name": "Herbal calcium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural variety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "All herbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Working advantage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healing aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Direct minerals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly absorbable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too big capsules",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Diarrhea issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:30:28.632Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

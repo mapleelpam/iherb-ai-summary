@@ -1,0 +1,68 @@
+{
+  "iherb_id": 63015,
+  "last_updated": "2026-03-20T10:33:59.569Z",
+  "first_scraped": "2026-03-20T10:33:59.569Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Selected ingredients, Great flavor, Shipped quickly, More protein, Easy protein, Tastes good, Lasts long, Smooth texture. Some note: Masking needed.",
+    "tags": [
+      {
+        "name": "Selected ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shipped quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lasts long",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Grainy texture",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Masking needed",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:33:59.569Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

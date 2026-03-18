@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81350,
+  "last_updated": "2026-03-20T10:03:51.777Z",
+  "first_scraped": "2026-03-20T10:03:51.777Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lower blood sugar, Cravings control, Berberine content, Great benefit, Improving level, Clean ingredients, Regular bowels, Sugar cravings. Some note: Sugar control, Nutritional deficiencies.",
+    "tags": [
+      {
+        "name": "Lower blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cravings control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Berberine content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving level",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular bowels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sugar cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sugar control",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nutritional deficiencies",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:51.777Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

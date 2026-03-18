@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97672,
+  "last_updated": "2026-03-20T09:47:53.485Z",
+  "first_scraped": "2026-03-20T09:47:53.485Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious matcha, Healthy booster, Glowy skin, Tastes great, Green tea, Love this, Improved skin, Big size. Some note: Affordable option.",
+    "tags": [
+      {
+        "name": "Delicious matcha",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glowy skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Green tea",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not good",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:53.485Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118331,
+  "last_updated": "2026-03-20T10:06:52.209Z",
+  "first_scraped": "2026-03-20T10:06:52.209Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Relaxation aid, Trust brand, Fast shipping, Better sleep, Heart benefits, Effective aid, Stress support, Sleep support. Some note: High dosage.",
+    "tags": [
+      {
+        "name": "Relaxation aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:52.209Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

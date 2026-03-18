@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14738,
+  "last_updated": "2026-03-20T10:33:03.243Z",
+  "first_scraped": "2026-03-20T10:33:03.243Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Travel-friendly option, Easy to take, Better blend, Unbeatable price, Convenient option, Tiny size, Stops bloating, Great supplement, Fast results.",
+    "tags": [
+      {
+        "name": "Travel-friendly option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unbeatable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiny size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stops bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:33:03.243Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

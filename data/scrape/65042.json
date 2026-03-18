@@ -1,0 +1,68 @@
+{
+  "iherb_id": 65042,
+  "last_updated": "2026-03-20T10:26:36.532Z",
+  "first_scraped": "2026-03-20T10:26:36.532Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great addition, Tasty option, Exceeded expectations, Enhanced endurance, Amazing taste, Best choice, Favorite preworkout, Boosted energy.",
+    "tags": [
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Exceeded expectations",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Favorite preworkout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tingles",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:36.532Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1503,
+  "last_updated": "2026-03-20T09:35:01.517Z",
+  "first_scraped": "2026-03-20T09:35:01.517Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective nutrient, Heart health, Tinnitus relief, Good ingredients, Clear improvement, Improved cognitive function, Improved focus, Memory improvement. Some note: Fast shipping, Long-term results.",
+    "tags": [
+      {
+        "name": "Effective nutrient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tinnitus relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved cognitive function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Long-term results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:01.517Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

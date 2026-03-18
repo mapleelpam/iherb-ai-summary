@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4873,
+  "last_updated": "2026-03-20T10:12:40.939Z",
+  "first_scraped": "2026-03-20T10:12:40.939Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Boosting vitamin C, Easy to use, More energy, Great electrolyte, Great flavour, Pleasant lemon, Quick digestion.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting vitamin C",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great electrolyte",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavour",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant lemon",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sour taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too sour",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:40.939Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

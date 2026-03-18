@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144146,
+  "last_updated": "2026-03-20T10:23:33.398Z",
+  "first_scraped": "2026-03-20T10:23:33.398Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes great, Good impact, Reduce stress, Good taste, Deficient in b12, Good composition, Energy boost, Anxiety levels.",
+    "tags": [
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deficient in b12",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow dissolving",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Additive content",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:33.398Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

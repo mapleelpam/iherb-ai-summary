@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5413,
+  "last_updated": "2026-03-20T09:17:47.999Z",
+  "first_scraped": "2026-03-20T09:17:47.999Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Liked the price, Helping a lot, Positive changes, Great benefit, Great supplement, Easy swallow, Support urinary health, High concentration. Some note: Urinary tract, Not sure.",
+    "tags": [
+      {
+        "name": "Liked the price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helping a lot",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive changes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support urinary health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Urinary tract",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:47.999Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

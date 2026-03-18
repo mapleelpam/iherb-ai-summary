@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71089,
+  "last_updated": "2026-03-20T10:12:50.973Z",
+  "first_scraped": "2026-03-20T10:12:50.973Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Ease nausea, Strong taste, Helps nausea, Stopped tums, Helpful for stomach, Strong, helpful, Symptoms improving. Some note: Mixed results.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ease nausea",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps nausea",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped tums",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful for stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong, helpful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Symptoms improving",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixed results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Intense nausea",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:50.973Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

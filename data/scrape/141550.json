@@ -1,0 +1,68 @@
+{
+  "iherb_id": 141550,
+  "last_updated": "2026-03-20T10:12:39.967Z",
+  "first_scraped": "2026-03-20T10:12:39.967Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Eye relief, Omega 7 benefit, Skin improvement, Eye moisture enhancement, Relief improvement, Eye health improvement, More time, Prompt delivery. Some note: Tear production, Dry eye relief.",
+    "tags": [
+      {
+        "name": "Eye relief",
+        "classification": 0,
+        "count": 11
+      },
+      {
+        "name": "Omega 7 benefit",
+        "classification": 0,
+        "count": 7
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 6
+      },
+      {
+        "name": "Eye moisture enhancement",
+        "classification": 0,
+        "count": 5
+      },
+      {
+        "name": "Relief improvement",
+        "classification": 0,
+        "count": 4
+      },
+      {
+        "name": "Eye health improvement",
+        "classification": 0,
+        "count": 3
+      },
+      {
+        "name": "More time",
+        "classification": 0,
+        "count": 3
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 2
+      },
+      {
+        "name": "Tear production",
+        "classification": 1,
+        "count": 15
+      },
+      {
+        "name": "Dry eye relief",
+        "classification": 1,
+        "count": 13
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:39.967Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

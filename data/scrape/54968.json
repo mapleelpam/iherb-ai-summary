@@ -1,0 +1,68 @@
+{
+  "iherb_id": 54968,
+  "last_updated": "2026-03-20T10:08:24.572Z",
+  "first_scraped": "2026-03-20T10:08:24.572Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reduced swelling, Potent formula, Less congested, Works faster, Improving veins, Improving diet, Attention to detail, Feel better.",
+    "tags": [
+      {
+        "name": "Reduced swelling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less congested",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works faster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving veins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Attention to detail",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:24.572Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

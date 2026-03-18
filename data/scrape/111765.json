@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111765,
+  "last_updated": "2026-03-20T10:22:10.760Z",
+  "first_scraped": "2026-03-20T10:22:10.760Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Strong immune, Good formula, Natural products, Less colds/flu, Helped with, Organic quercetin, Respiratory improvement, High potency. Some note: Not tablet form.",
+    "tags": [
+      {
+        "name": "Strong immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural products",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less colds/flu",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic quercetin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Respiratory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not tablet form",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Palm oil",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:10.760Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

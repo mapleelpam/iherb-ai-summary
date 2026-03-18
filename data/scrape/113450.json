@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113450,
+  "last_updated": "2026-03-20T10:25:47.028Z",
+  "first_scraped": "2026-03-20T10:25:47.028Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delivery speed, Blood pressure, Fast shipping, Improved health, Excellent dosage, Easy to swallow, Healthy blood flow, Good energy, Enjoyed brand.",
+    "tags": [
+      {
+        "name": "Delivery speed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy blood flow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enjoyed brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Aggravates shingles",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:47.028Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

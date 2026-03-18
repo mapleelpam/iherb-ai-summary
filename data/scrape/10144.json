@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10144,
+  "last_updated": "2026-03-20T10:32:54.035Z",
+  "first_scraped": "2026-03-20T10:32:54.035Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Unique delivery system, Lower dose, Sleep improvement, Reliable relaxant, Pure herb, Anxiety reducer, Chill and happy, Nice package. Some note: Mild impact.",
+    "tags": [
+      {
+        "name": "Unique delivery system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable relaxant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety reducer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chill and happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weak effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Mild impact",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:54.035Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

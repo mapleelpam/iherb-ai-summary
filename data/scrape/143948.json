@@ -1,0 +1,68 @@
+{
+  "iherb_id": 143948,
+  "last_updated": "2026-03-20T10:23:12.705Z",
+  "first_scraped": "2026-03-20T10:23:12.705Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Instant energy, More potent, Tastes delicious, Energy boost, Strong enhancer, Best value, Revive quickly.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Instant energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More potent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong enhancer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Revive quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to open",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:12.705Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

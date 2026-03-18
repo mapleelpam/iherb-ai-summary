@@ -1,0 +1,68 @@
+{
+  "iherb_id": 138792,
+  "last_updated": "2026-03-20T09:27:54.612Z",
+  "first_scraped": "2026-03-20T09:27:54.612Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Strong bones, Boosts immunity, Quick effect, Price discount, Easy to use, High dose, Increase levels, Timely delivery. Some note: Supports bones, Package arrived.",
+    "tags": [
+      {
+        "name": "Strong bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Price discount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports bones",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Package arrived",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:54.612Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

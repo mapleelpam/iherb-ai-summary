@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71183,
+  "last_updated": "2026-03-20T10:22:28.889Z",
+  "first_scraped": "2026-03-20T10:22:28.889Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Potent dose, Natural products, Skin improvement, Stress relief, Immune health, Love the brand, Service and products, Boosting effect. Some note: Recovery support.",
+    "tags": [
+      {
+        "name": "Potent dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural products",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Service and products",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recovery support",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:28.889Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

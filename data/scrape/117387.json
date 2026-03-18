@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117387,
+  "last_updated": "2026-03-20T10:11:43.030Z",
+  "first_scraped": "2026-03-20T10:11:43.030Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Convenient capsule, Muscle growth, Good ingredients, Solid choice, Muscle repair, Endurance boost, No muscle pain.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Solid choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle repair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Endurance boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No muscle pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not correct!",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stomach irritation",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:43.030Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

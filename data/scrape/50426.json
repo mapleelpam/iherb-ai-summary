@@ -1,0 +1,68 @@
+{
+  "iherb_id": 50426,
+  "last_updated": "2026-03-20T10:30:53.204Z",
+  "first_scraped": "2026-03-20T10:30:53.204Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good mineral source, Energy boost, More energy, Boost immunity, Convenient option, Detoxifying properties, Improved sleep quality, Mild taste.",
+    "tags": [
+      {
+        "name": "Good mineral source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detoxifying properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep quality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Lack of information",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:30:53.204Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 129633,
+  "last_updated": "2026-03-20T10:06:43.097Z",
+  "first_scraped": "2026-03-20T10:06:43.097Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reduce inflammation, Easy to use, Pain relief, Muscle tension, Love this, Digestive support, More energy, Quick arrival.",
+    "tags": [
+      {
+        "name": "Reduce inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle tension",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick arrival",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large pills",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive supplement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:43.097Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

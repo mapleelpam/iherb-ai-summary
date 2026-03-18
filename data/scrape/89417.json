@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89417,
+  "last_updated": "2026-03-20T10:15:32.926Z",
+  "first_scraped": "2026-03-20T10:15:32.926Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No side effects, Love this, Feel better, No breakouts, Improves immunity, Clearing up, Minimize acne, Value for money.",
+    "tags": [
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No breakouts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearing up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Minimize acne",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hormonal acne",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:32.926Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

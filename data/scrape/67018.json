@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67018,
+  "last_updated": "2026-03-20T09:17:55.571Z",
+  "first_scraped": "2026-03-20T09:17:55.571Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High epa/dha, Heart health, Improved energy, Effective supplement, Good ingredient, Good formula, High concentration, Very satisfied. Some note: Big capsules, Try improve.",
+    "tags": [
+      {
+        "name": "High epa/dha",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big capsules",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Try improve",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:55.571Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

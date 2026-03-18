@@ -1,0 +1,68 @@
+{
+  "iherb_id": 20865,
+  "last_updated": "2026-03-20T09:27:57.746Z",
+  "first_scraped": "2026-03-20T09:27:57.746Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Small softgel, Convenient dosage, Mild symptoms, Maintaining levels, Boosts immunity, Affordable, High potency. Some note: Quality matches description, Easy to take.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small softgel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintaining levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality matches description",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:57.746Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

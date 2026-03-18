@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32101,
+  "last_updated": "2026-03-20T09:47:00.253Z",
+  "first_scraped": "2026-03-20T09:47:00.253Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trusted brand, Convenient form, Easy swallow, Small size, Economical price, Natural boost, Excellent additive, Easy to use. Some note: Valuable product.",
+    "tags": [
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economical price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tabs too big",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Valuable product",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:00.253Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

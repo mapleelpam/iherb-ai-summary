@@ -1,0 +1,68 @@
+{
+  "iherb_id": 123798,
+  "last_updated": "2026-03-20T09:38:25.115Z",
+  "first_scraped": "2026-03-20T09:38:25.115Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy and convenient, Great combination, Healthy fat, Value-for-money, Fast shipping, Normalize vitamin D, Enhanced absorption, High concentration, Convenient size, Boost immunity.",
+    "tags": [
+      {
+        "name": "Easy and convenient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy fat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value-for-money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normalize vitamin D",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:25.115Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

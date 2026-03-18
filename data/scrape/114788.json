@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114788,
+  "last_updated": "2026-03-20T10:03:20.649Z",
+  "first_scraped": "2026-03-20T10:03:20.649Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fully corresponds, Delicious snack, Healthy alternative, Affordable option, Tasty flavor, Light and refreshing, Will buy again, Package intact.",
+    "tags": [
+      {
+        "name": "Fully corresponds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Light and refreshing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Will buy again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Package intact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Artificial flavoring",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Weak flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:20.649Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

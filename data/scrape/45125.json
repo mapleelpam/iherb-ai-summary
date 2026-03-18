@@ -1,0 +1,68 @@
+{
+  "iherb_id": 45125,
+  "last_updated": "2026-03-20T10:06:40.021Z",
+  "first_scraped": "2026-03-20T10:06:40.021Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Body aches reduced, Improving health, Pain relief, Reduction of inflammation, Reverse ageing, Enhanced cognition, Powerful antioxidant, No pepper added. Some note: No difference, Memory emotion.",
+    "tags": [
+      {
+        "name": "Body aches reduced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduction of inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reverse ageing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced cognition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No pepper added",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Memory emotion",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:40.021Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

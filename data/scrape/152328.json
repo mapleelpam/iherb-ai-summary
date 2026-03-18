@@ -1,0 +1,68 @@
+{
+  "iherb_id": 152328,
+  "last_updated": "2026-03-20T11:40:53.054Z",
+  "first_scraped": "2026-03-20T11:40:53.054Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great fit, Daily usage, Good family multi, Best gummies, Short dated, More energy, Good taste, Delightful flavors.",
+    "tags": [
+      {
+        "name": "Great fit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily usage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good family multi",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Short dated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delightful flavors",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sugar concern",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T11:40:53.054Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

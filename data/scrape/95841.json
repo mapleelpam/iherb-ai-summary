@@ -1,0 +1,58 @@
+{
+  "iherb_id": 95841,
+  "last_updated": "2026-03-20T09:56:01.155Z",
+  "first_scraped": "2026-03-20T09:56:01.155Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural flavor, Boosted endurance, Hydrates well, Good taste, Feeling strong, Effective hydration. Some note: Mixed flavors.",
+    "tags": [
+      {
+        "name": "Natural flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydrates well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling strong",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Mixed flavors",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:56:01.155Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

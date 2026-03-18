@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2883,
+  "last_updated": "2026-03-20T10:13:00.654Z",
+  "first_scraped": "2026-03-20T10:13:00.654Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Memory improvement, Lovely package, Brain fog, Fresh freeze-dried, Enhanced focus, Organic form, Liked price, Sharpness felt. Some note: Not as often.",
+    "tags": [
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lovely package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain fog",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh freeze-dried",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liked price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sharpness felt",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less potency",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not as often",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:00.654Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

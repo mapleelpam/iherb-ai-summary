@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120607,
+  "last_updated": "2026-03-20T10:13:31.123Z",
+  "first_scraped": "2026-03-20T10:13:31.123Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious bars, Enjoy shopping, Tasty coating, Whipped cream, Nice blend, Natural taste, Full taste, High protein.",
+    "tags": [
+      {
+        "name": "Delicious bars",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enjoy shopping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty coating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Whipped cream",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Full taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not good",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Powerful barrier",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:31.123Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4529,
+  "last_updated": "2026-03-20T10:30:51.071Z",
+  "first_scraped": "2026-03-20T10:30:51.071Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works great, Polypeptides, Builds stamina, Calming product, Noticeable effect, Stress relief, Reduces anxiety, Good package. Some note: Mild impact.",
+    "tags": [
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Polypeptides",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Builds stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive compared",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Mild impact",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:30:51.071Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

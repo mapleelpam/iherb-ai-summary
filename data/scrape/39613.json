@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39613,
+  "last_updated": "2026-03-20T09:39:46.794Z",
+  "first_scraped": "2026-03-20T09:39:46.794Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Standardized formula, Good for skin, Blood pressure, Fast shipping, Improvement is good, Cholesterol control, Effective supplement, No after taste.",
+    "tags": [
+      {
+        "name": "Standardized formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement is good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No after taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Upset stomach",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not organic",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:46.794Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

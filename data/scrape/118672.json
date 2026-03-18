@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118672,
+  "last_updated": "2026-03-20T09:30:20.430Z",
+  "first_scraped": "2026-03-20T09:30:20.430Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trust enzymedica, Slowly turning, Effective dosed, Easy to swallow, Curbed cravings, Antimicrobial properties, Improve cholesterol, Excellent additive. Some note: Fast shipping.",
+    "tags": [
+      {
+        "name": "Trust enzymedica",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slowly turning",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Curbed cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antimicrobial properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Caused diarrhea",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:20.430Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

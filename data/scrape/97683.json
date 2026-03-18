@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97683,
+  "last_updated": "2026-03-20T10:33:37.654Z",
+  "first_scraped": "2026-03-20T10:33:37.654Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Suitable size, Best taste, Blends well, Love taste, Delicious flavor, Tasty option, Cookie dough, Convenient bottle.",
+    "tags": [
+      {
+        "name": "Suitable size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blends well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cookie dough",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes horrible",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Half empty",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:33:37.654Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

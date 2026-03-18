@@ -1,0 +1,68 @@
+{
+  "iherb_id": 99899,
+  "last_updated": "2026-03-20T09:31:48.745Z",
+  "first_scraped": "2026-03-20T09:31:48.745Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to use, Seeing results, Reasonable pricing, Effective supplement, Good combination, Fast delivery, Regularity and energized, Easy to swallow. Some note: Trust brand.",
+    "tags": [
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seeing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable pricing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regularity and energized",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent benefit",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:48.745Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

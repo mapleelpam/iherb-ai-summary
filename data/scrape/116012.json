@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116012,
+  "last_updated": "2026-03-20T09:30:04.662Z",
+  "first_scraped": "2026-03-20T09:30:04.662Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small tablets, Fair price, Energy levels, Cardiovascular health, Hair vitality, Small size, Working fine, Improved energy. Some note: Update review, Nausea issues.",
+    "tags": [
+      {
+        "name": "Small tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Working fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Update review",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nausea issues",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:04.662Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

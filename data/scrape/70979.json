@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70979,
+  "last_updated": "2026-03-20T09:37:29.778Z",
+  "first_scraped": "2026-03-20T09:37:29.778Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Exceptional support, Convenient size, Trustworthy company, Fast shipping, Easy to swallow, Mild tasting, High dose, Good one. Some note: Nice price.",
+    "tags": [
+      {
+        "name": "Exceptional support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trustworthy company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild tasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good one",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety, depression",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:29.778Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

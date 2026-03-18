@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6145,
+  "last_updated": "2026-03-20T09:54:29.372Z",
+  "first_scraped": "2026-03-20T09:54:29.372Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fresh sweetness, Boost endurance, Taste good, Fast shipping, Boost immunity, Best prices, Energy boost, Nutritional supplement.",
+    "tags": [
+      {
+        "name": "Fresh sweetness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best prices",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutritional supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Inconvenient packaging",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:29.372Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

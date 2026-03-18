@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3318,
+  "last_updated": "2026-03-20T10:06:36.692Z",
+  "first_scraped": "2026-03-20T10:06:36.692Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Works great, Fast relief, Big help, Quality assurance, Great relief, Joint relief, Supports joints, Bone support.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality assurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:36.692Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

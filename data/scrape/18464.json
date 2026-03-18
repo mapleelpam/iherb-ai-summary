@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18464,
+  "last_updated": "2026-03-20T10:21:20.782Z",
+  "first_scraped": "2026-03-20T10:21:20.782Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Knock out, Stops cough, Amazing formula, Works fast, Clears lungs, Clears congestion, Immune support, Ease cough.",
+    "tags": [
+      {
+        "name": "Knock out",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stops cough",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clears lungs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clears congestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ease cough",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too much alcohol",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:20.782Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

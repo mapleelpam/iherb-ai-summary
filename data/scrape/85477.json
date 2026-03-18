@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85477,
+  "last_updated": "2026-03-20T09:57:38.428Z",
+  "first_scraped": "2026-03-20T09:57:38.428Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Expensive side, High dose, Worth the price, Improvements seen, Arthritis relief, Great benefits, No fishy taste, Energy boost, Heart health benefits. Some note: Joint pain.",
+    "tags": [
+      {
+        "name": "Expensive side",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth the price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvements seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arthritis relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:38.428Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

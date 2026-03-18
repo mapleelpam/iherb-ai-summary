@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2689,
+  "last_updated": "2026-03-20T09:35:16.059Z",
+  "first_scraped": "2026-03-20T09:35:16.059Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Bioavailable form, Effective brand, More energized, Clean ingredients, Great selenium, Pure form, Easy to swallow, Immune health.",
+    "tags": [
+      {
+        "name": "Bioavailable form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energized",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great selenium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hair loss",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:16.059Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

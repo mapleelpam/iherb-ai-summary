@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18112,
+  "last_updated": "2026-03-20T09:37:29.778Z",
+  "first_scraped": "2026-03-20T09:37:29.778Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Muscle recovery, Great combination, Subtle changes, Good dosage, Inflammation relief, Supports recovery, Joint pain, Great stuff. Some note: Digestive enzymes.",
+    "tags": [
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Subtle changes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inflammation relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive enzymes",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stomachache, diarrhoea",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:29.778Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

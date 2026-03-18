@@ -1,0 +1,68 @@
+{
+  "iherb_id": 41632,
+  "last_updated": "2026-03-20T10:12:44.884Z",
+  "first_scraped": "2026-03-20T10:12:44.884Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, More energy, Increased vitality, More ingredient, Amazing results, Improves strength, High potency, Stronger taste. Some note: Jury out.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Jury out",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strong flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:44.884Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

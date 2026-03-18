@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119950,
+  "last_updated": "2026-03-20T10:35:42.170Z",
+  "first_scraped": "2026-03-20T10:35:42.170Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Low sugar, Tasty, not overloaded, Fast shipping, Desired improvements, Nutritious ingredients, Looks good, Natural composition, Delicious flavor.",
+    "tags": [
+      {
+        "name": "Low sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty, not overloaded",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Desired improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutritious ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Looks good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not tasty",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Remedy needed",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:35:42.170Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

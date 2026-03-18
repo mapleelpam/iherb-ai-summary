@@ -1,0 +1,68 @@
+{
+  "iherb_id": 83280,
+  "last_updated": "2026-03-20T09:19:55.390Z",
+  "first_scraped": "2026-03-20T09:19:55.390Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Easy to swallow, Relaxed mind, Calm nerves, Improved focus, Comfortable packaging, Natural way, Helps sleep. Some note: Good buy.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxed mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calm nerves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comfortable packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good buy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:55.390Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

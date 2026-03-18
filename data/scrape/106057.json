@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106057,
+  "last_updated": "2026-03-20T10:30:31.704Z",
+  "first_scraped": "2026-03-20T10:30:31.704Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes great, Fine powder, Nutrient-packed peel, Daily movement, Convenient, organic, Antioxidant boost, Essential minerals, Fair priced.",
+    "tags": [
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fine powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrient-packed peel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily movement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient, organic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential minerals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair priced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difficult to dissolve",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sour taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:30:31.704Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

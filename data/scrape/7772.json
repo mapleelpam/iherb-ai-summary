@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7772,
+  "last_updated": "2026-03-20T09:30:59.182Z",
+  "first_scraped": "2026-03-20T09:30:59.182Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast delivery, Supports gut, Improved stool, Reliable choice, Natural ingredients, No more reflux, Positive impact, Helps digestion.",
+    "tags": [
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved stool",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No more reflux",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to dissolve",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:59.182Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

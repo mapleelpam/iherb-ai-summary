@@ -1,0 +1,68 @@
+{
+  "iherb_id": 68883,
+  "last_updated": "2026-03-20T09:52:40.831Z",
+  "first_scraped": "2026-03-20T09:52:40.831Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good addition, Good tan, Skin improved, Cheap and useful, Protects skin, Sun protection, Summer essential, Affordable option. Some note: No change, Not different.",
+    "tags": [
+      {
+        "name": "Good addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good tan",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheap and useful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protects skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sun protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Summer essential",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not different",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:40.831Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

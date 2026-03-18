@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70032,
+  "last_updated": "2026-03-20T09:55:12.484Z",
+  "first_scraped": "2026-03-20T09:55:12.484Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Joint pain, Natural vitamin C, Great source, Fresh taste, Helps with, Easy to swallow, Good antioxidant, Immune system. Some note: Convenient capsules.",
+    "tags": [
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural vitamin C",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rancid smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Convenient capsules",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:12.484Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

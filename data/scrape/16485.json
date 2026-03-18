@@ -1,0 +1,68 @@
+{
+  "iherb_id": 16485,
+  "last_updated": "2026-03-20T09:38:26.047Z",
+  "first_scraped": "2026-03-20T09:38:26.047Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great blend, Helpful staff, More energized, Nice taste, Easy dosage, Energy boost, Alcohol free, Good ingredients. Some note: Energy support.",
+    "tags": [
+      {
+        "name": "Great blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful staff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energized",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alcohol free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Energy support",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:26.047Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

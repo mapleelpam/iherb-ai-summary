@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108655,
+  "last_updated": "2026-03-20T10:22:57.566Z",
+  "first_scraped": "2026-03-20T10:22:57.566Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great improvements, Tastes great, Weight loss, Hair growth, Dissolves easily, Good smell, Grass fed, Improvement knees.",
+    "tags": [
+      {
+        "name": "Great improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Grass fed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement knees",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive system",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too pricey",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:57.566Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

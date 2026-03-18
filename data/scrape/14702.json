@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14702,
+  "last_updated": "2026-03-20T09:32:25.877Z",
+  "first_scraped": "2026-03-20T09:32:25.877Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Incredible progress, Love the taste, Morning dose, Improves concentration, Nice lemon taste, Fast shipping, Heal ailments, High DHA content. Some note: Good taste.",
+    "tags": [
+      {
+        "name": "Incredible progress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice lemon taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heal ailments",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High DHA content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Offensive, unpleasant",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:25.877Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

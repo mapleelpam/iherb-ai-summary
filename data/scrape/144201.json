@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144201,
+  "last_updated": "2026-03-20T11:10:59.958Z",
+  "first_scraped": "2026-03-20T11:10:59.958Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient packaging, Research papers, Calming effect, Calm mind, Top relaxer, Better sleep, Less stress, Brain function. Some note: Large tablets.",
+    "tags": [
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Research papers",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calm mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top relaxer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Large tablets",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T11:10:59.958Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

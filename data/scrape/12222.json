@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12222,
+  "last_updated": "2026-03-20T10:09:50.189Z",
+  "first_scraped": "2026-03-20T10:09:50.189Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Good protein, Easy blend, Tasty flavor, Natural flavors, Chocolate flavor, Large capacity, Simple ingredients. Some note: Labor intensive.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural flavors",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chocolate flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large capacity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Simple ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear skin",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Labor intensive",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:50.189Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

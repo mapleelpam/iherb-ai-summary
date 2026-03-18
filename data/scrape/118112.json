@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118112,
+  "last_updated": "2026-03-20T10:02:34.932Z",
+  "first_scraped": "2026-03-20T10:02:34.932Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Brain health, Sleep benefits, Hormonal balance, Non-sticky composition, Effective pricing, Energy boost, Supports energy, Good mood. Some note: Not noticeable.",
+    "tags": [
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormonal balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Non-sticky composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective pricing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Emotional",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not noticeable",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:34.932Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

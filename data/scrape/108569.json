@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108569,
+  "last_updated": "2026-03-20T10:31:12.253Z",
+  "first_scraped": "2026-03-20T10:31:12.253Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sufficient amount, Brain function, Arrived quickly, Gut health, Better sleep, Essential mineral, Positive impact, Aiding digestion.",
+    "tags": [
+      {
+        "name": "Sufficient amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arrived quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential mineral",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Aiding digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Lower bioavailability",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:12.253Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

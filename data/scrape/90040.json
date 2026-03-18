@@ -1,0 +1,68 @@
+{
+  "iherb_id": 90040,
+  "last_updated": "2026-03-20T09:43:06.679Z",
+  "first_scraped": "2026-03-20T09:43:06.679Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love the flavor, Boosts immunity, Tasty gummies, Cute orange slices, Good taste, Healthy composition, Orange flavor, Taste great. Some note: Convenient and tasty.",
+    "tags": [
+      {
+        "name": "Love the flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cute orange slices",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Orange flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient and tasty",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:06.679Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "iherb_id": 98385,
+  "last_updated": "2026-03-20T09:50:38.293Z",
+  "first_scraped": "2026-03-20T09:50:38.293Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mild detox, Works great, High efficiency, Easy to use, Fast-acting cleanse, Helped constipation, Selected ingredients. Some note: Slow results.",
+    "tags": [
+      {
+        "name": "Mild detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High efficiency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast-acting cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Selected ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:38.293Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22363,
+  "last_updated": "2026-03-20T10:09:17.567Z",
+  "first_scraped": "2026-03-20T10:09:17.567Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful maintaining regularity, Life saver, Worth to try, Supporting healthy, Works great, Love this, Feed microbiota, Improvement seen.",
+    "tags": [
+      {
+        "name": "Helpful maintaining regularity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth to try",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supporting healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feed microbiota",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not good",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not soluble",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:17.567Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

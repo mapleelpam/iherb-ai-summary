@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7019,
+  "last_updated": "2026-03-20T10:24:58.184Z",
+  "first_scraped": "2026-03-20T10:24:58.184Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Regulate cortisol, Large capsules, Balancing amino acids, Helps focus, Improvement in alertness, Good option, High dosage, Brain health.",
+    "tags": [
+      {
+        "name": "Regulate cortisol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balancing amino acids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in alertness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Contains soybean",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Drowsiness effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:58.184Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

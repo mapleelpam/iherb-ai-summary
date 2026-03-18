@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72113,
+  "last_updated": "2026-03-20T09:55:39.865Z",
+  "first_scraped": "2026-03-20T09:55:39.865Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good package, Effective pain relief, Easy swallow, Knee improvement, Satisfied mom, Comfortable movement, Helps running, Great supplement. Some note: Vitamin D, Always dependable.",
+    "tags": [
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Knee improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied mom",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comfortable movement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps running",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin D",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Always dependable",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:39.865Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81958,
+  "last_updated": "2026-03-20T10:05:14.222Z",
+  "first_scraped": "2026-03-20T10:05:14.222Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good result, More energy, Subtle fresh, Good alternative, Helped immensely, Nasal defense, Improved a lot, Sinus relief.",
+    "tags": [
+      {
+        "name": "Good result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Subtle fresh",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped immensely",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nasal defense",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved a lot",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sinus relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Minimal impact",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:14.222Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

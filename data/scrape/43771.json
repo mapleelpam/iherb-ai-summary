@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43771,
+  "last_updated": "2026-03-20T09:24:42.733Z",
+  "first_scraped": "2026-03-20T09:24:42.733Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good amount, Permanent basis, Speedy delivery, Energy boost, Budget friendly, Improves flexibility, Easy to swallow, Less pain. Some note: Supporting capsules.",
+    "tags": [
+      {
+        "name": "Good amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Permanent basis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Budget friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves flexibility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower price",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Supporting capsules",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:42.733Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

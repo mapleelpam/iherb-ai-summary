@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2142,
+  "last_updated": "2026-03-20T10:13:36.185Z",
+  "first_scraped": "2026-03-20T10:13:36.185Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural relief, Helpful product, Breathing normal, Taste not bad, Highly recommend, Voice relief, Fast shipping, Works wonderfully. Some note: Migraine relief.",
+    "tags": [
+      {
+        "name": "Natural relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Breathing normal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste not bad",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Voice relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonderfully",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Migraine relief",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Deep cough",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:36.185Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

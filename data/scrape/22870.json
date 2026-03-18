@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22870,
+  "last_updated": "2026-03-20T09:29:58.690Z",
+  "first_scraped": "2026-03-20T09:29:58.690Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good dosage, Energy enhancer, Reasonable prices, Nice flavor, Affordable option, Small capsule size, High dose, Feel better. Some note: High potency.",
+    "tags": [
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy enhancer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable prices",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsule size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Causes rash",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:58.690Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

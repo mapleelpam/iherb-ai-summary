@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67458,
+  "last_updated": "2026-03-20T09:26:58.653Z",
+  "first_scraped": "2026-03-20T09:26:58.653Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less pain, Skin looks better, Affordable and well-packed, Skin hydration, Seems good, Positive effect, Good for skin, Nice package, Inner skin-work.",
+    "tags": [
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin looks better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable and well-packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seems good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inner skin-work",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:58.653Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

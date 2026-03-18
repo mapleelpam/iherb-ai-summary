@@ -1,0 +1,68 @@
+{
+  "iherb_id": 142221,
+  "last_updated": "2026-03-20T10:22:03.435Z",
+  "first_scraped": "2026-03-20T10:22:03.435Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Diverse ingredients, Quick and easy, Taste great, Easy blend, Berry taste, Healthy option, Convenient packaging, Health conscience. Some note: Drinkable.",
+    "tags": [
+      {
+        "name": "Diverse ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick and easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Berry taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health conscience",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Drinkable",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:03.435Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8287,
+  "last_updated": "2026-03-20T10:12:13.239Z",
+  "first_scraped": "2026-03-20T10:12:13.239Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Feel better, Effective stress relief, Easy to swallow, Sleep aid, Mood improvement, Family run, Cardiovascular health. Some note: Delayed results.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective stress relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Family run",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Delayed results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:13.239Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

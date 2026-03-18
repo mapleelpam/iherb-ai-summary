@@ -1,0 +1,68 @@
+{
+  "iherb_id": 149943,
+  "last_updated": "2026-03-20T10:17:58.400Z",
+  "first_scraped": "2026-03-20T10:17:58.400Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works 100%, Improved stamina, Muscle hydration, Bigger size, Easy to mix, Fast shipping, Economical pack, Building strength. Some note: Multiple lots, Dissolves well.",
+    "tags": [
+      {
+        "name": "Works 100%",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bigger size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economical pack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Building strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Multiple lots",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Dissolves well",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:58.400Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

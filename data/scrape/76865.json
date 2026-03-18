@@ -1,0 +1,68 @@
+{
+  "iherb_id": 76865,
+  "last_updated": "2026-03-20T09:19:53.511Z",
+  "first_scraped": "2026-03-20T09:19:53.511Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stronger nails, More energy, Small softgels, Hair skin, Very fast delivery, Satisfied, Good results, Hair loss. Some note: Easy to swallow, Trusted brand.",
+    "tags": [
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small softgels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:53.511Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

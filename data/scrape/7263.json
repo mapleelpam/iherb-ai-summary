@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7263,
+  "last_updated": "2026-03-20T09:44:53.683Z",
+  "first_scraped": "2026-03-20T09:44:53.683Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Daily smoothie, Great results, Great fiber, Effective detox, Gut health, Amazing effect, Good taste, No unpleasant flavors. Some note: Good mix, Update pending.",
+    "tags": [
+      {
+        "name": "Daily smoothie",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No unpleasant flavors",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good mix",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Update pending",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:53.683Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

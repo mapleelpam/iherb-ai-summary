@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105951,
+  "last_updated": "2026-03-20T10:06:00.187Z",
+  "first_scraped": "2026-03-20T10:06:00.187Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Joint pain, Pain free, Good ingredients, Fast shipping, Good option, Very helpful, Little relief, Reduce uric acid. Some note: Easy supplement.",
+    "tags": [
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very helpful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Little relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce uric acid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:00.187Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

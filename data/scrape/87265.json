@@ -1,0 +1,68 @@
+{
+  "iherb_id": 87265,
+  "last_updated": "2026-03-20T09:57:53.150Z",
+  "first_scraped": "2026-03-20T09:57:53.150Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increased energy, Mild allergies, Antiviral properties, Sleep improvement, Boosts immunity, Helps living, Weight gain, Good source. Some note: Helps with blood pressure, Organic astragalus.",
+    "tags": [
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild allergies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antiviral properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps living",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight gain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with blood pressure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Organic astragalus",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:53.150Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

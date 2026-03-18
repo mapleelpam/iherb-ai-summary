@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1870,
+  "last_updated": "2026-03-20T10:20:29.787Z",
+  "first_scraped": "2026-03-20T10:20:29.787Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural relief, Digestive health, Constipation relief, Pain free, Consistent results, Affective, Works great, Helpful product.",
+    "tags": [
+      {
+        "name": "Natural relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Constipation relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consistent results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Severe side effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:29.787Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

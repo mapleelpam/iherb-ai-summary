@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72764,
+  "last_updated": "2026-03-20T09:19:46.342Z",
+  "first_scraped": "2026-03-20T09:19:46.342Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Life changing, Natural ingredients, Good for skin, Effective oil, Anti-inflammatory, Helped asthma, Healthy effects, Optimal size. Some note: Effective supplement.",
+    "tags": [
+      {
+        "name": "Life changing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped asthma",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Optimal size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:46.342Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

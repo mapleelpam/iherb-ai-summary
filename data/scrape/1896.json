@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1896,
+  "last_updated": "2026-03-20T09:17:31.818Z",
+  "first_scraped": "2026-03-20T09:17:31.818Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good detox, Helps with odor, Convenient packaging, Good taste, Internal deodorant, Mint flavor, Clear skin, Easy to incorporate.",
+    "tags": [
+      {
+        "name": "Good detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with odor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Internal deodorant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mint flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to incorporate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:31.818Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

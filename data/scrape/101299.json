@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101299,
+  "last_updated": "2026-03-20T10:10:21.209Z",
+  "first_scraped": "2026-03-20T10:10:21.209Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Gentle and effective, Fast shipping, Relieved comfort, Trusted brand, Smooth elimination, Smooth move, Convenient alternative, Natural relief. Some note: Neat packaging, Gentle ingredients.",
+    "tags": [
+      {
+        "name": "Gentle and effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieved comfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth elimination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth move",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neat packaging",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Gentle ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:21.209Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

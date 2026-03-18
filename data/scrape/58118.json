@@ -1,0 +1,68 @@
+{
+  "iherb_id": 58118,
+  "last_updated": "2026-03-20T09:47:50.566Z",
+  "first_scraped": "2026-03-20T09:47:50.566Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective additive, Worth the money, Good for woman, Organic and natural, Good ingredients, Whole food, Love brand, Plant based. Some note: Clean complete, Complete and pure.",
+    "tags": [
+      {
+        "name": "Effective additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth the money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for woman",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic and natural",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Whole food",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean complete",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Complete and pure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:50.566Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

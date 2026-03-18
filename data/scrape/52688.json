@@ -1,0 +1,68 @@
+{
+  "iherb_id": 52688,
+  "last_updated": "2026-03-20T10:19:56.302Z",
+  "first_scraped": "2026-03-20T10:19:56.302Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Curb appetite, Weight loss, Easy to use, Energy boost, Built to last, Absorption reduction, Great benefits, Super ingredients. Some note: Non-stim stack.",
+    "tags": [
+      {
+        "name": "Curb appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Built to last",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorption reduction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Painful flare-up",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Non-stim stack",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:56.302Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

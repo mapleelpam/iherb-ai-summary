@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80731,
+  "last_updated": "2026-03-20T09:40:07.363Z",
+  "first_scraped": "2026-03-20T09:40:07.363Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective brand, Long time, Easy to take, Some relief, Trust proven, Children love, Nice taste, Suitable dosage. Some note: Low sunlight.",
+    "tags": [
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Some relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust proven",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Children love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suitable dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low sunlight",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High place",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:07.363Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

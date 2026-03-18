@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117922,
+  "last_updated": "2026-03-20T10:13:05.518Z",
+  "first_scraped": "2026-03-20T10:13:05.518Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Weight loss, Antioxidant support, Digestion support, Reliable protection, Big help, Good for health, Workout performance.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Workout performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver toxicity",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Heart racing",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:05.518Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

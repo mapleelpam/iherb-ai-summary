@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72515,
+  "last_updated": "2026-03-20T09:59:21.430Z",
+  "first_scraped": "2026-03-20T09:59:21.430Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Careful packing, Great source, Tasty greens, Less stevia, Love this, Tastes great, Good discount, Delicious cacao taste.",
+    "tags": [
+      {
+        "name": "Careful packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty greens",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less stevia",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good discount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious cacao taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Higher calories",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:21.430Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

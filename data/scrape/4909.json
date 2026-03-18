@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4909,
+  "last_updated": "2026-03-20T10:13:42.227Z",
+  "first_scraped": "2026-03-20T10:13:42.227Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Promotes friendly bacteria, Works great, Everything suits, Effective powder, Help with digestion, Mixes good, Beat suffering, Taste great. Some note: New residence.",
+    "tags": [
+      {
+        "name": "Promotes friendly bacteria",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Everything suits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Help with digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beat suffering",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to get down",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "New residence",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:42.227Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

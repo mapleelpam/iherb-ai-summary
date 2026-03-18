@@ -1,0 +1,68 @@
+{
+  "iherb_id": 63593,
+  "last_updated": "2026-03-20T09:43:16.341Z",
+  "first_scraped": "2026-03-20T09:43:16.341Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fewer trips, Lessened frequency, Good dosage, Safe to take, Effective herbal, Small size, Lessen urge, Good sleep. Some note: No improvement.",
+    "tags": [
+      {
+        "name": "Fewer trips",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lessened frequency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective herbal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lessen urge",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:16.341Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

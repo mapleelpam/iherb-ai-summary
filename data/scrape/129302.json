@@ -1,0 +1,68 @@
+{
+  "iherb_id": 129302,
+  "last_updated": "2026-03-20T09:52:49.495Z",
+  "first_scraped": "2026-03-20T09:52:49.495Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Best protein, Great supplement, Best taste, Good ingredients, Fast absorption, Great flavor, Tastes good, Easy to drink.",
+    "tags": [
+      {
+        "name": "Best protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Overpriced, same taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:49.495Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

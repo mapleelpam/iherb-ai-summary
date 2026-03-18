@@ -1,0 +1,68 @@
+{
+  "iherb_id": 16750,
+  "last_updated": "2026-03-20T09:43:39.481Z",
+  "first_scraped": "2026-03-20T09:43:39.481Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes good, Skin improvement, Love the flavor, Joint pain, Dry eyes, Feel the difference, Glowing skin, Hydrated skin. Some note: Soft skin, Packaging reasonable.",
+    "tags": [
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dry eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel the difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glowing skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydrated skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soft skin",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Packaging reasonable",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:39.481Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

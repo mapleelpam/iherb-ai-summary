@@ -1,0 +1,68 @@
+{
+  "iherb_id": 126729,
+  "last_updated": "2026-03-20T09:27:14.154Z",
+  "first_scraped": "2026-03-20T09:27:14.154Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Top bargain, Great one, Big size, Rich chocolate, Good taste, Easy to mix, Surprisingly good, Thick shake. Some note: Delicious flavor.",
+    "tags": [
+      {
+        "name": "Top bargain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great one",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Surprisingly good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thick shake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not ordering again",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:14.154Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 40396,
+  "last_updated": "2026-03-20T09:38:05.288Z",
+  "first_scraped": "2026-03-20T09:38:05.288Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Good vitamin, Good taste, No sickness, Great supplement, More energy, Fast shipping, Boosts energy. Some note: Staple vitamins.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No sickness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Staple vitamins",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:05.288Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

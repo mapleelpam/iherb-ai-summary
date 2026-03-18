@@ -1,0 +1,68 @@
+{
+  "iherb_id": 30642,
+  "last_updated": "2026-03-20T09:20:57.592Z",
+  "first_scraped": "2026-03-20T09:20:57.592Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes great, Good combination, Works wonders, Love this, No side effects, Constipation relief, Easy to take, Improved sleep. Some note: Very satisfied.",
+    "tags": [
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Constipation relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:57.592Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

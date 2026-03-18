@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7797,
+  "last_updated": "2026-03-20T09:32:18.910Z",
+  "first_scraped": "2026-03-20T09:32:18.910Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy travel, Boosting immune, Great probiotics, Good balance, Improved digestion, One a day, Easy to take, Notice a difference. Some note: Good relief.",
+    "tags": [
+      {
+        "name": "Easy travel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great probiotics",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "One a day",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Notice a difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not suitable",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good relief",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:18.910Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

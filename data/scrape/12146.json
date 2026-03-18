@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12146,
+  "last_updated": "2026-03-20T09:25:20.000Z",
+  "first_scraped": "2026-03-20T09:25:20.000Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less pain, Back pain, Good for bones, Fast shipping, Effective calcium, Good absorption, Great supplement, Bone health.",
+    "tags": [
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Back pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective calcium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big pills",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too big",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:20.000Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 123054,
+  "last_updated": "2026-03-20T09:57:37.481Z",
+  "first_scraped": "2026-03-20T09:57:37.481Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Knee comfort, Economic package, Pain relief, Back pain, Good buy, IT is a, Skin joints, Bone support. Some note: Effective supplement, Small size.",
+    "tags": [
+      {
+        "name": "Knee comfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economic package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Back pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "IT is a",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:37.481Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

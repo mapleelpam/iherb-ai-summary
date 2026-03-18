@@ -1,0 +1,68 @@
+{
+  "iherb_id": 57310,
+  "last_updated": "2026-03-20T10:23:36.514Z",
+  "first_scraped": "2026-03-20T10:23:36.514Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: TV commercial, Blood sugar, Natural supplement, Feeling positive, Recommend ordering, Exceeds expectations, Carb absorption, Results show.",
+    "tags": [
+      {
+        "name": "TV commercial",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling positive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend ordering",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Exceeds expectations",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Carb absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Results show",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pricey compared",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No noticeable effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:36.514Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15860,
+  "last_updated": "2026-03-20T09:51:03.845Z",
+  "first_scraped": "2026-03-20T09:51:03.845Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Control blood pressure, Healthy blood pressure, Great sustained effect, Easy to take, Better blood flow, Increase muscle, Good ingredients, Balances diet.",
+    "tags": [
+      {
+        "name": "Control blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great sustained effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better blood flow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase muscle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balances diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Triggered shingles",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:03.845Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

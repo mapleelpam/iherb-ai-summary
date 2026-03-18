@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1928,
+  "last_updated": "2026-03-20T09:38:25.100Z",
+  "first_scraped": "2026-03-20T09:38:25.100Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Anti-inflammatory effects, Valuable addition, Decent licorice, Effective supplement, Fast shipping, Convenient size, Adrenal support, Trusted brand. Some note: Benefited greatly, New brand.",
+    "tags": [
+      {
+        "name": "Anti-inflammatory effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Valuable addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent licorice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adrenal support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefited greatly",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "New brand",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:25.100Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

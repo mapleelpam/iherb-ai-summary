@@ -1,0 +1,68 @@
+{
+  "iherb_id": 88354,
+  "last_updated": "2026-03-20T09:24:17.646Z",
+  "first_scraped": "2026-03-20T09:24:17.646Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved health, Digestive relief, Helpful product, Acid reflux relief, Stomach pain, Good digestion, Effective support, Good price. Some note: Innovative formula.",
+    "tags": [
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acid reflux relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Innovative formula",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not great",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:17.646Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

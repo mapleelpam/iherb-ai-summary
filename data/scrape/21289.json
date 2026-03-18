@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21289,
+  "last_updated": "2026-03-20T09:30:51.135Z",
+  "first_scraped": "2026-03-20T09:30:51.135Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Supports memory, Enhanced cognitive function, Natural ingredients, Memory improvement, Noticeable enhancement, Practical size, Energy boost, Clear mind. Some note: Superior supplement.",
+    "tags": [
+      {
+        "name": "Supports memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced cognitive function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable enhancement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Practical size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Horrible smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Superior supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:51.135Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

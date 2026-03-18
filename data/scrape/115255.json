@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115255,
+  "last_updated": "2026-03-20T10:04:49.577Z",
+  "first_scraped": "2026-03-20T10:04:49.577Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved sleep, Good formulation, Convenient package, Deep sleep, Quick results, Brain health, Clarity of mind, Morning coffee. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clarity of mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning coffee",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Better effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:49.577Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

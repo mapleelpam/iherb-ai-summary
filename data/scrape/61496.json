@@ -1,0 +1,68 @@
+{
+  "iherb_id": 61496,
+  "last_updated": "2026-03-20T10:07:12.382Z",
+  "first_scraped": "2026-03-20T10:07:12.382Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: After workout, Very well served, Good pump, Helpful taste, Tastes good, Cleared out, Versatile protein, Reliable company.",
+    "tags": [
+      {
+        "name": "After workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very well served",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleared out",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Versatile protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced scoop size",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Breakout pimples",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:12.382Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

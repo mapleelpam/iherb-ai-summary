@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13432,
+  "last_updated": "2026-03-20T10:12:34.338Z",
+  "first_scraped": "2026-03-20T10:12:34.338Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Strong clove flavor, Immediate relief, Quality matches description, Increased energy levels, Top ingredients, Antimicrobial properties, Blood sugar, Natural health. Some note: Some improvement.",
+    "tags": [
+      {
+        "name": "Strong clove flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality matches description",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antimicrobial properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Some improvement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not pure",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:34.338Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

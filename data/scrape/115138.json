@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115138,
+  "last_updated": "2026-03-20T10:13:35.177Z",
+  "first_scraped": "2026-03-20T10:13:35.177Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful product, Very pleased, Regulating blood pressure, Good synergy, Nice aroma, Control pressure, Cardio protection, Natural ingredients. Some note: High blood pressure.",
+    "tags": [
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very pleased",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulating blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good synergy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice aroma",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardio protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High blood pressure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hard to swallow",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:35.177Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

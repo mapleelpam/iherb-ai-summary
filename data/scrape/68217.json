@@ -1,0 +1,68 @@
+{
+  "iherb_id": 68217,
+  "last_updated": "2026-03-20T09:39:39.285Z",
+  "first_scraped": "2026-03-20T09:39:39.285Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High uric acid, Improve condition, Important improvements, Helps control, Less relapses, Joint relief, Kidney function, No more. Some note: Good components, First time.",
+    "tags": [
+      {
+        "name": "High uric acid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve condition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Important improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less relapses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kidney function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No more",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good components",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "First time",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:39.285Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

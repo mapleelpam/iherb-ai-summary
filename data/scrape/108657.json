@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108657,
+  "last_updated": "2026-03-20T09:55:49.687Z",
+  "first_scraped": "2026-03-20T09:55:49.687Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very nice, Effective support, Decent price, On point, Small size, Meets needs, High benefit, Easy swallow. Some note: Boost my, Missing information.",
+    "tags": [
+      {
+        "name": "Very nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "On point",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Meets needs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost my",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Missing information",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:49.687Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

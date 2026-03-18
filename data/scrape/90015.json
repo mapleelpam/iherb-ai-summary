@@ -1,0 +1,68 @@
+{
+  "iherb_id": 90015,
+  "last_updated": "2026-03-20T10:03:06.313Z",
+  "first_scraped": "2026-03-20T10:03:06.313Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to prepare, Decreased pain, Works fantastic, Enhances taste, Taste good, Healthy balance, Delicious blend, Delicious alternative. Some note: Dissolved poorly.",
+    "tags": [
+      {
+        "name": "Easy to prepare",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decreased pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fantastic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhances taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too strong",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Dissolved poorly",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:06.313Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

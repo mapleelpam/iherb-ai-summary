@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6114,
+  "last_updated": "2026-03-20T10:12:28.294Z",
+  "first_scraped": "2026-03-20T10:12:28.294Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High quality, Smooth tasting, Prompt delivery, Energy boost, High protein, Plant-based protein, Fiber protein, Pure hemp. Some note: Taste neutral.",
+    "tags": [
+      {
+        "name": "High quality",
+        "classification": 0,
+        "count": 23
+      },
+      {
+        "name": "Smooth tasting",
+        "classification": 0,
+        "count": 13
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 9
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 7
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 7
+      },
+      {
+        "name": "Plant-based protein",
+        "classification": 0,
+        "count": 5
+      },
+      {
+        "name": "Fiber protein",
+        "classification": 0,
+        "count": 4
+      },
+      {
+        "name": "Pure hemp",
+        "classification": 0,
+        "count": 4
+      },
+      {
+        "name": "Taste awful",
+        "classification": 2,
+        "count": 10
+      },
+      {
+        "name": "Taste neutral",
+        "classification": 1,
+        "count": 7
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:28.294Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

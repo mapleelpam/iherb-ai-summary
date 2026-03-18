@@ -1,0 +1,68 @@
+{
+  "iherb_id": 66428,
+  "last_updated": "2026-03-20T09:52:22.247Z",
+  "first_scraped": "2026-03-20T09:52:22.247Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice package, Convenient size, Ethical sourcing, Natural ingredients, Complement diet, Easy to swallow, Good multivitamin, Real food. Some note: Yeast nutrients.",
+    "tags": [
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ethical sourcing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complement diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real food",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Caffeine issue",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Yeast nutrients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:22.247Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

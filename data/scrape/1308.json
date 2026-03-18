@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1308,
+  "last_updated": "2026-03-20T09:48:55.626Z",
+  "first_scraped": "2026-03-20T09:48:55.626Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Teeth feel, Easy to swallow, Good combination, Reasonable price, Fast shipping, Effective dosage, High dose, Very affordable.",
+    "tags": [
+      {
+        "name": "Teeth feel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very affordable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shoulder pain",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No benefit",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:55.626Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

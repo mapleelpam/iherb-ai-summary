@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118168,
+  "last_updated": "2026-03-20T10:07:26.412Z",
+  "first_scraped": "2026-03-20T10:07:26.412Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Looks good, Good blend, Natural ingredients, Liver support, Extra support, Powerful formula, Works well, Detoxification support. Some note: Reduced dosage.",
+    "tags": [
+      {
+        "name": "Looks good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detoxification support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Reduced dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:26.412Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

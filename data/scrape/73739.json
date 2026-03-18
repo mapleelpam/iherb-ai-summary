@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73739,
+  "last_updated": "2026-03-20T10:11:07.497Z",
+  "first_scraped": "2026-03-20T10:11:07.497Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved skin, Fine lines filled, Hair improvement, Easy to swallow, Boost body, Hydrated skin, Moisturized hair, Small container.",
+    "tags": [
+      {
+        "name": "Improved skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fine lines filled",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost body",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydrated skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moisturized hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small container",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doesn't work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:07.497Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

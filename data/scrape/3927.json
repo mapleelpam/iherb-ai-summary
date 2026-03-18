@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3927,
+  "last_updated": "2026-03-20T09:34:28.004Z",
+  "first_scraped": "2026-03-20T09:34:28.004Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fight candida, Holiday purchase, Less bloated, Easy swallow, Fast shipping, Helps digestion, Satisfied, Brand options. Some note: Effective supplement.",
+    "tags": [
+      {
+        "name": "Fight candida",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Holiday purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brand options",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Inconvenient form-factor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:28.004Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

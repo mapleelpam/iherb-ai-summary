@@ -1,0 +1,68 @@
+{
+  "iherb_id": 27751,
+  "last_updated": "2026-03-20T10:06:31.722Z",
+  "first_scraped": "2026-03-20T10:06:31.722Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Headaches reduced, Convenience game-changer, High cholesterol, Heart health, Helps cholesterol, Nice price, No flush, Potent dose. Some note: Extended release.",
+    "tags": [
+      {
+        "name": "Headaches reduced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenience game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No flush",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Niacin flush",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Extended release",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:31.722Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

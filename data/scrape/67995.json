@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67995,
+  "last_updated": "2026-03-20T09:49:08.351Z",
+  "first_scraped": "2026-03-20T09:49:08.351Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great detox, Support vitamins, Trust and credibility, Natural products, Good ingredients, Easy swallow, More energized, Reliable company. Some note: Antioxidant protection.",
+    "tags": [
+      {
+        "name": "Great detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust and credibility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural products",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energized",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant protection",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Color change",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:08.351Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

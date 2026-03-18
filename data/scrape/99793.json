@@ -1,0 +1,68 @@
+{
+  "iherb_id": 99793,
+  "last_updated": "2026-03-20T10:25:22.352Z",
+  "first_scraped": "2026-03-20T10:25:22.352Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Low calories, Great scent, Happy consumer, Good purchase, Strong taste, Refreshing drink, Delicious flavor.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low calories",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy consumer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Foamy texture",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not great",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:22.352Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

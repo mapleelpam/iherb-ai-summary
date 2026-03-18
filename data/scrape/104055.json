@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104055,
+  "last_updated": "2026-03-20T10:12:54.973Z",
+  "first_scraped": "2026-03-20T10:12:54.973Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Breathing easier, Fast delivery, Wonderful supplement, Clean ingredients, Easy to swallow, Relieves pain, Minty, Boosted immunity. Some note: Not noticed, Beneficial health.",
+    "tags": [
+      {
+        "name": "Breathing easier",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wonderful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Minty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not noticed",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Beneficial health",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:54.973Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

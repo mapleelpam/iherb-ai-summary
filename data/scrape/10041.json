@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10041,
+  "last_updated": "2026-03-20T09:51:05.907Z",
+  "first_scraped": "2026-03-20T09:51:05.907Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easily digested, Introduced by friend, Good night sleep, Joint pain, Stronger bones, Improvement shown, Happy mother, Healed bones. Some note: Natural source.",
+    "tags": [
+      {
+        "name": "Easily digested",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Introduced by friend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good night sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement shown",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy mother",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healed bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural source",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Takes time",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:05.907Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

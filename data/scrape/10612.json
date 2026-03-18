@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10612,
+  "last_updated": "2026-03-20T09:31:10.549Z",
+  "first_scraped": "2026-03-20T09:31:10.549Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Repeat purchase, Good ingredients, Reasonable price, Anti-inflammatory supplement, Easy to use, Nail improvements, Effective supplement, Smell good. Some note: Not sure, Great for digestion.",
+    "tags": [
+      {
+        "name": "Repeat purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nail improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smell good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great for digestion",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:10.549Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

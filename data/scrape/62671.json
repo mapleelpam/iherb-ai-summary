@@ -1,0 +1,68 @@
+{
+  "iherb_id": 62671,
+  "last_updated": "2026-03-20T09:39:19.472Z",
+  "first_scraped": "2026-03-20T09:39:19.472Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious when heated, Delicious chunks, Affordable option, Good profile, Best flavor, Tastes great, Chocolatey goodness, Good taste.",
+    "tags": [
+      {
+        "name": "Delicious when heated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious chunks",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good profile",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chocolatey goodness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better tasting",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not good",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:19.472Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 129865,
+  "last_updated": "2026-03-20T09:54:48.560Z",
+  "first_scraped": "2026-03-20T09:54:48.560Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Positive start, Valuable tool, Healthy weight, Fat burner formula, Good milk thistle, Boost energy, Metabolism support, Good benefits. Some note: Not used yet.",
+    "tags": [
+      {
+        "name": "Positive start",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Valuable tool",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat burner formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good milk thistle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Metabolism support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not used yet",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Waste of money",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:48.560Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

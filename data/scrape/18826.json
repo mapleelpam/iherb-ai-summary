@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18826,
+  "last_updated": "2026-03-20T09:40:02.500Z",
+  "first_scraped": "2026-03-20T09:40:02.500Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Anti-aging product, Boost energy, Very helpful, Higher standards, Great blend, Happy with, Best absorbing zinc, Incredible product. Some note: Child's stomach.",
+    "tags": [
+      {
+        "name": "Anti-aging product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very helpful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher standards",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best absorbing zinc",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Incredible product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Child's stomach",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stomach issues",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:02.500Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

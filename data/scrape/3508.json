@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3508,
+  "last_updated": "2026-03-20T10:27:45.860Z",
+  "first_scraped": "2026-03-20T10:27:45.860Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious superfood, Healthy choice, Improved overall health, Blends well, Tastes good, Cheapest pricing, Great energy, Easy mixing.",
+    "tags": [
+      {
+        "name": "Delicious superfood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blends well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheapest pricing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mixing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consistently disgusting",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Terrible taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:45.860Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

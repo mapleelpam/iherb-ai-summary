@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115920,
+  "last_updated": "2026-03-20T10:04:25.783Z",
+  "first_scraped": "2026-03-20T10:04:25.783Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Yummy flavor, Wonderful taste, Smooth choice, Visible results, Affordable option, Easily digestible, Mixes well, Love this brand. Some note: Need more.",
+    "tags": [
+      {
+        "name": "Yummy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wonderful taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Visible results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easily digestible",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Need more",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:25.783Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

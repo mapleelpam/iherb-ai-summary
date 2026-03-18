@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11857,
+  "last_updated": "2026-03-20T09:48:26.061Z",
+  "first_scraped": "2026-03-20T09:48:26.061Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small capsules, Sound son, Memory support, Fast delivery, Trusted brand, Hair growth, Convenient size, Easy to swallow. Some note: No taste, Beneficial supplement.",
+    "tags": [
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sound son",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Beneficial supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:26.061Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

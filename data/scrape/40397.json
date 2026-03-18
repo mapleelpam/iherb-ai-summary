@@ -1,0 +1,68 @@
+{
+  "iherb_id": 40397,
+  "last_updated": "2026-03-20T09:36:05.824Z",
+  "first_scraped": "2026-03-20T09:36:05.824Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: One pill, Hair growth, Capsules better, Easy swallow, Daily support, Good multivitamin, More energy, Daily use. Some note: Essential vitamins.",
+    "tags": [
+      {
+        "name": "One pill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Capsules better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel nauseous",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Essential vitamins",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:05.824Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

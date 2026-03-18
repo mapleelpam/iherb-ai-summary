@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13618,
+  "last_updated": "2026-03-20T10:05:38.887Z",
+  "first_scraped": "2026-03-20T10:05:38.887Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good delivery time, Convenient coupling, Dry E, High strength doses, Great benefits, Glass bottle, Supports thyroid, Skin benefits.",
+    "tags": [
+      {
+        "name": "Good delivery time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient coupling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dry E",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High strength doses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports thyroid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach problems",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Oil based versions",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:38.887Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

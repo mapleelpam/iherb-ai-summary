@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5260,
+  "last_updated": "2026-03-20T09:44:58.700Z",
+  "first_scraped": "2026-03-20T09:44:58.700Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High absorption, Liver health, First time, Ease hangover, Boost metabolism, Improved digestion, Improved health, Gently cleanse. Some note: No changes.",
+    "tags": [
+      {
+        "name": "High absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ease hangover",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gently cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No changes",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Made worse",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:58.700Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

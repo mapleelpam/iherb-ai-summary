@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2125,
+  "last_updated": "2026-03-20T10:17:33.660Z",
+  "first_scraped": "2026-03-20T10:17:33.660Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Respiratory improvement, Allergy symptoms, Cough free, Bronchitis relief, Great relief, Symptoms improved, Pure ingredients.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Respiratory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergy symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cough free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bronchitis relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Symptoms improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Itching worsened",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:33.660Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

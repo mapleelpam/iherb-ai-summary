@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114021,
+  "last_updated": "2026-03-20T10:01:48.185Z",
+  "first_scraped": "2026-03-20T10:01:48.185Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved my life, Boosts drive, Delivers promise, Easy to take, Essential product, Energy boost, Convenient and easy, Increases testosterone.",
+    "tags": [
+      {
+        "name": "Improved my life",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts drive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delivers promise",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient and easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increases testosterone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intestinal pain",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not a fan",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:48.185Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

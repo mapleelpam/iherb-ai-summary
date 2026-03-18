@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115833,
+  "last_updated": "2026-03-20T10:11:16.630Z",
+  "first_scraped": "2026-03-20T10:11:16.630Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Does the job, Better than, Effective flavor, Daily use, Stick to serving, Taste good, Helpful product, Fast shipping. Some note: Moderate effect.",
+    "tags": [
+      {
+        "name": "Does the job",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better than",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stick to serving",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weird taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Moderate effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:16.630Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

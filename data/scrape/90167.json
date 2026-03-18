@@ -1,0 +1,68 @@
+{
+  "iherb_id": 90167,
+  "last_updated": "2026-03-20T09:50:12.145Z",
+  "first_scraped": "2026-03-20T09:50:12.145Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Happy birthday, Berry flavor, Fast shipping, Tastes good, Skin elasticity, Convenient packaging, Skin improvement, Sweet taste. Some note: Lovely collagen.",
+    "tags": [
+      {
+        "name": "Happy birthday",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Berry flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin elasticity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lovely collagen",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:12.145Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

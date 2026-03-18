@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67035,
+  "last_updated": "2026-03-20T10:02:17.239Z",
+  "first_scraped": "2026-03-20T10:02:17.239Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good sleep, Innovative supplement, Healthy dopamine, Improvement after 5 days, Fast delivery, More energy, Help him, Effective concentration. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Innovative supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy dopamine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement after 5 days",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Help him",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Slight anxiety",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:17.239Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

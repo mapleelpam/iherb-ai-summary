@@ -1,0 +1,68 @@
+{
+  "iherb_id": 27365,
+  "last_updated": "2026-03-20T09:59:17.609Z",
+  "first_scraped": "2026-03-20T09:59:17.609Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps digestion, Gut health, High live culture, Good option, Love the brand, Improved urination, Never failed, Effective probiotics. Some note: Effective supplement.",
+    "tags": [
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High live culture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved urination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Never failed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective probiotics",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stomach problems",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:17.609Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

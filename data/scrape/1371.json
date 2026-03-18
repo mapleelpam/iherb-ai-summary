@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1371,
+  "last_updated": "2026-03-20T09:37:34.641Z",
+  "first_scraped": "2026-03-20T09:37:34.641Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Thick consistency, Fantastic addition, Reduces hot flashes, Balance hormones, Economical size, Wrinkle reduction, Pleasant scent, Immediate effects. Some note: Smell okay.",
+    "tags": [
+      {
+        "name": "Thick consistency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces hot flashes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balance hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economical size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wrinkle reduction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thyroid concern",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Smell okay",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:34.641Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

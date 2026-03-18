@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71028,
+  "last_updated": "2026-03-20T09:33:11.319Z",
+  "first_scraped": "2026-03-20T09:33:11.319Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Neutral taste, Slow absorption, Pure form, Mixes well, Highly recommend, Muscle growth, Affordable option, Good ingredients. Some note: Love the taste.",
+    "tags": [
+      {
+        "name": "Neutral taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Upset stomach",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Love the taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:11.319Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

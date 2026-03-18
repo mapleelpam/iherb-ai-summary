@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4742,
+  "last_updated": "2026-03-20T10:17:38.620Z",
+  "first_scraped": "2026-03-20T10:17:38.620Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Chronic pain, Reasonable price, Effective ingredients, Effective enzyme, Nice taste, Good blend, Digestive tract, Gluten problems, Fast shipping. Some note: Ankle healing.",
+    "tags": [
+      {
+        "name": "Chronic pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective enzyme",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive tract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gluten problems",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ankle healing",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:38.620Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

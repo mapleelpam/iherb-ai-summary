@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12136,
+  "last_updated": "2026-03-20T09:57:56.117Z",
+  "first_scraped": "2026-03-20T09:57:56.117Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fresh lemon, Best taste, Non-fishy experience, Family health, Family size, Fresh taste, Pleasant taste, Improves mood. Some note: Effective addition.",
+    "tags": [
+      {
+        "name": "Fresh lemon",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Non-fishy experience",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Family health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Family size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective addition",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Brain foggy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:56.117Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

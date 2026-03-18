@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110496,
+  "last_updated": "2026-03-20T09:26:15.186Z",
+  "first_scraped": "2026-03-20T09:26:15.186Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Digestive system, Good sleep, Bio-available form, Easy to swallow, Relax muscles, Reliable service, Small tablets, Maintaining bone health. Some note: Safe to use.",
+    "tags": [
+      {
+        "name": "Digestive system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bio-available form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relax muscles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintaining bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Magnesium oxide",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Safe to use",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:15.186Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

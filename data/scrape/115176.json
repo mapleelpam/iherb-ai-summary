@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115176,
+  "last_updated": "2026-03-20T09:58:59.955Z",
+  "first_scraped": "2026-03-20T09:58:59.955Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Great energy boost, Bioactive form, Saves money, Easy absorption, Mood enhancement, Natural form, Important vitamin.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioactive form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Saves money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood enhancement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Important vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High histamine",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bad headaches",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:59.955Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

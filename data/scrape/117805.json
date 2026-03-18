@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117805,
+  "last_updated": "2026-03-20T09:57:11.814Z",
+  "first_scraped": "2026-03-20T09:57:11.814Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps with digestion, Water retention relief, Works perfectly, Soft hair, Joint relief, Lowering inflammation, Heart health, Cognitive boost. Some note: Carpal tunnel.",
+    "tags": [
+      {
+        "name": "Helps with digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Water retention relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works perfectly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soft hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowering inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cognitive boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Carpal tunnel",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Low concentrations",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:11.814Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

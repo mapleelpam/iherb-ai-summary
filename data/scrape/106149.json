@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106149,
+  "last_updated": "2026-03-20T09:39:28.672Z",
+  "first_scraped": "2026-03-20T09:39:28.672Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural ingredients, Palatable drink, Convenient packaging, Gut health, Digestion aid, Works for dad, Relief found, Helpful supplement. Some note: OK results.",
+    "tags": [
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Palatable drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for dad",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief found",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difficult to dissolve",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "OK results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:28.672Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

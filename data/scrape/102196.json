@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102196,
+  "last_updated": "2026-03-20T09:40:23.599Z",
+  "first_scraped": "2026-03-20T09:40:23.599Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved mood, Getting better, Positive attitude, Natural supplement, Clean ingredients, Improved sleep, Mood boost, Nice benefits. Some note: Works for me, Easy to take.",
+    "tags": [
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Getting better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive attitude",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for me",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:23.599Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

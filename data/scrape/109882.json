@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109882,
+  "last_updated": "2026-03-20T10:07:40.843Z",
+  "first_scraped": "2026-03-20T10:07:40.843Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Golden brand, Immediate relief, Allergy relief, Symptoms diminishing, Improved digestion, Packaging perfect, Easy package, Reduces rash. Some note: Effective composition.",
+    "tags": [
+      {
+        "name": "Golden brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergy relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Symptoms diminishing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Packaging perfect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces rash",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reaction to",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Effective composition",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:40.843Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

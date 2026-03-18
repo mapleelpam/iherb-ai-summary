@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18964,
+  "last_updated": "2026-03-20T09:37:07.207Z",
+  "first_scraped": "2026-03-20T09:37:07.207Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Digestive problems, Slowly released, Effective supplement, Skin condition, Increased energy, Candida relief, Easy to take, Clearing dermatitis. Some note: Fungal balance.",
+    "tags": [
+      {
+        "name": "Digestive problems",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slowly released",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin condition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Candida relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearing dermatitis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fungal balance",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Insomnia issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:07.207Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

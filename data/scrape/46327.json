@@ -1,0 +1,68 @@
+{
+  "iherb_id": 46327,
+  "last_updated": "2026-03-20T10:21:06.650Z",
+  "first_scraped": "2026-03-20T10:21:06.650Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great meal replacement, Mix with milk, Love this, Tastes good, Yummy flavor, Delicious energy, Healthy option, Sweet chocolate. Some note: Premium hot cocoa.",
+    "tags": [
+      {
+        "name": "Great meal replacement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mix with milk",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No sugar",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Premium hot cocoa",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:06.650Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

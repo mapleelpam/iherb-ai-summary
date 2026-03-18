@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104816,
+  "last_updated": "2026-03-20T10:06:29.680Z",
+  "first_scraped": "2026-03-20T10:06:29.680Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great flavor, Delicious bars, Tasty guilt-free, Protein-packed formula, High protein, Good taste, Fitness choice, High energy. Some note: Enjoyed after, Coconut flavor.",
+    "tags": [
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious bars",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty guilt-free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protein-packed formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fitness choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enjoyed after",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Coconut flavor",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:29.680Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

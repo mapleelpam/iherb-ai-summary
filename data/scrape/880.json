@@ -1,0 +1,68 @@
+{
+  "iherb_id": 880,
+  "last_updated": "2026-03-20T10:07:11.300Z",
+  "first_scraped": "2026-03-20T10:07:11.300Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Look great, Beneficial product, Nifty bundle, Skin care, Easy to take, Key vitamins, Great results.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Look great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nifty bundle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin care",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Key vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too many",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Plastic capsule",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:11.300Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

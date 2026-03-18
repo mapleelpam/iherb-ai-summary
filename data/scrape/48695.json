@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48695,
+  "last_updated": "2026-03-20T09:49:58.383Z",
+  "first_scraped": "2026-03-20T09:49:58.383Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helped with menopause, Reduces breast pain, Breast health, Recommend to friends, Cycle restored, Symptom relief, Improved sleep, Convenient access. Some note: Side effects.",
+    "tags": [
+      {
+        "name": "Helped with menopause",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces breast pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Breast health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend to friends",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cycle restored",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Symptom relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient access",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doesn't work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Side effects",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:58.383Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

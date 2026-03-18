@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71665,
+  "last_updated": "2026-03-20T10:08:32.616Z",
+  "first_scraped": "2026-03-20T10:08:32.616Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Russian porridge, Taste acceptable, Best taste, High protein, Love this, Best choice, Easy on stomach, Low sugar. Some note: Delicious drink.",
+    "tags": [
+      {
+        "name": "Russian porridge",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste acceptable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious drink",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:32.616Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

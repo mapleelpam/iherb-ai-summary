@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39058,
+  "last_updated": "2026-03-20T09:36:40.444Z",
+  "first_scraped": "2026-03-20T09:36:40.444Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Smooth urination, Fast shipping, Lowering creatinine, Fast result, Support kidney, Pass stones, Energy boost, Certified organic. Some note: Amazing benefits.",
+    "tags": [
+      {
+        "name": "Smooth urination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowering creatinine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support kidney",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pass stones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Certified organic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing benefits",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Slow delivery",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:40.444Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

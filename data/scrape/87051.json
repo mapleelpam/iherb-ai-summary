@@ -1,0 +1,68 @@
+{
+  "iherb_id": 87051,
+  "last_updated": "2026-03-20T09:30:47.275Z",
+  "first_scraped": "2026-03-20T09:30:47.275Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good dosage, Good booster, High potency, Great caffeine, Convenient alternative, Easy to swallow, Reasonable price, Enhances workouts. Some note: Boosting energy.",
+    "tags": [
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great caffeine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhances workouts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to cut",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Boosting energy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:47.275Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

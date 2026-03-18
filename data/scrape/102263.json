@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102263,
+  "last_updated": "2026-03-20T09:58:32.083Z",
+  "first_scraped": "2026-03-20T09:58:32.083Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No issues, Bio available, Helped fever, Boosts immunity, Safe side, Immune support, Good absorption, Improves zinc. Some note: Efficient product, Effective brand.",
+    "tags": [
+      {
+        "name": "No issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bio available",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped fever",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe side",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves zinc",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:32.083Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

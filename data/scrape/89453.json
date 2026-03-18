@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89453,
+  "last_updated": "2026-03-20T10:26:37.472Z",
+  "first_scraped": "2026-03-20T10:26:37.472Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Gas relief, Very happy, Less bloated, Appetite reduction, Satiety feeling, Less hunger, Hunger management.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gas relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Appetite reduction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satiety feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less hunger",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hunger management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No weight loss",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:37.472Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118239,
+  "last_updated": "2026-03-20T09:53:59.310Z",
+  "first_scraped": "2026-03-20T09:53:59.310Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helped headaches, Easy swallowing, High dose, Works fast, Satisfied so far, Affordable option, Methylation pathway, No side effect. Some note: Effective capsules.",
+    "tags": [
+      {
+        "name": "Helped headaches",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallowing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied so far",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Methylation pathway",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective capsules",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Deactivated riboflavin",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:59.310Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

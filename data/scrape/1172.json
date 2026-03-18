@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1172,
+  "last_updated": "2026-03-20T10:21:10.591Z",
+  "first_scraped": "2026-03-20T10:21:10.591Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improving symptoms, Daily supplement, Less tired, Normal life, Boosting energy, Works good, Natural relief, Helpful supplement. Some note: Great improvement, Not much change.",
+    "tags": [
+      {
+        "name": "Improving symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less tired",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal life",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great improvement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not much change",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:10.591Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

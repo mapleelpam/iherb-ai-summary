@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113509,
+  "last_updated": "2026-03-20T10:01:22.579Z",
+  "first_scraped": "2026-03-20T10:01:22.579Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works as described, Worth the price, Natural support, High vitamins, More active, Improved mood, Improved focus, Good impact. Some note: Not much improvement, Weak enhancer.",
+    "tags": [
+      {
+        "name": "Works as described",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth the price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More active",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not much improvement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Weak enhancer",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:22.579Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

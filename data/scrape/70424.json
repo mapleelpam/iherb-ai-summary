@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70424,
+  "last_updated": "2026-03-20T09:35:57.041Z",
+  "first_scraped": "2026-03-20T09:35:57.041Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast delivery, Smooth texture, Tastes good, Vanilla ice cream, Trusted brand, Muscle recovery, Best taste, Good taste. Some note: Average ingredient.",
+    "tags": [
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vanilla ice cream",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Average ingredient",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stomach upset",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:57.041Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

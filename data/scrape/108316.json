@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108316,
+  "last_updated": "2026-03-20T10:11:03.502Z",
+  "first_scraped": "2026-03-20T10:11:03.502Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosts immunity, Shortens colds, Good ingredients, Tasty electrolytes, Boosting energy, Sugar free, Morning shake, Easy carry. Some note: Effective boost.",
+    "tags": [
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shortens colds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty electrolytes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sugar free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning shake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy carry",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective boost",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Does not work",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:03.502Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

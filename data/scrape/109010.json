@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109010,
+  "last_updated": "2026-03-20T10:07:37.779Z",
+  "first_scraped": "2026-03-20T10:07:37.779Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small size, Easy to swallow, Decent price, Effective ingredient, Wild caught, No fishy smell, Fast shipping, Heart health. Some note: Yearly use.",
+    "tags": [
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wild caught",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yearly use",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Weird smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:37.779Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117585,
+  "last_updated": "2026-03-20T10:09:48.235Z",
+  "first_scraped": "2026-03-20T10:09:48.235Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful supplement, Easy to swallow, Nice taste, Clear lungs, Convenient supply, Boosts immunity, Digestive health, Stomach lining, Calming effect, Soothing relief.",
+    "tags": [
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear lungs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach lining",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soothing relief",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:48.235Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

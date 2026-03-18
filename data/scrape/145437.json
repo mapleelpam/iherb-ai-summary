@@ -1,0 +1,68 @@
+{
+  "iherb_id": 145437,
+  "last_updated": "2026-03-20T09:45:18.624Z",
+  "first_scraped": "2026-03-20T09:45:18.624Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves insulin, Large quantities, Antioxidant support, Reproductive health, Quality assessment, Discounts promotions, Regular ones, Reasonable price. Some note: Improves heart.",
+    "tags": [
+      {
+        "name": "Improves insulin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large quantities",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reproductive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality assessment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Discounts promotions",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular ones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild side effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Improves heart",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:18.624Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

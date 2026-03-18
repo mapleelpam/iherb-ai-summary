@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5324,
+  "last_updated": "2026-03-20T10:13:33.165Z",
+  "first_scraped": "2026-03-20T10:13:33.165Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps blood pressure, Digestive support, Vibrant skin, No vitamin C, Good benefit, Preventative protection, Maintain health, Vein strength, Skin glow.",
+    "tags": [
+      {
+        "name": "Helps blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vibrant skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No vitamin C",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventative protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vein strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin glow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sun damage",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:33.165Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101656,
+  "last_updated": "2026-03-20T09:45:03.654Z",
+  "first_scraped": "2026-03-20T09:45:03.654Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosts immunity, Hope it helps, Effective supplement, Improvement noticed, No artificial colors, Improves function, Clean ingredients, Easy to swallow. Some note: Pleasant experience.",
+    "tags": [
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hope it helps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No artificial colors",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Pleasant experience",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:03.654Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

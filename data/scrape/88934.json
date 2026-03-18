@@ -1,0 +1,68 @@
+{
+  "iherb_id": 88934,
+  "last_updated": "2026-03-20T09:36:34.532Z",
+  "first_scraped": "2026-03-20T09:36:34.532Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hair loss, Urinary function, Reduction in pain, Great supplement, Works for PCOS, Easy to swallow, Good one, Prostate improvement. Some note: Great benefits, Sufficient dosage.",
+    "tags": [
+      {
+        "name": "Hair loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Urinary function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduction in pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for PCOS",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good one",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prostate improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sufficient dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:34.532Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

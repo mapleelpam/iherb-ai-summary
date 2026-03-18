@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120768,
+  "last_updated": "2026-03-20T09:44:23.459Z",
+  "first_scraped": "2026-03-20T09:44:23.459Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good sleep, Helps anxiety, Easy to swallow, Natural ingredients, Effective supplement, Affordable and well-packed, Stress relief, Supports resilience.",
+    "tags": [
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable and well-packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports resilience",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sleep issues",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:23.459Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

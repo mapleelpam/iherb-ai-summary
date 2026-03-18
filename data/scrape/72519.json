@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72519,
+  "last_updated": "2026-03-20T10:06:55.276Z",
+  "first_scraped": "2026-03-20T10:06:55.276Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great energy, Tastes good, Fast shipping, Good ingredients, Best tasting, Delicious shake, Great flavor, Satisfyingly full. Some note: Mild taste, Clean protein.",
+    "tags": [
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best tasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious shake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfyingly full",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Clean protein",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:55.276Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

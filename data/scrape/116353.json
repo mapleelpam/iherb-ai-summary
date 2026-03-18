@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116353,
+  "last_updated": "2026-03-20T09:51:52.577Z",
+  "first_scraped": "2026-03-20T09:51:52.577Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Happy home, Affordable gem, Energy boost, Great energy, Commitment shines, Exactly what I wanted, Silica included, Quality supplement. Some note: Brand reliability, Check with doctor.",
+    "tags": [
+      {
+        "name": "Happy home",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable gem",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Commitment shines",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Exactly what I wanted",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Silica included",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brand reliability",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Check with doctor",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:52.577Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

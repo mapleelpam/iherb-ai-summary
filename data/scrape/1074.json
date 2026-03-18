@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1074,
+  "last_updated": "2026-03-20T10:15:04.968Z",
+  "first_scraped": "2026-03-20T10:15:04.968Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easier swallow, Easy alkalinity, Memory improvement, High antioxidant, Love this product, Skin improvement, Cleanest chlorella, Maintain benefit, Clean energy, South korea.",
+    "tags": [
+      {
+        "name": "Easier swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy alkalinity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleanest chlorella",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "South korea",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:04.968Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

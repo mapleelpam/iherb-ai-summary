@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70989,
+  "last_updated": "2026-03-20T09:38:19.244Z",
+  "first_scraped": "2026-03-20T09:38:19.244Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Slight improvement, Brain support, Memory improvement, Good ingredients, Reasonable price, Natural product, Mental focus, Improved focus. Some note: Didn't notice.",
+    "tags": [
+      {
+        "name": "Slight improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Disappointing material",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Didn't notice",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:19.244Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 98122,
+  "last_updated": "2026-03-20T10:26:14.265Z",
+  "first_scraped": "2026-03-20T10:26:14.265Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost energy, Unique taste, Packaging perfect, Worth every cent, Good taste, Great flavor, Good energy, Clean energy.",
+    "tags": [
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Packaging perfect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth every cent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Artificial taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:14.265Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

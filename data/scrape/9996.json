@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9996,
+  "last_updated": "2026-03-20T10:36:47.401Z",
+  "first_scraped": "2026-03-20T10:36:47.401Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for you, Love raspberry taste, Trusted site, Safe & delicious, Improved energy, Improved b12 level, Tasty chewables, No aftertaste. Some note: MTHFR defect.",
+    "tags": [
+      {
+        "name": "Good for you",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love raspberry taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted site",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe & delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved b12 level",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty chewables",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "MTHFR defect",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Darkening hair",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:36:47.401Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

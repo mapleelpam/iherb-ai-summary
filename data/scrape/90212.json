@@ -1,0 +1,68 @@
+{
+  "iherb_id": 90212,
+  "last_updated": "2026-03-20T10:00:20.399Z",
+  "first_scraped": "2026-03-20T10:00:20.399Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes good, Kosher certified, Stronger nails, Cleanest collagen, Mixes well, Reliable and affordable, Clean ingredients, Smooth textures. Some note: Easy to blend, Specific smell.",
+    "tags": [
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kosher certified",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleanest collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable and affordable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth textures",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to blend",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Specific smell",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:20.399Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

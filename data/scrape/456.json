@@ -1,0 +1,68 @@
+{
+  "iherb_id": 456,
+  "last_updated": "2026-03-20T09:19:35.569Z",
+  "first_scraped": "2026-03-20T09:19:35.569Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost immune, Energy boost, Natural ingredients, Lyme support, Supports immunity, Helps with digestion, Natural support, Effective supplement. Some note: Great benefits, Easy to take.",
+    "tags": [
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lyme support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:35.569Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

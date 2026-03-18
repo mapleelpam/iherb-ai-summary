@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70006,
+  "last_updated": "2026-03-20T09:28:32.518Z",
+  "first_scraped": "2026-03-20T09:28:32.518Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to mix, Faster recovery, Great benefits, Endurance benefits, Great results, Dissolves well, Increase strength, Muscle support. Some note: Good composition.",
+    "tags": [
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Faster recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Endurance benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stomach ache",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:32.518Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

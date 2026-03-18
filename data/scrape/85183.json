@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85183,
+  "last_updated": "2026-03-20T09:55:17.398Z",
+  "first_scraped": "2026-03-20T09:55:17.398Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great pump, Maintain energy, Great addition, Boosts energy, More energy, Reduce risk, Big size, Good combination.",
+    "tags": [
+      {
+        "name": "Great pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce risk",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive product",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:17.398Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

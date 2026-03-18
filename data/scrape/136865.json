@@ -1,0 +1,68 @@
+{
+  "iherb_id": 136865,
+  "last_updated": "2026-03-20T09:43:41.341Z",
+  "first_scraped": "2026-03-20T09:43:41.341Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Positive impact, Good results, Male energy, Testo boost, Increased testosterone, Testosterone booster, Improved recovery. Some note: Longer period.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Male energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Testo boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased testosterone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Testosterone booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach pain",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Longer period",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:41.341Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

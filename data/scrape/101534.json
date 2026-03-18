@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101534,
+  "last_updated": "2026-03-20T10:04:16.042Z",
+  "first_scraped": "2026-03-20T10:04:16.042Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No taste, Skin glow, Big size, Less pain, Good taste, More energy, More flexibility, Best value. Some note: Great scent.",
+    "tags": [
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin glow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More flexibility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great scent",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strong smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:16.042Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

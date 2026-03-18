@@ -1,0 +1,68 @@
+{
+  "iherb_id": 807,
+  "last_updated": "2026-03-20T09:32:50.654Z",
+  "first_scraped": "2026-03-20T09:32:50.654Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Immune support, Worth it, Nice ingredients, Boost immunity, Extra boost, Effective dosage, Improvement noticed. Some note: Highly recommend.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach pain",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:50.654Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

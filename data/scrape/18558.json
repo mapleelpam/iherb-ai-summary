@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18558,
+  "last_updated": "2026-03-20T09:33:35.828Z",
+  "first_scraped": "2026-03-20T09:33:35.828Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Boost me, Nice taste, Very good choice, GI tract, Muscles in shape, Works well, Clean teeth. Some note: Healing gut.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "GI tract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscles in shape",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean teeth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healing gut",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:35.828Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

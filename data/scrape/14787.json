@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14787,
+  "last_updated": "2026-03-20T09:52:15.158Z",
+  "first_scraped": "2026-03-20T09:52:15.158Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Brain development, Clear thinking, Memory improvement, Easy to swallow, Liver support, Brain booster, Important ingredient, Focus better. Some note: Takes time.",
+    "tags": [
+      {
+        "name": "Brain development",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear thinking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Important ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Focus better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not beneficial",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Takes time",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:15.158Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

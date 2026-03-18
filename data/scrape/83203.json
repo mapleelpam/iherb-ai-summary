@@ -1,0 +1,68 @@
+{
+  "iherb_id": 83203,
+  "last_updated": "2026-03-20T10:24:05.344Z",
+  "first_scraped": "2026-03-20T10:24:05.344Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Feel better, High DHA content, Subtle flavor, Yummy taste, Feel difference, Clean and tested, Nice ingredient, Clean version. Some note: After taste.",
+    "tags": [
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High DHA content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Subtle flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean and tested",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean version",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not tested",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "After taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:05.344Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

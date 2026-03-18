@@ -1,0 +1,68 @@
+{
+  "iherb_id": 87295,
+  "last_updated": "2026-03-20T10:13:54.209Z",
+  "first_scraped": "2026-03-20T10:13:54.209Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean energy, Long-lasting energy, Steady energy, Organic ingredients, Simple to prepare, Natural energy, Effective energy, Convenient packaging. Some note: Gentle boost.",
+    "tags": [
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-lasting energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Steady energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Simple to prepare",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle boost",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Gross taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:54.209Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

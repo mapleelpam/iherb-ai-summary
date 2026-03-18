@@ -1,0 +1,68 @@
+{
+  "iherb_id": 68212,
+  "last_updated": "2026-03-20T09:49:20.366Z",
+  "first_scraped": "2026-03-20T09:49:20.366Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Strong nails, Thicker hair, Effective supplement, Good vitamins, Skin looks great, Easy to swallow, Attention to detail, Recommend to. Some note: Too soon.",
+    "tags": [
+      {
+        "name": "Strong nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thicker hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin looks great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Attention to detail",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend to",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too soon",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Upsets stomach",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:20.366Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

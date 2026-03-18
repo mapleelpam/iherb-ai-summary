@@ -1,0 +1,68 @@
+{
+  "iherb_id": 83342,
+  "last_updated": "2026-03-20T09:36:27.534Z",
+  "first_scraped": "2026-03-20T09:36:27.534Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean ingredients, Trusted brand, Ease constipation, Suitable for age, Good for health, Improved digestion, Colon care, No refrigeration. Some note: Effective brand.",
+    "tags": [
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ease constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suitable for age",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Colon care",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No refrigeration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive compared",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:27.534Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

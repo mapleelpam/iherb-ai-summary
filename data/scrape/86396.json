@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86396,
+  "last_updated": "2026-03-20T09:53:47.574Z",
+  "first_scraped": "2026-03-20T09:53:47.574Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Relief aid, Miracle potion, Easy to use, Natural flavor, Works perfect, Versatile oil, Fights infection, Light flavor. Some note: Excellent additive, Different consistency.",
+    "tags": [
+      {
+        "name": "Relief aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Miracle potion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works perfect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Versatile oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fights infection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Light flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Different consistency",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:47.574Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

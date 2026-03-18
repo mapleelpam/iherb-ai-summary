@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119046,
+  "last_updated": "2026-03-20T09:54:47.634Z",
+  "first_scraped": "2026-03-20T09:54:47.634Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Flavorful, no weird taste, Not paste, Good amount of, Fast protein, Great snack, Taste good, Distinct lime flavor, High protein.",
+    "tags": [
+      {
+        "name": "Flavorful, no weird taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not paste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good amount of",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Distinct lime flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tasty but pricey",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:47.634Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

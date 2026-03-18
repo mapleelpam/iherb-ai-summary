@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85052,
+  "last_updated": "2026-03-20T10:26:03.309Z",
+  "first_scraped": "2026-03-20T10:26:03.309Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Hydration and recovery, Super taste, Amino energy, Boost energy, Good taste, Boost mood, Switched benefits.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydration and recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amino energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Switched benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dehydrating effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Inflammatory ingredient",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:03.309Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

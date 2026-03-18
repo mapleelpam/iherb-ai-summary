@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109491,
+  "last_updated": "2026-03-20T09:15:24.082Z",
+  "first_scraped": "2026-03-20T09:15:24.082Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hair and nails, Love this product, Joint pain relief, Good composition, Dissolves easily, Neutral taste, Nice package, Good results. Some note: Early results.",
+    "tags": [
+      {
+        "name": "Hair and nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Early results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:15:24.082Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

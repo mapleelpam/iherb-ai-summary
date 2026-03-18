@@ -1,0 +1,68 @@
+{
+  "iherb_id": 94823,
+  "last_updated": "2026-03-20T09:24:16.704Z",
+  "first_scraped": "2026-03-20T09:24:16.704Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Feel refreshed, Effective hydration, Great mix, Easy to use, Convenient packs, High value, Good option, Satisfied purchase.",
+    "tags": [
+      {
+        "name": "Feel refreshed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chemical taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:16.704Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

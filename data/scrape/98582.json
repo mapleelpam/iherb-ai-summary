@@ -1,0 +1,68 @@
+{
+  "iherb_id": 98582,
+  "last_updated": "2026-03-20T09:28:55.435Z",
+  "first_scraped": "2026-03-20T09:28:55.435Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Support general wellbeing, Effective brand, Trusted brand, Support immune, Easy to use, Small bill, Reduces inflammation, Convenient capsules.",
+    "tags": [
+      {
+        "name": "Support general wellbeing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small bill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Scared experiment",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Aftertaste issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:55.435Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

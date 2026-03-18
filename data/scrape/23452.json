@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23452,
+  "last_updated": "2026-03-20T10:03:04.445Z",
+  "first_scraped": "2026-03-20T10:03:04.445Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural multivitamin, Higher energy, Good energy, Great deeds, Science-based potencies, Stronger body, Easy to swallow, Love these.",
+    "tags": [
+      {
+        "name": "Natural multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great deeds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Science-based potencies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger body",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love these",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too much",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No observable effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:04.445Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

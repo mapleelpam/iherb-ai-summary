@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6705,
+  "last_updated": "2026-03-20T09:35:07.159Z",
+  "first_scraped": "2026-03-20T09:35:07.159Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Better than powder, Great superfood, Convenient source, Antioxidants fight, Easy to take, Helpful start, Freshness and energy, Highly recommend. Some note: Very pleased.",
+    "tags": [
+      {
+        "name": "Better than powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great superfood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidants fight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful start",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Freshness and energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very pleased",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hard to swallow",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:07.159Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

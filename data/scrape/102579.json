@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102579,
+  "last_updated": "2026-03-20T09:29:11.109Z",
+  "first_scraped": "2026-03-20T09:29:11.109Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Good for, Fast delivery, Supportive blend, Nice packing, Convenient packaging, Helps training, Rich ingredients. Some note: Oxidation characters.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supportive blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps training",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loving it",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Oxidation characters",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:11.109Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

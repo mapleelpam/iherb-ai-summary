@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113926,
+  "last_updated": "2026-03-20T10:13:43.254Z",
+  "first_scraped": "2026-03-20T10:13:43.254Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clear printing, Great scent, Satisfy, recommend, Good taste, Boosts energy, Boosting effects, Benefit for adult, Quality supplement. Some note: Cheap, unsure, Read carefully.",
+    "tags": [
+      {
+        "name": "Clear printing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfy, recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit for adult",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheap, unsure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Read carefully",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:43.254Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

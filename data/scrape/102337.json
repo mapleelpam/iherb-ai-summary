@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102337,
+  "last_updated": "2026-03-20T09:17:10.209Z",
+  "first_scraped": "2026-03-20T09:17:10.209Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Proper dosage, Improved health, Non-gmo formula, Good for breastfeeding, Good for health, Positive impact, Highly recommend, Brain health. Some note: Big sized tablets, Brown liquid.",
+    "tags": [
+      {
+        "name": "Proper dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Non-gmo formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for breastfeeding",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big sized tablets",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Brown liquid",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:10.209Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

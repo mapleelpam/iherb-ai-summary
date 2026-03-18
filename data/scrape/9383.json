@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9383,
+  "last_updated": "2026-03-20T10:03:04.445Z",
+  "first_scraped": "2026-03-20T10:03:04.445Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosting immune, Fast shipping, Viral defense, Super antiviral, Powerful herb, Effective cleanse, Gut health, Works great. Some note: Respiratory support.",
+    "tags": [
+      {
+        "name": "Boosting immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Viral defense",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super antiviral",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong reactions",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Respiratory support",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:04.445Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 58143,
+  "last_updated": "2026-03-20T10:09:06.402Z",
+  "first_scraped": "2026-03-20T10:09:06.402Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Light and fresh, Clean flavor, Fast order response, Post-workout benefits, Strong formula, Vanilla topping, Kids love, Tastes amazing. Some note: Works best.",
+    "tags": [
+      {
+        "name": "Light and fresh",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast order response",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Post-workout benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vanilla topping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Works best",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:06.402Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

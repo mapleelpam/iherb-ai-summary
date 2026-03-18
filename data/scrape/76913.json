@@ -1,0 +1,68 @@
+{
+  "iherb_id": 76913,
+  "last_updated": "2026-03-20T10:00:48.646Z",
+  "first_scraped": "2026-03-20T10:00:48.646Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Loved it, Winter supplement, Needed improvement, Easy swallow, High dosage, Tiny size, Strong nails, Good package.",
+    "tags": [
+      {
+        "name": "Loved it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Winter supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Needed improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiny size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not noticed",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Pill size",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:48.646Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

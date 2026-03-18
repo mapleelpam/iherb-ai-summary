@@ -1,0 +1,68 @@
+{
+  "iherb_id": 47314,
+  "last_updated": "2026-03-20T10:15:59.243Z",
+  "first_scraped": "2026-03-20T10:15:59.243Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No sugar, High impact, Easy on stomach, Chocolate flavor, High protein, Tasty option, Clean ingredient, Smooth chocolatey. Some note: Small size.",
+    "tags": [
+      {
+        "name": "No sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chocolate flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth chocolatey",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bland taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:59.243Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81243,
+  "last_updated": "2026-03-20T09:36:27.536Z",
+  "first_scraped": "2026-03-20T09:36:27.536Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Acid reflux, Well packed, Helpful supplement, Soothing relief, Fair price, Balancing cholesterol, Natural solution, Stomach relief, Effective ingredients. Some note: Good for gut.",
+    "tags": [
+      {
+        "name": "Acid reflux",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soothing relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balancing cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for gut",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:27.536Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

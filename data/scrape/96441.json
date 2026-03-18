@@ -1,0 +1,68 @@
+{
+  "iherb_id": 96441,
+  "last_updated": "2026-03-20T09:43:29.514Z",
+  "first_scraped": "2026-03-20T09:43:29.514Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Scientific formula, Peach flavor, Life saver, Sweet taste, Relieves soreness, Works wonderfully, Tastes good, Helps relax. Some note: Easy digestion.",
+    "tags": [
+      {
+        "name": "Scientific formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Peach flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves soreness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonderfully",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps relax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Changed taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:29.514Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

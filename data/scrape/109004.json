@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109004,
+  "last_updated": "2026-03-20T09:50:54.186Z",
+  "first_scraped": "2026-03-20T09:50:54.186Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good choice, Love this product, Work terrific, Great probiotic, Effective composition, Indigestion relief, Feel very good, Good formulation.",
+    "tags": [
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Work terrific",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Indigestion relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel very good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plastic package",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:54.186Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

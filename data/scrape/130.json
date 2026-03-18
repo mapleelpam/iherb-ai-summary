@@ -1,0 +1,68 @@
+{
+  "iherb_id": 130,
+  "last_updated": "2026-03-20T10:01:38.261Z",
+  "first_scraped": "2026-03-20T10:01:38.261Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Subtle improvements, Sleep aid, Remarkable results, Beta alanine, Works great, Improvements noticed, Skin glow. Some note: Life back, Real benefit.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Subtle improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Remarkable results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beta alanine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvements noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin glow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life back",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Real benefit",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:38.261Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

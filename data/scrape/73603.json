@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73603,
+  "last_updated": "2026-03-20T10:00:49.714Z",
+  "first_scraped": "2026-03-20T10:00:49.714Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Organic ingredients, Good health, Great formula, Good choice, Fast shipping, Organic pills, No aftertaste, Energy boost. Some note: Easy digestion, Nervous system.",
+    "tags": [
+      {
+        "name": "Organic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nervous system",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:49.714Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

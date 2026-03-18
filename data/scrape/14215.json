@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14215,
+  "last_updated": "2026-03-20T09:32:25.873Z",
+  "first_scraped": "2026-03-20T09:32:25.873Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Significant improvement, Good for health, Prompt delivery, Good package, Best probiotic, Effective packaging, Life-changing, Helps digestion. Some note: Happy father, Effective supplement.",
+    "tags": [
+      {
+        "name": "Significant improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life-changing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy father",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:25.873Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

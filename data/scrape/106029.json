@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106029,
+  "last_updated": "2026-03-20T10:09:56.225Z",
+  "first_scraped": "2026-03-20T10:09:56.225Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Finished the whole, Superfood benefits, Deep flavor, Rare find, White better, Sweet taste, Tastes good, Natural taste.",
+    "tags": [
+      {
+        "name": "Finished the whole",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superfood benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rare find",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "White better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moldy taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Dry texture",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:56.225Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

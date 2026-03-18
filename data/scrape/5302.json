@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5302,
+  "last_updated": "2026-03-20T09:22:45.380Z",
+  "first_scraped": "2026-03-20T09:22:45.380Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves health, Mild taste, Good ingredients, Fast shipping, Easy to drink, Best taste, Excellent additive, Love this product. Some note: Expected taste, Top supplement.",
+    "tags": [
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expected taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Top supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:45.380Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

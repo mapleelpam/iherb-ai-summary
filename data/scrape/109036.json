@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109036,
+  "last_updated": "2026-03-20T09:39:20.466Z",
+  "first_scraped": "2026-03-20T09:39:20.466Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High dosage, No fishy, Well packaged, Higher potency, Energy boost, Great for health, Lower cholesterol, Convenient capsules. Some note: Small size, Energetic after.",
+    "tags": [
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Energetic after",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:20.466Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

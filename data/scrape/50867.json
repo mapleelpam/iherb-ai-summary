@@ -1,0 +1,68 @@
+{
+  "iherb_id": 50867,
+  "last_updated": "2026-03-20T09:32:19.822Z",
+  "first_scraped": "2026-03-20T09:32:19.822Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love it so much, Effective dosage, Natural ingredients, Preventing flu, Good taste, Boosts immunity, Tastes good, Elderberry benefit. Some note: Good impact.",
+    "tags": [
+      {
+        "name": "Love it so much",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventing flu",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Elderberry benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good impact",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:19.822Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

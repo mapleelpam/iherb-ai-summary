@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108830,
+  "last_updated": "2026-03-20T10:08:58.366Z",
+  "first_scraped": "2026-03-20T10:08:58.366Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Good results, Fast delivery, Tailored formula, Very happy, Energy boost, Tasty vitamins, Yummy format, Good taste.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tailored formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy format",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gross taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:58.366Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

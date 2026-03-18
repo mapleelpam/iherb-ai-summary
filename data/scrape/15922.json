@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15922,
+  "last_updated": "2026-03-20T10:03:04.445Z",
+  "first_scraped": "2026-03-20T10:03:04.445Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Looks good, Neutral flavour, Skin plumpness, Skin texture improvement, Fast shipping, Joint pain, Happy customer, Clear skin. Some note: Too soon.",
+    "tags": [
+      {
+        "name": "Looks good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral flavour",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin plumpness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin texture improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy customer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach ache",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too soon",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:04.445Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

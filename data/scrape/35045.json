@@ -1,0 +1,68 @@
+{
+  "iherb_id": 35045,
+  "last_updated": "2026-03-20T10:03:22.701Z",
+  "first_scraped": "2026-03-20T10:03:22.701Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Comfortable and stylish, Minimize stress, Clean ingredients, Balanced complex, Boosts mood, Allergy research, Value for money.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comfortable and stylish",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Minimize stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced complex",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergy research",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Wasted purchase",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:22.701Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

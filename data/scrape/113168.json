@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113168,
+  "last_updated": "2026-03-20T10:06:29.680Z",
+  "first_scraped": "2026-03-20T10:06:29.680Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective nerve aid, Helpful supplement, Increased endurance, Convenient size, Affordable cost, Easy to swallow, Liver support, Antioxidant benefits. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Effective nerve aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable cost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:29.680Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

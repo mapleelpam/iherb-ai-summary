@@ -1,0 +1,68 @@
+{
+  "iherb_id": 95086,
+  "last_updated": "2026-03-20T09:28:39.581Z",
+  "first_scraped": "2026-03-20T09:28:39.581Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice price, Easy to swallow, Less pain, Natural ingredients, Healthy circulation, Lighter legs, Improved appearance, Convenient size. Some note: Kosher inquiry.",
+    "tags": [
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lighter legs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved appearance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kosher inquiry",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:39.581Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

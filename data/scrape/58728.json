@@ -1,0 +1,68 @@
+{
+  "iherb_id": 58728,
+  "last_updated": "2026-03-20T09:58:48.727Z",
+  "first_scraped": "2026-03-20T09:58:48.727Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good dosage, Best value, Good energy, Good pump, Effective boost, Good ingredients, Good taste, Solid supplement.",
+    "tags": [
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Solid supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:48.727Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

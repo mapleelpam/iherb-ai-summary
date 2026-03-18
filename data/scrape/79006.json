@@ -1,0 +1,68 @@
+{
+  "iherb_id": 79006,
+  "last_updated": "2026-03-20T09:35:48.307Z",
+  "first_scraped": "2026-03-20T09:35:48.307Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lower uric acid, Less pain, Good formula, Improve condition, Helps control, Effective supplement, Easy to use, Good ingredients. Some note: Fast delivery.",
+    "tags": [
+      {
+        "name": "Lower uric acid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve condition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Doesn't work",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:48.307Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 79839,
+  "last_updated": "2026-03-20T09:59:56.774Z",
+  "first_scraped": "2026-03-20T09:59:56.774Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Well absorbed, Compliments received, Hair growth, Convenient package, Skin improvement, Recommend it, Easy to drink, Reasonable price.",
+    "tags": [
+      {
+        "name": "Well absorbed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Compliments received",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big capsules",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:56.774Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

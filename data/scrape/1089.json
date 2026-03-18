@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1089,
+  "last_updated": "2026-03-20T09:51:23.722Z",
+  "first_scraped": "2026-03-20T09:51:23.722Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Clear toxins, Food poisoning, Reasonable price, Good working, Clean health, Purity priority, Travel essential. Some note: Fast relief, Hangover relief.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear toxins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Food poisoning",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good working",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Purity priority",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Travel essential",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hangover relief",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:23.722Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

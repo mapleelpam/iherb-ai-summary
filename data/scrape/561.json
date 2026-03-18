@@ -1,0 +1,68 @@
+{
+  "iherb_id": 561,
+  "last_updated": "2026-03-20T09:44:28.537Z",
+  "first_scraped": "2026-03-20T09:44:28.537Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trust now brand, Quick recovery, Good taste, Convenient form, Boosts immunity, Effective remedy, Good price, Potent formula. Some note: Immune support, Natural remedy.",
+    "tags": [
+      {
+        "name": "Trust now brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:28.537Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

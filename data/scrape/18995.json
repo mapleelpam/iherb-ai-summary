@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18995,
+  "last_updated": "2026-03-20T09:25:09.895Z",
+  "first_scraped": "2026-03-20T09:25:09.895Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great benefits, Sleep aid, Stress relief, Quick delivery, Simple herb, Helped anxiety, Improved health, Improvement in sleep.",
+    "tags": [
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Simple herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not strong",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Less soporific",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:09.895Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

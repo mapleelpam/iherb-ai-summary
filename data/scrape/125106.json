@@ -1,0 +1,68 @@
+{
+  "iherb_id": 125106,
+  "last_updated": "2026-03-20T10:12:24.404Z",
+  "first_scraped": "2026-03-20T10:12:24.404Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps sleep, Convenient packaging, Super nice, Easy dosage, Clean ingredients, Easy to take, White powder, Fast shipping.",
+    "tags": [
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "White powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No citric acid",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Nasty tasting",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:24.404Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

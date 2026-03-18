@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89443,
+  "last_updated": "2026-03-20T10:06:07.355Z",
+  "first_scraped": "2026-03-20T10:06:07.355Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High carvacrol, Less bloated, Reasonable price, Preventive capsule, Potent works, Preventative must-have, Convenient package, Anti-cancer properties. Some note: Builds up, Temporary relief.",
+    "tags": [
+      {
+        "name": "High carvacrol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventive capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventative must-have",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-cancer properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Builds up",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Temporary relief",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:07.355Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

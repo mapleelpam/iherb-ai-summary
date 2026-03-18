@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69436,
+  "last_updated": "2026-03-20T09:19:05.466Z",
+  "first_scraped": "2026-03-20T09:19:05.466Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reduced pain, Knee relief, Happy with, Easy to swallow, Fast shipping, Great supplement, Hyaluronic acid, Joint relief. Some note: Discount offered, Effective ingredients.",
+    "tags": [
+      {
+        "name": "Reduced pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Knee relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hyaluronic acid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Discount offered",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:05.466Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

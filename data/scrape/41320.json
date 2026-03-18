@@ -1,0 +1,68 @@
+{
+  "iherb_id": 41320,
+  "last_updated": "2026-03-20T09:22:44.449Z",
+  "first_scraped": "2026-03-20T09:22:44.449Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Nice smell, Metabolism support, Good ingredients, Good package, High potency, Size big, Reduce sugar. Some note: Tastes alright, Great support.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Metabolism support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Size big",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes alright",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great support",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:44.449Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

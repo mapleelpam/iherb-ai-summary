@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115012,
+  "last_updated": "2026-03-20T09:43:40.410Z",
+  "first_scraped": "2026-03-20T09:43:40.410Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Quick result, Must have, Satisfied purchase, Absorption support, Good dosage, Convenient packaging, Easy swallow, Good deal. Some note: Clear ingredients.",
+    "tags": [
+      {
+        "name": "Quick result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Must have",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorption support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too many fillers",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:40.410Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

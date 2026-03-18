@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85056,
+  "last_updated": "2026-03-20T10:14:31.021Z",
+  "first_scraped": "2026-03-20T10:14:31.021Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes good, Sweet flavor, Incredible packaging, Watery consistency, Delicious drink, Tropical punch, Smooth consistency, Mixes well.",
+    "tags": [
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Incredible packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Watery consistency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tropical punch",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth consistency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Milky drinks",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Strange flavour",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:31.021Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

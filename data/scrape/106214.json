@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106214,
+  "last_updated": "2026-03-20T09:47:44.416Z",
+  "first_scraped": "2026-03-20T09:47:44.416Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice price, Brain boost, Mental clarity, Great improvement, Good brain, Easy swallow, Effective ingredients, Trust brand. Some note: Mild effect.",
+    "tags": [
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good brain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Mild effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:44.416Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

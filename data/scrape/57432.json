@@ -1,0 +1,68 @@
+{
+  "iherb_id": 57432,
+  "last_updated": "2026-03-20T10:09:11.577Z",
+  "first_scraped": "2026-03-20T10:09:11.577Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lighter periods, Reduced fibroids, Less pain, Effective remedy, Feel good, Protect breast, Natural alternative, Improved diet.",
+    "tags": [
+      {
+        "name": "Lighter periods",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced fibroids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protect breast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Ambiguous ingredients",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:11.577Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

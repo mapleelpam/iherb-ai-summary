@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9588,
+  "last_updated": "2026-03-20T09:25:42.633Z",
+  "first_scraped": "2026-03-20T09:25:42.633Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy absorption, Effective brand, Easy to swallow, Fast shipping, Enhanced health, Large packaging, Small tablets, Good option. Some note: Immunity improved.",
+    "tags": [
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Immunity improved",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:42.633Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

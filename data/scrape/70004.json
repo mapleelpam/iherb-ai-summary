@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70004,
+  "last_updated": "2026-03-20T10:04:12.100Z",
+  "first_scraped": "2026-03-20T10:04:12.100Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pricey but effective, Love brand, Fast shipping, Care benefit, Clean ingredients, Brain swelling, Improved gut, Advanced technology. Some note: Expensive transition.",
+    "tags": [
+      {
+        "name": "Pricey but effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Care benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain swelling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Advanced technology",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive transition",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:12.100Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

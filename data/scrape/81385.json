@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81385,
+  "last_updated": "2026-03-20T09:29:37.820Z",
+  "first_scraped": "2026-03-20T09:29:37.820Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural ingredients, Easy to take, Fair price, Convenient tablets, Great combo, Effective blend, Good sleep, Daily combo. Some note: Coming on time.",
+    "tags": [
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Coming on time",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Low dose",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:37.820Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

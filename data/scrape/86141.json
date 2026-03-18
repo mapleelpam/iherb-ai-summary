@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86141,
+  "last_updated": "2026-03-20T10:19:57.244Z",
+  "first_scraped": "2026-03-20T10:19:57.244Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Taste great, Fast shipping, Sweetness & flavor, Never get sick, Tasty supplement, Boost immune, Stay healthy, Good ingredients, Nice flavor.",
+    "tags": [
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweetness & flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Never get sick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stay healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heavy zinc",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:57.244Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

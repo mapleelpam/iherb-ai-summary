@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70122,
+  "last_updated": "2026-03-20T09:45:11.398Z",
+  "first_scraped": "2026-03-20T09:45:11.398Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious cheesy flavor, Natural vitamin B, Very tasty, Good for digestion, Easy use, Healthy option, Nutty flavor, Beneficial addition. Some note: Tastes like cheese.",
+    "tags": [
+      {
+        "name": "Delicious cheesy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural vitamin B",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes like cheese",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Poor health",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:11.398Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

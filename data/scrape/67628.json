@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67628,
+  "last_updated": "2026-03-20T09:51:34.577Z",
+  "first_scraped": "2026-03-20T09:51:34.577Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes good, Recommend to friends, Sweet taste, Cream flavour, Beneficial diet, Better than expected, Unique package, Good ingredients.",
+    "tags": [
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend to friends",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cream flavour",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better than expected",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not very good",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:34.577Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

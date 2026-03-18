@@ -1,0 +1,68 @@
+{
+  "iherb_id": 33111,
+  "last_updated": "2026-03-20T09:51:37.425Z",
+  "first_scraped": "2026-03-20T09:51:37.425Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice price, Good choice, Delicious protein, Taste great, Favorite flavor, Peanut butter creme, Super delicious, High protein. Some note: Fast shipping.",
+    "tags": [
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Favorite flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Peanut butter creme",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick melting",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:37.425Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

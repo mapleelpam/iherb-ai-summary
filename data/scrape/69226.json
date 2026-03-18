@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69226,
+  "last_updated": "2026-03-20T09:47:43.462Z",
+  "first_scraped": "2026-03-20T09:47:43.462Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this product, Tastes good, Effective flavor, Good option, Falls asleep, Helps sleep, Works great, Helps me. Some note: Easy to take, Deep sleep.",
+    "tags": [
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Falls asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:43.462Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

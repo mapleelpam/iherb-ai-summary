@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10815,
+  "last_updated": "2026-03-20T09:50:12.159Z",
+  "first_scraped": "2026-03-20T09:50:12.159Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works great, Suppresses cravings, Lost weight, A+, Deeper sleep, Curb appetite, Fast delivery, Highly recommend. Some note: Not noticeable.",
+    "tags": [
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suppresses cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lost weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "A+",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deeper sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Curb appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not noticeable",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:12.159Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

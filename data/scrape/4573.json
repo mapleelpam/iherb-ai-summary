@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4573,
+  "last_updated": "2026-03-20T10:09:15.622Z",
+  "first_scraped": "2026-03-20T10:09:15.622Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune system, Effective immune booster, Matches the description, Licorice taste, Quick results, Avoided antibiotics, Reduced symptoms, Clears sinuses, Family favorite.",
+    "tags": [
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Matches the description",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Licorice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoided antibiotics",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clears sinuses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Family favorite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Headache risk",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:15.622Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

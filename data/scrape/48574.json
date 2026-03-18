@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48574,
+  "last_updated": "2026-03-20T10:15:54.262Z",
+  "first_scraped": "2026-03-20T10:15:54.262Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No bad side effects, Good for heart, Trusted brand, Excellent package, Worth the price, Highly recommend, Natural strength, Heart health, Happy with, Effective coq10.",
+    "tags": [
+      {
+        "name": "No bad side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth the price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective coq10",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:54.262Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

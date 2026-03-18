@@ -1,0 +1,68 @@
+{
+  "iherb_id": 16769,
+  "last_updated": "2026-03-20T10:00:51.603Z",
+  "first_scraped": "2026-03-20T10:00:51.603Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural product, May work, No cramps, Great for memory, Reasonable price, Longevity focus, Secure packaging, Synergistic composition. Some note: Great help.",
+    "tags": [
+      {
+        "name": "Natural product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "May work",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Longevity focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Secure packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Synergistic composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great help",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hormone concerns",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:51.603Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2663,
+  "last_updated": "2026-03-20T09:23:04.005Z",
+  "first_scraped": "2026-03-20T09:23:04.005Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Life changing, Respiratory health, Game-changer, Reduction in allergic responses, Hair health, Energy boost, Helpful supplement, Detox support. Some note: Good addition, Fast shipping.",
+    "tags": [
+      {
+        "name": "Life changing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Respiratory health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduction in allergic responses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good addition",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:04.005Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

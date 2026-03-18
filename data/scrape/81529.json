@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81529,
+  "last_updated": "2026-03-20T10:23:47.320Z",
+  "first_scraped": "2026-03-20T10:23:47.320Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves memory, Concentration help, Impressed with, Good results, No side effects, Good ingredients, Huge difference, Excellent additive.",
+    "tags": [
+      {
+        "name": "Improves memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Concentration help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Huge difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Costly product",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No benefits",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:47.320Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

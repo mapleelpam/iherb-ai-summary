@@ -1,0 +1,68 @@
+{
+  "iherb_id": 87009,
+  "last_updated": "2026-03-20T10:04:14.104Z",
+  "first_scraped": "2026-03-20T10:04:14.104Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lowest price, Clean ingredients, Excellent additive, Red velvet, Crunchy waffle, Protein benefit, Tastes good, Berries cream. Some note: Perfect size.",
+    "tags": [
+      {
+        "name": "Lowest price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Red velvet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Crunchy waffle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protein benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Berries cream",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Disappointed mint choco",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:14.104Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

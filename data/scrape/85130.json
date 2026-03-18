@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85130,
+  "last_updated": "2026-03-20T09:28:46.427Z",
+  "first_scraped": "2026-03-20T09:28:46.427Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved health, Good ingredients, Relieved symptoms, Lymph cleanse, Less tired, Gentle detox, Highly recommend, Reduced swelling.",
+    "tags": [
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieved symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lymph cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less tired",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced swelling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Swollen neck",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Reproductive toxin",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:46.427Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

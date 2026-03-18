@@ -1,0 +1,68 @@
+{
+  "iherb_id": 417,
+  "last_updated": "2026-03-20T09:19:04.480Z",
+  "first_scraped": "2026-03-20T09:19:04.480Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High dose, Big size, Boost energy, Good ingredients, Good taste, Good energy, Very helpful, Helped nerves. Some note: Efficient product.",
+    "tags": [
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very helpful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped nerves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:04.480Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

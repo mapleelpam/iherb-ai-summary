@@ -1,0 +1,68 @@
+{
+  "iherb_id": 99791,
+  "last_updated": "2026-03-20T10:20:02.141Z",
+  "first_scraped": "2026-03-20T10:20:02.141Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good package, Sweet flavor, Refreshing drink, Easy mix, Dairy free, Nice taste, Clear solution, Helped building muscle.",
+    "tags": [
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dairy free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped building muscle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Horrible taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Clumping issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:02.141Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

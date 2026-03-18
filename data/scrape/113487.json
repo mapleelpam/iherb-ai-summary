@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113487,
+  "last_updated": "2026-03-20T10:35:40.224Z",
+  "first_scraped": "2026-03-20T10:35:40.224Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High dose, Less bathroom, Easy to take, Excellent benefit, Budget-friendly, Potent effects, Sensitivities cleared, Small size. Some note: Genetic defect, Avoid white hair.",
+    "tags": [
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bathroom",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Budget-friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sensitivities cleared",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Genetic defect",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Avoid white hair",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:35:40.224Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

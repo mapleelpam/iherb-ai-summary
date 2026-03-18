@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21534,
+  "last_updated": "2026-03-20T10:17:24.543Z",
+  "first_scraped": "2026-03-20T10:17:24.543Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful product, Anti-inflammatory effects, Slow release, Glossy coating, Reasonable price, Recommend trying, Easy to use, Pain relief.",
+    "tags": [
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glossy coating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend trying",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid choking",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Large tablet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:24.543Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

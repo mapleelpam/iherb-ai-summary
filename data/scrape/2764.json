@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2764,
+  "last_updated": "2026-03-20T10:20:00.153Z",
+  "first_scraped": "2026-03-20T10:20:00.153Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Decreased ringing, Detoxing heavy metals, Effective chelator, Support liver, No complaints, Helpful care, Memory improvement.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decreased ringing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detoxing heavy metals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective chelator",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support liver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No complaints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful care",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Discontinue immediately",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No benefit",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:00.153Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

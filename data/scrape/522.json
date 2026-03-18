@@ -1,0 +1,68 @@
+{
+  "iherb_id": 522,
+  "last_updated": "2026-03-20T10:31:21.307Z",
+  "first_scraped": "2026-03-20T10:31:21.307Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient option, Quick recovery, Energy boost, Muscle pain, Timely delivery, Better endurance, Overall energy, Good size.",
+    "tags": [
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Disappointing energy",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:21.307Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

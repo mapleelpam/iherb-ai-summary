@@ -1,0 +1,68 @@
+{
+  "iherb_id": 126657,
+  "last_updated": "2026-03-20T10:04:43.656Z",
+  "first_scraped": "2026-03-20T10:04:43.656Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fall asleep, Stronger effect, Higher dose, Speedy delivery, Ideal purchase, Fast acting, Good dosage, Nice rest. Some note: Natural support, Mixed results.",
+    "tags": [
+      {
+        "name": "Fall asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ideal purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast acting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice rest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural support",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Mixed results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:43.656Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

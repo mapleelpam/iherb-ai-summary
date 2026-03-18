@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32444,
+  "last_updated": "2026-03-20T09:54:45.655Z",
+  "first_scraped": "2026-03-20T09:54:45.655Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Worth the money, Volume reduction, Free shipping, Very helpful, Works good, Blocks DHT, Easy to take, Herbal benefit. Some note: Pure whole food, Hair loss.",
+    "tags": [
+      {
+        "name": "Worth the money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Volume reduction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Free shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very helpful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blocks DHT",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herbal benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure whole food",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hair loss",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:45.655Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

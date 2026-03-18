@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115915,
+  "last_updated": "2026-03-20T10:04:15.024Z",
+  "first_scraped": "2026-03-20T10:04:15.024Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improvement noticed, Mixes well, Tastes okay, Natural ingredients, Convenient dosing, Sweet treat, Multi collagen, Worth it. Some note: Bioavailability concern.",
+    "tags": [
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes okay",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dosing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet treat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Multi collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioavailability concern",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant belching",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:15.024Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 96709,
+  "last_updated": "2026-03-20T10:04:13.079Z",
+  "first_scraped": "2026-03-20T10:04:13.079Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural detox, Trust the brand, Improved sleep, Relieved inflammation, Improved digestion, Efficient formula, Avoid carbs, Improved energy.",
+    "tags": [
+      {
+        "name": "Natural detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust the brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieved inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid carbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No benefits",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:13.079Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78524,
+  "last_updated": "2026-03-20T10:23:53.306Z",
+  "first_scraped": "2026-03-20T10:23:53.306Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trust this site, Reduces pain, Brighter skin, High potency, Morning stiffness, Leg pain, Extra strength, No horrible taste, Love brand. Some note: Arch pain.",
+    "tags": [
+      {
+        "name": "Trust this site",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brighter skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning stiffness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Leg pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No horrible taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arch pain",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:53.306Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

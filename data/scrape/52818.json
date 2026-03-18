@@ -1,0 +1,68 @@
+{
+  "iherb_id": 52818,
+  "last_updated": "2026-03-20T09:53:14.109Z",
+  "first_scraped": "2026-03-20T09:53:14.109Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Organic ingredient, Recommend, Not sick, Worth it, Glass container, Feel better, Natural smell, Good ingredients. Some note: Big tablets, No difference.",
+    "tags": [
+      {
+        "name": "Organic ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass container",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big tablets",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:14.109Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

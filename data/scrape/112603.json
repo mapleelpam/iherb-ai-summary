@@ -1,0 +1,68 @@
+{
+  "iherb_id": 112603,
+  "last_updated": "2026-03-20T10:08:59.404Z",
+  "first_scraped": "2026-03-20T10:08:59.404Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Recover fast, Easy to swallow, Effective supplement, Trust code*age, Improving skin, Broad spectrum, Memory boost. Some note: Simple packaging, No change.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recover fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust code*age",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Broad spectrum",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Simple packaging",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:59.404Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

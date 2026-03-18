@@ -1,0 +1,68 @@
+{
+  "iherb_id": 140474,
+  "last_updated": "2026-03-20T10:21:01.491Z",
+  "first_scraped": "2026-03-20T10:21:01.491Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice smell, Tasty flavor, Convenient solution, Hair improvement, Creamy dessert, Good choice, Mild taste, Rich vanilla.",
+    "tags": [
+      {
+        "name": "Nice smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Creamy dessert",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich vanilla",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not worth",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not available",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:01.491Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

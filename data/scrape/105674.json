@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105674,
+  "last_updated": "2026-03-20T09:55:32.862Z",
+  "first_scraped": "2026-03-20T09:55:32.862Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less cramps, Mood balance, Stable product, Control breakouts, Hormonal balance support, Skin health improvement, Regular cycle, Big size. Some note: First time, Inflammation relief.",
+    "tags": [
+      {
+        "name": "Less cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stable product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control breakouts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormonal balance support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular cycle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First time",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Inflammation relief",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:32.862Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

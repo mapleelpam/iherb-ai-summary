@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104834,
+  "last_updated": "2026-03-20T10:16:28.326Z",
+  "first_scraped": "2026-03-20T10:16:28.326Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mixes easily, Instant energy boost, Kids love, Anti-cancer properties, Love flavor, Pure ascorbic acid, Improves health, High doses, Delicious taste. Some note: Easy to take.",
+    "tags": [
+      {
+        "name": "Mixes easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Instant energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-cancer properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ascorbic acid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High doses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:28.326Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

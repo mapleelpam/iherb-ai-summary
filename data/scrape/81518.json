@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81518,
+  "last_updated": "2026-03-20T09:49:35.792Z",
+  "first_scraped": "2026-03-20T09:49:35.792Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Fast shipping, Improves skin, Improved immensely, Joint support, Freshness seal, Support them, Mixes well. Some note: Easy to use.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved immensely",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Freshness seal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support them",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Locked into claws",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:35.792Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

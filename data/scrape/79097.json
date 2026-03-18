@@ -1,0 +1,68 @@
+{
+  "iherb_id": 79097,
+  "last_updated": "2026-03-20T09:50:28.460Z",
+  "first_scraped": "2026-03-20T09:50:28.460Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to use, Rich chocolate, Boosts energy, Cacao smell, Decent taste, Tastes good, Great choice, Easy way. Some note: Not sure, Wonderful taste.",
+    "tags": [
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cacao smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Wonderful taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:28.460Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

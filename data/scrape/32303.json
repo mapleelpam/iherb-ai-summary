@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32303,
+  "last_updated": "2026-03-20T09:37:32.759Z",
+  "first_scraped": "2026-03-20T09:37:32.759Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No taste, Good ingredients, Small size, Healthy lifestyle, Great supplement, Tiny tablet, Cardiovascular health, Fast delivery. Some note: Easy to consume, High concentration.",
+    "tags": [
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy lifestyle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiny tablet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to consume",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:32.759Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22268,
+  "last_updated": "2026-03-20T09:33:35.824Z",
+  "first_scraped": "2026-03-20T09:33:35.824Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice taste, Control amount, Helps cramps, Boost stamina, Salty taste, Easy to use, Great electrolyte, Adds flavor. Some note: Packaging easy.",
+    "tags": [
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Salty taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great electrolyte",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adds flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Packaging easy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:35.824Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

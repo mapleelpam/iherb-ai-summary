@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6755,
+  "last_updated": "2026-03-20T10:39:02.775Z",
+  "first_scraped": "2026-03-20T10:39:02.775Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More nutrients, Improved bone density, More ingredients, Best supplement, Stronger fingernails, Bone support, Smells good, Good balance.",
+    "tags": [
+      {
+        "name": "More nutrients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved bone density",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger fingernails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smells good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too many flow agents",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Nutrient balance",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:39:02.775Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

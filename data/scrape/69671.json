@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69671,
+  "last_updated": "2026-03-20T09:58:13.145Z",
+  "first_scraped": "2026-03-20T09:58:13.145Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Doctor recommended, Clearer mind, Brain clarity, Improvement noticed, Sleep improvement, Complete detox, Memory improvements, Boost concentration.",
+    "tags": [
+      {
+        "name": "Doctor recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long course",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvements",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:13.145Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

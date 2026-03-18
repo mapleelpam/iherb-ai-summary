@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89933,
+  "last_updated": "2026-03-20T09:50:17.916Z",
+  "first_scraped": "2026-03-20T09:50:17.916Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Weight loss, Fast-acting energy, Energy boost, Fast shipping, Feel great, Strong fat burner, Good ingredients, Works great.",
+    "tags": [
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast-acting energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong fat burner",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad experience",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Heart rate increased",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:17.916Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

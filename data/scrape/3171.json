@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3171,
+  "last_updated": "2026-03-20T10:21:19.765Z",
+  "first_scraped": "2026-03-20T10:21:19.765Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosting immune system, Powerful formula, Easy dosage, Quick relief, Works fine, Peace of mind, Immune system, Fast release.",
+    "tags": [
+      {
+        "name": "Boosting immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Peace of mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doesn't work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Continue drinking",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:19.765Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

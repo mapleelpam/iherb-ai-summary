@@ -1,0 +1,68 @@
+{
+  "iherb_id": 34165,
+  "last_updated": "2026-03-20T10:24:18.858Z",
+  "first_scraped": "2026-03-20T10:24:18.858Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Feel amazing, Fresh box, Energy boost, General wellness, Detox supplement, Exclusive process, Fair price, Boosts immunity, Health benefit.",
+    "tags": [
+      {
+        "name": "Feel amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh box",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "General wellness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Exclusive process",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Price too high",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:18.858Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1321,
+  "last_updated": "2026-03-20T10:01:42.277Z",
+  "first_scraped": "2026-03-20T10:01:42.277Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Chronic illness, Works brilliantly, Residual pain, Family favorite, Helps sleep, Settle a sleep, Sublingual works, Safe for kids. Some note: Tastes good.",
+    "tags": [
+      {
+        "name": "Chronic illness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works brilliantly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Residual pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Family favorite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Settle a sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sublingual works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe for kids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Lost effectiveness",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:42.277Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

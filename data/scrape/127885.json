@@ -1,0 +1,68 @@
+{
+  "iherb_id": 127885,
+  "last_updated": "2026-03-20T10:15:23.012Z",
+  "first_scraped": "2026-03-20T10:15:23.012Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Enhances absorption, Easy to take, Energy levels increasing, Good combination, Better sleep, Effective ingredients, Energy boost, Alert and energetic.",
+    "tags": [
+      {
+        "name": "Enhances absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels increasing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alert and energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not order again",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Did not work",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:23.012Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

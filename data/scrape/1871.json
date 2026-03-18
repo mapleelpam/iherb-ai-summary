@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1871,
+  "last_updated": "2026-03-20T09:46:43.659Z",
+  "first_scraped": "2026-03-20T09:46:43.659Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient size, High percentage, Highly recommend, Decreased anxiety, Sustainable practices, Emotion control, Reduce stress, Positive change. Some note: Good results.",
+    "tags": [
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High percentage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decreased anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustainable practices",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Emotion control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too strong",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:43.659Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 82697,
+  "last_updated": "2026-03-20T09:25:49.369Z",
+  "first_scraped": "2026-03-20T09:25:49.369Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Convenient powder, Love this item, Nutritious addition, Neutral taste, Good taste, Good energy, Sweet taste. Some note: Hormone balance.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this item",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutritious addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not great taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hormone balance",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:49.369Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

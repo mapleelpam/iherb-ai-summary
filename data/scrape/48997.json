@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48997,
+  "last_updated": "2026-03-20T09:39:58.571Z",
+  "first_scraped": "2026-03-20T09:39:58.571Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trusted companion, Effective supplement, Improves symptoms, Works for me, Relief, pleasant, Fast shipping, Hot flashes, Night sweats. Some note: Great smell.",
+    "tags": [
+      {
+        "name": "Trusted companion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief, pleasant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hot flashes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Night sweats",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No benefits",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Great smell",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:58.571Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 64218,
+  "last_updated": "2026-03-20T10:10:13.223Z",
+  "first_scraped": "2026-03-20T10:10:13.223Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Tasty protein, Natural ingredients, Beneficial option, Good contents, Higher ORAC, Delicious taste, All-in-one.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good contents",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher ORAC",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "All-in-one",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hay taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Small amount",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:13.223Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

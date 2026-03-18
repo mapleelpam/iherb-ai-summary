@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9980,
+  "last_updated": "2026-03-20T10:28:18.678Z",
+  "first_scraped": "2026-03-20T10:28:18.678Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Prostate problem, Order again, Lowered PSA, Organic peace, Supporting health, Highly recommend, Top ingredients, Good composition, Quick order. Some note: Feels ok.",
+    "tags": [
+      {
+        "name": "Prostate problem",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Order again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowered PSA",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic peace",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supporting health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feels ok",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:18.678Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144248,
+  "last_updated": "2026-03-20T09:27:30.967Z",
+  "first_scraped": "2026-03-20T09:27:30.967Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Stress relief, Life changing supplement, Increasing endurance, Heart health, Nutrient-rich ingredients, Digestive well-being, Anti-oxidant benefits. Some note: Good for, Helps manage.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changing supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increasing endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrient-rich ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive well-being",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-oxidant benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helps manage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:30.967Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

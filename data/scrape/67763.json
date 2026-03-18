@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67763,
+  "last_updated": "2026-03-20T10:05:59.177Z",
+  "first_scraped": "2026-03-20T10:05:59.177Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fantastic choice, Good composition, Improves bloated stomach, Supports health, Pure omega, Helped tremendously, Safe ingredients, Good response, Pure norwegian. Some note: Not bad.",
+    "tags": [
+      {
+        "name": "Fantastic choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves bloated stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure omega",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped tremendously",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good response",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure norwegian",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not bad",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:59.177Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

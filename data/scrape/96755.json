@@ -1,0 +1,68 @@
+{
+  "iherb_id": 96755,
+  "last_updated": "2026-03-20T09:47:52.444Z",
+  "first_scraped": "2026-03-20T09:47:52.444Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, High dosage, Great alternative, No aftertaste, Support mobility, Vegan friendly, Improved health, Sustainable option. Some note: Large capsules, High concentration.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support mobility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustainable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large capsules",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:52.444Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

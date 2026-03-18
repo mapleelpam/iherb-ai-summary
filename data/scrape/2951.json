@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2951,
+  "last_updated": "2026-03-20T10:48:50.252Z",
+  "first_scraped": "2026-03-20T10:48:50.252Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps allergies, Love this, Easy to find, Knock out cold, Support health, Never get sick, Substitute for antibiotics, Prevents sickness. Some note: Mild case.",
+    "tags": [
+      {
+        "name": "Helps allergies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to find",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Knock out cold",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Never get sick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Substitute for antibiotics",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prevents sickness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild case",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not as expected",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:48:50.252Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

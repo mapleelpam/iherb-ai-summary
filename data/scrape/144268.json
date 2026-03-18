@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144268,
+  "last_updated": "2026-03-20T09:43:33.607Z",
+  "first_scraped": "2026-03-20T09:43:33.607Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increase testosterone, Bone health, Joint pain, Trace mineral, Stronger bones, Fast shipping, Good for arthritis, Absorb calcium. Some note: Happy with.",
+    "tags": [
+      {
+        "name": "Increase testosterone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trace mineral",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for arthritis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorb calcium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Headache, trouble sleeping",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:33.607Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

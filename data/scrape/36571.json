@@ -1,0 +1,68 @@
+{
+  "iherb_id": 36571,
+  "last_updated": "2026-03-20T10:09:29.395Z",
+  "first_scraped": "2026-03-20T10:09:29.395Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Refreshing flavor, Mild taste, Immune support, Intense training, Clean ingredients, Faster recovery, Good formula, Sweet aftertaste.",
+    "tags": [
+      {
+        "name": "Refreshing flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intense training",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Faster recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sweet enough",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not recommended",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:29.395Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

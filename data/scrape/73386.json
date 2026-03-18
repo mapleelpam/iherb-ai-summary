@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73386,
+  "last_updated": "2026-03-20T10:00:20.399Z",
+  "first_scraped": "2026-03-20T10:00:20.399Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Anti aging, More energy, Thicker hair, Confident improvement, Supports longevity, Easy swallow, Energy boost, Strongly recommend.",
+    "tags": [
+      {
+        "name": "Anti aging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thicker hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Confident improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports longevity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strongly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy drop",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Price issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:20.399Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

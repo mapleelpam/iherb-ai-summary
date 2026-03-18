@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23567,
+  "last_updated": "2026-03-20T10:07:01.113Z",
+  "first_scraped": "2026-03-20T10:07:01.113Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Powerful antioxidant, Matches description, Energy boost, Love this, Useful product, High concentration, Benefiting, Works great. Some note: Very helpful.",
+    "tags": [
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Matches description",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Useful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefiting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very helpful",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stomach ache",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:01.113Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

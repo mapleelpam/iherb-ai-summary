@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107981,
+  "last_updated": "2026-03-20T10:05:01.208Z",
+  "first_scraped": "2026-03-20T10:05:01.208Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lemon flavor, Artificial flavor, Love the taste, Does the job, High protein, Low calorie, Soft texture, Refreshing change. Some note: Tasty bar.",
+    "tags": [
+      {
+        "name": "Lemon flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Artificial flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Does the job",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low calorie",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soft texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty bar",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Chemical taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:01.208Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

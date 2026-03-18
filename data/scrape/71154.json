@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71154,
+  "last_updated": "2026-03-20T09:25:31.874Z",
+  "first_scraped": "2026-03-20T09:25:31.874Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Broad spectrum, Immune booster, Stay healthy, Works wonders, Quick recovery, Recommend everyone, Love dosage, Works EVERY time. Some note: Sensitive stomach.",
+    "tags": [
+      {
+        "name": "Broad spectrum",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stay healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend everyone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works EVERY time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Disappointed relief",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sensitive stomach",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:31.874Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

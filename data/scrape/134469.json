@@ -1,0 +1,68 @@
+{
+  "iherb_id": 134469,
+  "last_updated": "2026-03-20T10:01:02.307Z",
+  "first_scraped": "2026-03-20T10:01:02.307Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for heart, Clear skin, Overall health, Selected ingredients, Big size vitamins, Highly recommend, Organic benefits, High ALA. Some note: Label paper, Cold pressed.",
+    "tags": [
+      {
+        "name": "Good for heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Selected ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High ALA",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Label paper",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Cold pressed",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:02.307Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

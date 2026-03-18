@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14859,
+  "last_updated": "2026-03-20T10:06:30.705Z",
+  "first_scraped": "2026-03-20T10:06:30.705Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient size, Breaks up mucus, Respiratory health, Fast relief, Good energy, Boost immunity, Immune support, Improved sleep. Some note: Powerful substance.",
+    "tags": [
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Breaks up mucus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Respiratory health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard on stomach",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Powerful substance",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:30.705Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

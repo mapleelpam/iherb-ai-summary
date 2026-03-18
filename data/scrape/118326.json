@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118326,
+  "last_updated": "2026-03-20T10:02:34.938Z",
+  "first_scraped": "2026-03-20T10:02:34.938Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Less night urination, Game-changer, Relief from pain, Fast shipment, Effective formula, Good ingredients, Enhance experience.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less night urination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief from pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhance experience",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Headache, nausea",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Little help",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:34.938Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

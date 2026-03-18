@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110556,
+  "last_updated": "2026-03-20T09:37:00.406Z",
+  "first_scraped": "2026-03-20T09:37:00.406Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient combo, Fast shipping, Less bloated, Reasonable price, Helps digestion, Nice ingredients, Game-changer, Total bargain. Some note: Excellent additive, Hard to tell.",
+    "tags": [
+      {
+        "name": "Convenient combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Total bargain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hard to tell",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:00.406Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

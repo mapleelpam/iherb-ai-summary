@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119457,
+  "last_updated": "2026-03-20T09:45:22.253Z",
+  "first_scraped": "2026-03-20T09:45:22.253Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Heart health, Reliable manufacturer, Taste good, Reduce cholesterol, Pleasure, Convenient alternative, Expiration date, Easy to swallow. Some note: Tiny package, Normal product.",
+    "tags": [
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable manufacturer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expiration date",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiny package",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Normal product",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:22.253Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

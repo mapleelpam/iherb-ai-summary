@@ -1,0 +1,68 @@
+{
+  "iherb_id": 325,
+  "last_updated": "2026-03-20T09:18:46.367Z",
+  "first_scraped": "2026-03-20T09:18:46.367Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lowering cholesterol, Noticeable positive effect, Competitively priced, No fishy, Feel better, Easy to swallow, Well-rounded approach, Anti-inflammatory effect. Some note: Trusted brand, Convenient packaging.",
+    "tags": [
+      {
+        "name": "Lowering cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable positive effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Competitively priced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well-rounded approach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:46.367Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

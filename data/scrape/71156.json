@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71156,
+  "last_updated": "2026-03-20T10:07:26.412Z",
+  "first_scraped": "2026-03-20T10:07:26.412Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Essential vitamins, Brain clarity, Works as described, Good boost, Improved sleep, Herbal support, Worth it, Improved energy. Some note: Effective supplement.",
+    "tags": [
+      {
+        "name": "Essential vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works as described",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herbal support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:26.412Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

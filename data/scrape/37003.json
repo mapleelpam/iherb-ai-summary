@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37003,
+  "last_updated": "2026-03-20T09:40:20.689Z",
+  "first_scraped": "2026-03-20T09:40:20.689Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hair transformation, Great deal, Stronger nails, Support collagen levels, Stronger hair, Softer skin, Natural and effective, Highly recommend. Some note: Easy to take.",
+    "tags": [
+      {
+        "name": "Hair transformation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support collagen levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Softer skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural and effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:20.689Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

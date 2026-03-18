@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118038,
+  "last_updated": "2026-03-20T10:03:52.746Z",
+  "first_scraped": "2026-03-20T10:03:52.746Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Broad health benefits, Similar effect, Affordable price, Stomach relief, Nutrient source, Favorite product, Antioxidant benefits, Detox support. Some note: No taste.",
+    "tags": [
+      {
+        "name": "Broad health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Similar effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrient source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Favorite product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad reaction",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:52.746Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

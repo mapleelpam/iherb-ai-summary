@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12718,
+  "last_updated": "2026-03-20T09:54:08.174Z",
+  "first_scraped": "2026-03-20T09:54:08.174Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Blood sugar control, Pure support, Health benefits, Easy to swallow, Powerful antioxidant, Skin health, Very satisfied, Great for skin. Some note: No noticeable changes.",
+    "tags": [
+      {
+        "name": "Blood sugar control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High blood pressure",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No noticeable changes",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:08.174Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

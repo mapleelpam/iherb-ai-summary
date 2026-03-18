@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115289,
+  "last_updated": "2026-03-20T09:52:10.213Z",
+  "first_scraped": "2026-03-20T09:52:10.213Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Chocolate flavor, Quick gains, Gain weight, Environmentally friendly, Muscle energy, High calories, Game-changer supplement, Tastes good. Some note: Dissolves easily.",
+    "tags": [
+      {
+        "name": "Chocolate flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick gains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gain weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Environmentally friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High calories",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very disappointed",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Dissolves easily",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:10.213Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

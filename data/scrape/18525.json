@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18525,
+  "last_updated": "2026-03-20T09:48:45.722Z",
+  "first_scraped": "2026-03-20T09:48:45.722Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved vitality, Nerve health, Effective brand, Energy boost, Fertility support, Brain function, Breathing relief, Weight loss. Some note: Works very well, Not crucial.",
+    "tags": [
+      {
+        "name": "Improved vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nerve health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fertility support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Breathing relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works very well",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not crucial",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:45.722Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

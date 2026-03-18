@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18637,
+  "last_updated": "2026-03-20T10:05:00.080Z",
+  "first_scraped": "2026-03-20T10:05:00.080Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Absorption aid, Less expensive, Skin benefits, Good for digestion, Natural flavor, Clean and safe, Convenient packaging, Antioxidant benefits.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorption aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less expensive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean and safe",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clumps together",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:00.080Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

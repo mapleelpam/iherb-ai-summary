@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5439,
+  "last_updated": "2026-03-20T10:12:40.901Z",
+  "first_scraped": "2026-03-20T10:12:40.901Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Potent dose, Nature's answer, Benefiting, yes, Hot flashes, Great benefits, Alcohol-free sage, Love this, Fast delivery.",
+    "tags": [
+      {
+        "name": "Potent dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nature's answer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefiting, yes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hot flashes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alcohol-free sage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tastes terrible",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:40.901Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

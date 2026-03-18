@@ -1,0 +1,68 @@
+{
+  "iherb_id": 122664,
+  "last_updated": "2026-03-20T10:01:32.198Z",
+  "first_scraped": "2026-03-20T10:01:32.198Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Digestive improvements, Relief started, Reducing histamine, Gut recovery, Reaction relief, Easy swallow, Lower mast cells, Clear benefits. Some note: Slow progress.",
+    "tags": [
+      {
+        "name": "Digestive improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief started",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reducing histamine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reaction relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower mast cells",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow progress",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Made symptoms worse",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:32.198Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

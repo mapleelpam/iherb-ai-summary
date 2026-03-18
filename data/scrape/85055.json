@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85055,
+  "last_updated": "2026-03-20T10:33:26.603Z",
+  "first_scraped": "2026-03-20T10:33:26.603Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious taste, Extra energy, No creatine, Good taste, Quicker recovery, Clean energy, Best flavor, Good energy.",
+    "tags": [
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No creatine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quicker recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Saddens me",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stressed out",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:33:26.603Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

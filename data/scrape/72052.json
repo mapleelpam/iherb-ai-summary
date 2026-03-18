@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72052,
+  "last_updated": "2026-03-20T09:33:28.994Z",
+  "first_scraped": "2026-03-20T09:33:28.994Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this product, Easy to swallow, Small size, Value purchase, Skin hydration, Improvement in skin, Skin feels less dry, Smooth skin. Some note: Moist skin, Sample size.",
+    "tags": [
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin feels less dry",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moist skin",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sample size",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:28.994Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 19109,
+  "last_updated": "2026-03-20T09:18:39.554Z",
+  "first_scraped": "2026-03-20T09:18:39.554Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice package, Improves skin, Miracle food, Hair improvement, Easy dissolve, Stronger nails, Joint health, Easy to mix. Some note: Trusted brand, No difference.",
+    "tags": [
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Miracle food",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:39.554Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

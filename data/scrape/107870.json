@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107870,
+  "last_updated": "2026-03-20T10:18:57.217Z",
+  "first_scraped": "2026-03-20T10:18:57.217Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Balanced caffeine, Works amazing, Loved it, Lost 3 kg, Delicious flavor, Water loss, Energy boost, Burn calories. Some note: No impact.",
+    "tags": [
+      {
+        "name": "Balanced caffeine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loved it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lost 3 kg",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Water loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Burn calories",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too many supplements",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No impact",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:57.217Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

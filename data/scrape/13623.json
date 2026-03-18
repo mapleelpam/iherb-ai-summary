@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13623,
+  "last_updated": "2026-03-20T09:29:20.947Z",
+  "first_scraped": "2026-03-20T09:29:20.947Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Right dosage, High doseage, Easy to swallow, Goes down easy, No aftertaste, Improved immunity, Good benefit. Some note: Effective supplement.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Right dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High doseage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Goes down easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive, ingredients",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:20.947Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

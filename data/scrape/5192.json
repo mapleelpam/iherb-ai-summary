@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5192,
+  "last_updated": "2026-03-20T09:42:38.524Z",
+  "first_scraped": "2026-03-20T09:42:38.524Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves skin, Alcohol-free, Happy with, Skincare ingredient, Natural benefits, Gentle formula, Clear skin, Potent formula. Some note: Herbal taste, Watch this space.",
+    "tags": [
+      {
+        "name": "Improves skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alcohol-free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skincare ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herbal taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Watch this space",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:38.524Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84489,
+  "last_updated": "2026-03-20T10:01:29.394Z",
+  "first_scraped": "2026-03-20T10:01:29.394Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Price efficient, Energized and focused, Strong power boost, Powerful burst, Significant pump, Good energy, High efficiency benefits, Intense energy.",
+    "tags": [
+      {
+        "name": "Price efficient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energized and focused",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong power boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful burst",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Significant pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High efficiency benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intense energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tasted terrible",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:29.394Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

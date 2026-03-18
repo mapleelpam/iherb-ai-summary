@@ -1,0 +1,68 @@
+{
+  "iherb_id": 17596,
+  "last_updated": "2026-03-20T09:25:45.503Z",
+  "first_scraped": "2026-03-20T09:25:45.503Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Repeat purchases, Value for money, Less dry eyes, Effective dose, Good composition, Less eye fatigue, Trusted product, UV protection, Good vision. Some note: High potency.",
+    "tags": [
+      {
+        "name": "Repeat purchases",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less dry eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less eye fatigue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "UV protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:45.503Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

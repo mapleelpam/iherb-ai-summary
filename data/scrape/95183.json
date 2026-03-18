@@ -1,0 +1,68 @@
+{
+  "iherb_id": 95183,
+  "last_updated": "2026-03-20T10:22:51.615Z",
+  "first_scraped": "2026-03-20T10:22:51.615Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Smooth and creamy, Delivered quickly, Sweet taste, High protein, Energy boost, Low iron, Good choice, Good protein dose.",
+    "tags": [
+      {
+        "name": "Smooth and creamy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delivered quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low iron",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good protein dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Added sugar",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not good taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:51.615Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

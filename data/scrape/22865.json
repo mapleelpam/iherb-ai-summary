@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22865,
+  "last_updated": "2026-03-20T10:26:29.438Z",
+  "first_scraped": "2026-03-20T10:26:29.438Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good mood, Quick processing, Healthy aging, Gentle lift, Great supplement, Boosts immunity, Effective herb, Fantastic daily supplement. Some note: Good immunity.",
+    "tags": [
+      {
+        "name": "Good mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick processing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy aging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle lift",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic daily supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best out there",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good immunity",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:29.438Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

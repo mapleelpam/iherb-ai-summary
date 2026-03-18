@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15632,
+  "last_updated": "2026-03-20T10:32:34.168Z",
+  "first_scraped": "2026-03-20T10:32:34.168Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works fantastic, Instant relief, Preventative product, Fast shipping, Detoxes organism, Sore throat, Natural anti-inflammatory, Keeps illness away. Some note: Strong taste.",
+    "tags": [
+      {
+        "name": "Works fantastic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Instant relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventative product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detoxes organism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sore throat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural anti-inflammatory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps illness away",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:34.168Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

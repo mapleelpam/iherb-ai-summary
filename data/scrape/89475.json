@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89475,
+  "last_updated": "2026-03-20T10:25:22.352Z",
+  "first_scraped": "2026-03-20T10:25:22.352Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Out of stock, Good deal, Fast shipping, Tasty protein, Satisfied for hours, Buying more, Loved by family, Very tasty.",
+    "tags": [
+      {
+        "name": "Out of stock",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied for hours",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buying more",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loved by family",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Gritty texture",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:22.352Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

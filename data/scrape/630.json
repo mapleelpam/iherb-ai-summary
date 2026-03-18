@@ -1,0 +1,68 @@
+{
+  "iherb_id": 630,
+  "last_updated": "2026-03-20T09:50:48.324Z",
+  "first_scraped": "2026-03-20T09:50:48.324Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural cognitive support, Boost energy, Normal size, Do their job, Tighter skin, Good circulation, Improved alertness, Cellulite help. Some note: Not much, Satisfied customer.",
+    "tags": [
+      {
+        "name": "Natural cognitive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Do their job",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tighter skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved alertness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cellulite help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not much",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Satisfied customer",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:48.324Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

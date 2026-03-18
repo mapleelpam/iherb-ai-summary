@@ -1,0 +1,58 @@
+{
+  "iherb_id": 79973,
+  "last_updated": "2026-03-20T10:06:10.324Z",
+  "first_scraped": "2026-03-20T10:06:10.324Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice flavor, Good taste, Energy boost, Nice scent, Great energy, Excellent delivery.",
+    "tags": [
+      {
+        "name": "Nice flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Artificial flavor",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Powdery aftertaste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:10.324Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

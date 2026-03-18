@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1886,
+  "last_updated": "2026-03-20T09:30:27.302Z",
+  "first_scraped": "2026-03-20T09:30:27.302Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this product, Excellent additive, Clearer skin, Good ingredients, Works great, Good source, Digests well, Easy to swallow. Some note: No major effects.",
+    "tags": [
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digests well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No major effects",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Breathlessness, anxiety",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:27.302Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

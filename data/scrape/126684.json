@@ -1,0 +1,68 @@
+{
+  "iherb_id": 126684,
+  "last_updated": "2026-03-20T09:25:52.352Z",
+  "first_scraped": "2026-03-20T09:25:52.352Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Recommend to everyone, Optimal health, Effective brand, Helps stress, Good for health, Great supplement, More energy, Energy boost. Some note: Bright yellow urine.",
+    "tags": [
+      {
+        "name": "Recommend to everyone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Optimal health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Terrible taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bright yellow urine",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:52.352Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 56832,
+  "last_updated": "2026-03-20T10:37:28.258Z",
+  "first_scraped": "2026-03-20T10:37:28.258Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful for sinus, Herbal combo, Great results, Cleansing effect, Chronic cough disappeared, Allergy relief, Grateful, foregone symptoms, Hay fever relief, Fast relief, Transparent sourcing.",
+    "tags": [
+      {
+        "name": "Helpful for sinus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herbal combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleansing effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chronic cough disappeared",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergy relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Grateful, foregone symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hay fever relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Transparent sourcing",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:37:28.258Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

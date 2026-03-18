@@ -1,0 +1,68 @@
+{
+  "iherb_id": 633,
+  "last_updated": "2026-03-20T09:42:42.445Z",
+  "first_scraped": "2026-03-20T09:42:42.445Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Modest effectiveness, Support vascular health, Restock soon, Effective supplement, Swelling improved, Plant benefits, Alleviates leg discomfort. Some note: No difference.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Modest effectiveness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support vascular health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restock soon",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Swelling improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alleviates leg discomfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Makes me vomit",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:42.445Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

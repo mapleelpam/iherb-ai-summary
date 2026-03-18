@@ -1,0 +1,68 @@
+{
+  "iherb_id": 58220,
+  "last_updated": "2026-03-20T09:20:48.735Z",
+  "first_scraped": "2026-03-20T09:20:48.735Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improvement seen, Good taste, Hair growth, Works great, Nice package, Tastes good, Amazing results, Value good. Some note: Improving health.",
+    "tags": [
+      {
+        "name": "Improvement seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving health",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not satisfied",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:48.735Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

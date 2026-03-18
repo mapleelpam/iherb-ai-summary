@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37993,
+  "last_updated": "2026-03-20T09:28:27.486Z",
+  "first_scraped": "2026-03-20T09:28:27.486Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Daily supplement, Good turmeric, Joint pain, Boost immunity, Helps digestion, Effective brand, Anti-inflammatory properties, Good antioxidant. Some note: Trust company, Clean ingredients.",
+    "tags": [
+      {
+        "name": "Daily supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good turmeric",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust company",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:27.486Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

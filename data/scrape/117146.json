@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117146,
+  "last_updated": "2026-03-20T09:23:55.103Z",
+  "first_scraped": "2026-03-20T09:23:55.103Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps arthritis, Nice dose, Bone health, Boost health, Easy to swallow, Improvement in health, Increase testosterone, Effective ingredient. Some note: Ideal choice, Good for bones.",
+    "tags": [
+      {
+        "name": "Helps arthritis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase testosterone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ideal choice",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good for bones",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:55.103Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

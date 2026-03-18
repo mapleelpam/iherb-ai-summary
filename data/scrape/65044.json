@@ -1,0 +1,68 @@
+{
+  "iherb_id": 65044,
+  "last_updated": "2026-03-20T10:10:35.446Z",
+  "first_scraped": "2026-03-20T10:10:35.446Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Visible cuts, Highly recommend, Super fast delivery, Natural alternative, Great pump, Good results, Extra power, Game-changer. Some note: High efficiency.",
+    "tags": [
+      {
+        "name": "Visible cuts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra power",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Waste of money",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High efficiency",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:35.446Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

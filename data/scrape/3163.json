@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3163,
+  "last_updated": "2026-03-20T09:34:10.632Z",
+  "first_scraped": "2026-03-20T09:34:10.632Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural ingredients, Helps digestion, Highly recommend, Energy boost, Convenient mix, Fantastic service, Strong taste, Excellent blend. Some note: Fermented whole food, Thickens quickly.",
+    "tags": [
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fermented whole food",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Thickens quickly",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:10.632Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

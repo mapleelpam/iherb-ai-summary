@@ -1,0 +1,68 @@
+{
+  "iherb_id": 56864,
+  "last_updated": "2026-03-20T09:39:49.701Z",
+  "first_scraped": "2026-03-20T09:39:49.701Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Satisfied with product, Stronger nails, Less hair falling, New hair growth, Improvement seen, Good for hair, Good glow, Tight box.",
+    "tags": [
+      {
+        "name": "Satisfied with product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less hair falling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "New hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good glow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tight box",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin normal",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Big bottle",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:49.701Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

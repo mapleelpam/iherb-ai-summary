@@ -1,0 +1,68 @@
+{
+  "iherb_id": 112250,
+  "last_updated": "2026-03-20T10:06:41.961Z",
+  "first_scraped": "2026-03-20T10:06:41.961Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pure extract, Early benefits, Tested negative, Love brand, Energy boost, Easy swallow, Super food, Swelling relief. Some note: Powerful mushroom, Slowly works.",
+    "tags": [
+      {
+        "name": "Pure extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Early benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tested negative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super food",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Swelling relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful mushroom",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Slowly works",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:41.961Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

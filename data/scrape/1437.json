@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1437,
+  "last_updated": "2026-03-20T09:38:45.768Z",
+  "first_scraped": "2026-03-20T09:38:45.768Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Relaxing effect, Stronger effect, Calming blend, Natural aid, Helps sleep, Great blend, Anxiety relief. Some note: Good ingredients.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxing effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Debilitating pain",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:45.768Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

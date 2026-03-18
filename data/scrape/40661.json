@@ -1,0 +1,68 @@
+{
+  "iherb_id": 40661,
+  "last_updated": "2026-03-20T10:10:58.040Z",
+  "first_scraped": "2026-03-20T10:10:58.040Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Worth each, Game changer, Morning routine, Good energy, More energy, Love benefits, Heart health, Younger look.",
+    "tags": [
+      {
+        "name": "Worth each",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning routine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Younger look",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach pain",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:58.040Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116452,
+  "last_updated": "2026-03-20T09:57:34.306Z",
+  "first_scraped": "2026-03-20T09:57:34.306Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Bowel movements, Tastes great, Amazing flavor, Tasty option, Like candies, Restful night, Improves calmness, Nice change.",
+    "tags": [
+      {
+        "name": "Bowel movements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Like candies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restful night",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves calmness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to find",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hates flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:34.306Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

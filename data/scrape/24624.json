@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24624,
+  "last_updated": "2026-03-20T09:48:43.571Z",
+  "first_scraped": "2026-03-20T09:48:43.571Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Excellent source, Immune support, Vegan d3, Vegan friendly, Easy to take, Increase shown, Quick delivery, Customer service. Some note: Boost immune.",
+    "tags": [
+      {
+        "name": "Excellent source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan d3",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase shown",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Customer service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:43.571Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

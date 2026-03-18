@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109891,
+  "last_updated": "2026-03-20T10:12:46.937Z",
+  "first_scraped": "2026-03-20T10:12:46.937Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delightful flavor, New formula, Superfood mix, Love the size, Extra energy, Value for money, Refreshing taste, Better pricing.",
+    "tags": [
+      {
+        "name": "Delightful flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "New formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superfood mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better pricing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleaner version",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Clumped product",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:46.937Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

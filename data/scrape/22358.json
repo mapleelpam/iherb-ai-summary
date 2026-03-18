@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22358,
+  "last_updated": "2026-03-20T10:22:26.934Z",
+  "first_scraped": "2026-03-20T10:22:26.934Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Builds in, Skin health, Stress relief, Highly recommend, Vivid dreams, More energy, Balanced mind, Manage emotions. Some note: Tranquility boost.",
+    "tags": [
+      {
+        "name": "Builds in",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vivid dreams",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Manage emotions",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tranquility boost",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Overwhelming fatigue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:26.934Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

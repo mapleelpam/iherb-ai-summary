@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24562,
+  "last_updated": "2026-03-20T09:35:10.106Z",
+  "first_scraped": "2026-03-20T09:35:10.106Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Healthy baby, Nice taste, Nerve pain, High dosage, Easy to swallow, Enjoyed for using, Organic ingredients, Small size. Some note: Not sure, Very natural.",
+    "tags": [
+      {
+        "name": "Healthy baby",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nerve pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enjoyed for using",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Very natural",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:10.106Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

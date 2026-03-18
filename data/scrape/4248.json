@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4248,
+  "last_updated": "2026-03-20T10:06:57.183Z",
+  "first_scraped": "2026-03-20T10:06:57.183Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High potency, High concentration, Better absorption, Oxidative stress, Easy swallow, Helps inflammation, Good formula, Impressed with.",
+    "tags": [
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Oxidative stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sore throat",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fast laxative",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:57.183Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

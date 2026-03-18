@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107784,
+  "last_updated": "2026-03-20T10:11:46.103Z",
+  "first_scraped": "2026-03-20T10:11:46.103Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good health, Boost with everything, Boosts energy, Better results, Increases blood flow, Extra aggressive, Excellent formulation, Good vitamin. Some note: Bigger packages.",
+    "tags": [
+      {
+        "name": "Good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost with everything",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increases blood flow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra aggressive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent formulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bigger packages",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:46.103Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

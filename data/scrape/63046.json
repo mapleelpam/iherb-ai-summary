@@ -1,0 +1,68 @@
+{
+  "iherb_id": 63046,
+  "last_updated": "2026-03-20T10:17:34.681Z",
+  "first_scraped": "2026-03-20T10:17:34.681Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy solution, Empty stomach, Mixes well, Nice package, Easy to use, Top 5, Amazing, Noticeable performance gains, More strength.",
+    "tags": [
+      {
+        "name": "Easy solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Empty stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top 5",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable performance gains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Price increase",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:34.681Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

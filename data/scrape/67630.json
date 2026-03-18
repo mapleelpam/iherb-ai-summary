@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67630,
+  "last_updated": "2026-03-20T09:40:30.724Z",
+  "first_scraped": "2026-03-20T09:40:30.724Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious taste, Good results, Switching tastes, Mixes well, Efficient packaging, Fast shipment, Convenient scoop, Premium supplement. Some note: Perfect balance.",
+    "tags": [
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Switching tastes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient scoop",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Premium supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Artificial taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Perfect balance",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:30.724Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

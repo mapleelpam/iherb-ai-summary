@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72124,
+  "last_updated": "2026-03-20T09:59:02.882Z",
+  "first_scraped": "2026-03-20T09:59:02.882Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Best value, Good taste, Easy to drink, Muscle cramps, Nice flavor, Orange flavor, Better sleep, Bowels regular. Some note: Helpful for restless legs.",
+    "tags": [
+      {
+        "name": "Best value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Orange flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bowels regular",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful for restless legs",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:02.882Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

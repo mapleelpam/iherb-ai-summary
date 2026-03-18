@@ -1,0 +1,68 @@
+{
+  "iherb_id": 141700,
+  "last_updated": "2026-03-20T09:40:01.436Z",
+  "first_scraped": "2026-03-20T09:40:01.436Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Energy boost, Stomachache relief, Trusted brand, Effective mix, High potency, Repeat purchase, Quick results. Some note: Color change, Big capsules.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomachache relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Color change",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Big capsules",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:01.436Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

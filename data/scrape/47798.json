@@ -1,0 +1,68 @@
+{
+  "iherb_id": 47798,
+  "last_updated": "2026-03-20T09:21:51.873Z",
+  "first_scraped": "2026-03-20T09:21:51.873Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin glow, Less tired, Great package, Easy to swallow, Clear skin, Positive results, Great help, Boosting immunity. Some note: First time.",
+    "tags": [
+      {
+        "name": "Skin glow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less tired",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First time",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No visible effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:51.873Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

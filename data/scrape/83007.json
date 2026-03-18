@@ -1,0 +1,68 @@
+{
+  "iherb_id": 83007,
+  "last_updated": "2026-03-20T10:02:43.047Z",
+  "first_scraped": "2026-03-20T10:02:43.047Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Easy to swallow, Packed well, Helps control, Natural ingredients, Balances blood sugar, Blood sugar support, Composition good. Some note: Respectful brand.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Packed well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balances blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Composition good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Respectful brand",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stopped after",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:43.047Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

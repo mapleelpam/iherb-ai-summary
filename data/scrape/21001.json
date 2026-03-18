@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21001,
+  "last_updated": "2026-03-20T10:14:33.941Z",
+  "first_scraped": "2026-03-20T10:14:33.941Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Important DHA, Less arthritis pain, Vegan supplement, Convenient size, Vegan option, No aftertaste, Effective antioxidant, Good alternative. Some note: Pricey boost, Small pills.",
+    "tags": [
+      {
+        "name": "Important DHA",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less arthritis pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pricey boost",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Small pills",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:33.941Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

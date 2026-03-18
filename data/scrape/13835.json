@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13835,
+  "last_updated": "2026-03-20T09:38:02.301Z",
+  "first_scraped": "2026-03-20T09:38:02.301Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Health boost, Improved energy, Best chelated, Good composition, Size and contents, Iron-free formula, Good ingredients, Convenient way.",
+    "tags": [
+      {
+        "name": "Health boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best chelated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Size and contents",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Iron-free formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large tablets",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Cancel product",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:02.301Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

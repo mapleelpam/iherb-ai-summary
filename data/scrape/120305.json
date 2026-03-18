@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120305,
+  "last_updated": "2026-03-20T10:09:09.426Z",
+  "first_scraped": "2026-03-20T10:09:09.426Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Vegan friendly, Enhancing gut health, Helpful product, Continuously improving, Improved digestion, Good ingredients, Postbiotic supply, Orange smell.",
+    "tags": [
+      {
+        "name": "Vegan friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhancing gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Continuously improving",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Postbiotic supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Orange smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad bloating",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Digestion issues",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:09.426Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

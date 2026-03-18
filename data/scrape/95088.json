@@ -1,0 +1,68 @@
+{
+  "iherb_id": 95088,
+  "last_updated": "2026-03-20T10:15:13.981Z",
+  "first_scraped": "2026-03-20T10:15:13.981Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved control, Sleep uninteruply, Good ingredients, Urinary aid, Fast shipping, Helpful supplement, Improved bladder control, Happy with.",
+    "tags": [
+      {
+        "name": "Improved control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep uninteruply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Urinary aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved bladder control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Below expectations",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not benefiting",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:13.981Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 145217,
+  "last_updated": "2026-03-20T09:29:20.016Z",
+  "first_scraped": "2026-03-20T09:29:20.016Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient way, More energy, Great supplement, Burn fat, Good taste, Tastes great, Yummy gummies, Energy boost.",
+    "tags": [
+      {
+        "name": "Convenient way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Burn fat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Iron taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:20.016Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

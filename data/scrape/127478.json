@@ -1,0 +1,68 @@
+{
+  "iherb_id": 127478,
+  "last_updated": "2026-03-20T09:27:58.657Z",
+  "first_scraped": "2026-03-20T09:27:58.657Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful product, Relieved discomfort, Digestive enzyme, Autism spectrum, Works great, Life changing, Reduced intolerance, Fast shipping.",
+    "tags": [
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieved discomfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive enzyme",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Autism spectrum",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced intolerance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Side effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:58.657Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

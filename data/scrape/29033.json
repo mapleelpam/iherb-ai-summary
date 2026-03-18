@@ -1,0 +1,68 @@
+{
+  "iherb_id": 29033,
+  "last_updated": "2026-03-20T09:35:04.385Z",
+  "first_scraped": "2026-03-20T09:35:04.385Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Relief from reflux, Tastes good, Easy drink, Good for digestion, Hair moisturizer, Good taste, Enhance health, Convenient packaging. Some note: Large size.",
+    "tags": [
+      {
+        "name": "Relief from reflux",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair moisturizer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhance health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Large size",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:04.385Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

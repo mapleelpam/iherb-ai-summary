@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37670,
+  "last_updated": "2026-03-20T10:11:27.158Z",
+  "first_scraped": "2026-03-20T10:11:27.158Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Nice mix, Quick dissolve, Tastes sweet, Minimal ingredients, Tooth improvement, Small, easy, Super-fast ship. Some note: Convenient option.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes sweet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Minimal ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tooth improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small, easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super-fast ship",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Intense pain",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:27.158Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

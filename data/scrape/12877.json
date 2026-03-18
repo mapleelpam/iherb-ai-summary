@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12877,
+  "last_updated": "2026-03-20T10:10:10.252Z",
+  "first_scraped": "2026-03-20T10:10:10.252Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosts immune, Soy free, Improved focus, Trusted brand, Outstanding benefits, Clean ingredients, Looks good, Memory improvement.",
+    "tags": [
+      {
+        "name": "Boosts immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soy free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Outstanding benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Looks good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Did nothing",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:10.252Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

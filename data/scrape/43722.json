@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43722,
+  "last_updated": "2026-03-20T09:28:04.961Z",
+  "first_scraped": "2026-03-20T09:28:04.961Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Heart health, Dermatologist recommended, Energy support, Easy to swallow, Smooth skin, Good health, Clearer skin, Fast shipping. Some note: Potency is good, Not sure.",
+    "tags": [
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dermatologist recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potency is good",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:04.961Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

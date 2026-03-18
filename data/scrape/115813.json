@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115813,
+  "last_updated": "2026-03-20T10:02:29.875Z",
+  "first_scraped": "2026-03-20T10:02:29.875Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Affordable option, Good effects, Great results, Quality supplement, Morning energy, High efficiency, Tasteless and easy, Energy levels. Some note: Effective dosage, Aging processes.",
+    "tags": [
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High efficiency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasteless and easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Aging processes",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:29.875Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

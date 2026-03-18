@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6549,
+  "last_updated": "2026-03-20T10:20:11.049Z",
+  "first_scraped": "2026-03-20T10:20:11.049Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reasonable price, Acid reflux, Elimination help, Works wonders, Helps digestion, Fabulous relief, Good taste, Trustworthy service.",
+    "tags": [
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acid reflux",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Elimination help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fabulous relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trustworthy service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Needs refrigeration",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bad flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:11.049Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108674,
+  "last_updated": "2026-03-20T10:04:32.788Z",
+  "first_scraped": "2026-03-20T10:04:32.788Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune support, Convenient tablets, Love this, Works fine, Reduce stress, Cold-pressed supplement, Easy to swallow, Helpful product.",
+    "tags": [
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cold-pressed supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not good",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:32.788Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

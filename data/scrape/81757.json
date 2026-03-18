@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81757,
+  "last_updated": "2026-03-20T10:27:24.512Z",
+  "first_scraped": "2026-03-20T10:27:24.512Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Long lasting, As described, Easy to swallow, Love this, Improvement in sleep, Vegan friendly, Big dose, Extra strength.",
+    "tags": [
+      {
+        "name": "Long lasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "As described",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doesn't work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Added filler",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:24.512Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

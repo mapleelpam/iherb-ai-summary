@@ -1,0 +1,68 @@
+{
+  "iherb_id": 79969,
+  "last_updated": "2026-03-20T10:01:08.425Z",
+  "first_scraped": "2026-03-20T10:01:08.425Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great addition, Boosts energy, Super happy, Metabolism booster, Keto friendly, Mix with coffee, Good deal, Morning coffee. Some note: Healthy product, Large bottle.",
+    "tags": [
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Metabolism booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keto friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mix with coffee",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning coffee",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Large bottle",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:08.425Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

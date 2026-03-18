@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5201,
+  "last_updated": "2026-03-20T10:20:21.904Z",
+  "first_scraped": "2026-03-20T10:20:21.904Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Faster healing, Good option, Works great, Powerful herb, Skin conditions, Improves gum health, Sensual smell, Skin benefits.",
+    "tags": [
+      {
+        "name": "Faster healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin conditions",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves gum health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sensual smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very potent",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:21.904Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

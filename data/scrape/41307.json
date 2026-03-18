@@ -1,0 +1,68 @@
+{
+  "iherb_id": 41307,
+  "last_updated": "2026-03-20T09:19:55.444Z",
+  "first_scraped": "2026-03-20T09:19:55.444Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stronger nails, Good result, Energy boost, Affordable option, Easy to swallow, Positive impact, Hair growth, High potency. Some note: Good dosage, Helped hair.",
+    "tags": [
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helped hair",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:55.444Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

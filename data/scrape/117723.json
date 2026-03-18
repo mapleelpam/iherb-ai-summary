@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117723,
+  "last_updated": "2026-03-20T09:33:32.951Z",
+  "first_scraped": "2026-03-20T09:33:32.951Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps fight, Big size, Good ingredients, Value for money, Good dosages, Daily use, Good benefit, Symptoms improving. Some note: Support immune.",
+    "tags": [
+      {
+        "name": "Helps fight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosages",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Symptoms improving",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Found alternative",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Support immune",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:32.951Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

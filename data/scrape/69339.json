@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69339,
+  "last_updated": "2026-03-20T09:21:31.364Z",
+  "first_scraped": "2026-03-20T09:21:31.364Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Easy to swallow, Excellent choice, Easy to use, Helpful for mom, Good for immunity, Reduces inflammation, Joint pain relief. Some note: Good combo, No bad taste.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful for mom",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combo",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No bad taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:31.364Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

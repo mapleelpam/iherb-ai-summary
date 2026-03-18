@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69842,
+  "last_updated": "2026-03-20T10:15:47.067Z",
+  "first_scraped": "2026-03-20T10:15:47.067Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Feel good, Natural support, Calming nerves, Daily stress, Drug free, Relaxing effects, Satisfied user.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming nerves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Drug free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxing effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied user",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not convinced",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:47.067Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

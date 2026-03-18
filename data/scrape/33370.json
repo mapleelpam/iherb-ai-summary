@@ -1,0 +1,68 @@
+{
+  "iherb_id": 33370,
+  "last_updated": "2026-03-20T09:54:30.483Z",
+  "first_scraped": "2026-03-20T09:54:30.483Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good combination, Prompt delivery, Love product, See improvements, Helps a lot, Neutral taste, Mild flavor, Good choice.",
+    "tags": [
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "See improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps a lot",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Upset stomach",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hidden refrigeration",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:30.483Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

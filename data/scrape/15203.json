@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15203,
+  "last_updated": "2026-03-20T10:32:26.180Z",
+  "first_scraped": "2026-03-20T10:32:26.180Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Soothes skin, Fast shipping, Improving immune, Itchy skin relief, Trusted brand, Reasonable cost, Calming effect, Healing deep.",
+    "tags": [
+      {
+        "name": "Soothes skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Itchy skin relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable cost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healing deep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unsafe product",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:26.180Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

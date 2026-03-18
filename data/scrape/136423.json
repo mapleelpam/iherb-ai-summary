@@ -1,0 +1,68 @@
+{
+  "iherb_id": 136423,
+  "last_updated": "2026-03-20T10:35:03.994Z",
+  "first_scraped": "2026-03-20T10:35:03.994Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost milk, Increase supply, Beneficial supplement, Many benefits, Good result, Fast shipping, Did the trick, Milk flow increase.",
+    "tags": [
+      {
+        "name": "Boost milk",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Many benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Did the trick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Milk flow increase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Noticed discomfort",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:35:03.994Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

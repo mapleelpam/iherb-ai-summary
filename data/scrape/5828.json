@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5828,
+  "last_updated": "2026-03-20T10:32:33.150Z",
+  "first_scraped": "2026-03-20T10:32:33.150Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Blood vessel cleaner, Improves circulation, Better blood flow, Good combination, Boost of energy, Effective ingredients, Great results, Heart health, Lessened weakness.",
+    "tags": [
+      {
+        "name": "Blood vessel cleaner",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better blood flow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lessened weakness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decreased effectiveness",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:33.150Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

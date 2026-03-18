@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24069,
+  "last_updated": "2026-03-20T10:40:45.278Z",
+  "first_scraped": "2026-03-20T10:40:45.278Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved bone density, Healthy balance, Better than drugs, Improved dramatically, Stomach support, Easy tablets, Teeth strengthening, Natural product. Some note: No decrease.",
+    "tags": [
+      {
+        "name": "Improved bone density",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better than drugs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved dramatically",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Teeth strengthening",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No decrease",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Increased brittleness",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:40:45.278Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111463,
+  "last_updated": "2026-03-20T09:25:46.514Z",
+  "first_scraped": "2026-03-20T09:25:46.514Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Essential component, Best PC, Memory regulation, Improved energy, Improvement in, Fast shipping, Effective brand, Effective mix.",
+    "tags": [
+      {
+        "name": "Essential component",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best PC",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory regulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:46.514Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

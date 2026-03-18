@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43723,
+  "last_updated": "2026-03-20T09:24:17.693Z",
+  "first_scraped": "2026-03-20T09:24:17.693Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Boosts confidence, Improves sleep, Easy to swallow, Packaging easy, Helps metabolism, Sleep aid, Increase body. Some note: No difference, Economical choice.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts confidence",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Packaging easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase body",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Economical choice",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:17.693Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

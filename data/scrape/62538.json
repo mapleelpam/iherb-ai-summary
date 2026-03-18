@@ -1,0 +1,68 @@
+{
+  "iherb_id": 62538,
+  "last_updated": "2026-03-20T09:59:55.778Z",
+  "first_scraped": "2026-03-20T09:59:55.778Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works great, Easy to take, Sublingual b9, Good taste, Methylated form, Effective option, Non-gmo, Metabolically active. Some note: Gene mutations.",
+    "tags": [
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sublingual b9",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Methylated form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Non-gmo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Metabolically active",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gene mutations",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bad diarrhea",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:55.778Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4686,
+  "last_updated": "2026-03-20T09:50:04.158Z",
+  "first_scraped": "2026-03-20T09:50:04.158Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to drink, Heart protocol, Affordable option, Nail improvement, Improves bone, Strong nails, Prevention best, Taste great. Some note: Convenient form, Delicious flavor.",
+    "tags": [
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart protocol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nail improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves bone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prevention best",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient form",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:04.158Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

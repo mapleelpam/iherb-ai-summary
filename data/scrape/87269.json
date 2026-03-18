@@ -1,0 +1,68 @@
+{
+  "iherb_id": 87269,
+  "last_updated": "2026-03-20T09:57:44.344Z",
+  "first_scraped": "2026-03-20T09:57:44.344Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective anxiety relief, Good reaction, Herbal product, Works wonders, Calming effect, Less hair breakage, Support sleep, Sleep well. Some note: Quick ordering.",
+    "tags": [
+      {
+        "name": "Effective anxiety relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good reaction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herbal product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less hair breakage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick ordering",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Chemical one",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:44.344Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

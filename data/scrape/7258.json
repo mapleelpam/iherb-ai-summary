@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7258,
+  "last_updated": "2026-03-20T09:25:09.885Z",
+  "first_scraped": "2026-03-20T09:25:09.885Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice price, Improved health, Healthy balance, Promote well-being, Easy swallow, Excellent supplement, Craving reduction, Regulate blood, Carb craving. Some note: Insulin support.",
+    "tags": [
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Promote well-being",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Craving reduction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate blood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Carb craving",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Insulin support",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:09.885Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

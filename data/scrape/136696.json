@@ -1,0 +1,68 @@
+{
+  "iherb_id": 136696,
+  "last_updated": "2026-03-20T09:26:27.363Z",
+  "first_scraped": "2026-03-20T09:26:27.363Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Excellent additive, Love this product, Nice price, Helps joints, Glowing skin, More energy, Stronger nails, Easy to consume. Some note: Nice taste.",
+    "tags": [
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glowing skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to consume",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not like",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:27.363Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

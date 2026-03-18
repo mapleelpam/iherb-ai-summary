@@ -1,0 +1,68 @@
+{
+  "iherb_id": 87268,
+  "last_updated": "2026-03-20T10:08:50.284Z",
+  "first_scraped": "2026-03-20T10:08:50.284Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Quick improvement, Almost immediate, Good option, Reduced headaches, Consistent relief, Organic option, Good taste. Some note: Seasonal allergies, Under tongue.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Almost immediate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced headaches",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consistent relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seasonal allergies",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Under tongue",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:50.284Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

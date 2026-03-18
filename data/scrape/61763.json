@@ -1,0 +1,68 @@
+{
+  "iherb_id": 61763,
+  "last_updated": "2026-03-20T10:02:52.394Z",
+  "first_scraped": "2026-03-20T10:02:52.394Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Affordable pricing, Excellent supplement, Energy boost, Convenient package, Heart health, Health benefits, Blood pressure control, Good combo. Some note: Longer time.",
+    "tags": [
+      {
+        "name": "Affordable pricing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low blood pressure",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Longer time",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:52.394Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

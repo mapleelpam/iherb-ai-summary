@@ -1,0 +1,68 @@
+{
+  "iherb_id": 29815,
+  "last_updated": "2026-03-20T09:53:19.829Z",
+  "first_scraped": "2026-03-20T09:53:19.829Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost, Effective ingredients, Boost fertility, Helps with weightloss, Good dosage, Faster recovery, Muscle recovery, Less fillers. Some note: Useful for muscle growth.",
+    "tags": [
+      {
+        "name": "Boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost fertility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with weightloss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Faster recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less fillers",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Useful for muscle growth",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not healthy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:19.829Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

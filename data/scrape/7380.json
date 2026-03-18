@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7380,
+  "last_updated": "2026-03-20T10:18:42.177Z",
+  "first_scraped": "2026-03-20T10:18:42.177Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Healthy ingredients, More energy, Helps energy, Helps relax, Good deal, More relaxed, Recommended, stabilized, Noticeable difference.",
+    "tags": [
+      {
+        "name": "Healthy ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps relax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More relaxed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended, stabilized",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Horrible product",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High B vitamins",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:42.177Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

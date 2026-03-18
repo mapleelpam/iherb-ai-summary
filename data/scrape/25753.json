@@ -1,0 +1,68 @@
+{
+  "iherb_id": 25753,
+  "last_updated": "2026-03-20T09:39:53.542Z",
+  "first_scraped": "2026-03-20T09:39:53.542Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Healthy lifestyle, Improves mood, Parasite support, Good results, Avoid sweets, Light feeling, Trusted brand, Powerful blend. Some note: Bitter taste.",
+    "tags": [
+      {
+        "name": "Healthy lifestyle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Parasite support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid sweets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Light feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive price",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:53.542Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

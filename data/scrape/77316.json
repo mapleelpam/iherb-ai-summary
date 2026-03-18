@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77316,
+  "last_updated": "2026-03-20T09:24:51.473Z",
+  "first_scraped": "2026-03-20T09:24:51.473Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Weight loss, Good ingredient, Great supplement, Feel difference, Muscle support, Boost energy, More stamina. Some note: L-carnitine supplement, Helps weight.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "L-carnitine supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helps weight",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:51.473Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

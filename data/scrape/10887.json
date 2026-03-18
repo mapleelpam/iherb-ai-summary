@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10887,
+  "last_updated": "2026-03-20T09:57:46.248Z",
+  "first_scraped": "2026-03-20T09:57:46.248Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Benefiting many, Boost immune, Fast relief, Ingredient list, Love this, Immune support, Respiratory support, Less colds, Energy boost.",
+    "tags": [
+      {
+        "name": "Benefiting many",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ingredient list",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Respiratory support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less colds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overpriced vitamin",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:46.248Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

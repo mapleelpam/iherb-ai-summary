@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43056,
+  "last_updated": "2026-03-20T09:31:16.448Z",
+  "first_scraped": "2026-03-20T09:31:16.448Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Bone health, Helpful for osteoporosis, Happy customer, Easy to digest, Love alive, Good for elderly, Good vitamins, Less expensive. Some note: Effective supplement.",
+    "tags": [
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful for osteoporosis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy customer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to digest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love alive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for elderly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less expensive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stomach pains",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:16.448Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 68437,
+  "last_updated": "2026-03-20T09:40:56.428Z",
+  "first_scraped": "2026-03-20T09:40:56.428Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective multivitamin, Easy swallow, Works properly, Improved digestion, Well absorbed, Immune protection, No hot flashes, More energy. Some note: High potency.",
+    "tags": [
+      {
+        "name": "Effective multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works properly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well absorbed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No hot flashes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "DV discrepancy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:56.428Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

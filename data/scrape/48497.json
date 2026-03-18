@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48497,
+  "last_updated": "2026-03-20T09:36:42.582Z",
+  "first_scraped": "2026-03-20T09:36:42.582Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improve digestion, Great investment, Complete strains, Doesn't need refrigeration, Feel better, Top line, Regular bowel, High dosage. Some note: Small size capsules.",
+    "tags": [
+      {
+        "name": "Improve digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great investment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete strains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doesn't need refrigeration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top line",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular bowel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No changes",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Small size capsules",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:42.582Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73435,
+  "last_updated": "2026-03-20T10:26:25.423Z",
+  "first_scraped": "2026-03-20T10:26:25.423Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Cardio boost, Morning ritual, Good alternative, Muscle recovery, Fast recovery, Quick boost, High energy, Pre-workout favorite.",
+    "tags": [
+      {
+        "name": "Cardio boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning ritual",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pre-workout favorite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weak fat burner",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Short-lived energy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:25.423Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

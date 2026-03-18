@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2086,
+  "last_updated": "2026-03-20T09:34:00.397Z",
+  "first_scraped": "2026-03-20T09:34:00.397Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Weak bones, Quick relief, Soothes throat, Wards off, Kids love, Will buy, Love this, Blood sugars. Some note: Effective remedy.",
+    "tags": [
+      {
+        "name": "Weak bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soothes throat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wards off",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Will buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugars",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Effective remedy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:00.397Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

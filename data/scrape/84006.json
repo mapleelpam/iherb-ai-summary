@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84006,
+  "last_updated": "2026-03-20T10:07:09.304Z",
+  "first_scraped": "2026-03-20T10:07:09.304Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Nice price, Wonderful product, Easy on stomach, Easy to dissolve, Love the taste, Best whey protein, Clean products. Some note: Recommend it.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wonderful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best whey protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean products",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend it",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:09.304Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113453,
+  "last_updated": "2026-03-20T10:11:13.641Z",
+  "first_scraped": "2026-03-20T10:11:13.641Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost immunity, Focus help, Worth the purchase, Energy boost, Good gut flora, Cancer support, Works better, Clean ingredients, Sleeping better. Some note: Potential try.",
+    "tags": [
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Focus help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth the purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good gut flora",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cancer support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleeping better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potential try",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:13.641Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

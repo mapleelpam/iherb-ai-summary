@@ -1,0 +1,68 @@
+{
+  "iherb_id": 87271,
+  "last_updated": "2026-03-20T10:22:00.518Z",
+  "first_scraped": "2026-03-20T10:22:00.518Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Versatile option, Enhance recovery, Effective protein, Taste amazing, Easy dissolve, Heaven in a mug, Muscle recovery, Ideal replacement.",
+    "tags": [
+      {
+        "name": "Versatile option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhance recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heaven in a mug",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ideal replacement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tasted like chalk",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:00.518Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

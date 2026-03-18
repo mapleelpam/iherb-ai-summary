@@ -1,0 +1,68 @@
+{
+  "iherb_id": 128699,
+  "last_updated": "2026-03-20T10:09:26.830Z",
+  "first_scraped": "2026-03-20T10:09:26.830Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Brain health, Boosts immunity, Concentration boost, Improved focus, Potent per capsule, Highly recommend, Memory improvement, Powerful extract.",
+    "tags": [
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Concentration boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent per capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not satisfied",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive product",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:26.830Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

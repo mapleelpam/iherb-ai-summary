@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13748,
+  "last_updated": "2026-03-20T09:34:40.824Z",
+  "first_scraped": "2026-03-20T09:34:40.824Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for cholesterol, Good option, Reliable source, Easy to swallow, Improvement inflammation, High omega content, Pain relief, Great supplement. Some note: Good ingredients, High cholesterol.",
+    "tags": [
+      {
+        "name": "Good for cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High omega content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High cholesterol",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:40.824Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

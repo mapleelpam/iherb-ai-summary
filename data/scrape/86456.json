@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86456,
+  "last_updated": "2026-03-20T09:15:43.790Z",
+  "first_scraped": "2026-03-20T09:15:43.790Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective brand, Good vitamins, Good combination, Highly recommend, Great multivitamin, One a day, Fast shipment, Comprehensive nutrition. Some note: Reasonable price.",
+    "tags": [
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "One a day",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comprehensive nutrition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:15:43.790Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

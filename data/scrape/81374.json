@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81374,
+  "last_updated": "2026-03-20T09:30:03.642Z",
+  "first_scraped": "2026-03-20T09:30:03.642Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stronger hair, Natural ingredient, Pregnancy preparation, Excellent additive, Improved energy, Heart health, Important supplement, Vitamin benefits, Refreshing aging. Some note: Basic folio.",
+    "tags": [
+      {
+        "name": "Stronger hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pregnancy preparation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Important supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing aging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Basic folio",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:03.642Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

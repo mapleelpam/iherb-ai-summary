@@ -1,0 +1,68 @@
+{
+  "iherb_id": 36901,
+  "last_updated": "2026-03-20T10:07:38.801Z",
+  "first_scraped": "2026-03-20T10:07:38.801Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trust company, Relaxing, Tastes good, Good mood, Fast absorption, Berry flavor, Helps sleep, Easy to take. Some note: Slow dissolve.",
+    "tags": [
+      {
+        "name": "Trust company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Berry flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No mood change",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Slow dissolve",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:38.801Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23980,
+  "last_updated": "2026-03-20T09:55:35.082Z",
+  "first_scraped": "2026-03-20T09:55:35.082Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin health, California ones, Fast absorption, Reduce inflammation, Absorbing vitamins, Fast results, No aftertaste, Easy to swallow. Some note: Great source.",
+    "tags": [
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "California ones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorbing vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great source",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Worst value",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:35.082Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

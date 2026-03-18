@@ -1,0 +1,68 @@
+{
+  "iherb_id": 35426,
+  "last_updated": "2026-03-20T09:46:55.294Z",
+  "first_scraped": "2026-03-20T09:46:55.294Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Memory sharp, Clean and potent, Real omega, Improved mood, Good result, Rocket fast, Wild caught. Some note: Love this one.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory sharp",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean and potent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real omega",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rocket fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wild caught",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this one",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Rancid taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:55.294Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

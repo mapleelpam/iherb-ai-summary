@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117623,
+  "last_updated": "2026-03-20T09:52:33.664Z",
+  "first_scraped": "2026-03-20T09:52:33.664Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy improvement, High energy, No reservations, Benefits glandular, Easy to swallow, Improving adrenal, Supports adrenal, Effective option.",
+    "tags": [
+      {
+        "name": "Energy improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No reservations",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefits glandular",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving adrenal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports adrenal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Raised blood pressure",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Consult doctor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:33.664Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

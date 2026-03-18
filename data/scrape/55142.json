@@ -1,0 +1,68 @@
+{
+  "iherb_id": 55142,
+  "last_updated": "2026-03-20T09:32:30.783Z",
+  "first_scraped": "2026-03-20T09:32:30.783Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less tired, Tasty supplement, Fast dissolve, Vegan product, Good b12, Improved energy, Mild flavor, Tastes good. Some note: Should work.",
+    "tags": [
+      {
+        "name": "Less tired",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good b12",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Turns powdery",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Should work",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:30.783Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

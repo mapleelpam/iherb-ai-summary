@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81745,
+  "last_updated": "2026-03-20T09:32:56.638Z",
+  "first_scraped": "2026-03-20T09:32:56.638Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps mood, Helpful product, Improves symptoms, Feeling better, Fast shipping, Helps regulate, Nice packing, Sweet taste. Some note: No taste.",
+    "tags": [
+      {
+        "name": "Helps mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps regulate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Upset stomach",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:56.638Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

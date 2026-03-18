@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97159,
+  "last_updated": "2026-03-20T09:57:27.332Z",
+  "first_scraped": "2026-03-20T09:57:27.332Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Speedy recovery, Immune support, Life improvement, Anti-viral benefits, Effective herb, Boost immune system, Well packaged, Natural ingredients. Some note: Avoid burp, Seems alright.",
+    "tags": [
+      {
+        "name": "Speedy recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-viral benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid burp",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Seems alright",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:27.332Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

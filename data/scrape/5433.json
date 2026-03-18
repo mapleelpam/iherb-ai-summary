@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5433,
+  "last_updated": "2026-03-20T09:22:10.037Z",
+  "first_scraped": "2026-03-20T09:22:10.037Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural remedy, Great for immune system, Natural ingredients, Trusted brand, Easy to swallow, Antiparasitic program, Gut health, Good for candida. Some note: Convenient packaging, Parasite control.",
+    "tags": [
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antiparasitic program",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for candida",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Parasite control",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:10.037Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

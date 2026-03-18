@@ -1,0 +1,68 @@
+{
+  "iherb_id": 128349,
+  "last_updated": "2026-03-20T09:52:05.308Z",
+  "first_scraped": "2026-03-20T09:52:05.308Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Travel essential, Favorite flavor, Healthy choice, Energy boost, Good taste, Sweet flavor, Tastes good, Rejuvenated me.",
+    "tags": [
+      {
+        "name": "Travel essential",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Favorite flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rejuvenated me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not buy",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No benefit",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:05.308Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

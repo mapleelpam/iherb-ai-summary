@@ -1,0 +1,68 @@
+{
+  "iherb_id": 27366,
+  "last_updated": "2026-03-20T10:20:17.295Z",
+  "first_scraped": "2026-03-20T10:20:17.295Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love them, Well packaged, Digestive support, Impressed with, Balanced gut, Trusted brand, Easy absorption, Regular customer. Some note: Expensive but.",
+    "tags": [
+      {
+        "name": "Love them",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular customer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Labeling practices",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive but",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:17.295Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

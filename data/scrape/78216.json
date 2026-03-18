@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78216,
+  "last_updated": "2026-03-20T10:18:24.856Z",
+  "first_scraped": "2026-03-20T10:18:24.856Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Great benefits, Deep sleep, Easy to take, Easy stock up, High minerals, Good taste, Love this.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy stock up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High minerals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:24.856Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

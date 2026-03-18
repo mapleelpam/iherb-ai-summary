@@ -1,0 +1,68 @@
+{
+  "iherb_id": 51131,
+  "last_updated": "2026-03-20T09:37:56.453Z",
+  "first_scraped": "2026-03-20T09:37:56.453Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Natural ingredients, Vein health, No need, Blood circulation, Pure miracle, Convenient size, Stronger veins. Some note: Low blood pressure.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vein health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No need",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure miracle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger veins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Low blood pressure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:56.453Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

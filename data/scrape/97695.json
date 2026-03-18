@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97695,
+  "last_updated": "2026-03-20T09:51:19.834Z",
+  "first_scraped": "2026-03-20T09:51:19.834Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Favorite brand, Loving it, Packaging, Easy to take, No side effects, Helps digestion, Tolerating lactose, Smaller size.",
+    "tags": [
+      {
+        "name": "Favorite brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loving it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tolerating lactose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smaller size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sugar content",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:19.834Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105596,
+  "last_updated": "2026-03-20T09:53:06.353Z",
+  "first_scraped": "2026-03-20T09:53:06.353Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Extreme relief, Good deal, Fast shipping, Valuable addition, Higher dosage, Skin better, Joint health, Improved vision. Some note: Helps with immunity.",
+    "tags": [
+      {
+        "name": "Extreme relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Valuable addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low testosterone",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Helps with immunity",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:06.353Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13166,
+  "last_updated": "2026-03-20T09:29:41.835Z",
+  "first_scraped": "2026-03-20T09:29:41.835Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin health, Pain relief, Easy to swallow, Effective supplement, Hormone balance, Good primrose, Love this product, Menopause symptoms. Some note: Stronger hair.",
+    "tags": [
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormone balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good primrose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Menopause symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Switching back",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stronger hair",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:41.835Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

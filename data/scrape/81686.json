@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81686,
+  "last_updated": "2026-03-20T10:10:42.375Z",
+  "first_scraped": "2026-03-20T10:10:42.375Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Quickest acting, Flavor good, Easy on stomach, Antioxidant-rich blend, Improves potency, Good taste, Helps with stamina, Energetic hydration. Some note: Health benefits, Helpful specially.",
+    "tags": [
+      {
+        "name": "Quickest acting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flavor good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant-rich blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energetic hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health benefits",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helpful specially",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:42.375Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

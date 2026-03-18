@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110262,
+  "last_updated": "2026-03-20T09:58:52.632Z",
+  "first_scraped": "2026-03-20T09:58:52.632Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Investment decision, Mixing trick, Faster healing, Love this, Improvement seen, Trusted brand, Stronger nails, Love thorne. Some note: Immediate results.",
+    "tags": [
+      {
+        "name": "Investment decision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixing trick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Faster healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love thorne",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Immediate results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:52.632Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

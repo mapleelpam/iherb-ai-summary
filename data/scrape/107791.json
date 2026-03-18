@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107791,
+  "last_updated": "2026-03-20T10:11:33.099Z",
+  "first_scraped": "2026-03-20T10:11:33.099Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Good ingredients, Boost immune system, Immune support, Feel better, Best on, Potent, Soft gels, Avoid colds.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best on",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soft gels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid colds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big swallow",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:33.099Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

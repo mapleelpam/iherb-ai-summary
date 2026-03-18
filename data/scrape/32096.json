@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32096,
+  "last_updated": "2026-03-20T09:49:25.248Z",
+  "first_scraped": "2026-03-20T09:49:25.248Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hope it works, Good price, Good combination, Assist building, Bone health, Helpful bones, Good dosage, Long lasting. Some note: Good ingredients, Convenient choice.",
+    "tags": [
+      {
+        "name": "Hope it works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Assist building",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long lasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Convenient choice",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:25.248Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

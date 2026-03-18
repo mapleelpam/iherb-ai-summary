@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5529,
+  "last_updated": "2026-03-20T09:32:11.891Z",
+  "first_scraped": "2026-03-20T09:32:11.891Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good results, Recommend, Comfortable swallow, Healing me, GI support, Travel-friendly, Helpful supplement, Clean support. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comfortable swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healing me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "GI support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Travel-friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adverse effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:11.891Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

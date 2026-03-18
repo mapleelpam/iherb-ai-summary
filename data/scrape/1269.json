@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1269,
+  "last_updated": "2026-03-20T09:23:04.005Z",
+  "first_scraped": "2026-03-20T09:23:04.005Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient size, Simple way, Easy to swallow, Highly recommend, Focus and effect, Chelated form, Good sleep, Relax muscles.",
+    "tags": [
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Simple way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Focus and effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chelated form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relax muscles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Leg cramps",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Contains calcium",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:04.005Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

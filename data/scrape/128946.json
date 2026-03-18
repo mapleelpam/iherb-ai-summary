@@ -1,0 +1,68 @@
+{
+  "iherb_id": 128946,
+  "last_updated": "2026-03-20T10:02:20.127Z",
+  "first_scraped": "2026-03-20T10:02:20.127Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Cycle reminder, Pain relief, Effective joint relief, Very satisfied, Mineral benefits, High dosage, Bone health, Testosterone support, Easy swallow.",
+    "tags": [
+      {
+        "name": "Cycle reminder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective joint relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mineral benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Testosterone support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid calcium",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:20.127Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4139,
+  "last_updated": "2026-03-20T09:57:01.274Z",
+  "first_scraped": "2026-03-20T09:57:01.274Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosts immunity, Clears sweat smell, Organic, clean, Healthy results, Relieves joint pain, Refreshing boost, Improves skin, Summer staple. Some note: Nice scent, Average taste.",
+    "tags": [
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clears sweat smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic, clean",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Summer staple",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice scent",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Average taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:01.274Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

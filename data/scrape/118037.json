@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118037,
+  "last_updated": "2026-03-20T10:06:27.734Z",
+  "first_scraped": "2026-03-20T10:06:27.734Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy chew, refreshing flavor, Decent price, Nice taste, Improves digestion, Detox formula, Quick benefits, Good for you, Overall health.",
+    "tags": [
+      {
+        "name": "Easy chew, refreshing flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for you",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not accommodated",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:27.734Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

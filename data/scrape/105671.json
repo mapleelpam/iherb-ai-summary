@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105671,
+  "last_updated": "2026-03-20T09:58:17.110Z",
+  "first_scraped": "2026-03-20T09:58:17.110Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy levels, Joint health, Skin health, Alleviate discomfort, Zero negative, Easy to swallow, Frozen shoulder, Muscle recovery. Some note: Beneficial ingredients.",
+    "tags": [
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alleviate discomfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Zero negative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Frozen shoulder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Lower GI upset",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:17.110Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104907,
+  "last_updated": "2026-03-20T10:19:35.618Z",
+  "first_scraped": "2026-03-20T10:19:35.618Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good size, Tasty flavor, Pleasant taste, Essential support, Orange flavor, Skin benefits, Winter support, Anti age. Some note: Monthly consumption.",
+    "tags": [
+      {
+        "name": "Good size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Orange flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Winter support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti age",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Monthly consumption",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant concern",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:35.618Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

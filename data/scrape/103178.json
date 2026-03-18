@@ -1,0 +1,68 @@
+{
+  "iherb_id": 103178,
+  "last_updated": "2026-03-20T09:41:15.861Z",
+  "first_scraped": "2026-03-20T09:41:15.861Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Weight loss, Fast shipping, Reduced appetite, Prompt delivery, Digestive health, Helps with bloating, Smooth energy, Effective supplement. Some note: Nice package.",
+    "tags": [
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased hearth rate",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:15.861Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

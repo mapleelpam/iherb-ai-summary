@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2222,
+  "last_updated": "2026-03-20T10:16:05.286Z",
+  "first_scraped": "2026-03-20T10:16:05.286Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune system, Optimized body, Boosts metabolism, Correct dosage, Trust iherb, Good ingredients, Weight loss, Sensitive skin.",
+    "tags": [
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Optimized body",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Correct dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust iherb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sensitive skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Facial hair",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Undesirable side effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:05.286Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

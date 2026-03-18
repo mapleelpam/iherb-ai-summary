@@ -1,0 +1,68 @@
+{
+  "iherb_id": 82011,
+  "last_updated": "2026-03-20T10:17:52.450Z",
+  "first_scraped": "2026-03-20T10:17:52.450Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: First impressions, Hydration effect, Anti-aging benefits, Boosts hydration, Golden color, No problem, Skin hydration, High mg capsule.",
+    "tags": [
+      {
+        "name": "First impressions",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydration effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-aging benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Golden color",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No problem",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High mg capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Harmless coating",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:52.450Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

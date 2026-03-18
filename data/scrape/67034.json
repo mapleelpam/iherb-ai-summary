@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67034,
+  "last_updated": "2026-03-20T09:48:18.073Z",
+  "first_scraped": "2026-03-20T09:48:18.073Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Helps thyroid, Natural ingredients, Improved vitality, Affordable support, Improved function, Normal readings, Increased energy. Some note: Effective supplement, Maintain weight.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps thyroid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal readings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Maintain weight",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:18.073Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

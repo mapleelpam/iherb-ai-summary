@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5229,
+  "last_updated": "2026-03-20T10:13:26.221Z",
+  "first_scraped": "2026-03-20T10:13:26.221Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps with anxiety, Calms mind, Effective supplement, Happy with, Lasting me, Helpful option, Promoting relaxation, Must have.",
+    "tags": [
+      {
+        "name": "Helps with anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calms mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lasting me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Promoting relaxation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Must have",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Terrible service",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:26.221Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85134,
+  "last_updated": "2026-03-20T09:26:21.922Z",
+  "first_scraped": "2026-03-20T09:26:21.922Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fully corresponds, Good for health, Gentle on, Stomach friendly, Good time-release, Love the brand, Perfect size, Affordable option. Some note: Economic size, No difference.",
+    "tags": [
+      {
+        "name": "Fully corresponds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle on",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good time-release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economic size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:21.922Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

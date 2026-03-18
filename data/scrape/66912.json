@@ -1,0 +1,68 @@
+{
+  "iherb_id": 66912,
+  "last_updated": "2026-03-20T10:05:35.815Z",
+  "first_scraped": "2026-03-20T10:05:35.815Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Remarkable difference, Relief found, Speedy arrival, Excellent additive, Nice package, Trust brand, Worthy investment, Works great. Some note: Helps a lot.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Remarkable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief found",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy arrival",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worthy investment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps a lot",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:35.815Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

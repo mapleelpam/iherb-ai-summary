@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102917,
+  "last_updated": "2026-03-20T09:59:47.951Z",
+  "first_scraped": "2026-03-20T09:59:47.951Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Good gift, Economical size, More energy, Trust brand, Scientific formula, Good energy, Size bigger. Some note: Elite supplements.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good gift",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economical size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Scientific formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Size bigger",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Elite supplements",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:47.951Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

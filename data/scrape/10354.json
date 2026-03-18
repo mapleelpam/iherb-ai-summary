@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10354,
+  "last_updated": "2026-03-20T10:37:51.296Z",
+  "first_scraped": "2026-03-20T10:37:51.296Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stronger immune system, Solid multi-vitamin, Energized naturally, More energy, Green superfoods, Organic formula, Natural results, Clean ingredients. Some note: Sensitive stomach.",
+    "tags": [
+      {
+        "name": "Stronger immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Solid multi-vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energized naturally",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Green superfoods",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sensitive stomach",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not cheap",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:37:51.296Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

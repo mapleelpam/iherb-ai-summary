@@ -1,0 +1,68 @@
+{
+  "iherb_id": 56178,
+  "last_updated": "2026-03-20T09:27:34.868Z",
+  "first_scraped": "2026-03-20T09:27:34.868Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps candida, Immune health, Large bottle, Helps digestion, Cleans system, Trust kyolic, Boost health, Very satisfied. Some note: Natural supplement, Mixed results.",
+    "tags": [
+      {
+        "name": "Helps candida",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleans system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust kyolic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Mixed results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:34.868Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

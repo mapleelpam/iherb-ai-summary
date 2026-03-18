@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105435,
+  "last_updated": "2026-03-20T10:21:29.684Z",
+  "first_scraped": "2026-03-20T10:21:29.684Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nutritious shake, Good ingredients, Clean taste, Good meal, Vegan protein, Nutrient-rich, Large container, Love this product. Some note: Smooth vanilla.",
+    "tags": [
+      {
+        "name": "Nutritious shake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good meal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrient-rich",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large container",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Smooth vanilla",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:29.684Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

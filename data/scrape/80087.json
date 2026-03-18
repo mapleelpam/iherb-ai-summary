@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80087,
+  "last_updated": "2026-03-20T10:00:52.536Z",
+  "first_scraped": "2026-03-20T10:00:52.536Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural supplement, Boost energy, General release, Supports health, Improved mood, Better strength, Improved sleep, Turnaround struggle. Some note: Subtle effect.",
+    "tags": [
+      {
+        "name": "Natural supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "General release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Turnaround struggle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity attacks",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Subtle effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:52.536Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

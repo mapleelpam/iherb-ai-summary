@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39187,
+  "last_updated": "2026-03-20T10:05:22.709Z",
+  "first_scraped": "2026-03-20T10:05:22.709Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice packing, Boost immune, Happy, lucky, Good taste, Chewable tablets, Antioxidant effect, Great deal, Reasonable price.",
+    "tags": [
+      {
+        "name": "Nice packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy, lucky",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chewable tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difficult to swallow",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bad smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:22.709Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

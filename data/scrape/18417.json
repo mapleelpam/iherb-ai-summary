@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18417,
+  "last_updated": "2026-03-20T09:20:41.887Z",
+  "first_scraped": "2026-03-20T09:20:41.887Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good vitamines, Better focus, Good ingredients, Improved blood work, Improved thyroid, Helped me, Thyroid support, More energy. Some note: Weight loss, Nausea issue.",
+    "tags": [
+      {
+        "name": "Good vitamines",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved blood work",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved thyroid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thyroid support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nausea issue",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:41.887Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

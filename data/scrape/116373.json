@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116373,
+  "last_updated": "2026-03-20T10:09:23.661Z",
+  "first_scraped": "2026-03-20T10:09:23.661Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps joints, Fast shipping, Feeling better, High boswellia, Transparency shines, Joint support, Inflammation relief, Improved mobility. Some note: Rheumatoid arthritis.",
+    "tags": [
+      {
+        "name": "Helps joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High boswellia",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Transparency shines",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inflammation relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mobility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rheumatoid arthritis",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No gluten",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:23.661Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

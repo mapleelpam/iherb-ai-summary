@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70007,
+  "last_updated": "2026-03-20T10:27:14.236Z",
+  "first_scraped": "2026-03-20T10:27:14.236Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved digestion, Works great, Highly recommend, Tasteless capsules, Regular bowel movements, Improves constipation, Easy to take, Convenient size. Some note: Too soon.",
+    "tags": [
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasteless capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular bowel movements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too soon",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:14.236Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

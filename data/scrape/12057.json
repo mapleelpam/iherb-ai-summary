@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12057,
+  "last_updated": "2026-03-20T09:23:57.042Z",
+  "first_scraped": "2026-03-20T09:23:57.042Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good so far, Increase count, Size is perfect, Slight difference, Proven results, Easy to swallow, Fast shipping, Proper sleep. Some note: Great benefits, Testing out.",
+    "tags": [
+      {
+        "name": "Good so far",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase count",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Size is perfect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slight difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Proven results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Proper sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Testing out",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:57.042Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

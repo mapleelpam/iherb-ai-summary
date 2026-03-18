@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14918,
+  "last_updated": "2026-03-20T09:17:17.941Z",
+  "first_scraped": "2026-03-20T09:17:17.941Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Easy to swallow, Improved health, Potent dose, High concentration, Benefit provided, Hair improvement, Less hair fall. Some note: Heart palpitations, No after taste.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit provided",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less hair fall",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart palpitations",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No after taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:17.941Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

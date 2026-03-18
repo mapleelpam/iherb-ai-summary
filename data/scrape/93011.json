@@ -1,0 +1,68 @@
+{
+  "iherb_id": 93011,
+  "last_updated": "2026-03-20T10:04:24.817Z",
+  "first_scraped": "2026-03-20T10:04:24.817Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No residue, Muscle growth, Cutting period, Impressive, Easy to swallow, Muscle recovery, Taste good, Increased endurance. Some note: Works! I liked it.",
+    "tags": [
+      {
+        "name": "No residue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cutting period",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loss of muscle",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Works! I liked it",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:24.817Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

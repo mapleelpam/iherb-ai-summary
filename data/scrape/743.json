@@ -1,0 +1,68 @@
+{
+  "iherb_id": 743,
+  "last_updated": "2026-03-20T09:48:25.038Z",
+  "first_scraped": "2026-03-20T09:48:25.038Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lowered cholesterol, Cholesterol levels, Normalising cholesterol, Works great, Works for me, Cholesterol benefits, Cardiovascular ally, Easy to take. Some note: Lower dosage, Effective packaging.",
+    "tags": [
+      {
+        "name": "Lowered cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normalising cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular ally",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower dosage",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective packaging",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:25.038Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

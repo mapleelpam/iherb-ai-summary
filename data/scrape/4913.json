@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4913,
+  "last_updated": "2026-03-20T10:32:25.156Z",
+  "first_scraped": "2026-03-20T10:32:25.156Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves mood, Potent product, Positive mood, Pleasant taste, Easy to swallow, Effective ingredients, Mood support, Positive impact. Some note: Mild stress.",
+    "tags": [
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild stress",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Risk of interaction",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:25.156Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

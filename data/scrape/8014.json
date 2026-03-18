@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8014,
+  "last_updated": "2026-03-20T10:10:51.231Z",
+  "first_scraped": "2026-03-20T10:10:51.231Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trusted ingredients, Pet friendly, Blood pressure, Kidney detox, Decrease stones, Seeing improvement, Assists healing, Helped incontinence. Some note: Strong taste.",
+    "tags": [
+      {
+        "name": "Trusted ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pet friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kidney detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decrease stones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seeing improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Assists healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped incontinence",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Low blood pressure",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:51.231Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

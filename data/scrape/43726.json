@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43726,
+  "last_updated": "2026-03-20T10:02:21.063Z",
+  "first_scraped": "2026-03-20T10:02:21.063Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Daily routine, Increase energy, Good for health, Fast dissolving, Convenient use, Good feedback, Pleasant flavor, Easy app. Some note: Sweet taste.",
+    "tags": [
+      {
+        "name": "Daily routine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast dissolving",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good feedback",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy app",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Cherry taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:21.063Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

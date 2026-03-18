@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144172,
+  "last_updated": "2026-03-20T09:52:57.419Z",
+  "first_scraped": "2026-03-20T09:52:57.419Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective dosage, Carb control, Healthy blood sugar, Nutrition deficiencies, Diabetic support, Easy to swallow, Lower sugar absorption, Fast shipping. Some note: Lower blood level, Blood work.",
+    "tags": [
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Carb control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrition deficiencies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Diabetic support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower sugar absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower blood level",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Blood work",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:57.419Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

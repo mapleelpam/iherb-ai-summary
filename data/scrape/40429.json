@@ -1,0 +1,68 @@
+{
+  "iherb_id": 40429,
+  "last_updated": "2026-03-20T09:54:54.563Z",
+  "first_scraped": "2026-03-20T09:54:54.563Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good absorption, Maintaining health, Fast shipping, Works great, First place, Helps cramps, Great benefits, Blood pressure. Some note: Helps allergies.",
+    "tags": [
+      {
+        "name": "Good absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintaining health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First place",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difficult to swallow",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Helps allergies",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:54.563Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

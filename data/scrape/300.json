@@ -1,0 +1,68 @@
+{
+  "iherb_id": 300,
+  "last_updated": "2026-03-20T09:25:05.096Z",
+  "first_scraped": "2026-03-20T09:25:05.096Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trusted brand, Boost energy, Weight loss, Heart health, Helps burn fat, Minimizing heart load, Fast shipping, Great energy. Some note: Not noticed.",
+    "tags": [
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps burn fat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Minimizing heart load",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Horrible gas",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not noticed",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:05.096Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15519,
+  "last_updated": "2026-03-20T09:53:59.330Z",
+  "first_scraped": "2026-03-20T09:53:59.330Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No hangover, Nice price, Body health, Improving health, Works as intended, Post workout, Works great, Reduce symptoms. Some note: Back to office, Hangover relief.",
+    "tags": [
+      {
+        "name": "No hangover",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works as intended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Post workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Back to office",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hangover relief",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:59.330Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

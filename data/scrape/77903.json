@@ -1,0 +1,58 @@
+{
+  "iherb_id": 77903,
+  "last_updated": "2026-03-20T09:53:45.377Z",
+  "first_scraped": "2026-03-20T09:53:45.377Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Convenient packaging, Top choice, Fair price, Great quick carb, Happy result, Good working, Comfortable and stylish.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great quick carb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good working",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comfortable and stylish",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:45.377Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10051,
+  "last_updated": "2026-03-20T09:47:49.639Z",
+  "first_scraped": "2026-03-20T09:47:49.639Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Balanced formula, Improves health, Gluten-free, Steady energy levels, B shortages restored, More energy, Vitamin boost, High dosage. Some note: Longer toe, Effective choice.",
+    "tags": [
+      {
+        "name": "Balanced formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gluten-free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Steady energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "B shortages restored",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Longer toe",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective choice",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:49.639Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

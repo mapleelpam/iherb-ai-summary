@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2526,
+  "last_updated": "2026-03-20T09:34:56.649Z",
+  "first_scraped": "2026-03-20T09:34:56.649Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosts energy, Eye health, Natural ingredients, Easy to take, Relieves eye strain, Good dosage, Skin protection, Easy swallowing, Immune support. Some note: Extra protection.",
+    "tags": [
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves eye strain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallowing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra protection",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:56.649Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

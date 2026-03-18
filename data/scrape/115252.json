@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115252,
+  "last_updated": "2026-03-20T10:00:36.068Z",
+  "first_scraped": "2026-03-20T10:00:36.068Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pleasant flavor, Tastes ok, Relieved UTI, Long-lasting benefit, Good taste, Urinary health, Effective supplement, Convenient size. Some note: Satisfied results.",
+    "tags": [
+      {
+        "name": "Pleasant flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes ok",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieved UTI",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-lasting benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Urinary health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:36.068Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

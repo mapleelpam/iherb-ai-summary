@@ -1,0 +1,68 @@
+{
+  "iherb_id": 124096,
+  "last_updated": "2026-03-20T09:41:45.476Z",
+  "first_scraped": "2026-03-20T09:41:45.476Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good results, Digestion improvement, Made in USA, Highly recommend, Great benefits, Saved money, Hormonal balance, Convenient capsules. Some note: Blood test.",
+    "tags": [
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Made in USA",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Saved money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormonal balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood test",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stomach burning",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:45.476Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

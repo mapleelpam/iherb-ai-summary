@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71066,
+  "last_updated": "2026-03-20T10:22:56.633Z",
+  "first_scraped": "2026-03-20T10:22:56.633Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love these, Works very well, Easy way, Fast absorption, Joint pain, Overall health improvement, Magic pain relief, Feeling healthier. Some note: Important stuff.",
+    "tags": [
+      {
+        "name": "Love these",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works very well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Magic pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling healthier",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Important stuff",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:56.633Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

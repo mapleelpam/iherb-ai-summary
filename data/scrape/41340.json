@@ -1,0 +1,68 @@
+{
+  "iherb_id": 41340,
+  "last_updated": "2026-03-20T09:18:00.400Z",
+  "first_scraped": "2026-03-20T09:18:00.400Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Matches description, More energy, Blood sugar, Controls appetite, Natural ingredients, Tiny soft capsules, Easy to swallow, Reduce cravings. Some note: Helpful supplement.",
+    "tags": [
+      {
+        "name": "Matches description",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Controls appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiny soft capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:00.400Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

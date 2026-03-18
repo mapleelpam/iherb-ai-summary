@@ -1,0 +1,68 @@
+{
+  "iherb_id": 122842,
+  "last_updated": "2026-03-20T09:47:27.180Z",
+  "first_scraped": "2026-03-20T09:47:27.180Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Amazing flavor, Gelatin free, Healthy ingredients, Good taste, Very reasonable price, Convenient size, Real orange taste, Tasty but difficult. Some note: Yummy and fun, Easy to take.",
+    "tags": [
+      {
+        "name": "Amazing flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gelatin free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real orange taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty but difficult",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy and fun",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:27.180Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

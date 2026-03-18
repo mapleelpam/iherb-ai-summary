@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3746,
+  "last_updated": "2026-03-20T10:14:40.992Z",
+  "first_scraped": "2026-03-20T10:14:40.992Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural product, Happy with results, Good taste, Long-term benefits, Immediate benefit, Improved relationship, Delivered quickly, Works great.",
+    "tags": [
+      {
+        "name": "Natural product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-term benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved relationship",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delivered quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:40.992Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

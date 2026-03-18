@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110671,
+  "last_updated": "2026-03-20T10:25:42.982Z",
+  "first_scraped": "2026-03-20T10:25:42.982Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Relieves cramps, Good taste, Tastes good, Helps with, Muscle relief, Intuitive design, Works great, Tiny bottle size.",
+    "tags": [
+      {
+        "name": "Relieves cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intuitive design",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiny bottle size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Briney flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:42.982Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

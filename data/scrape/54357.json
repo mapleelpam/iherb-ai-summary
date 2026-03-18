@@ -1,0 +1,68 @@
+{
+  "iherb_id": 54357,
+  "last_updated": "2026-03-20T09:57:09.809Z",
+  "first_scraped": "2026-03-20T09:57:09.809Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good combination, Good for health, Long-term use, Gentle on stomach, Excellent vitamin, Complete absorption, Immunity support, Convenient tablet. Some note: Blood test, Protected.",
+    "tags": [
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-term use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient tablet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood test",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Protected",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:09.809Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

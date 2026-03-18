@@ -1,0 +1,68 @@
+{
+  "iherb_id": 88940,
+  "last_updated": "2026-03-20T10:08:17.509Z",
+  "first_scraped": "2026-03-20T10:08:17.509Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty flavor, Balanced levels, Liked it, Dinner mint, Chocolate flavor, Builds energy, Easy to take, Beneficial effect.",
+    "tags": [
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liked it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dinner mint",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chocolate flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Builds energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Off putting taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not suitable",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:17.509Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

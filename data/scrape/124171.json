@@ -1,0 +1,68 @@
+{
+  "iherb_id": 124171,
+  "last_updated": "2026-03-20T09:57:07.924Z",
+  "first_scraped": "2026-03-20T09:57:07.924Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice package, Healthy immune system, Hair growth, Boosting health, Lots of benefits, Reduce inflammation, Organic brand, Organic, adequate dosage. Some note: Careful with blood thinners.",
+    "tags": [
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lots of benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic, adequate dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasted bad",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Careful with blood thinners",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:07.924Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

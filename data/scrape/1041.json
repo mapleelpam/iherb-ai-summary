@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1041,
+  "last_updated": "2026-03-20T10:13:00.654Z",
+  "first_scraped": "2026-03-20T10:13:00.654Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tolerable flavor, Taste nice, More absorbable, Quick absorption, Good lineup, More energy, Mental support, Good ingredients. Some note: Taste petty.",
+    "tags": [
+      {
+        "name": "Tolerable flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More absorbable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good lineup",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong peppermint taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Taste petty",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:00.654Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89447,
+  "last_updated": "2026-03-20T09:23:44.661Z",
+  "first_scraped": "2026-03-20T09:23:44.661Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great benefit, Improved skin, Affordable item, Good composition, Natural ingredients, Good for health, Energized feeling, Liver support. Some note: Detox support, No issues.",
+    "tags": [
+      {
+        "name": "Great benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable item",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energized feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox support",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No issues",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:44.661Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

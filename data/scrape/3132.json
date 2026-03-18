@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3132,
+  "last_updated": "2026-03-20T10:24:17.837Z",
+  "first_scraped": "2026-03-20T10:24:17.837Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Year's supply, Good combination, Gentle effect, Good digestion, Visible effects, Cleans colon, Lifesaver option, Fast shipping.",
+    "tags": [
+      {
+        "name": "Year's supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Visible effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleans colon",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lifesaver option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Severe headache",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stomachache",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:17.837Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2451,
+  "last_updated": "2026-03-20T09:28:25.543Z",
+  "first_scraped": "2026-03-20T09:28:25.543Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Cholesterol drop, Urinary relief, Lowered cholesterol, Natural remedy, Gum health, Effective supplement, Nighttime relief, Cholesterol levels.",
+    "tags": [
+      {
+        "name": "Cholesterol drop",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Urinary relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowered cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gum health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nighttime relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Currency change",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:25.543Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

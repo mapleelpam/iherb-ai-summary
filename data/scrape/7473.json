@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7473,
+  "last_updated": "2026-03-20T09:51:58.437Z",
+  "first_scraped": "2026-03-20T09:51:58.437Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Strengthen hair, Working fine, Healthy looking, Nice nails, Healthy hair, Essential, Hair stop falling, Recommended product. Some note: Large tablets, No difference.",
+    "tags": [
+      {
+        "name": "Strengthen hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Working fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy looking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair stop falling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large tablets",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:58.437Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

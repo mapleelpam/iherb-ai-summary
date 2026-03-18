@@ -1,0 +1,68 @@
+{
+  "iherb_id": 482,
+  "last_updated": "2026-03-20T09:51:40.517Z",
+  "first_scraped": "2026-03-20T09:51:40.517Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Visible results, Burn fat, Love product, Life changing, Less cravings, Great energy, Efficient, tasteful, High benefits, Good taste.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Visible results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Burn fat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient, tasteful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:40.517Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

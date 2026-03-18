@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107869,
+  "last_updated": "2026-03-20T10:12:51.964Z",
+  "first_scraped": "2026-03-20T10:12:51.964Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice price, Energy booster, Weight loss, Fat burner, Animal cut, Strength improvement, Mix enhancer, Great feeling. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat burner",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Animal cut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strength improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mix enhancer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped immediately",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:51.964Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

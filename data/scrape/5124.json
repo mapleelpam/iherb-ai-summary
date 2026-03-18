@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5124,
+  "last_updated": "2026-03-20T09:33:57.422Z",
+  "first_scraped": "2026-03-20T09:33:57.422Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Regular bowel, Eliminates leg cramps, Helps digestion, Start slow, Helps sleep, Calms me, Easy to swallow, Great flavor. Some note: Tastes good, Relieves stress.",
+    "tags": [
+      {
+        "name": "Regular bowel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eliminates leg cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Start slow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calms me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Relieves stress",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:57.422Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

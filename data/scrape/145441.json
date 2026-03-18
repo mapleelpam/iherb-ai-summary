@@ -1,0 +1,68 @@
+{
+  "iherb_id": 145441,
+  "last_updated": "2026-03-20T09:36:32.497Z",
+  "first_scraped": "2026-03-20T09:36:32.497Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No after taste, Regular bowel, Comfortable relief, Budget-friendly, Support bile production, Liver health, Regulate digestive, Affordable solution. Some note: Great benefits.",
+    "tags": [
+      {
+        "name": "No after taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular bowel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comfortable relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Budget-friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support bile production",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate digestive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:32.497Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 99969,
+  "last_updated": "2026-03-20T10:09:03.384Z",
+  "first_scraped": "2026-03-20T10:09:03.384Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lab verified, Pure brand, Calming effect, Overall well-being, Relaxing herb, Good camomile, Digestion support, Convenient capsule. Some note: Anxiety relief.",
+    "tags": [
+      {
+        "name": "Lab verified",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall well-being",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxing herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good camomile",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too much",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Anxiety relief",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:03.384Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

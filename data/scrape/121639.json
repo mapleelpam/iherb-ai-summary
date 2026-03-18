@@ -1,0 +1,68 @@
+{
+  "iherb_id": 121639,
+  "last_updated": "2026-03-20T10:12:38.944Z",
+  "first_scraped": "2026-03-20T10:12:38.944Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Convenient option, Workout recovery, Stomach health, Boosts immunity, More energetic, No aftertaste, Powerful supplement, Grass-fed colostrum.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Workout recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Grass-fed colostrum",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Milk odor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:38.944Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

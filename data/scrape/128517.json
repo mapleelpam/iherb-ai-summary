@@ -1,0 +1,68 @@
+{
+  "iherb_id": 128517,
+  "last_updated": "2026-03-20T10:07:14.834Z",
+  "first_scraped": "2026-03-20T10:07:14.834Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improve stamina, Positive results, Fast shipping, More energy, Effective ingredient, Body booster, Feel good, Happy activity.",
+    "tags": [
+      {
+        "name": "Improve stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy activity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Short duration",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Limited effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:14.834Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

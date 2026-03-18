@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7166,
+  "last_updated": "2026-03-20T10:10:24.385Z",
+  "first_scraped": "2026-03-20T10:10:24.385Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Gas relief, Excellent additive, Natural, healthy, Boosts digestion, Digestive fire, Digestion improvement, Reduces sinusitis, Two tablets.",
+    "tags": [
+      {
+        "name": "Gas relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural, healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive fire",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces sinusitis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Two tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to swallow",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:24.385Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

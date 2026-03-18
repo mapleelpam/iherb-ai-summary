@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104102,
+  "last_updated": "2026-03-20T09:41:42.506Z",
+  "first_scraped": "2026-03-20T09:41:42.506Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice package, Convenient softgel, Good source, High dose, Good for deficiency, Highly recommend, Working fine, Effective supplement. Some note: Easy to swallow, Swift delivery.",
+    "tags": [
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient softgel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for deficiency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Working fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Swift delivery",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:42.506Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

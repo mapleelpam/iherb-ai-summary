@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4506,
+  "last_updated": "2026-03-20T09:46:41.511Z",
+  "first_scraped": "2026-03-20T09:46:41.511Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Prompt delivery, Chronic relief, Fast shipping, Joint relief, Works fast, Great recovery, Pain relief, Homeopathic relief. Some note: Good result and benefit, Wonderful relief.",
+    "tags": [
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chronic relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Homeopathic relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good result and benefit",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Wonderful relief",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:41.511Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

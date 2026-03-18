@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4545,
+  "last_updated": "2026-03-20T09:48:01.278Z",
+  "first_scraped": "2026-03-20T09:48:01.278Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good package, Alcoholic hangovers, Liver enzymes, Normal range, Affordable, Doctor recommended, Beneficial health, Отличный товар. Some note: Effective composition, Easy to take.",
+    "tags": [
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alcoholic hangovers",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver enzymes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal range",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doctor recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Отличный товар",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective composition",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:01.278Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

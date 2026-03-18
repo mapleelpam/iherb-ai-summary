@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10258,
+  "last_updated": "2026-03-20T09:28:04.958Z",
+  "first_scraped": "2026-03-20T09:28:04.958Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to absorb, Highly recommend, Improvement noticed, Amino acid chelate, Small size, Effective choice, Bio-available form, Immune system. Some note: Convenient packaging, User friendly.",
+    "tags": [
+      {
+        "name": "Easy to absorb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amino acid chelate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bio-available form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "User friendly",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:04.958Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108668,
+  "last_updated": "2026-03-20T10:08:00.554Z",
+  "first_scraped": "2026-03-20T10:08:00.554Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very satisfied, Ingredient quality, Immune support, Pleasantly surprised, Cold prevention, High potency, Easy swallow, Powerful herb, Boost immunity. Some note: Must try.",
+    "tags": [
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ingredient quality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasantly surprised",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cold prevention",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Must try",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:00.554Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

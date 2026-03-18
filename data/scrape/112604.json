@@ -1,0 +1,68 @@
+{
+  "iherb_id": 112604,
+  "last_updated": "2026-03-20T09:41:15.870Z",
+  "first_scraped": "2026-03-20T09:41:15.870Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Powerful antioxidant, Powerful taste, Energy boost, Inflammation relief, Quick shipment, Bioavailability help, Microscopic spheres, Joint pain relief. Some note: Fermented turmeric, Authentic smell.",
+    "tags": [
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inflammation relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioavailability help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Microscopic spheres",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fermented turmeric",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Authentic smell",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:15.870Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

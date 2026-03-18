@@ -1,0 +1,68 @@
+{
+  "iherb_id": 134761,
+  "last_updated": "2026-03-20T09:49:21.354Z",
+  "first_scraped": "2026-03-20T09:49:21.354Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Support workouts, Fast shipping, Easy mixing, No taste, Significant gains, Pure creatine, Good benefits, Noticeable effect. Some note: Luxurious container.",
+    "tags": [
+      {
+        "name": "Support workouts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mixing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Significant gains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure creatine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Luxurious container",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Reduce volume",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:21.354Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

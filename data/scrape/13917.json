@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13917,
+  "last_updated": "2026-03-20T10:07:00.093Z",
+  "first_scraped": "2026-03-20T10:07:00.093Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good herbal composition, Herbal capsules, V happy, Balanced thyroid, Great formula, Thyroid support, Noticeable benefits, Improved energy. Some note: Good support, Not sure.",
+    "tags": [
+      {
+        "name": "Good herbal composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herbal capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "V happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced thyroid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thyroid support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good support",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:00.093Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

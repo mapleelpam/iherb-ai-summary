@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1671,
+  "last_updated": "2026-03-20T09:57:03.182Z",
+  "first_scraped": "2026-03-20T09:57:03.182Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good balance, Quality improvement, Helped relax, Highly recommend, Calms adrenal, Calming effect, Calms down, Physical injuries.",
+    "tags": [
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped relax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calms adrenal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calms down",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Physical injuries",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nightmares, uncomfortable tablet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stopped selling",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:03.182Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111140,
+  "last_updated": "2026-03-20T09:50:54.267Z",
+  "first_scraped": "2026-03-20T09:50:54.267Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty gummies, Anxiety relief, Gentle on tummy, Strawberry flavor, Improved focus, Good taste, Reduce stress, Helps relax.",
+    "tags": [
+      {
+        "name": "Tasty gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle on tummy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strawberry flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps relax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No benefits",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Weird taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:54.267Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

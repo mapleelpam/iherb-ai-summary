@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144164,
+  "last_updated": "2026-03-20T10:16:11.071Z",
+  "first_scraped": "2026-03-20T10:16:11.071Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Steady energy booster, Muscle recovery, Feel better, Boost thyroid, Thyroid support, Works better, Stress relief, Speedy delivery.",
+    "tags": [
+      {
+        "name": "Steady energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost thyroid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thyroid support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to swallow",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sour pills",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:11.071Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101566,
+  "last_updated": "2026-03-20T10:27:37.825Z",
+  "first_scraped": "2026-03-20T10:27:37.825Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Thick shakes, Rich chocolate taste, Tastes great, Love chocolate, Filling shakes, Blends well, Pleasant taste, Effective weight loss.",
+    "tags": [
+      {
+        "name": "Thick shakes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich chocolate taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Filling shakes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blends well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Weird aftertaste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:37.825Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

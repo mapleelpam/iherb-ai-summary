@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120027,
+  "last_updated": "2026-03-20T10:44:00.399Z",
+  "first_scraped": "2026-03-20T10:44:00.399Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice package, High energy, Body energy, Good recovery, Strength booster, Good results, Good vitamins, Good so far. Some note: Time needed.",
+    "tags": [
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strength booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good so far",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Time needed",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No benefit",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:44:00.399Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

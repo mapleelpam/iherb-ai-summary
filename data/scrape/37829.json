@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37829,
+  "last_updated": "2026-03-20T09:22:40.564Z",
+  "first_scraped": "2026-03-20T09:22:40.564Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Improved mental clarity, Easy swallow size, No grains, Reasonable price, Feel great, Good vitamin, Sustained energy. Some note: Neon urine, Fantastic find.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No grains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustained energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neon urine",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Fantastic find",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:40.564Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

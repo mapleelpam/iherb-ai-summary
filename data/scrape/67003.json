@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67003,
+  "last_updated": "2026-03-20T10:01:10.475Z",
+  "first_scraped": "2026-03-20T10:01:10.475Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Decent size, Restful sleep, Well packed, Good result, Highly recommend, Relief instant, Potent strength, Non-bacterial irritation. Some note: Too early.",
+    "tags": [
+      {
+        "name": "Decent size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restful sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief instant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Non-bacterial irritation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to swallow",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too early",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:10.475Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

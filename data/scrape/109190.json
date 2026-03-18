@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109190,
+  "last_updated": "2026-03-20T10:21:12.592Z",
+  "first_scraped": "2026-03-20T10:21:12.592Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Amazing benefits, Effective antioxidant, Staid fresh, Powerful against inflammation, Alcohol-free benefits, Slow release, Feel wonderful, Skin care. Some note: First time.",
+    "tags": [
+      {
+        "name": "Amazing benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Staid fresh",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful against inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alcohol-free benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel wonderful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin care",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "First time",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:12.592Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

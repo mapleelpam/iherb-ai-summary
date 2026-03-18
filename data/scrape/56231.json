@@ -1,0 +1,68 @@
+{
+  "iherb_id": 56231,
+  "last_updated": "2026-03-20T09:37:55.528Z",
+  "first_scraped": "2026-03-20T09:37:55.528Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improvement digestion, More energy, No taste, Detox benefits, Improves health, Love the product, Convenient twist off, Chemical reactions. Some note: Tasteless but dark.",
+    "tags": [
+      {
+        "name": "Improvement digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient twist off",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chemical reactions",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasteless but dark",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not noticed",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:55.528Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

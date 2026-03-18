@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10809,
+  "last_updated": "2026-03-20T10:04:55.982Z",
+  "first_scraped": "2026-03-20T10:04:55.982Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Good health, Helpful supplement, Sleep better, Effective diet, Satisfied purchase, Easy assimilation, Pain relief. Some note: Little expensive, Big pill.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy assimilation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Little expensive",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Big pill",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:55.982Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

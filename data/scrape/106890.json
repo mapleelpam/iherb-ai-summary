@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106890,
+  "last_updated": "2026-03-20T09:26:20.001Z",
+  "first_scraped": "2026-03-20T09:26:20.001Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to mix, Beneficial supplement, Joint support, Highly recommend, Anti-inflammatory benefits, Great prebiotic, Great way, Convenient packaging. Some note: Neutral flavor, Good composition.",
+    "tags": [
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great prebiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral flavor",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:20.001Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 125843,
+  "last_updated": "2026-03-20T10:14:44.754Z",
+  "first_scraped": "2026-03-20T10:14:44.754Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Dissolves well, Unflavored powder, Easy mix, Great recovery, Recommended quantity, Clean ingredients, Lasting effects, Muscle growth. Some note: Powerful supplement, Smooth and pure.",
+    "tags": [
+      {
+        "name": "Dissolves well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unflavored powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended quantity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lasting effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Smooth and pure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:44.754Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

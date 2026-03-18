@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22444,
+  "last_updated": "2026-03-20T10:16:39.538Z",
+  "first_scraped": "2026-03-20T10:16:39.538Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small size, Reduce bloating, Good benefits, Good digestion, Powerful little pearl, Timely delivery, Easy to take, Fantastic prebiotics. Some note: Best probiotic.",
+    "tags": [
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful little pearl",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic prebiotics",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worked first week",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Best probiotic",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:39.538Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

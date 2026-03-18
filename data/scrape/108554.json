@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108554,
+  "last_updated": "2026-03-20T09:52:48.596Z",
+  "first_scraped": "2026-03-20T09:52:48.596Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good dose, Easy to swallow, Anti-inflammatory benefits, Immune support, Cardiovascular health, Allergy relief, Repeat buyer, Effective supplement.",
+    "tags": [
+      {
+        "name": "Good dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergy relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat buyer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heavy load",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not pronounced",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:48.596Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

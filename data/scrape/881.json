@@ -1,0 +1,68 @@
+{
+  "iherb_id": 881,
+  "last_updated": "2026-03-20T09:41:45.476Z",
+  "first_scraped": "2026-03-20T09:41:45.476Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural alternative, Joint support, Bone spur, Improved hair, Looks promising, Ammonia reduction, Easy to swallow, Pain relief. Some note: Fast shipping, Liver support.",
+    "tags": [
+      {
+        "name": "Natural alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone spur",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Looks promising",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ammonia reduction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:45.476Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

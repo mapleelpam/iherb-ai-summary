@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4389,
+  "last_updated": "2026-03-20T10:15:13.981Z",
+  "first_scraped": "2026-03-20T10:15:13.981Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Better tolerance, Works exactly, Positive difference, Anti-parasitic, Slow down, Pleasant scent, Tasteless, Mild feeling.",
+    "tags": [
+      {
+        "name": "Better tolerance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works exactly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-parasitic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow down",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasteless",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver hurt",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Major limitation",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:13.981Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

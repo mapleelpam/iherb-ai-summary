@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110460,
+  "last_updated": "2026-03-20T09:37:18.001Z",
+  "first_scraped": "2026-03-20T09:37:18.001Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lemon taste, Very nice, Convenient size, Fast shipping, Year-round support, Good taste, Easy absorption, Children liked.",
+    "tags": [
+      {
+        "name": "Lemon taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Year-round support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Children liked",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dropper lid",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Difficult dosing",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:18.001Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114157,
+  "last_updated": "2026-03-20T09:51:52.612Z",
+  "first_scraped": "2026-03-20T09:51:52.612Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Muscle flexibility, Longevity benefits, Morning routine, Energy boost, Vegan tested, Label detail, Future expiry. Some note: Too early.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle flexibility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Longevity benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning routine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan tested",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Label detail",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Future expiry",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sold out",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too early",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:52.612Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 28192,
+  "last_updated": "2026-03-20T10:15:53.322Z",
+  "first_scraped": "2026-03-20T10:15:53.322Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Impressive results, Reduction in inflammation, Bio-available boost, Brings relief, Immunity support, Efficient shipment, Regulating inflammation, Works great. Some note: Early improvement.",
+    "tags": [
+      {
+        "name": "Impressive results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduction in inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bio-available boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brings relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulating inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Early improvement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Limited activities",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:53.322Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

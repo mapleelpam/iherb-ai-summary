@@ -1,0 +1,68 @@
+{
+  "iherb_id": 62535,
+  "last_updated": "2026-03-20T09:55:55.626Z",
+  "first_scraped": "2026-03-20T09:55:55.626Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin glowing, Natural ingredient, Easy to take, Perfect absorption, Smooth radiance, Smart nourishment, Youthful skin, Firmer skin. Some note: Slow progress.",
+    "tags": [
+      {
+        "name": "Skin glowing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth radiance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smart nourishment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Youthful skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Firmer skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow progress",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not vegan",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:55.626Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

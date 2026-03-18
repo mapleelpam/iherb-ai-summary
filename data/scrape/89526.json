@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89526,
+  "last_updated": "2026-03-20T10:00:31.192Z",
+  "first_scraped": "2026-03-20T10:00:31.192Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Really works, Trustworthy guarantee, Higher dosage, Good for women, Effective UTI, Easy to swallow, Good for health, No known side effects. Some note: Great deal.",
+    "tags": [
+      {
+        "name": "Really works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trustworthy guarantee",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for women",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective UTI",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No known side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great deal",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Narrow throat",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:31.192Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

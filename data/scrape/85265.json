@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85265,
+  "last_updated": "2026-03-20T10:21:29.684Z",
+  "first_scraped": "2026-03-20T10:21:29.684Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Organic ingredients, Nice package, Fast shipping, Highly recommend, Helped us, Pleasant taste, Family friendly, Immune support.",
+    "tags": [
+      {
+        "name": "Organic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped us",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Family friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fragile packaging",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Diuretic effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:29.684Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

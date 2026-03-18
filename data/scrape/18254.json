@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18254,
+  "last_updated": "2026-03-20T09:27:59.577Z",
+  "first_scraped": "2026-03-20T09:27:59.577Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved bone density, Healthy pregnancy, Algae calcium, Fast results, Easy-to-swallow capsules, Balanced calcium supplement, Easy absorption, Good ingredients. Some note: Longer time.",
+    "tags": [
+      {
+        "name": "Improved bone density",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy pregnancy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Algae calcium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy-to-swallow capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced calcium supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Longer time",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:59.577Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113912,
+  "last_updated": "2026-03-20T09:57:27.289Z",
+  "first_scraped": "2026-03-20T09:57:27.289Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Better quality sleep, Boosted energy, Improved vitality, Enhanced workout, Affordable item, Improved drive, Mood improvement, Received it, No side effects, Fast shipping.",
+    "tags": [
+      {
+        "name": "Better quality sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable item",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved drive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Received it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:27.289Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

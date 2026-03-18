@@ -1,0 +1,68 @@
+{
+  "iherb_id": 125566,
+  "last_updated": "2026-03-20T10:34:14.213Z",
+  "first_scraped": "2026-03-20T10:34:14.213Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trusted brand, Easy swallow, Data consistency, No taste, Improved focus, Good omega, Good health, High dosage, Secure bottle.",
+    "tags": [
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Data consistency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good omega",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Secure bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difficult swallow",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:34:14.213Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

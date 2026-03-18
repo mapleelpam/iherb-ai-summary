@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43749,
+  "last_updated": "2026-03-20T09:17:44.272Z",
+  "first_scraped": "2026-03-20T09:17:44.272Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Antioxidant properties, Immune support, Small softgels, Very fast delivery, Good vitamin, Skin benefits, Improves health, Healthy skin. Some note: Good amount, Helps skin.",
+    "tags": [
+      {
+        "name": "Antioxidant properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small softgels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good amount",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helps skin",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:44.272Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

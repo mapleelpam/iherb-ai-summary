@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120995,
+  "last_updated": "2026-03-20T09:36:18.581Z",
+  "first_scraped": "2026-03-20T09:36:18.581Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves memory, Easy to swallow, Worth the price, Natural ingredients, Boost brain health, Blood circulation, More energy, Vertigo relief. Some note: Budget priced, No difference.",
+    "tags": [
+      {
+        "name": "Improves memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth the price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vertigo relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Budget priced",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:18.581Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

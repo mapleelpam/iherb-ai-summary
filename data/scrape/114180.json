@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114180,
+  "last_updated": "2026-03-20T09:38:19.244Z",
+  "first_scraped": "2026-03-20T09:38:19.244Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient packaging, High concentration, Energy boost, Carefully chosen, Great combination, High dosage, High energy, Boosts efficacy. Some note: Effective quantity.",
+    "tags": [
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Carefully chosen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts efficacy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective quantity",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Label misleading",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:19.244Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116521,
+  "last_updated": "2026-03-20T10:12:55.999Z",
+  "first_scraped": "2026-03-20T10:12:55.999Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Muscle growth, Strength improvement, Trust brand, Muscle repair, Compact size, Good energy, Muscle support, Good ingredients. Some note: Nothing negative, Protein mix.",
+    "tags": [
+      {
+        "name": "Muscle growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strength improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle repair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Compact size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nothing negative",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Protein mix",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:55.999Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

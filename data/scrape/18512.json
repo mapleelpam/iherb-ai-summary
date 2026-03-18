@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18512,
+  "last_updated": "2026-03-20T09:34:56.647Z",
+  "first_scraped": "2026-03-20T09:34:56.647Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin brighter, Good package, Highly recommend, Sustained release, Fast service, Antioxidant support, Easy to swallow, Time-released supplement. Some note: Low dose.",
+    "tags": [
+      {
+        "name": "Skin brighter",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustained release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Time-released supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bit expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Low dose",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:56.647Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

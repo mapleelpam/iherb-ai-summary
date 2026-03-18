@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21505,
+  "last_updated": "2026-03-20T10:08:21.549Z",
+  "first_scraped": "2026-03-20T10:08:21.549Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good immune booster, Easy swallow, Cheap product, Money worth, Cold relief, Speedy arrival, Highly recommend, Effective supplement. Some note: Taller.",
+    "tags": [
+      {
+        "name": "Good immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheap product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Money worth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cold relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy arrival",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Price disappointment",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Taller",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:21.549Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 90757,
+  "last_updated": "2026-03-20T09:19:15.945Z",
+  "first_scraped": "2026-03-20T09:19:15.945Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost immunity, Good for skin, Feel great, Speeds recovery, Great benefit, Easy absorption, Convenient individual packets, Easy to drink. Some note: Love this.",
+    "tags": [
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speeds recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient individual packets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:15.945Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 137902,
+  "last_updated": "2026-03-20T10:00:29.205Z",
+  "first_scraped": "2026-03-20T10:00:29.205Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Muscle power up, Best value, Good energy, Affordable energy, Muscle recovery, Endurance support, Energy boost, Good taste. Some note: Great pre-workout.",
+    "tags": [
+      {
+        "name": "Muscle power up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Endurance support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great pre-workout",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:29.205Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

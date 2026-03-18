@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113451,
+  "last_updated": "2026-03-20T10:00:55.530Z",
+  "first_scraped": "2026-03-20T10:00:55.530Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Control blood sugar, Easy consumption, High dosage, Quick release, Fast shipping, Potent product, Protecting from damages, Lovely taste.",
+    "tags": [
+      {
+        "name": "Control blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy consumption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protecting from damages",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lovely taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Health issues",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:55.530Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

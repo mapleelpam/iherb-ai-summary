@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104786,
+  "last_updated": "2026-03-20T10:30:30.680Z",
+  "first_scraped": "2026-03-20T10:30:30.680Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good combination, No side effects, Stayed healthy, Travel essential, Combining all, Balance of vitamins, Great components, Complete ingredients. Some note: Big tablets.",
+    "tags": [
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stayed healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Travel essential",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Combining all",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balance of vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great components",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smelly pills",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Big tablets",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:30:30.680Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

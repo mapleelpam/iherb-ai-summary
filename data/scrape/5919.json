@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5919,
+  "last_updated": "2026-03-20T09:57:46.280Z",
+  "first_scraped": "2026-03-20T09:57:46.280Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves memory, Brain support, Good ingredient, More energy, Fast shipping, Recall things, Boosting energy, Easy to swallow.",
+    "tags": [
+      {
+        "name": "Improves memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recall things",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not available",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:46.280Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

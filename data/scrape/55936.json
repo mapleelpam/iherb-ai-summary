@@ -1,0 +1,68 @@
+{
+  "iherb_id": 55936,
+  "last_updated": "2026-03-20T10:00:47.682Z",
+  "first_scraped": "2026-03-20T10:00:47.682Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective detox, Highly recommend, Natural cleanse, Good ingredients, Consistent use, Timely delivery, Fast results, Easy use. Some note: Fantastic herbs, Delivery ok.",
+    "tags": [
+      {
+        "name": "Effective detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consistent use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic herbs",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Delivery ok",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:47.682Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

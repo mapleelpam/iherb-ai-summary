@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120168,
+  "last_updated": "2026-03-20T09:54:03.263Z",
+  "first_scraped": "2026-03-20T09:54:03.263Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective dose, Energy production, Good impact, Slow release, Muscle strength, Feel younger, Energy levels, More energy, Easy swallow.",
+    "tags": [
+      {
+        "name": "Effective dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy production",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel younger",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taken off",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:03.263Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

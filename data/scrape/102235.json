@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102235,
+  "last_updated": "2026-03-20T10:24:52.040Z",
+  "first_scraped": "2026-03-20T10:24:52.040Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Liver support, Feel better, Ideal size, Renew energy, Digest dairy, Ingredients good, Arrived quickly, Support process, Overall benefit. Some note: No notable differences.",
+    "tags": [
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ideal size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Renew energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digest dairy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ingredients good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arrived quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support process",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No notable differences",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:52.040Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

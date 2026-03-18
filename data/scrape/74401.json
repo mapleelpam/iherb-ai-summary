@@ -1,0 +1,68 @@
+{
+  "iherb_id": 74401,
+  "last_updated": "2026-03-20T09:30:26.371Z",
+  "first_scraped": "2026-03-20T09:30:26.371Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost energy, Great vitamins, Easy to swallow, Highly recommend, Energy improvement, Good nutrition value, Small dosage size, Vitality boost.",
+    "tags": [
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good nutrition value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small dosage size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitality boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not satisfying",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:26.371Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

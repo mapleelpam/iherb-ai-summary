@@ -1,0 +1,68 @@
+{
+  "iherb_id": 823,
+  "last_updated": "2026-03-20T09:40:55.404Z",
+  "first_scraped": "2026-03-20T09:40:55.404Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good package, Good source, High ingredient dosage, Unexpected change, Rich in vitamin E, Body function, Liver support, Prompt delivery. Some note: Great for the skin.",
+    "tags": [
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High ingredient dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unexpected change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich in vitamin E",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for the skin",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:55.404Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

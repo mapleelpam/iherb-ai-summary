@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22399,
+  "last_updated": "2026-03-20T10:11:18.517Z",
+  "first_scraped": "2026-03-20T10:11:18.517Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great help, Very happy, Works like magic, Excellent job, Blood sugar support, Fast shipping, Helps balance, Good ingredients.",
+    "tags": [
+      {
+        "name": "Great help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works like magic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent job",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not recommend",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:18.517Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

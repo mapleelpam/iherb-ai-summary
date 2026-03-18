@@ -1,0 +1,68 @@
+{
+  "iherb_id": 17766,
+  "last_updated": "2026-03-20T10:41:12.054Z",
+  "first_scraped": "2026-03-20T10:41:12.054Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increased energy, Mix with ice cream, Consistent results, Purity, transparency, Value for money, Expensive product, Consumer-lab confirms, Flawless delivery.",
+    "tags": [
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mix with ice cream",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consistent results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Purity, transparency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consumer-lab confirms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flawless delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No energy",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:41:12.054Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

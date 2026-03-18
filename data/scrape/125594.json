@@ -1,0 +1,68 @@
+{
+  "iherb_id": 125594,
+  "last_updated": "2026-03-20T09:58:14.037Z",
+  "first_scraped": "2026-03-20T09:58:14.037Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Well packed, Easy to swallow, Feeling better, Long-lasting, Helps dogs, Best value, Hope benefits, Good absorption. Some note: Slow progress.",
+    "tags": [
+      {
+        "name": "Well packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-lasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps dogs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hope benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow progress",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bad symptoms",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:14.037Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

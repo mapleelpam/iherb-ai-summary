@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86318,
+  "last_updated": "2026-03-20T09:55:33.168Z",
+  "first_scraped": "2026-03-20T09:55:33.168Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great addition, Gas relief, Cleansing absorbent, Bloating relief, Trusted brand, Regulate bowels, Love this stuff, Detox relief. Some note: Detoxing and giving better feeling.",
+    "tags": [
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gas relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleansing absorbent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bloating relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate bowels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detoxing and giving better feeling",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Uncomfortable taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:33.168Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

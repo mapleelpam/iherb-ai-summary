@@ -1,0 +1,68 @@
+{
+  "iherb_id": 79867,
+  "last_updated": "2026-03-20T09:39:30.719Z",
+  "first_scraped": "2026-03-20T09:39:30.719Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Easy to mix, Improves digestion, Less hunger, No taste, Feel full, Regulate bowel, Great fiber.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less hunger",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel full",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate bowel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No benefit",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Nausea",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:30.719Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

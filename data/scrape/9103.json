@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9103,
+  "last_updated": "2026-03-20T10:22:08.502Z",
+  "first_scraped": "2026-03-20T10:22:08.502Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reasonable price, Glass container, Feel good, Less tired, Good composition, Protect eyes, Improves visions, Remarkable difference, Prompt delivery.",
+    "tags": [
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass container",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less tired",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protect eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves visions",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Remarkable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:08.502Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

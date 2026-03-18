@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12007,
+  "last_updated": "2026-03-20T10:22:31.850Z",
+  "first_scraped": "2026-03-20T10:22:31.850Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Hair growth, Good one, Natural adrenal, Preventing white, Easy to take, Good ingredient, Regeneration. Some note: Tastes herby.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good one",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural adrenal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventing white",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regeneration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Total waste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tastes herby",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:31.850Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106925,
+  "last_updated": "2026-03-20T10:35:58.451Z",
+  "first_scraped": "2026-03-20T10:35:58.451Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Taste great, Delicious, Long lasting, Clean taste, Refreshing and tasty, Love taste, Hydrated me, Cheaper, better.",
+    "tags": [
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long lasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing and tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydrated me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheaper, better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dehydrated orange",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Artificial taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:35:58.451Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

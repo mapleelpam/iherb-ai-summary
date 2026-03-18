@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108496,
+  "last_updated": "2026-03-20T10:20:18.223Z",
+  "first_scraped": "2026-03-20T10:20:18.223Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes great, Pleasant flavor, No xylitol, Brand matters, Effective energy, Nice smell, Less tired, More energy, Happy back on track, Affordable delivery.",
+    "tags": [
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No xylitol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brand matters",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less tired",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy back on track",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable delivery",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:18.223Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

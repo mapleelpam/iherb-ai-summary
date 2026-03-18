@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37817,
+  "last_updated": "2026-03-20T09:35:42.271Z",
+  "first_scraped": "2026-03-20T09:35:42.271Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Long-term supplement, Boosting immunity, Fast acting, Easy to take, Anti-cancer benefits, Best value, Good results, More energy.",
+    "tags": [
+      {
+        "name": "Long-term supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast acting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-cancer benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No benefit",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Detoxing headache",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:42.271Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7624,
+  "last_updated": "2026-03-20T10:19:47.496Z",
+  "first_scraped": "2026-03-20T10:19:47.496Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good calcium supplement, Good ingredients, Great formula, Support bones, Beneficial supplement, Stronger bones, Natural source, Non-contaminated source, On time, Easy to swallow.",
+    "tags": [
+      {
+        "name": "Good calcium supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Non-contaminated source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "On time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:47.496Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

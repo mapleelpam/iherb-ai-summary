@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73726,
+  "last_updated": "2026-03-20T10:06:48.224Z",
+  "first_scraped": "2026-03-20T10:06:48.224Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Respiratory infections, Skin healing, Immune system, Immune booster, Great benefit, Easy to swallow, Love these, Skin joints. Some note: Early days.",
+    "tags": [
+      {
+        "name": "Respiratory infections",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love these",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy increased",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Early days",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:48.224Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

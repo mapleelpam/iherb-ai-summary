@@ -1,0 +1,68 @@
+{
+  "iherb_id": 47415,
+  "last_updated": "2026-03-20T09:49:45.317Z",
+  "first_scraped": "2026-03-20T09:49:45.317Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Relatively fast shipping, Digestive support, Slight boost, Natural taste, Easy digestion, Energy boost, Good for gastritis, Throat support. Some note: Convenient to use.",
+    "tags": [
+      {
+        "name": "Relatively fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slight boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for gastritis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Throat support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difficult to swallow",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Convenient to use",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:45.317Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

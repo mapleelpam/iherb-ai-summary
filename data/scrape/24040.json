@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24040,
+  "last_updated": "2026-03-20T09:22:07.123Z",
+  "first_scraped": "2026-03-20T09:22:07.123Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural iodine, Improved energy, Effective supplement, Good support, Great benefits, Nice price, Rich iodine, Wild harvested.",
+    "tags": [
+      {
+        "name": "Natural iodine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich iodine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wild harvested",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Strong smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:07.123Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 138837,
+  "last_updated": "2026-03-20T09:49:01.471Z",
+  "first_scraped": "2026-03-20T09:49:01.471Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Real taste, Good taste, Mixability amazing, Delicious taste, Excellent additive, Strong chocolate flavor, Good results, Amazing protein. Some note: Dutch chocolate.",
+    "tags": [
+      {
+        "name": "Real taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixability amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong chocolate flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Dutch chocolate",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:01.471Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

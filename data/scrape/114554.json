@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114554,
+  "last_updated": "2026-03-20T09:59:01.877Z",
+  "first_scraped": "2026-03-20T09:59:01.877Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Thank you, Non-gmo tested, Purity guaranteed, Good amount, Speedy delivery, Natural flavors, High concentration.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thank you",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Non-gmo tested",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Purity guaranteed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural flavors",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fishy taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Kid's flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:01.877Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

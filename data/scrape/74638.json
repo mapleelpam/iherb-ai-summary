@@ -1,0 +1,68 @@
+{
+  "iherb_id": 74638,
+  "last_updated": "2026-03-20T09:52:44.822Z",
+  "first_scraped": "2026-03-20T09:52:44.822Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Life changing, Game changer, Easy digestion, High dosage, Expanded dietary options, Avoid gas, Works best, Survivor of surgeries.",
+    "tags": [
+      {
+        "name": "Life changing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expanded dietary options",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid gas",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works best",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Survivor of surgeries",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach pain",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bacterial cell walls",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:44.822Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

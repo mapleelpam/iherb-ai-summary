@@ -1,0 +1,68 @@
+{
+  "iherb_id": 40487,
+  "last_updated": "2026-03-20T09:28:14.889Z",
+  "first_scraped": "2026-03-20T09:28:14.889Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pain relief, Reputable company, Effective dose, High bioavailability, Natural support, Joint relief, Eye drops, Hot shower. Some note: Life extention products, Changed view.",
+    "tags": [
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reputable company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High bioavailability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye drops",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hot shower",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life extention products",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Changed view",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:14.889Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

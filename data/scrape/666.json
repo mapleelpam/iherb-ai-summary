@@ -1,0 +1,68 @@
+{
+  "iherb_id": 666,
+  "last_updated": "2026-03-20T09:35:34.693Z",
+  "first_scraped": "2026-03-20T09:35:34.693Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Great aid, More energy, Grounding feeling, Desiccated liver, Natural multi-vitamin, Good ingredients, Worth it. Some note: Helpful supplement.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Grounding feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Desiccated liver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural multi-vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Must ❤️❤️❤️",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:34.693Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

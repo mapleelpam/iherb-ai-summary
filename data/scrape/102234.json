@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102234,
+  "last_updated": "2026-03-20T10:05:57.269Z",
+  "first_scraped": "2026-03-20T10:05:57.269Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good combo, Positive result, Clearing lungs, Helping my lungs, Good stuff, Works fast, Helped cough, Great results, Trust brand, Hopeful for help.",
+    "tags": [
+      {
+        "name": "Good combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearing lungs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helping my lungs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped cough",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hopeful for help",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:57.269Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

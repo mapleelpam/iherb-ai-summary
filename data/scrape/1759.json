@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1759,
+  "last_updated": "2026-03-20T09:28:14.889Z",
+  "first_scraped": "2026-03-20T09:28:14.889Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved bone strength, Great combo, Increased significantly, Good choice, Good balance, Good package, Value pack, Strong bones. Some note: Large tablets.",
+    "tags": [
+      {
+        "name": "Improved bone strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased significantly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value pack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large tablets",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Doesn't dissolve",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:14.889Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

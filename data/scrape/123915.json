@@ -1,0 +1,68 @@
+{
+  "iherb_id": 123915,
+  "last_updated": "2026-03-20T09:58:58.933Z",
+  "first_scraped": "2026-03-20T09:58:58.933Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Strong bones, Substantial savings, Good absorption, Love the vitamins, Hard to find, Cutting edge, Doctor approved, Sleep management, Trusted brand.",
+    "tags": [
+      {
+        "name": "Strong bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Substantial savings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to find",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cutting edge",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doctor approved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Upset stomach",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:58.933Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 124985,
+  "last_updated": "2026-03-20T10:17:22.239Z",
+  "first_scraped": "2026-03-20T10:17:22.239Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Accurate delivery, Economical size, High potency, Natural base, Good composition, Good formulation, Bonus add ons, Immune support, Suitable size.",
+    "tags": [
+      {
+        "name": "Accurate delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economical size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural base",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bonus add ons",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suitable size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hugely bad deal",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:22.239Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

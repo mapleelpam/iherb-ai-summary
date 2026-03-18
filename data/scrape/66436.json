@@ -1,0 +1,68 @@
+{
+  "iherb_id": 66436,
+  "last_updated": "2026-03-20T10:40:02.781Z",
+  "first_scraped": "2026-03-20T10:40:02.781Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosted levels, Safe & beneficial, Better option, No animal parts, Contains no, Easy ingestion, Vegan alternative, High concentration, Allergen-free levels, Natural form.",
+    "tags": [
+      {
+        "name": "Boosted levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe & beneficial",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No animal parts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Contains no",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy ingestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergen-free levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural form",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:40:02.781Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

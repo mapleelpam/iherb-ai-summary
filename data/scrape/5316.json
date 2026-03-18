@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5316,
+  "last_updated": "2026-03-20T10:38:41.576Z",
+  "first_scraped": "2026-03-20T10:38:41.576Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Found elsewhere, Deep cleaning, Rarely hungry, Easy cleanse, Easy mix, Taste great, Lost pounds, Added energy.",
+    "tags": [
+      {
+        "name": "Found elsewhere",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep cleaning",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rarely hungry",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lost pounds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Added energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste horrible",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No changes",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:38:41.576Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 28427,
+  "last_updated": "2026-03-20T10:08:31.689Z",
+  "first_scraped": "2026-03-20T10:08:31.689Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High potency, Time release, Innovative formula, Essential nutrient, Cellular energy, Good for heart, Commitment to purity, Value for money. Some note: Powder form.",
+    "tags": [
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Time release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Innovative formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential nutrient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cellular energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Commitment to purity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Powder form",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:31.689Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

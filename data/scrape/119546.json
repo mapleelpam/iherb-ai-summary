@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119546,
+  "last_updated": "2026-03-20T09:39:09.798Z",
+  "first_scraped": "2026-03-20T09:39:09.798Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Combat problem, Fast results, Easy to use, Skin glowing, Closest variant, Hair falling out, Convenient size, Easy to swallow. Some note: Mixed results.",
+    "tags": [
+      {
+        "name": "Combat problem",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin glowing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Closest variant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair falling out",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ingredient-wise concern",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Mixed results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:09.798Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

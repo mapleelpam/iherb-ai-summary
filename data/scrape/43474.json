@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43474,
+  "last_updated": "2026-03-20T10:35:06.024Z",
+  "first_scraped": "2026-03-20T10:35:06.024Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient option, Organic minerals, Organic standard, Boost of nutrients, Great supplement, Arthritis pain, Allergy reduction, Minerals source.",
+    "tags": [
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic minerals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic standard",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost of nutrients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arthritis pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergy reduction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Minerals source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gelatin capsules",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not right",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:35:06.024Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

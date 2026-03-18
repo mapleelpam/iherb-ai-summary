@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106002,
+  "last_updated": "2026-03-20T10:09:08.451Z",
+  "first_scraped": "2026-03-20T10:09:08.451Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Rich BCAA content, Tastes good, Improvement recovery, Mineral complex, Muscle support, Highly recommend, Large container.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich BCAA content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mineral complex",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large container",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not needed",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No dyes",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:08.451Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 150962,
+  "last_updated": "2026-03-20T09:52:12.031Z",
+  "first_scraped": "2026-03-20T09:52:12.031Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Excellent boost, Highly recommend, Strong kick, Nice package, Good energy, Boost workout, Great flavor, Good taste. Some note: Efficiency high.",
+    "tags": [
+      {
+        "name": "Excellent boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong kick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficiency high",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strong headache",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:12.031Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

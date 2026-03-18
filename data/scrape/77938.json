@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77938,
+  "last_updated": "2026-03-20T09:26:44.575Z",
+  "first_scraped": "2026-03-20T09:26:44.575Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Antioxidant support, High dosage, Boosts energy, Convenient size, No side effects, Effective formula, Cost savings, Easy to swallow.",
+    "tags": [
+      {
+        "name": "Antioxidant support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cost savings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach ache",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Missing compounds",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:44.575Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

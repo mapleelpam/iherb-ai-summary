@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32316,
+  "last_updated": "2026-03-20T10:00:12.695Z",
+  "first_scraped": "2026-03-20T10:00:12.695Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for joints, Helpful product, Fast shipping, Easy to swallow, Seemed o.k., Noticeable improvement, Nature bounty, Equal supplies. Some note: Efficient capsules.",
+    "tags": [
+      {
+        "name": "Good for joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seemed o.k.",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nature bounty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Equal supplies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long shipping",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Efficient capsules",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:12.695Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

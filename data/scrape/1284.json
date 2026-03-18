@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1284,
+  "last_updated": "2026-03-20T10:10:56.146Z",
+  "first_scraped": "2026-03-20T10:10:56.146Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lasts long, Joint health improvement, Feel healthier, Fast shipping, Relieving joint pain, Anti-inflammatory, good, Skin looks clearer, Incredible skin.",
+    "tags": [
+      {
+        "name": "Lasts long",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel healthier",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieving joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory, good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin looks clearer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Incredible skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Doesn't work",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:56.146Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

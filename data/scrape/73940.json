@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73940,
+  "last_updated": "2026-03-20T09:42:32.581Z",
+  "first_scraped": "2026-03-20T09:42:32.581Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Better results, Good for men, Highly recommend, All in one, Effective supplement, Boost fertility, Thank you, Well packaged. Some note: Good additive, Still waiting.",
+    "tags": [
+      {
+        "name": "Better results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for men",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "All in one",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost fertility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thank you",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good additive",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Still waiting",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:32.581Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

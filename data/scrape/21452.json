@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21452,
+  "last_updated": "2026-03-20T10:19:10.123Z",
+  "first_scraped": "2026-03-20T10:19:10.123Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good health, Respiratory relief, Rare supplement, Fully corresponds, Fast shipping, Immunity stability, Rare mushroom, Feel better. Some note: No taste.",
+    "tags": [
+      {
+        "name": "Good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Respiratory relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rare supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fully corresponds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity stability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rare mushroom",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Breathing difficulty",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:10.123Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

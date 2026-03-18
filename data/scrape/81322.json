@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81322,
+  "last_updated": "2026-03-20T09:37:47.810Z",
+  "first_scraped": "2026-03-20T09:37:47.810Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Trust iherb products, Good vitamins, Feel good, Visually appealing, Impressive multivitamin, Nice price, Love these. Some note: Not much.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust iherb products",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Visually appealing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressive multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love these",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big disappointment",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not much",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:47.810Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

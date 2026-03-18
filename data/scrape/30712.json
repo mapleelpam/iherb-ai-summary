@@ -1,0 +1,68 @@
+{
+  "iherb_id": 30712,
+  "last_updated": "2026-03-20T10:15:05.956Z",
+  "first_scraped": "2026-03-20T10:15:05.956Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Protein boost, Fresh taste, Loaded B vitamins, Seasonal allergies, Highly recommend, Improved skin, Boost energy, Enhance stamina.",
+    "tags": [
+      {
+        "name": "Protein boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loaded B vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seasonal allergies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhance stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small pebbles",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not the best",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:05.956Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

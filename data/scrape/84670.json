@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84670,
+  "last_updated": "2026-03-20T10:05:18.508Z",
+  "first_scraped": "2026-03-20T10:05:18.508Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fair price, Pumping, Must try, Good benefit, Stim-free option, Good pump, Taste good, Energy boost. Some note: Boost endurance.",
+    "tags": [
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pumping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Must try",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stim-free option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost endurance",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Doesn't mix well",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:18.508Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

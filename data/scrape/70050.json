@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70050,
+  "last_updated": "2026-03-20T09:49:28.933Z",
+  "first_scraped": "2026-03-20T09:49:28.933Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Active tocopherol, Good combination, Heart health, Skin improvement, Quick absorption, Balances hormones, Good taste, Joint pain relief, Antioxidant support. Some note: Big size.",
+    "tags": [
+      {
+        "name": "Active tocopherol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balances hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:28.933Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

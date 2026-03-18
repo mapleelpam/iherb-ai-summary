@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18628,
+  "last_updated": "2026-03-20T09:53:58.386Z",
+  "first_scraped": "2026-03-20T09:53:58.386Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Kids love, Natural flavor, Sweet taste, Easy to take, High potency, Fast shipping, Tastes great, Good booster. Some note: Easy option, Good for immunity.",
+    "tags": [
+      {
+        "name": "Kids love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy option",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good for immunity",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:58.386Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

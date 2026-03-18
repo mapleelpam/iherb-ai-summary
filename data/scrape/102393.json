@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102393,
+  "last_updated": "2026-03-20T10:02:36.823Z",
+  "first_scraped": "2026-03-20T10:02:36.823Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sustained energy, Weight control, Highly recommend, Increased energy levels, Good combination, Natural ingredients, Nice boost, Quick energy.",
+    "tags": [
+      {
+        "name": "Sustained energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delayed energy boost",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "False advertising",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:36.823Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

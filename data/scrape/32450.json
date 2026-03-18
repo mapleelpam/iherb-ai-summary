@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32450,
+  "last_updated": "2026-03-20T10:01:35.278Z",
+  "first_scraped": "2026-03-20T10:01:35.278Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good mood, Good drug, Sleep better, Mood balance, Good package, Stabler mood, Emotional well-being, Maintaining health. Some note: Looks changed, Effective capsules.",
+    "tags": [
+      {
+        "name": "Good mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good drug",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stabler mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Emotional well-being",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintaining health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Looks changed",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective capsules",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:35.278Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

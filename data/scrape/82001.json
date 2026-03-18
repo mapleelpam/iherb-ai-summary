@@ -1,0 +1,68 @@
+{
+  "iherb_id": 82001,
+  "last_updated": "2026-03-20T10:02:04.934Z",
+  "first_scraped": "2026-03-20T10:02:04.934Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Organic sourced, Good energy, Fast shipping, Weight loss, Energy boost, Tasteless, easy, Family love, Creamy texture. Some note: Not coffee.",
+    "tags": [
+      {
+        "name": "Organic sourced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasteless, easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Family love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Creamy texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not coffee",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:04.934Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

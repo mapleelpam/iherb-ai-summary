@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105718,
+  "last_updated": "2026-03-20T09:59:04.757Z",
+  "first_scraped": "2026-03-20T09:59:04.757Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural ingredients, Improves health, Value for money, Full energy, Not bad, Relaxed night, Works every time, Deep sleep. Some note: Great pills.",
+    "tags": [
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Full energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not bad",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxed night",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works every time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Terrible sleep",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Great pills",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:04.757Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

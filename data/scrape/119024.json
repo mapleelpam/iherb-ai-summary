@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119024,
+  "last_updated": "2026-03-20T10:00:54.581Z",
+  "first_scraped": "2026-03-20T10:00:54.581Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Taste amazing, High protein, Affordable option, Fresh bars, Good snack, Moist texture, After dinner, High fiber.",
+    "tags": [
+      {
+        "name": "Taste amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh bars",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moist texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "After dinner",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not recommend",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:54.581Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

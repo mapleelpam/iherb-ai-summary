@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105716,
+  "last_updated": "2026-03-20T09:49:32.702Z",
+  "first_scraped": "2026-03-20T09:49:32.702Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Relaxed feeling, Quality sleep, Fast results, Natural alternative, Helps sleep, Fastest delivery, Chewable tablets, Non habit forming.",
+    "tags": [
+      {
+        "name": "Relaxed feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fastest delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chewable tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Non habit forming",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable delivery",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Melatonin dosage",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:32.702Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

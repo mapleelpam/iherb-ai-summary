@@ -1,0 +1,68 @@
+{
+  "iherb_id": 68431,
+  "last_updated": "2026-03-20T09:42:29.542Z",
+  "first_scraped": "2026-03-20T09:42:29.542Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Allergy relief, Trusted brand, High potency, Love this product, Organic source, Works consistently, Daily energy, Gentle formula. Some note: Feeling great, Nice price.",
+    "tags": [
+      {
+        "name": "Allergy relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works consistently",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling great",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:29.542Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

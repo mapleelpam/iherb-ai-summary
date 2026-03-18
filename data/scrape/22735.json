@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22735,
+  "last_updated": "2026-03-20T10:01:52.693Z",
+  "first_scraped": "2026-03-20T10:01:52.693Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great combination, Natural vitamins, Excellent supplement, Real lift, Impressed with, Trusted brand, Very popular, Best ever.",
+    "tags": [
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real lift",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very popular",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best ever",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lacking in potency",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not good",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:52.693Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

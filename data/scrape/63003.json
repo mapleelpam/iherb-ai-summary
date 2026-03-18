@@ -1,0 +1,68 @@
+{
+  "iherb_id": 63003,
+  "last_updated": "2026-03-20T09:41:46.502Z",
+  "first_scraped": "2026-03-20T09:41:46.502Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice smell, Boosts immunity, Fast relief, Throat pain relief, Natural taste, Natural ingredients, Effective ingredients, Good taste.",
+    "tags": [
+      {
+        "name": "Nice smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Throat pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not same",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:46.502Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

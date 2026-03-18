@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104490,
+  "last_updated": "2026-03-20T10:31:04.370Z",
+  "first_scraped": "2026-03-20T10:31:04.370Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean energy, Incredible stamina, Size is enough, Smooth out, Sustained energy, Laser focus, Helps focus, Boost energy. Some note: HPA dysfunction.",
+    "tags": [
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Incredible stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Size is enough",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth out",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustained energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Laser focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "HPA dysfunction",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not consistent",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:04.370Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

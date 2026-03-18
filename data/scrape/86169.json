@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86169,
+  "last_updated": "2026-03-20T09:22:51.251Z",
+  "first_scraped": "2026-03-20T09:22:51.251Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune system, Overall health, Antibiotic support, Detox liver, Nice package, High amount, High dose, Blood pressure. Some note: Not sure, Fast shipping.",
+    "tags": [
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antibiotic support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox liver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:51.251Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

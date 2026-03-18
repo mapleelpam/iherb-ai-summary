@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3192,
+  "last_updated": "2026-03-20T10:17:58.457Z",
+  "first_scraped": "2026-03-20T10:17:58.457Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works amazing, Natural composition, Preventative formula, Improvement noticed, Flexible joints, Relief noticed, Cheaper option, Joint relief.",
+    "tags": [
+      {
+        "name": "Works amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventative formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flexible joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheaper option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Toxic coloring",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:58.457Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23162,
+  "last_updated": "2026-03-20T10:13:47.151Z",
+  "first_scraped": "2026-03-20T10:13:47.151Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Reduce stress, Easy to use, Instant results, Helps nerve pain, Natural blend, Everyday stress relief, Calmer and confident. Some note: Suspicious improvement.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Instant results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps nerve pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Everyday stress relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calmer and confident",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suspicious improvement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not much",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:47.151Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

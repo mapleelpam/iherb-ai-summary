@@ -1,0 +1,63 @@
+{
+  "iherb_id": 59091,
+  "last_updated": "2026-03-20T09:29:07.196Z",
+  "first_scraped": "2026-03-20T09:29:07.196Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Knee pain, Happy with, Feeling better, Pain reduced, Joint improvement, Helps joints, Good for bones. Some note: Well-packed product, Large tablets.",
+    "tags": [
+      {
+        "name": "Knee pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain reduced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well-packed product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Large tablets",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:07.196Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

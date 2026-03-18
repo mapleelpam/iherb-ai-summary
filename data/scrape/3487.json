@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3487,
+  "last_updated": "2026-03-20T10:05:02.228Z",
+  "first_scraped": "2026-03-20T10:05:02.228Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immediate boost, Fight infections, Immune support, Reduce allergies, Prompt delivery, Prevent illness, Fast recovery, Quick service, Purchase again. Some note: Excellent supplement.",
+    "tags": [
+      {
+        "name": "Immediate boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fight infections",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce allergies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prevent illness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Purchase again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:02.228Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

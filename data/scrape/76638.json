@@ -1,0 +1,68 @@
+{
+  "iherb_id": 76638,
+  "last_updated": "2026-03-20T10:07:55.709Z",
+  "first_scraped": "2026-03-20T10:07:55.709Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Discontinued replacement, Fantastic improvement, Back pain relief, Helps with, Less inflammation, No bad aftertaste, Great blend, Enjoying these.",
+    "tags": [
+      {
+        "name": "Discontinued replacement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Back pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No bad aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enjoying these",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nerve inflammation",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:55.709Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

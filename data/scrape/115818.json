@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115818,
+  "last_updated": "2026-03-20T09:26:50.397Z",
+  "first_scraped": "2026-03-20T09:26:50.397Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Convenient size, Calms caffeine jitters, Calming effect, Improved focus, Relaxation and focus, No taste, Package arrived. Some note: Good results, Nice. Ì feel better than before..",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calms caffeine jitters",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxation and focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Package arrived",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nice. Ì feel better than before.",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:50.397Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

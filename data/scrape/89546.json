@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89546,
+  "last_updated": "2026-03-20T10:34:00.696Z",
+  "first_scraped": "2026-03-20T10:34:00.696Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Amazing results, Tasty supplement, Easy drink, First time, Yummy flavor, Good macros, Dissolves well, Tastes great.",
+    "tags": [
+      {
+        "name": "Amazing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good macros",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Artificial taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:34:00.696Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

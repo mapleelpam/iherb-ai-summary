@@ -1,0 +1,68 @@
+{
+  "iherb_id": 55153,
+  "last_updated": "2026-03-20T09:55:36.036Z",
+  "first_scraped": "2026-03-20T09:55:36.036Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast growth, Convenient size, Seem to work, Affordable option, Significant difference, Vegan hair, Energy improvement, Hair shedding less.",
+    "tags": [
+      {
+        "name": "Fast growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seem to work",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Significant difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair shedding less",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:36.036Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

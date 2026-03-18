@@ -1,0 +1,68 @@
+{
+  "iherb_id": 122324,
+  "last_updated": "2026-03-20T10:03:57.617Z",
+  "first_scraped": "2026-03-20T10:03:57.617Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Convenient size, Economical choice, Known brand, Protect prostate, Highly recommend, Increased dosage, Optimum dose. Some note: No taste.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economical choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Known brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protect prostate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Optimum dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lost lid",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:57.617Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

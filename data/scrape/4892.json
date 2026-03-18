@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4892,
+  "last_updated": "2026-03-20T09:39:30.719Z",
+  "first_scraped": "2026-03-20T09:39:30.719Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great probiotic, Rich antibiotics, Quick absorption, Improved digestion, Easy to swallow, Good gut, Intestinal health, Smooth bowel movements. Some note: Efficient product, Working fine.",
+    "tags": [
+      {
+        "name": "Great probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich antibiotics",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intestinal health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth bowel movements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Working fine",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:30.719Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 40516,
+  "last_updated": "2026-03-20T09:23:08.867Z",
+  "first_scraped": "2026-03-20T09:23:08.867Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Vegan option, Less pain, Helps joints, Bone support, Easy swallow, Lighter feel, Good thing, Effective brand.",
+    "tags": [
+      {
+        "name": "Vegan option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lighter feel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good thing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Pills too large",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:08.867Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

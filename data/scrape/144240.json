@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144240,
+  "last_updated": "2026-03-20T09:40:25.453Z",
+  "first_scraped": "2026-03-20T09:40:25.453Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Liver health, Lower blood sugar, Relieves pins, Shoulder pain, Digestion help, Potent antioxidant, Weight loss, Less pain. Some note: Skin clear, Good ingredients.",
+    "tags": [
+      {
+        "name": "Liver health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves pins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shoulder pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin clear",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:25.453Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

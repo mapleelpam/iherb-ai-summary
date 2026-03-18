@@ -1,0 +1,68 @@
+{
+  "iherb_id": 35723,
+  "last_updated": "2026-03-20T09:43:51.427Z",
+  "first_scraped": "2026-03-20T09:43:51.427Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Healthier regime, Love this product, Amazing benefits, Easy to drink, Good results, More energy, Energy boost, Excellent additive. Some note: Acceptable taste.",
+    "tags": [
+      {
+        "name": "Healthier regime",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach discomfort",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Acceptable taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:51.427Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

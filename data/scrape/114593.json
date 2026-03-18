@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114593,
+  "last_updated": "2026-03-20T10:31:49.011Z",
+  "first_scraped": "2026-03-20T10:31:49.011Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Easy to swallow, Relieves cramps, Convenient combination, Strong nails, Fall asleep, Helps sleep, Comprehensive solution. Some note: Exact amount.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fall asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comprehensive solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Exact amount",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Afraid to touch",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:49.011Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

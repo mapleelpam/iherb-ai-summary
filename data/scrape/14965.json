@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14965,
+  "last_updated": "2026-03-20T09:49:42.346Z",
+  "first_scraped": "2026-03-20T09:49:42.346Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes good, Affordable option, Good substitute, Fast shipment, Strong bones, Effective supplement, Easy to drink, Highly recommend. Some note: Apple juice mix.",
+    "tags": [
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good substitute",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Apple juice mix",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Uncomfortable gas",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:42.346Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

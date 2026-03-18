@@ -1,0 +1,68 @@
+{
+  "iherb_id": 53614,
+  "last_updated": "2026-03-20T10:10:27.405Z",
+  "first_scraped": "2026-03-20T10:10:27.405Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Prostate health, Organic option, Improved size, Noticeable improvement, Good ingredients, Results seem good, Improves health, Hair growth, Effective supplement, Affordable option.",
+    "tags": [
+      {
+        "name": "Prostate health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Results seem good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:27.405Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

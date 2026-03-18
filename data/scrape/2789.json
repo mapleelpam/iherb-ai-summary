@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2789,
+  "last_updated": "2026-03-20T10:08:36.143Z",
+  "first_scraped": "2026-03-20T10:08:36.143Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Terrific price, Best balanced, Soy free, Helped greatly, Easy to swallow, High potency, Powerful antioxidant, Affordable option, Best prices. Some note: Fast shipping.",
+    "tags": [
+      {
+        "name": "Terrific price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best balanced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soy free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped greatly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best prices",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:36.143Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

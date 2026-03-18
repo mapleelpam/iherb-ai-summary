@@ -1,0 +1,68 @@
+{
+  "iherb_id": 90428,
+  "last_updated": "2026-03-20T09:51:35.535Z",
+  "first_scraped": "2026-03-20T09:51:35.535Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Overall health, Slight change, Detox support, Real improvements, Vital support, Reduce plastic, Works amazing, Easy cleanse. Some note: Impressed results.",
+    "tags": [
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slight change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vital support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce plastic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Constipated",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Impressed results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:35.535Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

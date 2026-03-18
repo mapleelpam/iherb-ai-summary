@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69334,
+  "last_updated": "2026-03-20T10:13:07.564Z",
+  "first_scraped": "2026-03-20T10:13:07.564Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Trusted brand, Good ingredients, Fast shipping, Higher concentration, Bone support, Unique formula, Balanced product.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excreting high amounts",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:07.564Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

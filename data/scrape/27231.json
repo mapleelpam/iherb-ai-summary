@@ -1,0 +1,68 @@
+{
+  "iherb_id": 27231,
+  "last_updated": "2026-03-20T09:42:33.602Z",
+  "first_scraped": "2026-03-20T09:42:33.602Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very satisfied, Timely delivery, Clean source, Good source, Good ingredients, Best price, Trust paradise, Good choice. Some note: Non gelatin capsule, Convenient and reliable.",
+    "tags": [
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust paradise",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Non gelatin capsule",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Convenient and reliable",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:33.602Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

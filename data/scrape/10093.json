@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10093,
+  "last_updated": "2026-03-20T10:29:27.505Z",
+  "first_scraped": "2026-03-20T10:29:27.505Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Love the product, Good scent, Highly recommend, Relieved hot flushes, Unique composition, Concentrated formula, Good sleep.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieved hot flushes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Concentrated formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shorter cycles",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not right",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:29:27.505Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

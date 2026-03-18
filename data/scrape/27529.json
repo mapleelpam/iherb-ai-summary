@@ -1,0 +1,68 @@
+{
+  "iherb_id": 27529,
+  "last_updated": "2026-03-20T10:13:26.222Z",
+  "first_scraped": "2026-03-20T10:13:26.222Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Faster recovery, Very tasty, Slow absorbing protein, Chocolate overload, Immunity boost, Muscle soreness, Good taste, Fast digestion.",
+    "tags": [
+      {
+        "name": "Faster recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow absorbing protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chocolate overload",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle soreness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thick consistency",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Horrible taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:26.222Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

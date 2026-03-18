@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85352,
+  "last_updated": "2026-03-20T10:04:26.797Z",
+  "first_scraped": "2026-03-20T10:04:26.797Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Convenient package, Good taste, Eye-catching bottle, Tastes great, Too expensive, Natural cleaner, Yummy vitamins. Some note: Easy way.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye-catching bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too expensive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural cleaner",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste weird",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Easy way",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:26.797Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

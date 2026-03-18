@@ -1,0 +1,68 @@
+{
+  "iherb_id": 148902,
+  "last_updated": "2026-03-20T10:36:04.457Z",
+  "first_scraped": "2026-03-20T10:36:04.457Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Best so far, Fast shipping, Lower carbs, Great flavor, Good taste, Easy to drink, Pure protein, Mixes easily.",
+    "tags": [
+      {
+        "name": "Best so far",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower carbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes disgusting",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Weird taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:36:04.457Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

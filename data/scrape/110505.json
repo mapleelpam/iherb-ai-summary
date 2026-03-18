@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110505,
+  "last_updated": "2026-03-20T10:13:35.165Z",
+  "first_scraped": "2026-03-20T10:13:35.165Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Magic sleep, Helped sleep, Good melatonin, Small tablets, Highly recommend, Small size, Fast shipping, Good dosage. Some note: Works well.",
+    "tags": [
+      {
+        "name": "Magic sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good melatonin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works well",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:35.165Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

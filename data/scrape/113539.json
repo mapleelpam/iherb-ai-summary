@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113539,
+  "last_updated": "2026-03-20T10:19:36.547Z",
+  "first_scraped": "2026-03-20T10:19:36.547Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stays healthy, Great supplement, Unique formulation, Combines essential vitamins, Helping routine, Immune support, Yummy benefits, Easy to swallow. Some note: 120 count, More energy.",
+    "tags": [
+      {
+        "name": "Stays healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique formulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Combines essential vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helping routine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "120 count",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:36.547Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 98878,
+  "last_updated": "2026-03-20T10:30:13.727Z",
+  "first_scraped": "2026-03-20T10:30:13.727Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Recommended, Visible improvement, Worth trying, Tasty option, Love the taste, Improves health, Mixes well, Easy order. Some note: Aftertaste tolerable.",
+    "tags": [
+      {
+        "name": "Recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Visible improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth trying",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Aftertaste tolerable",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:30:13.727Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 66910,
+  "last_updated": "2026-03-20T09:44:25.525Z",
+  "first_scraped": "2026-03-20T09:44:25.525Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for knees, Backache relief, Joint health, Less back issues, Knee pain stopped, Recommended niece, Helps pain, Happy with.",
+    "tags": [
+      {
+        "name": "Good for knees",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Backache relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less back issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Knee pain stopped",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended niece",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Leg pain",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Different formula",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:25.525Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

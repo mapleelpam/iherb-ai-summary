@@ -1,0 +1,68 @@
+{
+  "iherb_id": 51093,
+  "last_updated": "2026-03-20T09:52:26.547Z",
+  "first_scraped": "2026-03-20T09:52:26.547Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Nerve support, Natural b1, Good for pain, Slight improvement, Cell metabolism, Small size, More energy. Some note: Amazing effect.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nerve support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural b1",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slight improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cell metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Agitation and sleep",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Amazing effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:26.547Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

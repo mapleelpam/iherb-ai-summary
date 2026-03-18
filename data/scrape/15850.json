@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15850,
+  "last_updated": "2026-03-20T10:35:30.088Z",
+  "first_scraped": "2026-03-20T10:35:30.088Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Kids learning, Easy to drink, Berry flavor, Acceptable flavour, Prompt service, Helps inflammation, Good taste, Yummy taste. Some note: Heavy taste.",
+    "tags": [
+      {
+        "name": "Kids learning",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Berry flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acceptable flavour",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heavy taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Overpowering taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:35:30.088Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

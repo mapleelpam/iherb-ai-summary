@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22997,
+  "last_updated": "2026-03-20T10:00:28.155Z",
+  "first_scraped": "2026-03-20T10:00:28.155Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Feel energized, Better absorption, Liquid vitamin, Good taste, Full range, Boost of energy, Expensive but worth, Tasty liquid.",
+    "tags": [
+      {
+        "name": "Feel energized",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liquid vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Full range",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but worth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty liquid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not highest quality",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive water",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:28.155Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

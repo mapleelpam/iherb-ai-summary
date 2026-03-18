@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4835,
+  "last_updated": "2026-03-20T10:03:08.277Z",
+  "first_scraped": "2026-03-20T10:03:08.277Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Vegan vitamins, Liver support, Hangover relief, Organic step forward, Lower ALT, Trustworthy company, Gifted item, Combo ingredients. Some note: Vit E, Highly recommend.",
+    "tags": [
+      {
+        "name": "Vegan vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hangover relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic step forward",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower ALT",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trustworthy company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gifted item",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Combo ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vit E",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:08.277Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

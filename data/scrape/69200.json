@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69200,
+  "last_updated": "2026-03-20T09:59:43.006Z",
+  "first_scraped": "2026-03-20T09:59:43.006Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Relaxation effect, Good price, Easy to use, Good sleep, Convenient consumption, Boosting GABA, Trustworthy ingredients, Highly recommend. Some note: Tiny amount, Energy sustained.",
+    "tags": [
+      {
+        "name": "Relaxation effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient consumption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting GABA",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trustworthy ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiny amount",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Energy sustained",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:43.006Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

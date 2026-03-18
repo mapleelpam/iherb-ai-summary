@@ -1,0 +1,68 @@
+{
+  "iherb_id": 66434,
+  "last_updated": "2026-03-20T10:31:45.937Z",
+  "first_scraped": "2026-03-20T10:31:45.937Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Best price, Helpful supplement, Perfect dose, Plant based, Vegan option, Glass bottle, Easy swallow.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not agree",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High cost",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:45.937Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

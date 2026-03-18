@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101667,
+  "last_updated": "2026-03-20T09:53:06.346Z",
+  "first_scraped": "2026-03-20T09:53:06.346Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mixed tocopherols, Improves vision, Energy boost, Sharper vision, No adverse effects, Skin health, Easy to take, Easy swallow. Some note: Deep orange/red.",
+    "tags": [
+      {
+        "name": "Mixed tocopherols",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sharper vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No adverse effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye dryness",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Deep orange/red",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:06.346Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

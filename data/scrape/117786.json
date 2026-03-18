@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117786,
+  "last_updated": "2026-03-20T10:24:21.828Z",
+  "first_scraped": "2026-03-20T10:24:21.828Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good tea, Fast shipping, Prevent uti's, Exciting botanical, Cardiovascular health, Lower cholesterol, Heart support, Love company. Some note: Standardized dosage.",
+    "tags": [
+      {
+        "name": "Good tea",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prevent uti's",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Exciting botanical",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Standardized dosage",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Weird feeling",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:21.828Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

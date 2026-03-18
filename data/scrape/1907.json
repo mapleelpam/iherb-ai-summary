@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1907,
+  "last_updated": "2026-03-20T09:51:15.751Z",
+  "first_scraped": "2026-03-20T09:51:15.751Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Helps eating, Might help, Feel full, Helps control, Fast shipping, Highly recommend, Vegan product.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps eating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Might help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel full",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Didn't work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not filling",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:15.751Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

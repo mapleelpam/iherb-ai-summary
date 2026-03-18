@@ -1,0 +1,68 @@
+{
+  "iherb_id": 82073,
+  "last_updated": "2026-03-20T10:16:22.145Z",
+  "first_scraped": "2026-03-20T10:16:22.145Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Supports health, Natural ingredients, Essential part, Maintain blood sugar, Saved health, Easy to digest, Lowered levels, Less cravings. Some note: Right dosage.",
+    "tags": [
+      {
+        "name": "Supports health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential part",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Saved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to digest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowered levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Right dosage",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No noticeable effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:22.145Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

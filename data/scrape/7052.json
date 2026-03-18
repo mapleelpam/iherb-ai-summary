@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7052,
+  "last_updated": "2026-03-20T09:35:02.452Z",
+  "first_scraped": "2026-03-20T09:35:02.452Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No aftertaste, Increased focus, Pure fish oil, Lowering level, Good omega brand, Natural remedy, Easy swallow, Effective brand.",
+    "tags": [
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure fish oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowering level",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good omega brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not fair",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive for low dose",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:02.452Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

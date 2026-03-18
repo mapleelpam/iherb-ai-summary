@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86595,
+  "last_updated": "2026-03-20T09:22:35.637Z",
+  "first_scraped": "2026-03-20T09:22:35.637Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pleased with this product, Supports heart, Healthy baby, Increased energy, Great addition, Easy consumption, Fast shipping, Good antioxidant. Some note: No difference, Memory improvement.",
+    "tags": [
+      {
+        "name": "Pleased with this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy baby",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy consumption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:35.637Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

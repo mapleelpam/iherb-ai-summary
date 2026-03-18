@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70078,
+  "last_updated": "2026-03-20T09:37:21.791Z",
+  "first_scraped": "2026-03-20T09:37:21.791Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective cleanse, High dosage, Clear skin, Keeps at bay, Immediate benefits, Stronger dosage, Good structure, Less spread.",
+    "tags": [
+      {
+        "name": "Effective cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps at bay",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good structure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less spread",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not recommended",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "6 capsules",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:21.791Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

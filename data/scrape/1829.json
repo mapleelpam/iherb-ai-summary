@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1829,
+  "last_updated": "2026-03-20T10:07:25.278Z",
+  "first_scraped": "2026-03-20T10:07:25.278Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Night sweats gone, Fast effect, Balances hormones, Effective for hormones, Effective supplement, Symptoms relief, Hot flashes, Increased energy. Some note: Slight improvement, Not sure.",
+    "tags": [
+      {
+        "name": "Night sweats gone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balances hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective for hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Symptoms relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hot flashes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slight improvement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:25.278Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

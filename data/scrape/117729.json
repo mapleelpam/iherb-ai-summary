@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117729,
+  "last_updated": "2026-03-20T09:41:44.438Z",
+  "first_scraped": "2026-03-20T09:41:44.438Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Cheap and effective, Boost energy, Improved health, Muscle strength, More alive, Neat purchase, No scent. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheap and effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More alive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neat purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Gelatin source",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:44.438Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

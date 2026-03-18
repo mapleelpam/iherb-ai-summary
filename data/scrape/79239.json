@@ -1,0 +1,68 @@
+{
+  "iherb_id": 79239,
+  "last_updated": "2026-03-20T10:07:49.908Z",
+  "first_scraped": "2026-03-20T10:07:49.908Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean ingredients, Good alternative, Natural taste, Love the ingredients, Energy boost, Good protein, Mild flavor, High nutrition. Some note: Light texture.",
+    "tags": [
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High nutrition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Light texture",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not for me",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:49.908Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

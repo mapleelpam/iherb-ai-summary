@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85149,
+  "last_updated": "2026-03-20T09:39:41.160Z",
+  "first_scraped": "2026-03-20T09:39:41.160Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Thyroid health, Reliable dose, Improves thyroid, Works great, Easy consumption, Nice package, Fast shipping. Some note: Easy swallow.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thyroid health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves thyroid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy consumption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:41.160Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

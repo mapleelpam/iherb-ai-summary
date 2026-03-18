@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24001,
+  "last_updated": "2026-03-20T10:20:39.108Z",
+  "first_scraped": "2026-03-20T10:20:39.108Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Better results, Repeat order, Long expiry date, Stronger urinary, Comprehensive formula, Immediate relief, Less night trips, Feel better. Some note: Neutral taste.",
+    "tags": [
+      {
+        "name": "Better results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long expiry date",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger urinary",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comprehensive formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less night trips",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not recommend",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:39.108Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

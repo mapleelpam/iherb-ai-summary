@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105880,
+  "last_updated": "2026-03-20T10:00:42.853Z",
+  "first_scraped": "2026-03-20T10:00:42.853Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this brand, Nice taste, Game-changer hydration, Helps massively, Natural and fresh, Hydrating well, Smaller size, Good ingredient.",
+    "tags": [
+      {
+        "name": "Love this brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps massively",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural and fresh",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydrating well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smaller size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High sugar",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive, salty",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:42.853Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

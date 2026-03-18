@@ -1,0 +1,68 @@
+{
+  "iherb_id": 63561,
+  "last_updated": "2026-03-20T09:29:20.016Z",
+  "first_scraped": "2026-03-20T09:29:20.016Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Best tasting, Delicious chunks, Low carb, Chunky texture, Tastes amazing, Satisfying cravings, Great snack, Highly recommend, Tasty bars.",
+    "tags": [
+      {
+        "name": "Best tasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious chunks",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low carb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chunky texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfying cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty bars",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:20.016Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

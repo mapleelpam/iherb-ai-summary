@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78390,
+  "last_updated": "2026-03-20T09:24:23.527Z",
+  "first_scraped": "2026-03-20T09:24:23.527Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious cacao, Super cacao, Not too bitter, Fresh and good, Good stuff, Energized, Healthy and delicious, Rich flavor. Some note: Fine powder.",
+    "tags": [
+      {
+        "name": "Delicious cacao",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super cacao",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not too bitter",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh and good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energized",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy and delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fine powder",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:23.527Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

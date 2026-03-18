@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2010,
+  "last_updated": "2026-03-20T09:46:59.328Z",
+  "first_scraped": "2026-03-20T09:46:59.328Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great for skin, Improves health, Easyer and cheaper, Helps body, Boosts energy, Easy to swallow, Essential nutrition, Helps acne. Some note: Hair loss.",
+    "tags": [
+      {
+        "name": "Great for skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easyer and cheaper",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps body",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential nutrition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps acne",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair loss",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Less stress",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:59.328Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

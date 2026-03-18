@@ -1,0 +1,68 @@
+{
+  "iherb_id": 34143,
+  "last_updated": "2026-03-20T09:33:31.963Z",
+  "first_scraped": "2026-03-20T09:33:31.963Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good energy, Improved health, Tastes nice, Quick recovery, Good combination, Increased energy, Everything you need, Convenient formula. Some note: Easy on stomach.",
+    "tags": [
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Everything you need",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on stomach",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Heavy stomach",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:31.963Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

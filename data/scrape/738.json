@@ -1,0 +1,68 @@
+{
+  "iherb_id": 738,
+  "last_updated": "2026-03-20T09:21:59.118Z",
+  "first_scraped": "2026-03-20T09:21:59.118Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune system, Improved skin, Skin clarity, Bioavailable zinc, Easy to swallow, Perfect dosage, Avoids colds, Good combo. Some note: No visible effect.",
+    "tags": [
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioavailable zinc",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoids colds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No visible effect",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nauseous smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:59.118Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3968,
+  "last_updated": "2026-03-20T09:49:51.193Z",
+  "first_scraped": "2026-03-20T09:49:51.193Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improve sleep, Boosts immune, Easy to drink, Effective dose, Good package, Gentle on stomach, High dosages, Happy with. Some note: Easy to use.",
+    "tags": [
+      {
+        "name": "Improve sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosages",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Terrible taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:51.193Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

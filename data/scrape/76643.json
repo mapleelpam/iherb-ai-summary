@@ -1,0 +1,68 @@
+{
+  "iherb_id": 76643,
+  "last_updated": "2026-03-20T09:59:51.891Z",
+  "first_scraped": "2026-03-20T09:59:51.891Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High dosage, Very convenient, Easy swallow, Right amount, Immune support, Highly recommend, No aftertaste, Boosted levels. Some note: Standard product.",
+    "tags": [
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very convenient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Right amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body inflammation",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Standard product",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:51.891Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

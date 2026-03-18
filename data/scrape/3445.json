@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3445,
+  "last_updated": "2026-03-20T09:46:40.489Z",
+  "first_scraped": "2026-03-20T09:46:40.489Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Boost energy, Easy to swallow, Iron boost, High ALT, Small size, Pure ingredients, More energetic. Some note: Improved health, Happy to have.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Iron boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High ALT",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Happy to have",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:40.489Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

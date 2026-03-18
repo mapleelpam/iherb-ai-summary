@@ -1,0 +1,68 @@
+{
+  "iherb_id": 123070,
+  "last_updated": "2026-03-20T10:18:39.057Z",
+  "first_scraped": "2026-03-20T10:18:39.057Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Deep sleep, Value for money, Small tablets, Small size, Life changer, Easy dosage, Helpful way, Solid rest.",
+    "tags": [
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Solid rest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Easy consumption",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:39.057Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

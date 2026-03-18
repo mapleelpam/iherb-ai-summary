@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14274,
+  "last_updated": "2026-03-20T09:23:00.117Z",
+  "first_scraped": "2026-03-20T09:23:00.117Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Quick result, Small pills, High potency, Nice price, Easy to swallow, Bioavailable option, Bio-active form, Good dosage. Some note: Trust solgar, Vegan ingredients.",
+    "tags": [
+      {
+        "name": "Quick result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioavailable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bio-active form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust solgar",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Vegan ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:00.117Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

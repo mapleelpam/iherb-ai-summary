@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12631,
+  "last_updated": "2026-03-20T09:35:00.533Z",
+  "first_scraped": "2026-03-20T09:35:00.533Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Heart health, Adequate amount, Reasonable price, Easy to swallow, Energy boost, Prompt service, Lower dose, Better absorb. Some note: Excellent choice.",
+    "tags": [
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adequate amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better absorb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent choice",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Thirst, headache",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:00.533Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15280,
+  "last_updated": "2026-03-20T10:26:08.229Z",
+  "first_scraped": "2026-03-20T10:26:08.229Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Female issues, Balancing hormones, Hormonal support, Helps pain, Glass bottle, Natural alternative, Regulate mood, Soothing properties. Some note: Need more time, Strong smell.",
+    "tags": [
+      {
+        "name": "Female issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balancing hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormonal support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soothing properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Need more time",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strong smell",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:08.229Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

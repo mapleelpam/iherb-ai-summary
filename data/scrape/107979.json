@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107979,
+  "last_updated": "2026-03-20T09:59:20.490Z",
+  "first_scraped": "2026-03-20T09:59:20.490Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Crunchy texture, Yummy tummy, Low carb, High protein, High fiber, Low calorie, Amazing taste, Love texture. Some note: Highly recommend, Satisfying cravings.",
+    "tags": [
+      {
+        "name": "Crunchy texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy tummy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low carb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low calorie",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Satisfying cravings",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:20.490Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116600,
+  "last_updated": "2026-03-20T09:19:50.115Z",
+  "first_scraped": "2026-03-20T09:19:50.115Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Comprehensive support, Supports health, Easy to swallow, Best multivitamin, Value for money, Improved skin, Healthy perspective, Great choice. Some note: Big pills, Not feel good.",
+    "tags": [
+      {
+        "name": "Comprehensive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy perspective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big pills",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not feel good",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:50.115Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

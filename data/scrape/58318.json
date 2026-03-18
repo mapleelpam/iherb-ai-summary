@@ -1,0 +1,68 @@
+{
+  "iherb_id": 58318,
+  "last_updated": "2026-03-20T10:31:10.303Z",
+  "first_scraped": "2026-03-20T10:31:10.303Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Deliver timely, Regulating sleep, Pleasant taste, Works well, Switch off, Slept soundly, Easy to chew, Works quickly. Some note: Helps somewhat.",
+    "tags": [
+      {
+        "name": "Deliver timely",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulating sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Switch off",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slept soundly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to chew",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doesn't work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Helps somewhat",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:10.303Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

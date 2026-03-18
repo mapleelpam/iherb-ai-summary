@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116697,
+  "last_updated": "2026-03-20T10:14:01.223Z",
+  "first_scraped": "2026-03-20T10:14:01.223Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Low calorie, Taste amazing, Good taste, Refreshing flavor, Enjoyed each, Zero sugar, Natural quality, Delicious jelly. Some note: Low calorie collagen.",
+    "tags": [
+      {
+        "name": "Low calorie",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enjoyed each",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Zero sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural quality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious jelly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong aftertaste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Low calorie collagen",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:01.223Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

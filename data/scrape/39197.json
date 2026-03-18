@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39197,
+  "last_updated": "2026-03-20T09:58:19.060Z",
+  "first_scraped": "2026-03-20T09:58:19.060Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Potent formula, Clean ingredients, Constipation relief, Powerful antioxidant, Heart health, Boosting energy, Improved vitality, Easy to swallow.",
+    "tags": [
+      {
+        "name": "Potent formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Constipation relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not impressed",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:19.060Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8360,
+  "last_updated": "2026-03-20T10:01:03.510Z",
+  "first_scraped": "2026-03-20T10:01:03.510Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reasonable price, Improves mood, Boost immunity, Vegan friendly, Speedy delivery, Easy dosage, Energy booster, Increased energy.",
+    "tags": [
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hot flashes",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:03.510Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

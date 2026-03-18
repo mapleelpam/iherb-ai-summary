@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73160,
+  "last_updated": "2026-03-20T10:14:15.355Z",
+  "first_scraped": "2026-03-20T10:14:15.355Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increased energy, Good taste, Works well, Benefit useful, Boosts taste, Improved joint health, Tastes great, Clean ingredients. Some note: Highly recommend brand.",
+    "tags": [
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit useful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend brand",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Ruins taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:15.355Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

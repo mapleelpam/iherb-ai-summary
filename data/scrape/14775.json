@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14775,
+  "last_updated": "2026-03-20T10:09:53.101Z",
+  "first_scraped": "2026-03-20T10:09:53.101Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy use, Easy to swallow, Tastes great, Good taste, Lemon taste, No cramps, Good shape, Convenient option.",
+    "tags": [
+      {
+        "name": "Easy use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lemon taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good shape",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong flavor",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:53.101Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81001,
+  "last_updated": "2026-03-20T10:25:42.113Z",
+  "first_scraped": "2026-03-20T10:25:42.113Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy swallow, Stronger dose, Low carb, Reduces cravings, Complete ingredients, Exercise necessary, No side effects, Boosted energy levels, Antioxidant support, More energy.",
+    "tags": [
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low carb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Exercise necessary",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:42.113Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

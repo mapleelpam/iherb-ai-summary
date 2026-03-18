@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105598,
+  "last_updated": "2026-03-20T09:53:18.880Z",
+  "first_scraped": "2026-03-20T09:53:18.880Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good deal, Joint pain, Certified wild, Lower cholesterol, Impressed company, Optimal absorption, Brain health, High concentration. Some note: Improvement needed.",
+    "tags": [
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Certified wild",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Optimal absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement needed",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Dangerous health",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:18.880Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

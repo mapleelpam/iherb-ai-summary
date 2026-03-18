@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42152,
+  "last_updated": "2026-03-20T10:17:25.522Z",
+  "first_scraped": "2026-03-20T10:17:25.522Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pleasant taste, Dietary supplement, Benefit belief, Healthy options, Love this, Organic product, Convenient form, Clean ingredients. Some note: Fairly palatable.",
+    "tags": [
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dietary supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit belief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy options",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fairly palatable",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Chemical taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:25.522Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

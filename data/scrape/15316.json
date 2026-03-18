@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15316,
+  "last_updated": "2026-03-20T10:26:00.749Z",
+  "first_scraped": "2026-03-20T10:26:00.749Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Feel energized, Herb pharm, Just started, Heart support, Stabilise heart rhythm, Bigger bottle, Good taste, Easy to take.",
+    "tags": [
+      {
+        "name": "Feel energized",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herb pharm",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Just started",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stabilise heart rhythm",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bigger bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel worse",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No changes",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:00.749Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1273,
+  "last_updated": "2026-03-20T10:02:51.215Z",
+  "first_scraped": "2026-03-20T10:02:51.215Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved skin, Helped with PMS, Energy boost, High dosage, Hormone balance, Estrogen issues, Useful product, Arthritis relief.",
+    "tags": [
+      {
+        "name": "Improved skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped with PMS",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormone balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Estrogen issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Useful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arthritis relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Painful period",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Big softgel",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:51.215Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

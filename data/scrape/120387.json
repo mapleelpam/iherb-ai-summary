@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120387,
+  "last_updated": "2026-03-20T10:11:43.030Z",
+  "first_scraped": "2026-03-20T10:11:43.030Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Favorite alternative, Brain boosting, Repeat purchase, Enjoying life, Adaptogenic properties, Selected ingredients, Improved concentration, More energy.",
+    "tags": [
+      {
+        "name": "Favorite alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain boosting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enjoying life",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adaptogenic properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Selected ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not potent",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Slow results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:43.030Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

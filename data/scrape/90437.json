@@ -1,0 +1,68 @@
+{
+  "iherb_id": 90437,
+  "last_updated": "2026-03-20T09:44:40.576Z",
+  "first_scraped": "2026-03-20T09:44:40.576Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Healthy stool, Body love, Hair care, Ayurvedic remedy, Magical benefits, Improved digestion, Internal cleanser. Some note: Affordable option, Bitter taste.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy stool",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair care",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ayurvedic remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Magical benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Internal cleanser",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:40.576Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

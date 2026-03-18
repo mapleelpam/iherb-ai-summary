@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4620,
+  "last_updated": "2026-03-20T10:22:55.665Z",
+  "first_scraped": "2026-03-20T10:22:55.665Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very happy, Immune booster, Potent extract, Vegan-friendly formulation, Health solution, Great supplement, Preventing cold, Energy level.",
+    "tags": [
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan-friendly formulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventing cold",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy level",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Toxic to cats",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Beware",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:55.665Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

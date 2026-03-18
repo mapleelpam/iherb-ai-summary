@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108669,
+  "last_updated": "2026-03-20T10:07:43.815Z",
+  "first_scraped": "2026-03-20T10:07:43.815Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Wonderful supplement, Easy to swallow, Dramatic improvements, Convenient choice, Good dosage, Immunity boost, Nice package, Impressed delivery, High levels. Some note: Good strange.",
+    "tags": [
+      {
+        "name": "Wonderful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dramatic improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good strange",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:43.815Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

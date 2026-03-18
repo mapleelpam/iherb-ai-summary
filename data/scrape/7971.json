@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7971,
+  "last_updated": "2026-03-20T09:59:11.791Z",
+  "first_scraped": "2026-03-20T09:59:11.791Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Top ingredients, Super formula, Weight balancing, Blood sugar, Fair price, Support healthy glucose, Sugar cravings, Works wonders.",
+    "tags": [
+      {
+        "name": "Top ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight balancing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support healthy glucose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sugar cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Blocks sweet taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:11.791Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

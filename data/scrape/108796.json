@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108796,
+  "last_updated": "2026-03-20T10:04:40.697Z",
+  "first_scraped": "2026-03-20T10:04:40.697Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Constipation relief, Small size, Less bloating, Nice packing, Scientific formula, Convenient packaging, Efficient vendor, Good concept.",
+    "tags": [
+      {
+        "name": "Constipation relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Scientific formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient vendor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good concept",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not noticed",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:40.697Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

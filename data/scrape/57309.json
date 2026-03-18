@@ -1,0 +1,68 @@
+{
+  "iherb_id": 57309,
+  "last_updated": "2026-03-20T10:08:01.498Z",
+  "first_scraped": "2026-03-20T10:08:01.498Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Amazing results, Good for eyes, Clearer eyes, Helping her, Effective supplement, Improvement with vision, Natural ingredients, Good to try.",
+    "tags": [
+      {
+        "name": "Amazing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helping her",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement with vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good to try",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big tablets",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Slow progress",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:01.498Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

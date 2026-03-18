@@ -1,0 +1,68 @@
+{
+  "iherb_id": 55658,
+  "last_updated": "2026-03-20T10:19:27.424Z",
+  "first_scraped": "2026-03-20T10:19:27.424Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Worth the money, Good results, Great antioxidant, Curious purchase, Sensitive tummy, No problems, Effective pain relief, Avoid inflammation. Some note: Absorb fat.",
+    "tags": [
+      {
+        "name": "Worth the money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Curious purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sensitive tummy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No problems",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sensitive body",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Absorb fat",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:27.424Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

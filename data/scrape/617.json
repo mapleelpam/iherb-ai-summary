@@ -1,0 +1,68 @@
+{
+  "iherb_id": 617,
+  "last_updated": "2026-03-20T09:49:33.776Z",
+  "first_scraped": "2026-03-20T09:49:33.776Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reasonable price, Marked improvement, Empty stomach, Personal feeling, Helps joint pain, Feel better, Joint improvement, Short delivery time. Some note: Good effects, Not sure.",
+    "tags": [
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Marked improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Empty stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Personal feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Short delivery time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good effects",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:33.776Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

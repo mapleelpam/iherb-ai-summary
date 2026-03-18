@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144275,
+  "last_updated": "2026-03-20T09:49:52.166Z",
+  "first_scraped": "2026-03-20T09:49:52.166Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Liver support, Digestive health, Good results, High dose, Happy to repurchase, Less stomach ache, No side effects, Cholesterol support. Some note: No taste.",
+    "tags": [
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy to repurchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less stomach ache",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to dissolve",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:52.166Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

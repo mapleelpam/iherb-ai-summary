@@ -1,0 +1,68 @@
+{
+  "iherb_id": 25842,
+  "last_updated": "2026-03-20T09:15:49.481Z",
+  "first_scraped": "2026-03-20T09:15:49.481Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hair loss, Hair and nails, Strong nails, Noticeable improvement, Easy to swallow, Healthier condition, Skin improvement, Stronger hair. Some note: Shining hair.",
+    "tags": [
+      {
+        "name": "Hair loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair and nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthier condition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin breakout",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Shining hair",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:15:49.481Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

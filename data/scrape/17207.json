@@ -1,0 +1,68 @@
+{
+  "iherb_id": 17207,
+  "last_updated": "2026-03-20T10:20:26.922Z",
+  "first_scraped": "2026-03-20T10:20:26.922Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Short detox, Effective detox, Energy boost, Convenient cleanse, Supports metabolism, Comfortable package, Good feeling, Convenient packaging.",
+    "tags": [
+      {
+        "name": "Short detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comfortable package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Huge tablets",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Eliminate meat",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:26.922Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

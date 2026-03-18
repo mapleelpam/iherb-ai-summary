@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42431,
+  "last_updated": "2026-03-20T09:50:59.998Z",
+  "first_scraped": "2026-03-20T09:50:59.998Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increase serum, Daily intake, Improves health, Improving supplements, Immune support, Boost deficiency, Easy to swallow, Good taste. Some note: Original product, Good job.",
+    "tags": [
+      {
+        "name": "Increase serum",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily intake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving supplements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost deficiency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Original product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good job",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:59.998Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

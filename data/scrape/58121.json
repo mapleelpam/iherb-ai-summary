@@ -1,0 +1,68 @@
+{
+  "iherb_id": 58121,
+  "last_updated": "2026-03-20T09:54:03.263Z",
+  "first_scraped": "2026-03-20T09:54:03.263Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy digestion, Gentle stomach, Highly recommend, Father loves, New energy, Improve health, Excellent mix, Organic ingredients.",
+    "tags": [
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Father loves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "New energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Serving size",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:03.263Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4064,
+  "last_updated": "2026-03-20T09:47:14.176Z",
+  "first_scraped": "2026-03-20T09:47:14.176Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Joint mobility, Easy to take, Good ingredients, Nice package, Big difference, Muscle recovery, Improvement noted, Bone better. Some note: Best value.",
+    "tags": [
+      {
+        "name": "Joint mobility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noted",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best value",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Price bit higher",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:14.176Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

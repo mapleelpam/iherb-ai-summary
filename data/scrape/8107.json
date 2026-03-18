@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8107,
+  "last_updated": "2026-03-20T10:01:39.248Z",
+  "first_scraped": "2026-03-20T10:01:39.248Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Anxiety relief, The product works, Sleep support, Helps sleep, Good sleep, Excellent natural supplement, Great effect.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "The product works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent natural supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neurological insomnia",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:39.248Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32801,
+  "last_updated": "2026-03-20T10:37:51.360Z",
+  "first_scraped": "2026-03-20T10:37:51.360Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Adrenal fatigue, Cost savings, Highly recommend, Improves function, Immune support, Working better, Satisfactory opinion, Good results, Powerful formula.",
+    "tags": [
+      {
+        "name": "Adrenal fatigue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cost savings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Working better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfactory opinion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Severe pain",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:37:51.360Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

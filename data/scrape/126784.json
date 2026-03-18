@@ -1,0 +1,68 @@
+{
+  "iherb_id": 126784,
+  "last_updated": "2026-03-20T09:59:16.531Z",
+  "first_scraped": "2026-03-20T09:59:16.531Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy on stomach, Skin improvement, Well-balanced complex, Easy to swallow, Joint health, Value for money, Hair thickness improvement, Less dry.",
+    "tags": [
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well-balanced complex",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair thickness improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less dry",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too few pills",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fishy smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:16.531Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

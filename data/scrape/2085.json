@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2085,
+  "last_updated": "2026-03-20T09:18:07.268Z",
+  "first_scraped": "2026-03-20T09:18:07.268Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy way, Great for cold, Prompt delivery, Good immunity, Highly recommend, Good taste, Easy to take, Improvement in health.",
+    "tags": [
+      {
+        "name": "Easy way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for cold",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Moisture issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:07.268Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

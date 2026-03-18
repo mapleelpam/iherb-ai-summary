@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117521,
+  "last_updated": "2026-03-20T10:06:42.022Z",
+  "first_scraped": "2026-03-20T10:06:42.022Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural herb, Better absorption, Blood sugar, Top composition, Regulate blood, Positive results, Speed delivery, Sugar metabolism. Some note: Pause period.",
+    "tags": [
+      {
+        "name": "Natural herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate blood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speed delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sugar metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped three days",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Pause period",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:42.022Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73488,
+  "last_updated": "2026-03-20T10:05:59.173Z",
+  "first_scraped": "2026-03-20T10:05:59.173Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Comfortable package, Highly recommend, Best price, Good to use, Energy boost, Afternoon recovery, Maintain muscles, Nice price. Some note: Quarantine weight.",
+    "tags": [
+      {
+        "name": "Comfortable package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Afternoon recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain muscles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gaining weight",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Quarantine weight",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:59.173Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

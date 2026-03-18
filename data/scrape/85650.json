@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85650,
+  "last_updated": "2026-03-20T09:54:33.469Z",
+  "first_scraped": "2026-03-20T09:54:33.469Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lozenges work, Good combo, Potent supplement, Rare product, Appetite stimulant, Seeing improvement, Fast shipping, Helps me, Energy boost, Excellent source.",
+    "tags": [
+      {
+        "name": "Lozenges work",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rare product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Appetite stimulant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seeing improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent source",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:33.469Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

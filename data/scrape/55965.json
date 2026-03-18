@@ -1,0 +1,68 @@
+{
+  "iherb_id": 55965,
+  "last_updated": "2026-03-20T09:34:01.412Z",
+  "first_scraped": "2026-03-20T09:34:01.412Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improvements to health, Feeling better, Boosts energy, Digestive support, Gut health, Morning energy, Effective for heartburn, Tastes good.",
+    "tags": [
+      {
+        "name": "Improvements to health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective for heartburn",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plastic taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:01.412Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114586,
+  "last_updated": "2026-03-20T10:04:24.855Z",
+  "first_scraped": "2026-03-20T10:04:24.855Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Thymoquinone content, Inflammation relief, Fast shipping, Great supplement, Boost immunity, Antioxidant support, Digestion support, Easy to swallow. Some note: Health benefits, Selected ingredients.",
+    "tags": [
+      {
+        "name": "Thymoquinone content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inflammation relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health benefits",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Selected ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:24.855Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

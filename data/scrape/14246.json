@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14246,
+  "last_updated": "2026-03-20T10:20:56.516Z",
+  "first_scraped": "2026-03-20T10:20:56.516Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Bone strength, Easy to swallow, Improved symptoms, Estrogen production, Positive mood, Reliable potency, Vitamin absorption, Fresh ingredients. Some note: No impact.",
+    "tags": [
+      {
+        "name": "Bone strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Estrogen production",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No impact",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:56.516Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

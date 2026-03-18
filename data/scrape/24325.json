@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24325,
+  "last_updated": "2026-03-20T09:58:04.959Z",
+  "first_scraped": "2026-03-20T09:58:04.959Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful at night, Fantastic combination, Useful after meals, Helps with digestion, Soft gel, Reduce bloating, Good benefits, Love the product. Some note: Effective gas relief.",
+    "tags": [
+      {
+        "name": "Helpful at night",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Useful after meals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soft gel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective gas relief",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Big capsules",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:04.959Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

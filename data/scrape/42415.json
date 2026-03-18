@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42415,
+  "last_updated": "2026-03-20T09:36:17.700Z",
+  "first_scraped": "2026-03-20T09:36:17.700Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Helps sleep, Quick dissolve, Small size, Stress relief, Sleep improvement, High-quality amino acids, Calming effect. Some note: No effect.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High-quality amino acids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:17.700Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

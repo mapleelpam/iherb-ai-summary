@@ -1,0 +1,68 @@
+{
+  "iherb_id": 68214,
+  "last_updated": "2026-03-20T09:33:23.114Z",
+  "first_scraped": "2026-03-20T09:33:23.114Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good source, Easy swallow, More strength, Nails grow, Fast shipping, Stronger immune, More energy, Digestive health. Some note: Natural ingredients.",
+    "tags": [
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nails grow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Increasing price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:23.114Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

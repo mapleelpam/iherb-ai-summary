@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1469,
+  "last_updated": "2026-03-20T10:03:20.649Z",
+  "first_scraped": "2026-03-20T10:03:20.649Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin improvement, Easy to cut, Healthy brain work, Energy production, Love prices, Capsules preferred, Good antioxidant, Easy to swallow. Some note: Fast shipping.",
+    "tags": [
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to cut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy brain work",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy production",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love prices",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Capsules preferred",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intestinal troubles",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:20.649Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

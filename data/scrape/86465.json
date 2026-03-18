@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86465,
+  "last_updated": "2026-03-20T09:36:53.537Z",
+  "first_scraped": "2026-03-20T09:36:53.537Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean ingredients, Useful dosage, Essential partner, Strong bones, Absorb more easily, Labdoor reputable, Bone density, High potency. Some note: Easy to take.",
+    "tags": [
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Useful dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential partner",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorb more easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Labdoor reputable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone density",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive, works",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:53.537Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

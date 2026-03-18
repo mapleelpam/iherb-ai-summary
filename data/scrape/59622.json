@@ -1,0 +1,68 @@
+{
+  "iherb_id": 59622,
+  "last_updated": "2026-03-20T10:19:18.005Z",
+  "first_scraped": "2026-03-20T10:19:18.005Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Intense focus, Love the flavor, Favorite flavor, Highly recommend, Energy boost, Branch chain amino, Good energy, Taste good.",
+    "tags": [
+      {
+        "name": "Intense focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Favorite flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Branch chain amino",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower energy",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Waste of money",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:18.005Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

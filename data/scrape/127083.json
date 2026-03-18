@@ -1,0 +1,68 @@
+{
+  "iherb_id": 127083,
+  "last_updated": "2026-03-20T09:40:09.366Z",
+  "first_scraped": "2026-03-20T09:40:09.366Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective dosage, More energetic, Affordable and fast, Fast action, Works for me, Enhanced stamina, Easy to swallow, Natural ingredients.",
+    "tags": [
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable and fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast action",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blurred vision",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Small amount",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:09.366Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

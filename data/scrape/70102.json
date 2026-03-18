@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70102,
+  "last_updated": "2026-03-20T09:19:06.441Z",
+  "first_scraped": "2026-03-20T09:19:06.441Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Balance zinc, Thicker hair, Easy to swallow, Vital role, Increased energy, Trusted brand, Nice dose, Small package. Some note: Recommended, Packaging good.",
+    "tags": [
+      {
+        "name": "Balance zinc",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thicker hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vital role",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Packaging good",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:06.441Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

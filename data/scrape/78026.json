@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78026,
+  "last_updated": "2026-03-20T09:49:31.801Z",
+  "first_scraped": "2026-03-20T09:49:31.801Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Weight management, Perfect size, Easy to use, Fat loss benefit, Supports body composition, Like them, Effective choice, Lasting support.",
+    "tags": [
+      {
+        "name": "Weight management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat loss benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports body composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Like them",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lasting support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gas and bloating",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:31.801Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

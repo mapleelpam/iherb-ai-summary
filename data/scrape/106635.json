@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106635,
+  "last_updated": "2026-03-20T09:52:37.758Z",
+  "first_scraped": "2026-03-20T09:52:37.758Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mood enhancement, Affordable and well-packed, Good ingredients, Eye improvement, High crocins, Efficient supplement, Great delivery, Good supply. Some note: Decent option.",
+    "tags": [
+      {
+        "name": "Mood enhancement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable and well-packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High crocins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Decent option",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:37.758Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

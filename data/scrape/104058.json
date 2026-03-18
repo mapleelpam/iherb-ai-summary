@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104058,
+  "last_updated": "2026-03-20T09:51:10.860Z",
+  "first_scraped": "2026-03-20T09:51:10.860Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nutrition benefit, Well packaged, High potency, Immune boost, Easy on wallet, No side effects, Increased energy, Easy to swallow. Some note: Effective vitamins, Great supplement.",
+    "tags": [
+      {
+        "name": "Nutrition benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on wallet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective vitamins",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:10.860Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

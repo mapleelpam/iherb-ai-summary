@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10381,
+  "last_updated": "2026-03-20T09:24:40.624Z",
+  "first_scraped": "2026-03-20T09:24:40.624Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Gentle stomach, Ester-c brand, Easy swallow, Antioxidant action, Reliable brand, Good taste, Less acidic, Nice tables. Some note: Joint pain.",
+    "tags": [
+      {
+        "name": "Gentle stomach",
+        "classification": 0,
+        "count": 24
+      },
+      {
+        "name": "Ester-c brand",
+        "classification": 0,
+        "count": 19
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 12
+      },
+      {
+        "name": "Antioxidant action",
+        "classification": 0,
+        "count": 8
+      },
+      {
+        "name": "Reliable brand",
+        "classification": 0,
+        "count": 6
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 4
+      },
+      {
+        "name": "Less acidic",
+        "classification": 0,
+        "count": 3
+      },
+      {
+        "name": "Nice tables",
+        "classification": 0,
+        "count": 3
+      },
+      {
+        "name": "No stomach irritation",
+        "classification": 2,
+        "count": 12
+      },
+      {
+        "name": "Joint pain",
+        "classification": 1,
+        "count": 8
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:40.624Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

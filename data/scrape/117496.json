@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117496,
+  "last_updated": "2026-03-20T10:12:42.937Z",
+  "first_scraped": "2026-03-20T10:12:42.937Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great flavor, Improved workouts, Nice price, Joint support, Smooth blend, Good taste, Good enzymes, Reduce signs.",
+    "tags": [
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved workouts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good enzymes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce signs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasteless",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tastes horrendous",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:42.937Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1527,
+  "last_updated": "2026-03-20T10:07:22.117Z",
+  "first_scraped": "2026-03-20T10:07:22.117Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Herbal company, Positive influence, Satisfied customer, Prompt delivery, No taste, Wound healing, Vivid dreams, Natural tonic.",
+    "tags": [
+      {
+        "name": "Herbal company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive influence",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied customer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wound healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vivid dreams",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural tonic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive problem",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:22.117Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 83283,
+  "last_updated": "2026-03-20T09:18:27.840Z",
+  "first_scraped": "2026-03-20T09:18:27.840Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reliable supplement, Effective sleep, Mental clarity, Calming effect, Works for me, Well packaged, Boosts energy, Less stressed. Some note: Small dose.",
+    "tags": [
+      {
+        "name": "Reliable supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less stressed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small dose",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:27.840Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

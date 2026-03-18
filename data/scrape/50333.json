@@ -1,0 +1,68 @@
+{
+  "iherb_id": 50333,
+  "last_updated": "2026-03-20T09:46:25.678Z",
+  "first_scraped": "2026-03-20T09:46:25.678Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No aftertaste, Small pill size, Immune system benefits, Quick relief, Inexpensive option, High dose, Helps cystitis, Convenient choice. Some note: Clear effect.",
+    "tags": [
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small pill size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inexpensive option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps cystitis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear effect",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:25.678Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

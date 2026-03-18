@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114642,
+  "last_updated": "2026-03-20T10:28:59.439Z",
+  "first_scraped": "2026-03-20T10:28:59.439Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Back on, Delicious gummies, Great for BP, Tasty and easy, Tastes great, Boosts energy, Healthy option, Improved wellness. Some note: Small size.",
+    "tags": [
+      {
+        "name": "Back on",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for BP",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty and easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved wellness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lack of effectiveness",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:59.439Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

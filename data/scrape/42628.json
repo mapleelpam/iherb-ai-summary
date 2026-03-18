@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42628,
+  "last_updated": "2026-03-20T09:54:39.632Z",
+  "first_scraped": "2026-03-20T09:54:39.632Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural alternative, Scientific formula, Fast relief, Effective price, Works for me, Pain free, Lower back, Improved life. Some note: Longer time.",
+    "tags": [
+      {
+        "name": "Natural alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Scientific formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower back",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved life",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Longer time",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No pain relief",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:39.632Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

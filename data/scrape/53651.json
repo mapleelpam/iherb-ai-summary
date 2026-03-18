@@ -1,0 +1,68 @@
+{
+  "iherb_id": 53651,
+  "last_updated": "2026-03-20T09:31:50.662Z",
+  "first_scraped": "2026-03-20T09:31:50.662Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High absorption, High stability, Reduce eye strain, Effective supplement, Small pills, Easy to swallow, Good for eyes, Long term benefit. Some note: No improvement, Value purchase.",
+    "tags": [
+      {
+        "name": "High absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High stability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce eye strain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long term benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Value purchase",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:50.662Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

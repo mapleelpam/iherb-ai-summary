@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4,
+  "last_updated": "2026-03-20T09:22:51.251Z",
+  "first_scraped": "2026-03-20T09:22:51.251Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Powerful antioxidant, Beneficial health, Nerve pain, Easy to swallow, Efficient service, Reasonable cost, Great benefits, Blood sugar.",
+    "tags": [
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nerve pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable cost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acid reflux",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No benefits",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:51.251Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21337,
+  "last_updated": "2026-03-20T10:14:13.307Z",
+  "first_scraped": "2026-03-20T10:14:13.307Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great relief, Natural relief, Sample worked, Quality improvement, Effective supplement, Joint pain relief, Relieves pain, Great results. Some note: Expensive but effective.",
+    "tags": [
+      {
+        "name": "Great relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sample worked",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but effective",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No relief",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:13.307Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

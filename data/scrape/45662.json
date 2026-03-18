@@ -1,0 +1,68 @@
+{
+  "iherb_id": 45662,
+  "last_updated": "2026-03-20T10:05:13.284Z",
+  "first_scraped": "2026-03-20T10:05:13.284Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tiny capsule, Top formula, Very impressed, Pricey brand, Cholesterol benefits, Useful product, Effective brand, Potent antioxidant. Some note: Not sure, Immune support.",
+    "tags": [
+      {
+        "name": "Tiny capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very impressed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pricey brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Useful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:13.284Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

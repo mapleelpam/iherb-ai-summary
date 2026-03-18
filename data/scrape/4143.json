@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4143,
+  "last_updated": "2026-03-20T10:22:25.930Z",
+  "first_scraped": "2026-03-20T10:22:25.930Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improvement in health, Fast shipping, Convenient addition, Fruit powder form, More energy, Easy order, Feeling benefit, Less candy. Some note: Outstanding!.",
+    "tags": [
+      {
+        "name": "Improvement in health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fruit powder form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less candy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High cost",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Outstanding!",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:25.930Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

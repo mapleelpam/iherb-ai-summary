@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84059,
+  "last_updated": "2026-03-20T10:31:32.732Z",
+  "first_scraped": "2026-03-20T10:31:32.732Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Quality sleep, Helps sleep, Taste is yum, Fast acting, Nice price, Game-changer, Control over dosage, Initial restorative sleep.",
+    "tags": [
+      {
+        "name": "Quality sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste is yum",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast acting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control over dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Initial restorative sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Melatonin overdose",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hard to wake",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:32.732Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

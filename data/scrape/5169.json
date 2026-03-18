@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5169,
+  "last_updated": "2026-03-20T10:00:15.148Z",
+  "first_scraped": "2026-03-20T10:00:15.148Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost immunity, Works great, Great support, Alcohol-free, Digestion support, Potent tincture, Natural beats antibiotics, Effective remedy. Some note: Great package, Excellent combination.",
+    "tags": [
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alcohol-free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent tincture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural beats antibiotics",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great package",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Excellent combination",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:15.148Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

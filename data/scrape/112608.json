@@ -1,0 +1,68 @@
+{
+  "iherb_id": 112608,
+  "last_updated": "2026-03-20T09:50:52.289Z",
+  "first_scraped": "2026-03-20T09:50:52.289Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural ingredients, Gentle detox, Lack of taste, Trust brand, Parasite cleanse, Great combination, Fast shipping, Activated charcoal. Some note: Not clear.",
+    "tags": [
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lack of taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Parasite cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Activated charcoal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not clear",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:52.289Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

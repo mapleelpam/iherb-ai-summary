@@ -1,0 +1,68 @@
+{
+  "iherb_id": 76250,
+  "last_updated": "2026-03-20T10:22:37.789Z",
+  "first_scraped": "2026-03-20T10:22:37.789Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great relief, Arthritis relief, Easy way, Cholesterol levels, Cleanest herbal, Extra strength, Quality vegan, Holy remedy. Some note: Different experience.",
+    "tags": [
+      {
+        "name": "Great relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arthritis relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleanest herbal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality vegan",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Holy remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Different experience",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:37.789Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

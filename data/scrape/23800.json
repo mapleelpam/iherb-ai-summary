@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23800,
+  "last_updated": "2026-03-20T09:55:31.870Z",
+  "first_scraped": "2026-03-20T09:55:31.870Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast dissolving, Works as intended, Money saver, Value purchase, Natural energy, Nice flavor, Energized feeling, Takes time. Some note: Good changes.",
+    "tags": [
+      {
+        "name": "Fast dissolving",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works as intended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Money saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energized feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Takes time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moisture damage",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good changes",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:31.870Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

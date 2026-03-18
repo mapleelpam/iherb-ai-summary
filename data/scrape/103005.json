@@ -1,0 +1,68 @@
+{
+  "iherb_id": 103005,
+  "last_updated": "2026-03-20T10:08:06.606Z",
+  "first_scraped": "2026-03-20T10:08:06.606Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient melts, Easy alternating, Good benefit, Essential nutrition, Prompt delivery, Vegan b12, Quickly become, Generous dose. Some note: Great flavor.",
+    "tags": [
+      {
+        "name": "Convenient melts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy alternating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential nutrition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan b12",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quickly become",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Generous dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:06.606Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

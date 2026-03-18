@@ -1,0 +1,68 @@
+{
+  "iherb_id": 66167,
+  "last_updated": "2026-03-20T10:05:03.199Z",
+  "first_scraped": "2026-03-20T10:05:03.199Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Water-x effective, Good results, Lost 5 pounds, Weight loss, Works great, Reduce water retention, Natural ingredients, Affordable option. Some note: Not bad.",
+    "tags": [
+      {
+        "name": "Water-x effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lost 5 pounds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce water retention",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Caused diarrhea",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not bad",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:03.199Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

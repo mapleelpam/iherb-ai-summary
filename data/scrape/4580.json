@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4580,
+  "last_updated": "2026-03-20T10:30:39.071Z",
+  "first_scraped": "2026-03-20T10:30:39.071Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No bloating, Easy menopause, Reduces hot flashes, Menopause support, Fast shipment, Hot flashes gone, Natural solution, Natural blend, Great communication.",
+    "tags": [
+      {
+        "name": "No bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy menopause",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces hot flashes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Menopause support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hot flashes gone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great communication",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Drop in support",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:30:39.071Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15318,
+  "last_updated": "2026-03-20T10:20:48.119Z",
+  "first_scraped": "2026-03-20T10:20:48.119Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Feel difference, Highly recommend, Happy with, Easy to digest, Decent vitamin, Clean product, Improved bone density, Long-term use. Some note: Needs change.",
+    "tags": [
+      {
+        "name": "Feel difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to digest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved bone density",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-term use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Needs change",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Throw-up every time",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:48.119Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

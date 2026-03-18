@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1912,
+  "last_updated": "2026-03-20T09:49:59.330Z",
+  "first_scraped": "2026-03-20T09:49:59.330Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to use, Regular cycles, Safe ingredients, Metabolism improvement, Helpful for PCOS, Pregnant now, Hormone balance, Decrease weight.",
+    "tags": [
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular cycles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Metabolism improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful for PCOS",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pregnant now",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormone balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decrease weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach upset",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:59.330Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

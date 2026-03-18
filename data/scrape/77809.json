@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77809,
+  "last_updated": "2026-03-20T09:40:55.404Z",
+  "first_scraped": "2026-03-20T09:40:55.404Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Liver support, Effective natural, Easy to swallow, Effective solution, Boosts mood, Protects medicine, Reduces pain, Joint pain relief. Some note: Relieve stress.",
+    "tags": [
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective natural",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protects medicine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieve stress",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Withdrawal effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:55.404Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

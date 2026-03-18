@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120320,
+  "last_updated": "2026-03-20T10:08:55.195Z",
+  "first_scraped": "2026-03-20T10:08:55.195Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Amazing pre-workout, Great energy, Fat burner, Extra energy, Rich cherry taste, Effective caffeine, Good pump, Good taste.",
+    "tags": [
+      {
+        "name": "Amazing pre-workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat burner",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich cherry taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective caffeine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Heartbeating issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:55.195Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

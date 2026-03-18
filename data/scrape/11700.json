@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11700,
+  "last_updated": "2026-03-20T10:09:21.621Z",
+  "first_scraped": "2026-03-20T10:09:21.621Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast absorption, No bloating, Arrived early, Good energy, Easy swallow, Selection and price, Tastes fine, Perfect combo. Some note: Took as directed.",
+    "tags": [
+      {
+        "name": "Fast absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arrived early",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Selection and price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Took as directed",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:21.621Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

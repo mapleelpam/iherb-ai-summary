@@ -1,0 +1,68 @@
+{
+  "iherb_id": 44002,
+  "last_updated": "2026-03-20T09:49:17.363Z",
+  "first_scraped": "2026-03-20T09:49:17.363Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this product, Good ingredients, Best amino, Hard-to-find product, Great energy boost, Refreshing taste, Quick pick me, Love flavor.",
+    "tags": [
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best amino",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard-to-find product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick pick me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Delayed delivery",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:17.363Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

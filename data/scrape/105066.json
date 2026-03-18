@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105066,
+  "last_updated": "2026-03-20T10:18:51.230Z",
+  "first_scraped": "2026-03-20T10:18:51.230Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient packs, Easy to use, Finally available, Stay refreshed, Refreshing taste, Mainly essential, Hydrates well, Helps hydration. Some note: Size arranged.",
+    "tags": [
+      {
+        "name": "Convenient packs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Finally available",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stay refreshed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mainly essential",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydrates well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Size arranged",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:51.230Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

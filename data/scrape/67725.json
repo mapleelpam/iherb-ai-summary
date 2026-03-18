@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67725,
+  "last_updated": "2026-03-20T09:48:59.547Z",
+  "first_scraped": "2026-03-20T09:48:59.547Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Budget friendly, Fast shipping, Pain relief, Feel better, Decrease inflammation, Highly recommend, Improved mobility, Good formula.",
+    "tags": [
+      {
+        "name": "Budget friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decrease inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mobility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Toxic food colorings",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:59.547Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "iherb_id": 24142,
+  "last_updated": "2026-03-20T10:13:33.121Z",
+  "first_scraped": "2026-03-20T10:13:33.121Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Increased vitamin d3, Prompt delivery, Boost immune, Right dosage, Natural ingredients, Good source. Some note: Nature's plus.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased vitamin d3",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Right dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No warning sign",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Nature's plus",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:33.121Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

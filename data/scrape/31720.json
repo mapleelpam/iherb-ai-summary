@@ -1,0 +1,68 @@
+{
+  "iherb_id": 31720,
+  "last_updated": "2026-03-20T10:08:09.824Z",
+  "first_scraped": "2026-03-20T10:08:09.824Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy absorption, Small sized, Efficient shipping, Easy to take, Pain relief, Easy swallow, Speedy delivery, Bone support.",
+    "tags": [
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small sized",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Large pills",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:09.824Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

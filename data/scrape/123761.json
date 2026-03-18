@@ -1,0 +1,68 @@
+{
+  "iherb_id": 123761,
+  "last_updated": "2026-03-20T09:42:58.384Z",
+  "first_scraped": "2026-03-20T09:42:58.384Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Regular customer, Pure vitamin C, Antioxidant protection, Family remedy, Immunity boost, High dose, Energy boost. Some note: Industrial strength.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular customer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure vitamin C",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Family remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Industrial strength",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Big tablets",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:58.384Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

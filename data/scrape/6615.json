@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6615,
+  "last_updated": "2026-03-20T10:03:21.689Z",
+  "first_scraped": "2026-03-20T10:03:21.689Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Non GMO, Feeling better, Good antioxidant, Recommend it, Maintains hormon, Great benefits, Fast process, Size is good.",
+    "tags": [
+      {
+        "name": "Non GMO",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintains hormon",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast process",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Size is good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:21.689Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

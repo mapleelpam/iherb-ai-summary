@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86740,
+  "last_updated": "2026-03-20T09:27:35.768Z",
+  "first_scraped": "2026-03-20T09:27:35.768Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious vitamins, Mixed berry taste, Loves it, Fast shipping, Not upset, More energy, Pleasant taste, Taste great. Some note: Good ingredients, Good for age.",
+    "tags": [
+      {
+        "name": "Delicious vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixed berry taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loves it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not upset",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good for age",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:35.768Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

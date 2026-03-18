@@ -1,0 +1,68 @@
+{
+  "iherb_id": 132558,
+  "last_updated": "2026-03-20T09:35:59.006Z",
+  "first_scraped": "2026-03-20T09:35:59.006Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Large quantity, Great booster, Easy ordering process, Low enough, Big bottle, Rose hips, Good price, Boosted immunity. Some note: Easy to swallow.",
+    "tags": [
+      {
+        "name": "Large quantity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy ordering process",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low enough",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rose hips",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not absorb well",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:59.006Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

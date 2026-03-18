@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81006,
+  "last_updated": "2026-03-20T10:15:06.940Z",
+  "first_scraped": "2026-03-20T10:15:06.940Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Absorb better, Very recommended, Brain absorption, Amazing results, Arrived earlier, Good to me, Convenient price, Start lower dose, Reduction in inflammation.",
+    "tags": [
+      {
+        "name": "Absorb better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arrived earlier",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good to me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Start lower dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduction in inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dislike taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:06.940Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

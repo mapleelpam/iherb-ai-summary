@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144133,
+  "last_updated": "2026-03-20T09:44:06.618Z",
+  "first_scraped": "2026-03-20T09:44:06.618Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pure ingredients, Shrinks fibroids, Improvement noticed, Hormone balance, Antioxidant protection, Liver health, Easy to swallow, Doctor recommended. Some note: Works great, Effective detoxifier.",
+    "tags": [
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shrinks fibroids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormone balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doctor recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective detoxifier",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:06.618Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "iherb_id": 108768,
+  "last_updated": "2026-03-20T09:37:02.293Z",
+  "first_scraped": "2026-03-20T09:37:02.293Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Muscle recovery, Affordable and well-packed, Good sleep, Improved energy, Efficient delivery, Stellar choice, Boosting recovery. Some note: Boosting muscles, Fast effect.",
+    "tags": [
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable and well-packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stellar choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting muscles",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Fast effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:02.293Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

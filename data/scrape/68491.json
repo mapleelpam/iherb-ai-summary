@@ -1,0 +1,68 @@
+{
+  "iherb_id": 68491,
+  "last_updated": "2026-03-20T10:00:31.154Z",
+  "first_scraped": "2026-03-20T10:00:31.154Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hair improvement, Good ingredients, Plant based, Easy digestion, Overall health, Convenient benefits, Small tablets, Marine based.",
+    "tags": [
+      {
+        "name": "Hair improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Marine based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Less convenient",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:31.154Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78401,
+  "last_updated": "2026-03-20T09:19:16.833Z",
+  "first_scraped": "2026-03-20T09:19:16.833Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved memory, Immediate improvements, Bioavailable form, Enhanced cognition, Good source, Easy to drink, High absorption, Enhanced focus.",
+    "tags": [
+      {
+        "name": "Improved memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioavailable form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced cognition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Misleading packaging",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:16.833Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

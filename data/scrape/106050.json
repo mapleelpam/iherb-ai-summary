@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106050,
+  "last_updated": "2026-03-20T10:21:40.034Z",
+  "first_scraped": "2026-03-20T10:21:40.034Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Ultimate alkalizing, Great combination, Convenient package, Good pack, Energetic feeling, Improved digestion, Great addition.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ultimate alkalizing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good pack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energetic feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes bad",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Taste off",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:40.034Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

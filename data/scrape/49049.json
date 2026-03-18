@@ -1,0 +1,68 @@
+{
+  "iherb_id": 49049,
+  "last_updated": "2026-03-20T09:58:50.727Z",
+  "first_scraped": "2026-03-20T09:58:50.727Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increase energy, Fast shipping, Worth the money, Nice packing, Cellular thermogenesis, Good energy, High dosage, Fitness goals.",
+    "tags": [
+      {
+        "name": "Increase energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth the money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cellular thermogenesis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fitness goals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Didn't work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Increased anxiety",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:50.727Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

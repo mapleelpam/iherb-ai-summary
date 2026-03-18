@@ -1,0 +1,68 @@
+{
+  "iherb_id": 553,
+  "last_updated": "2026-03-20T10:15:19.020Z",
+  "first_scraped": "2026-03-20T10:15:19.020Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective for cancer, Fast service, Nice package, Shiny coat, Increased energy, Very happy, Antioxidant boost, Good combination. Some note: Fantastic herbal product.",
+    "tags": [
+      {
+        "name": "Effective for cancer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shiny coat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fantastic herbal product",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:19.020Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

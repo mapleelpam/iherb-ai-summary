@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4306,
+  "last_updated": "2026-03-20T09:35:27.729Z",
+  "first_scraped": "2026-03-20T09:35:27.729Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for blood, Vegan capsules, Better sight, Stronger version, Maintain vision, Works great, Great supplement, Improves eye health. Some note: Liked everything, Benefit good.",
+    "tags": [
+      {
+        "name": "Good for blood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger version",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liked everything",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Benefit good",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:27.729Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

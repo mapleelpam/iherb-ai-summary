@@ -1,0 +1,68 @@
+{
+  "iherb_id": 44626,
+  "last_updated": "2026-03-20T09:59:18.540Z",
+  "first_scraped": "2026-03-20T09:59:18.540Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Power energy, Alert and focused, Energy boost, Quick energy, Potent impact, Works great, Best B complex, Solid supplement. Some note: Enhancing energy level.",
+    "tags": [
+      {
+        "name": "Power energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alert and focused",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best B complex",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Solid supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhancing energy level",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nausea and sick",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:18.540Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

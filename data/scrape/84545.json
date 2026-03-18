@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84545,
+  "last_updated": "2026-03-20T09:52:36.735Z",
+  "first_scraped": "2026-03-20T09:52:36.735Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast results, Blood glucose, Joint pain, Eye health, Helpful control, Maintaining blood, Digestive dynamo, High potency. Some note: Maintaining weight.",
+    "tags": [
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood glucose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintaining blood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive dynamo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Maintaining weight",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:36.735Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

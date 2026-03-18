@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2032,
+  "last_updated": "2026-03-20T09:46:26.768Z",
+  "first_scraped": "2026-03-20T09:46:26.768Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Supports gut health, Natural medicine, Fever relief, Inflammation relief, Good for teeth, Worth buying, Relief product, Trusted brand. Some note: Excellent additive.",
+    "tags": [
+      {
+        "name": "Supports gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural medicine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fever relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inflammation relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for teeth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth buying",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No benefits",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:26.768Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

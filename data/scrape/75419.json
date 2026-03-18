@@ -1,0 +1,68 @@
+{
+  "iherb_id": 75419,
+  "last_updated": "2026-03-20T10:05:35.658Z",
+  "first_scraped": "2026-03-20T10:05:35.658Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Lovely tasting, Great after workout, Stellar choice, Rich flavor, Well packaged, Tastes good, Muscle support. Some note: Not bad.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lovely tasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great after workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stellar choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not bad",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not good",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:35.658Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

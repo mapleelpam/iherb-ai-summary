@@ -1,0 +1,68 @@
+{
+  "iherb_id": 99989,
+  "last_updated": "2026-03-20T09:26:32.081Z",
+  "first_scraped": "2026-03-20T09:26:32.081Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Keeps me, Great vitamins, Reduce sore throat, Boost well-being, Great formula, Boost immune, Easier swallow. Some note: Strong smell.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce sore throat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost well-being",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easier swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong smell",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Placebo effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:32.081Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

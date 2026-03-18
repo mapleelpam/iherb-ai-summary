@@ -1,0 +1,68 @@
+{
+  "iherb_id": 76192,
+  "last_updated": "2026-03-20T10:19:00.291Z",
+  "first_scraped": "2026-03-20T10:19:00.291Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Subtle coffee, Shipped quickly, Digests well, Faster recovery, Nice price, Nice alternative, Thicker consistency, Delicious taste. Some note: Love this.",
+    "tags": [
+      {
+        "name": "Subtle coffee",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shipped quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digests well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Faster recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thicker consistency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Terrible flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:00.291Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

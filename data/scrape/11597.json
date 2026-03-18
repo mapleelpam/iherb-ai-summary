@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11597,
+  "last_updated": "2026-03-20T10:14:21.192Z",
+  "first_scraped": "2026-03-20T10:14:21.192Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sinus relief, Boosts immunity, Good ingredients, Liquid form, Expensive but worth, Immune support, Herbal ingredients, Impeccable packaging. Some note: Balancing mood.",
+    "tags": [
+      {
+        "name": "Sinus relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liquid form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but worth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herbal ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impeccable packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher price",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Balancing mood",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:21.192Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

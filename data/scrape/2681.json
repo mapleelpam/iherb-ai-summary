@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2681,
+  "last_updated": "2026-03-20T09:42:31.556Z",
+  "first_scraped": "2026-03-20T09:42:31.556Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves kidney, Bladder support, Helpful product, Less urgency, Great effect, Less trips, Good for UTI, Effective composition. Some note: Impressed delivery, Slight difference.",
+    "tags": [
+      {
+        "name": "Improves kidney",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bladder support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less urgency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less trips",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for UTI",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed delivery",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Slight difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:31.556Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

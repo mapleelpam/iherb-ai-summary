@@ -1,0 +1,68 @@
+{
+  "iherb_id": 83467,
+  "last_updated": "2026-03-20T10:05:26.803Z",
+  "first_scraped": "2026-03-20T10:05:26.803Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Plant based, Less inflammation, Good choice, No aftertaste, Nice plant omega, Vegan omega, Fully complies, Nice package. Some note: Easy to take, Stronger feeling.",
+    "tags": [
+      {
+        "name": "Plant based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice plant omega",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan omega",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fully complies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stronger feeling",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:26.803Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

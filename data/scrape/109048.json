@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109048,
+  "last_updated": "2026-03-20T09:53:57.425Z",
+  "first_scraped": "2026-03-20T09:53:57.425Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Good taste, Helps insomnia, Dual-release formula, Easy to swallow, Dual layer, Prompt service, Natural solution. Some note: Outrageous benefit, Effective dosage.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps insomnia",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dual-release formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dual layer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Outrageous benefit",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:57.425Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2152,
+  "last_updated": "2026-03-20T10:06:37.769Z",
+  "first_scraped": "2026-03-20T10:06:37.769Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great fiber, Regulating digestion, Appetite decreased, Good compositions, Supports digestion, Daily stack, Good source, Gentle and effective.",
+    "tags": [
+      {
+        "name": "Great fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulating digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Appetite decreased",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good compositions",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily stack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle and effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Onset of diarrhea",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:37.769Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

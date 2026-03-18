@@ -1,0 +1,68 @@
+{
+  "iherb_id": 56885,
+  "last_updated": "2026-03-20T09:25:02.167Z",
+  "first_scraped": "2026-03-20T09:25:02.167Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Superfood benefits, Subtle enhancement, Easy supplement, Vegan staple, Nutritious boost, Tasty addition, Versatile option, Handy size. Some note: Healthy option, Cheesy flavor.",
+    "tags": [
+      {
+        "name": "Superfood benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Subtle enhancement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan staple",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutritious boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Versatile option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Handy size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy option",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Cheesy flavor",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:02.167Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

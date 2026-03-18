@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77995,
+  "last_updated": "2026-03-20T10:14:22.216Z",
+  "first_scraped": "2026-03-20T10:14:22.216Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Mixes well, Fast shipping, Product works, Delicious flavor, Easy to dissolve, Balanced taste, Clean ingredients.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Product works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High costs",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Thin consistency",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:22.216Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

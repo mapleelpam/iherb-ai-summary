@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108650,
+  "last_updated": "2026-03-20T09:38:05.323Z",
+  "first_scraped": "2026-03-20T09:38:05.323Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Joint pain, Antioxidant benefits, Joint health support, Easy to swallow, Effective inflammation, Immunity boost, Noticeable difference, No smell. Some note: Natural ingredients, No effect.",
+    "tags": [
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:05.323Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

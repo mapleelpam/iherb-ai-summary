@@ -1,0 +1,68 @@
+{
+  "iherb_id": 36570,
+  "last_updated": "2026-03-20T10:02:00.524Z",
+  "first_scraped": "2026-03-20T10:02:00.524Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increased focus, Boost before workout, Great boost, Good composition, Worth a shot, Increased endurance, Easy on stomach, Delicious flavor. Some note: Skin flushing.",
+    "tags": [
+      {
+        "name": "Increased focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost before workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth a shot",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin flushing",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not stimulating",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:00.524Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

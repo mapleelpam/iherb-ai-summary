@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8544,
+  "last_updated": "2026-03-20T10:08:49.358Z",
+  "first_scraped": "2026-03-20T10:08:49.358Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosts energy, Covered absence, Good ingredients, No iodine, Convenient size, Simple use, High solubility, Arrived quickly.",
+    "tags": [
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Covered absence",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No iodine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Simple use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High solubility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arrived quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Discontinued online",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:49.358Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

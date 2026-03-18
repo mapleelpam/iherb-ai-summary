@@ -1,0 +1,68 @@
+{
+  "iherb_id": 140017,
+  "last_updated": "2026-03-20T09:48:07.677Z",
+  "first_scraped": "2026-03-20T09:48:07.677Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less cramps, Easy to swallow, High benefit, Reduced tenderness, Reduces symptoms, Life is easy, Mood swings reduced, Easy to open.",
+    "tags": [
+      {
+        "name": "Less cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced tenderness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life is easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood swings reduced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to open",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difficult to take",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "More nervous",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:07.677Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7678,
+  "last_updated": "2026-03-20T10:12:29.318Z",
+  "first_scraped": "2026-03-20T10:12:29.318Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Mild flavor, Fruit flavors, Full after breakfast, Good stuff, Tastes very good, Tasty and filling, Years of use. Some note: Thick and greenish.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fruit flavors",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Full after breakfast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes very good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty and filling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Years of use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wild racoon",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Thick and greenish",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:29.318Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

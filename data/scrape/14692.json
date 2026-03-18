@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14692,
+  "last_updated": "2026-03-20T09:39:14.545Z",
+  "first_scraped": "2026-03-20T09:39:14.545Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Made him less, Feel fine, Will buy, Great vitamins, More energy, Stick with this, Easy to assimilate. Some note: Fast shipping, Natural ingredients.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Made him less",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Will buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stick with this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to assimilate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:14.545Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

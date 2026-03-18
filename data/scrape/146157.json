@@ -1,0 +1,68 @@
+{
+  "iherb_id": 146157,
+  "last_updated": "2026-03-20T10:15:39.847Z",
+  "first_scraped": "2026-03-20T10:15:39.847Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pain improved, Digestive health, More comfort, Easy on, Anti-inflammatory benefits, Less inflammation, Helps pain, Vividly yellow. Some note: Contains gelatin.",
+    "tags": [
+      {
+        "name": "Pain improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More comfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vividly yellow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Contains gelatin",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Uneven color",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:39.847Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

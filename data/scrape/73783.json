@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73783,
+  "last_updated": "2026-03-20T10:03:33.344Z",
+  "first_scraped": "2026-03-20T10:03:33.344Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Clean ingredients, Well packaged, Tastes great, More convenient, Skin glow, Improvement noticed, Reduces knee pain. Some note: Fast delivery.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More convenient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin glow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces knee pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Grainy texture",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:33.344Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

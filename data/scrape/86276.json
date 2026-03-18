@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86276,
+  "last_updated": "2026-03-20T09:47:31.118Z",
+  "first_scraped": "2026-03-20T09:47:31.118Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean components, Hair change, Chocolate flavor, Good taste, Love this!, Large size, Skin glow, Healing combination.",
+    "tags": [
+      {
+        "name": "Clean components",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chocolate flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this!",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin glow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healing combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Awful smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:31.118Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78031,
+  "last_updated": "2026-03-20T10:03:00.375Z",
+  "first_scraped": "2026-03-20T10:03:00.375Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Superpure processing, Organic extract, Digestion improved, Liver cleanse, Highly recommend, Detox support, Organic love, Attractive packaging, Skin improvement, Energy boost.",
+    "tags": [
+      {
+        "name": "Superpure processing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Attractive packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:00.375Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

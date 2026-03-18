@@ -1,0 +1,68 @@
+{
+  "iherb_id": 50427,
+  "last_updated": "2026-03-20T09:53:38.481Z",
+  "first_scraped": "2026-03-20T09:53:38.481Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost immunity, Better health, Pure tasting, Organic power, More energy, Long-lasting, Hair growth, Fast shipping. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure tasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic power",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-lasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Terrible taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:38.481Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

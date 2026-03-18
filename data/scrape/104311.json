@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104311,
+  "last_updated": "2026-03-20T09:36:23.693Z",
+  "first_scraped": "2026-03-20T09:36:23.693Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes great, Tasty option, Weight loss, Sweet taste, Amazing for me, Easy way, Nice price, Good taste. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:23.693Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

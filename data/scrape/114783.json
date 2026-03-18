@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114783,
+  "last_updated": "2026-03-20T10:07:19.288Z",
+  "first_scraped": "2026-03-20T10:07:19.288Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty and consistency, Refreshing texture, Chewy texture, Control hunger, Light and tasty, Immune support, Delicious flavor, Strawberry taste.",
+    "tags": [
+      {
+        "name": "Tasty and consistency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chewy texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control hunger",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Light and tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strawberry taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive everyday",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:19.288Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

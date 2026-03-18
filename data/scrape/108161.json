@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108161,
+  "last_updated": "2026-03-20T10:06:13.395Z",
+  "first_scraped": "2026-03-20T10:06:13.395Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Visual distortion, Clearer vision, Easy to swallow, Reduced fatigue, Repeat purchase, All natural, Eye fatigue. Some note: Long term, Fair amount.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Visual distortion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced fatigue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "All natural",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye fatigue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long term",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Fair amount",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:13.395Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

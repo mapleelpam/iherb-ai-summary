@@ -1,0 +1,68 @@
+{
+  "iherb_id": 76625,
+  "last_updated": "2026-03-20T10:02:02.110Z",
+  "first_scraped": "2026-03-20T10:02:02.110Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Budget friendly, Works great, Good formula, Helps digestion, Easy administration, Pleasant taste, Decrease bloating, Easy digestion.",
+    "tags": [
+      {
+        "name": "Budget friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy administration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decrease bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate relief",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:02.110Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

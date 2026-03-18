@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107206,
+  "last_updated": "2026-03-20T10:14:16.379Z",
+  "first_scraped": "2026-03-20T10:14:16.379Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Aids digestion, High dose, Effective blend, Easy to swallow, Restore balance, Feel better, Improved packaging, Convenient shelf stable, Excellent probiotic.",
+    "tags": [
+      {
+        "name": "Aids digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restore balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient shelf stable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive upset",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:16.379Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

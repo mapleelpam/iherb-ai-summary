@@ -1,0 +1,68 @@
+{
+  "iherb_id": 58322,
+  "last_updated": "2026-03-20T10:16:07.249Z",
+  "first_scraped": "2026-03-20T10:16:07.249Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes like nothing, Convenient to take, Easy to mix, Brain fog relief, Boost health, Traditional herbs, Tastes good, Kids loving it, Worth trying.",
+    "tags": [
+      {
+        "name": "Tastes like nothing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain fog relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Traditional herbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids loving it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth trying",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quite expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:07.249Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

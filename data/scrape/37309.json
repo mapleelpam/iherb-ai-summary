@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37309,
+  "last_updated": "2026-03-20T10:06:06.292Z",
+  "first_scraped": "2026-03-20T10:06:06.292Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Orange flavor, Refrigerated capsules, No fishy taste, Easy to swallow, Trusted brand, Sleeping ease, Value for money, Happy so far. Some note: Good deal.",
+    "tags": [
+      {
+        "name": "Orange flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refrigerated capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleeping ease",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy so far",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too big",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good deal",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:06.292Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

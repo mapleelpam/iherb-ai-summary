@@ -1,0 +1,68 @@
+{
+  "iherb_id": 50203,
+  "last_updated": "2026-03-20T09:35:47.328Z",
+  "first_scraped": "2026-03-20T09:35:47.328Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Easy swallow, Improved function, 250 mg dose, Good sleep, Inexpensive brand, Deficiency solution, Improved digestion, Helps sleep. Some note: Natural ingredients.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "250 mg dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inexpensive brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deficiency solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:47.328Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9984,
+  "last_updated": "2026-03-20T10:20:53.339Z",
+  "first_scraped": "2026-03-20T10:20:53.339Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice hair, Natural flavor, Good taste, Great source, Energy boost, Nutritional support, High B vitamins, Meeting RDA, Breastfeeding support, Taste great.",
+    "tags": [
+      {
+        "name": "Nice hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutritional support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High B vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Meeting RDA",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Breastfeeding support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:53.339Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

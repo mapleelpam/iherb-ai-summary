@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102242,
+  "last_updated": "2026-03-20T10:20:58.566Z",
+  "first_scraped": "2026-03-20T10:20:58.566Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Smooth shake, Delicious, Effective blend, Versatile product, Nice aroma, Tastes great, Mixes well, Better energy. Some note: Kids consumption.",
+    "tags": [
+      {
+        "name": "Smooth shake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Versatile product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice aroma",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not enough protein",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Kids consumption",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:58.566Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

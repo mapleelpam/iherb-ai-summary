@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105603,
+  "last_updated": "2026-03-20T09:34:10.628Z",
+  "first_scraped": "2026-03-20T09:34:10.628Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High carvacrol, Improvement seen, Easy to swallow, Better option, Detox symptoms, Works fine, Powerful supplement, Helps digestion. Some note: Effective ingredients, Antibacterial benefits.",
+    "tags": [
+      {
+        "name": "High carvacrol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Antibacterial benefits",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:10.628Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

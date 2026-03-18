@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2878,
+  "last_updated": "2026-03-20T10:30:26.595Z",
+  "first_scraped": "2026-03-20T10:30:26.595Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Liver detox, Helpful product, Helps swelling, Reduces fluid, Reduces fatigue, Good for digestion, Easy to take, Leg edema. Some note: Dog eating.",
+    "tags": [
+      {
+        "name": "Liver detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps swelling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces fluid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces fatigue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Leg edema",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Poor packaging",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Dog eating",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:30:26.595Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

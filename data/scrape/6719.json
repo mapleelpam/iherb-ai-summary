@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6719,
+  "last_updated": "2026-03-20T09:57:05.053Z",
+  "first_scraped": "2026-03-20T09:57:05.053Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Quick relief, Gets rid, Immunity protection, Effective brand, Easy to use, Preventative measure, Convenient travel, Alleviates symptoms.",
+    "tags": [
+      {
+        "name": "Quick relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gets rid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventative measure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient travel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alleviates symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong flavor",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sore throat",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:05.053Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

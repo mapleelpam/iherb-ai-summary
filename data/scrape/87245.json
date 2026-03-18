@@ -1,0 +1,68 @@
+{
+  "iherb_id": 87245,
+  "last_updated": "2026-03-20T10:08:22.575Z",
+  "first_scraped": "2026-03-20T10:08:22.575Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective pre-workout, Clear dosage, Sustained energy, Great scent, Lollipop punch, Good taste, Great energy, Great pumps. Some note: Good focus.",
+    "tags": [
+      {
+        "name": "Effective pre-workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustained energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lollipop punch",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great pumps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High sugar",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good focus",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:22.575Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102575,
+  "last_updated": "2026-03-20T10:17:31.614Z",
+  "first_scraped": "2026-03-20T10:17:31.614Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Strongly recommended, Clean ingredients, Organic ingredients, Packed well, Fair price, Tastes great, Regular bowel movements, Helpful with constipation.",
+    "tags": [
+      {
+        "name": "Strongly recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Packed well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular bowel movements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful with constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not strong",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Grainy taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:31.614Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

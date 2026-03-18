@@ -1,0 +1,68 @@
+{
+  "iherb_id": 74284,
+  "last_updated": "2026-03-20T09:35:57.034Z",
+  "first_scraped": "2026-03-20T09:35:57.034Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty protein, Boosting energy, Great discount, Original product, Good taste, Mixes well, Smooth blend, Effective ingredients. Some note: Large size.",
+    "tags": [
+      {
+        "name": "Tasty protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great discount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Original product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:57.034Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

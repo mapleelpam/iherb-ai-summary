@@ -1,0 +1,68 @@
+{
+  "iherb_id": 75268,
+  "last_updated": "2026-03-20T10:02:22.082Z",
+  "first_scraped": "2026-03-20T10:02:22.082Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works great, Helps absorption, Highly recommend, Improved digestion, Noticeable effects, Daily dose, Supports colon, Easy to swallow, Less vulnerable.",
+    "tags": [
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports colon",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less vulnerable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No benefits",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:22.082Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

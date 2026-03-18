@@ -1,0 +1,63 @@
+{
+  "iherb_id": 99078,
+  "last_updated": "2026-03-20T10:30:14.701Z",
+  "first_scraped": "2026-03-20T10:30:14.701Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Chocolate taste, Nice smell, Clean label, Tasty flavor, Winner bar, Smoothie addition, Convenient snack. Some note: Chewy texture, Artificial taste.",
+    "tags": [
+      {
+        "name": "Chocolate taste",
+        "classification": 0,
+        "count": 8
+      },
+      {
+        "name": "Nice smell",
+        "classification": 0,
+        "count": 7
+      },
+      {
+        "name": "Clean label",
+        "classification": 0,
+        "count": 5
+      },
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 4
+      },
+      {
+        "name": "Winner bar",
+        "classification": 0,
+        "count": 3
+      },
+      {
+        "name": "Smoothie addition",
+        "classification": 0,
+        "count": 1
+      },
+      {
+        "name": "Convenient snack",
+        "classification": 0,
+        "count": 1
+      },
+      {
+        "name": "Chewy texture",
+        "classification": 1,
+        "count": 15
+      },
+      {
+        "name": "Artificial taste",
+        "classification": 1,
+        "count": 7
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:30:14.701Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

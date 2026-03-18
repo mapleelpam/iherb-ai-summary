@@ -1,0 +1,68 @@
+{
+  "iherb_id": 16452,
+  "last_updated": "2026-03-20T10:03:08.305Z",
+  "first_scraped": "2026-03-20T10:03:08.305Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Breast enhancement, Hot flashes relief, Regulating hormones, Mood improvement, Light flavor, Increased enjoyment, Hormone balance. Some note: Slow results.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Breast enhancement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hot flashes relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulating hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Light flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased enjoyment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormone balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Abdominal pain",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Slow results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:08.305Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

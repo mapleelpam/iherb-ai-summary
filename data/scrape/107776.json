@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107776,
+  "last_updated": "2026-03-20T09:43:17.430Z",
+  "first_scraped": "2026-03-20T09:43:17.430Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Happy with, Overall health, Regular schedule, Balances gut, Easy to take, Great mix, Supports body, Clears quickly. Some note: Effective probiotic.",
+    "tags": [
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular schedule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balances gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports body",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clears quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective probiotic",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:17.430Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

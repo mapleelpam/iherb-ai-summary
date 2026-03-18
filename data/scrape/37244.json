@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37244,
+  "last_updated": "2026-03-20T09:53:53.334Z",
+  "first_scraped": "2026-03-20T09:53:53.334Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High antioxidants, Good sign, Helps dry eyes, Works great, Eye improvement, Dry eyes, Great supplement, More energy. Some note: Great find.",
+    "tags": [
+      {
+        "name": "High antioxidants",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sign",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps dry eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dry eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Aging effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Great find",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:53.334Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

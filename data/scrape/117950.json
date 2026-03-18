@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117950,
+  "last_updated": "2026-03-20T10:09:08.366Z",
+  "first_scraped": "2026-03-20T10:09:08.366Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reduced migraines, Reduced allergies, Fast shipping, Great benefit, Effective price, Trust swanson, Game-changer relief, Control breakthru. Some note: No pa's.",
+    "tags": [
+      {
+        "name": "Reduced migraines",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced allergies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust swanson",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control breakthru",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Constant headache",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No pa's",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:08.366Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

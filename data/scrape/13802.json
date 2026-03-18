@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13802,
+  "last_updated": "2026-03-20T09:50:49.318Z",
+  "first_scraped": "2026-03-20T09:50:49.318Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great antioxidant, Foot pain, Trust brand, Detoxification support, Easy swallow, Good ingredient, Blood sugar, Well-packed. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Great antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Foot pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detoxification support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well-packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No impact",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:49.318Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

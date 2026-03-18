@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4104,
+  "last_updated": "2026-03-20T10:34:55.304Z",
+  "first_scraped": "2026-03-20T10:34:55.304Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clears congestion, Still good, Natural ingredients, Improves fertility, Tasty and helpful, Controls flem, Works great, Voice saver. Some note: Allergy cough.",
+    "tags": [
+      {
+        "name": "Clears congestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Still good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves fertility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty and helpful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Controls flem",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Voice saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Allergy cough",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:34:55.304Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114587,
+  "last_updated": "2026-03-20T10:19:42.686Z",
+  "first_scraped": "2026-03-20T10:19:42.686Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective remedy, Restful night, Delicious taste, Fast results, Natural sleep remedy, Natural ingredients, Helpful sleep, Tasty gummies. Some note: Cute packaging, Stay asleep.",
+    "tags": [
+      {
+        "name": "Effective remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restful night",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural sleep remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cute packaging",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stay asleep",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:42.686Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 46061,
+  "last_updated": "2026-03-20T10:36:48.425Z",
+  "first_scraped": "2026-03-20T10:36:48.425Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good combination, Drop in BP, Great supplement, Consistent sleep, Mixture of supplements, Ordered four bottles, Better news, Sleep aid.",
+    "tags": [
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Drop in BP",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consistent sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixture of supplements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ordered four bottles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better news",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tried better",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No sleeping action",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:36:48.425Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

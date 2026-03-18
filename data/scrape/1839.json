@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1839,
+  "last_updated": "2026-03-20T10:03:18.496Z",
+  "first_scraped": "2026-03-20T10:03:18.496Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stomach ache, Fast shipping, Immune support, Improved appetite, Green detox, Midwife recommendation, Easy to swallow, Kidney support. Some note: Not bad.",
+    "tags": [
+      {
+        "name": "Stomach ache",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Green detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Midwife recommendation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kidney support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not bad",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Lost appetite",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:18.496Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

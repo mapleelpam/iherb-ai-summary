@@ -1,0 +1,68 @@
+{
+  "iherb_id": 47796,
+  "last_updated": "2026-03-20T09:27:04.504Z",
+  "first_scraped": "2026-03-20T09:27:04.504Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High potency, Optimal dosage, Helps when TTC, General nerve pain, Life extension, Thanks and good, Convenient size, Trust iherb. Some note: Energy boost, Average price.",
+    "tags": [
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Optimal dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps when TTC",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "General nerve pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life extension",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thanks and good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust iherb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Average price",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:04.504Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

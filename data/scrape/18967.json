@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18967,
+  "last_updated": "2026-03-20T10:00:40.906Z",
+  "first_scraped": "2026-03-20T10:00:40.906Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Feel better, Lower dosage, Easy swallow, Trusted brand, Immune support, Digestive health, Works as claimed, Relief found.",
+    "tags": [
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works as claimed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief found",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chemical reaction",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:40.906Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

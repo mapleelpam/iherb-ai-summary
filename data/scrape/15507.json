@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15507,
+  "last_updated": "2026-03-20T09:37:29.778Z",
+  "first_scraped": "2026-03-20T09:37:29.778Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fatty liver, Superman feel, Boosting energy, Liver health, Timely delivery, Tangible effect, Memory improvement, Large capsules. Some note: Glass bottle.",
+    "tags": [
+      {
+        "name": "Fatty liver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superman feel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tangible effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass bottle",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:29.778Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

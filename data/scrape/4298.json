@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4298,
+  "last_updated": "2026-03-20T09:30:00.620Z",
+  "first_scraped": "2026-03-20T09:30:00.620Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Easy to swallow, Small size, Cycle support, No fishy smell, Skin improvement, Hormonal balance, Good for skin. Some note: Support women.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cycle support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormonal balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support women",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bad mood",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:00.620Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

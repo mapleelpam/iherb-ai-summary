@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3427,
+  "last_updated": "2026-03-20T10:10:48.247Z",
+  "first_scraped": "2026-03-20T10:10:48.247Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No bloating, Helps constipation, Bulk forming, Stocking up, Insoluble fiber, Keeps things moving, No taste, Works great. Some note: Happy to find, Average option.",
+    "tags": [
+      {
+        "name": "No bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bulk forming",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stocking up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Insoluble fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps things moving",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy to find",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Average option",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:48.247Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 76631,
+  "last_updated": "2026-03-20T09:23:01.046Z",
+  "first_scraped": "2026-03-20T09:23:01.046Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves anemia, No constipation, Good clean ingredients, Gentle formula, Easy to use, Easy on stomach, Highly digestible, Great supplement. Some note: Nice packing, Good benefits.",
+    "tags": [
+      {
+        "name": "Improves anemia",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly digestible",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice packing",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:01.046Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

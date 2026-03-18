@@ -1,0 +1,68 @@
+{
+  "iherb_id": 725,
+  "last_updated": "2026-03-20T09:50:50.340Z",
+  "first_scraped": "2026-03-20T09:50:50.340Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Liver health, Good before sleep, Build muscle, Excellent dosage, Effective energy, Good taste, Helps a lot, Boosting effects. Some note: Helps with circulation, Prompt delivery.",
+    "tags": [
+      {
+        "name": "Liver health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good before sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Build muscle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps a lot",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with circulation",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:50.340Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

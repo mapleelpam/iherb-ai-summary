@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107287,
+  "last_updated": "2026-03-20T10:32:09.502Z",
+  "first_scraped": "2026-03-20T10:32:09.502Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Berry flavor, Help me, Fall asleep, Tasty flavor, Convenient support, Works great, Natural sleep.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Berry flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Help me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fall asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strongly altered",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Strong gummies",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:09.502Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118643,
+  "last_updated": "2026-03-20T10:03:24.742Z",
+  "first_scraped": "2026-03-20T10:03:24.742Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to use, Muscle pain, Easy mix, Highly recommend, Small container, Electrolyte drink, Helpful bones, Trust swanson. Some note: Effective magnesium.",
+    "tags": [
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small container",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Electrolyte drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust swanson",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective magnesium",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:24.742Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 56296,
+  "last_updated": "2026-03-20T10:12:17.234Z",
+  "first_scraped": "2026-03-20T10:12:17.234Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Great antioxidant, Protects immune, Good combination, Quality supplements, Convenient supplementation, Happy results, Helps redness. Some note: Not correct!.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protects immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality supplements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient supplementation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps redness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not correct!",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:17.234Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

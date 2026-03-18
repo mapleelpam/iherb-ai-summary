@@ -1,0 +1,68 @@
+{
+  "iherb_id": 98300,
+  "last_updated": "2026-03-20T09:28:35.427Z",
+  "first_scraped": "2026-03-20T09:28:35.427Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved balance, Good ingredients, Natural ingredients, Energy restored, No sugar, Good taste, Refreshing blend, Effective hydration.",
+    "tags": [
+      {
+        "name": "Improved balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy restored",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Doesn't dissolve well",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:35.427Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

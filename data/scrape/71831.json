@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71831,
+  "last_updated": "2026-03-20T09:29:59.637Z",
+  "first_scraped": "2026-03-20T09:29:59.637Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increased energy levels, Perfect shipment, High absorbable form, Good ingredient, Good dosage, Improved levels, Improved thinking, Cherry flavor. Some note: Reliable company.",
+    "tags": [
+      {
+        "name": "Increased energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High absorbable form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved thinking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cherry flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable company",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:59.637Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

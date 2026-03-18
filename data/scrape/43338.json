@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43338,
+  "last_updated": "2026-03-20T10:14:27.189Z",
+  "first_scraped": "2026-03-20T10:14:27.189Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helped digestion, Nice price, Pleasant taste, Kids digestion, Great enzymes, Gentle digestion, Gluten intolerance, Convenient option. Some note: Reminder needed.",
+    "tags": [
+      {
+        "name": "Helped digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great enzymes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gluten intolerance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lost skills",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Reminder needed",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:27.189Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

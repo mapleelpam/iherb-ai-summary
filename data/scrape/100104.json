@@ -1,0 +1,68 @@
+{
+  "iherb_id": 100104,
+  "last_updated": "2026-03-20T10:33:06.232Z",
+  "first_scraped": "2026-03-20T10:33:06.232Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Healthier and recommend, Satisfied products, Must try, Not sick, Boost immune, Credible product, Good ingredients.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthier and recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied products",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Must try",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Credible product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad stomach cramps",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Immunity worries",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:33:06.232Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

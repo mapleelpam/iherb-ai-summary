@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108664,
+  "last_updated": "2026-03-20T10:00:18.147Z",
+  "first_scraped": "2026-03-20T10:00:18.147Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Speedy dispatch, Boosting energy, Small size pill, Added bonus, Safe product, Increased stamina, Working better, Boosts testosterone. Some note: High benefit.",
+    "tags": [
+      {
+        "name": "Speedy dispatch",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size pill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Added bonus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Working better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts testosterone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefit",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:18.147Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

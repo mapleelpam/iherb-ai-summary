@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12465,
+  "last_updated": "2026-03-20T09:32:26.897Z",
+  "first_scraped": "2026-03-20T09:32:26.897Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Nice taste, Energy boost, Convenient way, Quick absorption, Efficient delivery, Highly absorbable, Feel difference. Some note: Love the energy, Great potency.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly absorbable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the energy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great potency",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:26.897Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

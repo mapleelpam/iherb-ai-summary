@@ -1,0 +1,68 @@
+{
+  "iherb_id": 87145,
+  "last_updated": "2026-03-20T10:31:32.733Z",
+  "first_scraped": "2026-03-20T10:31:32.733Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Longer life, Multi tasking, Good formulation, Enjoying it, Top pick, Daily package, Comprehensive blend, High potency, Famous vitamin.",
+    "tags": [
+      {
+        "name": "Longer life",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Multi tasking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enjoying it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top pick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comprehensive blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Famous vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "8 per day",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:32.733Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

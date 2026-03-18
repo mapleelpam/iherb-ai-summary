@@ -1,0 +1,68 @@
+{
+  "iherb_id": 127722,
+  "last_updated": "2026-03-20T10:37:56.334Z",
+  "first_scraped": "2026-03-20T10:37:56.334Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Reduced bloating, Love this, Digestive help, Boosts immunity, Affordable formula, Great strains, Good probiotic. Some note: Works great.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great strains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not stable",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:37:56.334Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

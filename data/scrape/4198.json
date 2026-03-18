@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4198,
+  "last_updated": "2026-03-20T10:11:52.463Z",
+  "first_scraped": "2026-03-20T10:11:52.463Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Dry-eye improvement, Good dose, Mood stabilization, Useful supplement, Helpful purchase, Metabolism boost, Heart health. Some note: High EPA.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dry-eye improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood stabilization",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Useful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Metabolism boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difficult to swallow",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High EPA",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:52.463Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

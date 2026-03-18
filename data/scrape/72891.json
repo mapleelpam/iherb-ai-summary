@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72891,
+  "last_updated": "2026-03-20T10:29:05.580Z",
+  "first_scraped": "2026-03-20T10:29:05.580Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good focus, Balanced training, Effective dosing, Very popular, Tastes amazing, Quick response, Long-lasting energy, Highly recommend.",
+    "tags": [
+      {
+        "name": "Good focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced training",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very popular",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick response",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-lasting energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suspended use",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Worst result",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:29:05.580Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

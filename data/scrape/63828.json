@@ -1,0 +1,68 @@
+{
+  "iherb_id": 63828,
+  "last_updated": "2026-03-20T09:26:20.946Z",
+  "first_scraped": "2026-03-20T09:26:20.946Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved vitality, Highly potent, Good ingredients, Improved sleep, Easy to swallow, Good form, Small tablet, First time. Some note: Label size, Works good.",
+    "tags": [
+      {
+        "name": "Improved vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly potent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small tablet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Label size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Works good",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:20.946Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

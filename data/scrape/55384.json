@@ -1,0 +1,68 @@
+{
+  "iherb_id": 55384,
+  "last_updated": "2026-03-20T10:03:43.620Z",
+  "first_scraped": "2026-03-20T10:03:43.620Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less sweet craving, Reasonable price, Detox effect, Trustworthy site, Energy boost, Trust this product, General nutrition, Excellent ingredient.",
+    "tags": [
+      {
+        "name": "Less sweet craving",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trustworthy site",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "General nutrition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gastric upset",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Synthetic vitamins",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:43.620Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

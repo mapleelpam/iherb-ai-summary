@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9163,
+  "last_updated": "2026-03-20T10:16:20.181Z",
+  "first_scraped": "2026-03-20T10:16:20.181Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes like orange, Fast service, Highly recommend, Smooth going down, Good taste, Kids love, Not fishy, Good source. Some note: Store properly.",
+    "tags": [
+      {
+        "name": "Tastes like orange",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth going down",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not fishy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rotten batch",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Store properly",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:20.181Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

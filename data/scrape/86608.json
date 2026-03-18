@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86608,
+  "last_updated": "2026-03-20T10:10:11.224Z",
+  "first_scraped": "2026-03-20T10:10:11.224Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Satisfying meal replacement, Healthy option, Smooth and creamy, Seller packed, No aftertaste, Good choice, Tastes better, Great flavor.",
+    "tags": [
+      {
+        "name": "Satisfying meal replacement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth and creamy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seller packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bland taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Texture issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:11.224Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

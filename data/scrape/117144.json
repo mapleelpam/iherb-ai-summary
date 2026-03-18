@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117144,
+  "last_updated": "2026-03-20T09:55:00.459Z",
+  "first_scraped": "2026-03-20T09:55:00.459Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, High expectations, Liver support, Fast shipping, Sunflower source, Skin looks better, General health, Reasonable price. Some note: Soy free.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High expectations",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sunflower source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin looks better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "General health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soy free",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Contains rice bran",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:00.459Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

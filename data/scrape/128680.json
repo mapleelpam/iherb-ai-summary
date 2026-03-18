@@ -1,0 +1,68 @@
+{
+  "iherb_id": 128680,
+  "last_updated": "2026-03-20T11:27:56.144Z",
+  "first_scraped": "2026-03-20T11:27:56.144Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Prevents kidney stones, Helps sleep, Best price, Tastes good, Readily absorable, Calms nerves, Leg cramps, Strong bone.",
+    "tags": [
+      {
+        "name": "Prevents kidney stones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Readily absorable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calms nerves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Leg cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong bone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tart taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not safe",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T11:27:56.144Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

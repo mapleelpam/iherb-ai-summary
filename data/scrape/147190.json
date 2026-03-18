@@ -1,0 +1,68 @@
+{
+  "iherb_id": 147190,
+  "last_updated": "2026-03-20T09:57:41.348Z",
+  "first_scraped": "2026-03-20T09:57:41.348Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great combination, Reduced fatigue, Calming effect, Energy boost, Nutrient blend, Weight loss aid, Never without, Improved sleep, Improved focus. Some note: Medical guidance.",
+    "tags": [
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced fatigue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrient blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Never without",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Medical guidance",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:41.348Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

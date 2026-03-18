@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7472,
+  "last_updated": "2026-03-20T10:25:55.871Z",
+  "first_scraped": "2026-03-20T10:25:55.871Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosts hormonal production, Easy to swallow, Ageless, Small size, Well packaged, Support health, Highly recommend, High potency. Some note: Pharma product.",
+    "tags": [
+      {
+        "name": "Boosts hormonal production",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ageless",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Side effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Pharma product",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:55.871Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

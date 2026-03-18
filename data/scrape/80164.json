@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80164,
+  "last_updated": "2026-03-20T09:52:44.822Z",
+  "first_scraped": "2026-03-20T09:52:44.822Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost metabolism, Buy again, Good combination, Balancing mood, No taste, More energy, Memory support, Never had an issue.",
+    "tags": [
+      {
+        "name": "Boost metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buy again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balancing mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Never had an issue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not strong",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No energy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:44.822Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

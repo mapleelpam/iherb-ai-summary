@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84313,
+  "last_updated": "2026-03-20T09:36:58.493Z",
+  "first_scraped": "2026-03-20T09:36:58.493Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost immunity, Great supplement, Skin health, Not overwhelming, Amazing dose, Body recovery, Good dosage, Gentle on stomach, Helped acne.",
+    "tags": [
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not overwhelming",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped acne",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheap appearance",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:58.493Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

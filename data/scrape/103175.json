@@ -1,0 +1,68 @@
+{
+  "iherb_id": 103175,
+  "last_updated": "2026-03-20T10:06:49.236Z",
+  "first_scraped": "2026-03-20T10:06:49.236Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Caffeine support, Superior formula, Memory improve, Mood boost, Color change, Positive impact, Love this product, Effective ingredients. Some note: Too soon.",
+    "tags": [
+      {
+        "name": "Caffeine support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superior formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Color change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Indigestion issue",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too soon",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:49.236Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

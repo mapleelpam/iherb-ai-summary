@@ -1,0 +1,68 @@
+{
+  "iherb_id": 45301,
+  "last_updated": "2026-03-20T09:50:02.204Z",
+  "first_scraped": "2026-03-20T09:50:02.204Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good concentration, Calming supplement, Worth a try, Highly recommend, Great results, Good immunity, Reduces anxiety, Works great. Some note: Clean ingredients.",
+    "tags": [
+      {
+        "name": "Good concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth a try",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Didn't work",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:02.204Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

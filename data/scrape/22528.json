@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22528,
+  "last_updated": "2026-03-20T09:34:38.893Z",
+  "first_scraped": "2026-03-20T09:34:38.893Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hair healthy, Feel energised, Money saver, Fast shipping, More energy, Good ingredients, One daily, Daily supplement. Some note: Nice choice.",
+    "tags": [
+      {
+        "name": "Hair healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel energised",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Money saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "One daily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice choice",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Three times a day",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:38.893Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

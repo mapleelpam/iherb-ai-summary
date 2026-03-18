@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114633,
+  "last_updated": "2026-03-20T09:49:11.424Z",
+  "first_scraped": "2026-03-20T09:49:11.424Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Contains 3 types, Improved hydration, Absorbs well, Nice packing, Good taste, Joint health, Trusted brand, Skin health. Some note: Helps joints.",
+    "tags": [
+      {
+        "name": "Contains 3 types",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorbs well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps joints",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not completely tasteless",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:11.424Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

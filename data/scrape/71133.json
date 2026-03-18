@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71133,
+  "last_updated": "2026-03-20T09:29:14.042Z",
+  "first_scraped": "2026-03-20T09:29:14.042Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Balanced gut, Mood boost, Improved sleep, Good ingredients, Good probiotics, Improved digestion, Improved mood, Gentle feel. Some note: Good feeling.",
+    "tags": [
+      {
+        "name": "Balanced gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good probiotics",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle feel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good feeling",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:14.042Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

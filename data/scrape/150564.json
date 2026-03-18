@@ -1,0 +1,68 @@
+{
+  "iherb_id": 150564,
+  "last_updated": "2026-03-20T10:10:41.332Z",
+  "first_scraped": "2026-03-20T10:10:41.332Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes good, Delicious and healthy, Trusted brand, Energy boost, Flavorful option, Sharp safe, Tasty supplement, No sweetener.",
+    "tags": [
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious and healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flavorful option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sharp safe",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No sweetener",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sweetener aftertaste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:41.332Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

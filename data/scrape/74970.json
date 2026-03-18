@@ -1,0 +1,68 @@
+{
+  "iherb_id": 74970,
+  "last_updated": "2026-03-20T10:23:47.320Z",
+  "first_scraped": "2026-03-20T10:23:47.320Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Chewy texture, Tasty bar, Happy find, Great flavor, Great snack, Healthy option, Sweet taste, Not too sweet.",
+    "tags": [
+      {
+        "name": "Chewy texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty bar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy find",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not too sweet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sticky texture",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:47.320Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144276,
+  "last_updated": "2026-03-20T09:47:00.217Z",
+  "first_scraped": "2026-03-20T09:47:00.217Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Regulating glucose, Energy boost, Speedy delivery, Natural remedy, Pancreatic function, Good ingredients, Blood sugar, Easy to use.",
+    "tags": [
+      {
+        "name": "Regulating glucose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pancreatic function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Never buy",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not for me",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:00.217Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 112599,
+  "last_updated": "2026-03-20T10:25:43.081Z",
+  "first_scraped": "2026-03-20T10:25:43.081Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Easy to swallow, Great blend, Peppermint flavor, Improvements seen, Skin improvements, Great alternative, Less discomfort, Stronger nails.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Peppermint flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvements seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less discomfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:43.081Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

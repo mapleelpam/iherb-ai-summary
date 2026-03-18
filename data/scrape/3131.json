@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3131,
+  "last_updated": "2026-03-20T10:00:35.041Z",
+  "first_scraped": "2026-03-20T10:00:35.041Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great benefits, Helps constipation, Good stuff, Prompt arrival, Helpful for digestion, Regular bowel movement, Good results, Gentle cleanse. Some note: Supportive cleanse.",
+    "tags": [
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt arrival",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful for digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular bowel movement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not great",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Supportive cleanse",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:35.041Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 50553,
+  "last_updated": "2026-03-20T09:38:11.362Z",
+  "first_scraped": "2026-03-20T09:38:11.362Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sour fishy, Fast shipping, Smooth texture, Good taste, Delightful choice, Tastes great, Feel full, Same flavor.",
+    "tags": [
+      {
+        "name": "Sour fishy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delightful choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel full",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Same flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pricey",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Taste horrible",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:11.362Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

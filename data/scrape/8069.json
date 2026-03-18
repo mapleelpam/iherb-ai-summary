@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8069,
+  "last_updated": "2026-03-20T10:27:12.328Z",
+  "first_scraped": "2026-03-20T10:27:12.328Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trust developed, Calms anxiety, Productive, focused, Edge off, Normalized mood, Nice price, Affordable option, Good for energy. Some note: Bright yellow urine.",
+    "tags": [
+      {
+        "name": "Trust developed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calms anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Productive, focused",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Edge off",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normalized mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bright yellow urine",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Gut issues",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:12.328Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

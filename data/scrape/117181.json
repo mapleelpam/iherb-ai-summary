@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117181,
+  "last_updated": "2026-03-20T09:39:36.303Z",
+  "first_scraped": "2026-03-20T09:39:36.303Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Best quercetin, Clear sinuses, Highly recommend, Allergy relief, Easy to swallow, Clean and pure, Ideal pack, Nice price.",
+    "tags": [
+      {
+        "name": "Best quercetin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear sinuses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergy relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean and pure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ideal pack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Runny nose",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Energy issues",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:36.303Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

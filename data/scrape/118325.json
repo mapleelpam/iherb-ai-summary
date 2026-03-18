@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118325,
+  "last_updated": "2026-03-20T10:01:14.438Z",
+  "first_scraped": "2026-03-20T10:01:14.438Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Increased energy, Weight loss, Smell good, Taste great, Hope good, Great addition, Helpful minerals, Useful product. Some note: Fluctuations control.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smell good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hope good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful minerals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Useful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fluctuations control",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:14.438Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

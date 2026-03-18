@@ -1,0 +1,68 @@
+{
+  "iherb_id": 741,
+  "last_updated": "2026-03-20T09:26:24.506Z",
+  "first_scraped": "2026-03-20T09:26:24.506Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Blood pressure, Improves health, Cardiovascular health, Works great, Supports immunity, Value for money, Reduces herpes, Helps infections. Some note: Great improvement, Value added.",
+    "tags": [
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces herpes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps infections",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great improvement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Value added",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:24.506Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

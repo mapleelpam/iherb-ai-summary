@@ -1,0 +1,68 @@
+{
+  "iherb_id": 74330,
+  "last_updated": "2026-03-20T10:08:37.270Z",
+  "first_scraped": "2026-03-20T10:08:37.270Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High potency, Organic glass bottle, No fillers, Organic ingredient, Improved skin, Heartburn relief, Good ingredients, Organic grape seed, Trusted brand.",
+    "tags": [
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic glass bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fillers",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heartburn relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic grape seed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:37.270Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

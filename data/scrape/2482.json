@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2482,
+  "last_updated": "2026-03-20T10:11:55.525Z",
+  "first_scraped": "2026-03-20T10:11:55.525Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Weight loss, Timely delivery, Lean muscle, Curbs appetite, Convenient packaging, Fat burn, Easy to take, Few pounds. Some note: Assists weight loss.",
+    "tags": [
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lean muscle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Curbs appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat burn",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Few pounds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Assists weight loss",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Low effectiveness",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:55.525Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

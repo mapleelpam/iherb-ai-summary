@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70088,
+  "last_updated": "2026-03-20T09:36:48.719Z",
+  "first_scraped": "2026-03-20T09:36:48.719Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Enhanced immunity, Antigerm program, Lower blood pressure, Great complement, Real garlic, Immune support, Natural recovery, Competitive price. Some note: Strong smell.",
+    "tags": [
+      {
+        "name": "Enhanced immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antigerm program",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great complement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real garlic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Competitive price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Horrible heartburn",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Strong smell",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:48.719Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

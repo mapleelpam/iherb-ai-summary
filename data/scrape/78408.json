@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78408,
+  "last_updated": "2026-03-20T09:44:57.679Z",
+  "first_scraped": "2026-03-20T09:44:57.679Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reasonable price, Feeling better, Wound healing, General health, Miracle product, Good job, Immune support, No taste. Some note: Effective supplement, Easy to swallow.",
+    "tags": [
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wound healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "General health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Miracle product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good job",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:57.679Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

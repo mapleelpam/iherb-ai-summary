@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12232,
+  "last_updated": "2026-03-20T09:18:24.879Z",
+  "first_scraped": "2026-03-20T09:18:24.879Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Happy with, Good amount, Improved health, Reasonable price, Effective supplement, Effective dosage, Health boost, More energy. Some note: Decent option.",
+    "tags": [
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Decent option",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:24.879Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

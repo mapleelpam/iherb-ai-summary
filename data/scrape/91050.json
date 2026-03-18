@@ -1,0 +1,68 @@
+{
+  "iherb_id": 91050,
+  "last_updated": "2026-03-20T09:31:34.815Z",
+  "first_scraped": "2026-03-20T09:31:34.815Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great ingredients composition, Helps digestion, Effective supplement, Reduction in candida, Improved gut health, Helped UTI, Destroys protection layer, Broad spectrum enzymes. Some note: Fast shipment.",
+    "tags": [
+      {
+        "name": "Great ingredients composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduction in candida",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped UTI",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Destroys protection layer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Broad spectrum enzymes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Gluten free",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:34.815Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

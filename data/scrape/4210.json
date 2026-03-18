@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4210,
+  "last_updated": "2026-03-20T10:09:55.096Z",
+  "first_scraped": "2026-03-20T10:09:55.096Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Intestinal health, Antibiotic effect, Effective supplement, Good balance, Pure GSE, Fast relief, Natural remedy, Immune booster. Some note: Seems ok.",
+    "tags": [
+      {
+        "name": "Intestinal health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antibiotic effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure GSE",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Changed product",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Seems ok",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:55.096Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

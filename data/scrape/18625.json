@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18625,
+  "last_updated": "2026-03-20T10:02:42.019Z",
+  "first_scraped": "2026-03-20T10:02:42.019Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reduce histamine, Fresh taste, Increase stem cell, Effective supplement, Top ingredients, Trust company, Thicker hair, Digestion support, Good doses.",
+    "tags": [
+      {
+        "name": "Reduce histamine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase stem cell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thicker hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good doses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slight pain",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:42.019Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

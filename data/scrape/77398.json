@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77398,
+  "last_updated": "2026-03-20T09:51:45.474Z",
+  "first_scraped": "2026-03-20T09:51:45.474Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Quick absorption, Enhancing bone health, Small in size, Vacation alternative, Tasty flavor, Works well, Chewable tablets, Protect bone, Winter essential. Some note: Smell good.",
+    "tags": [
+      {
+        "name": "Quick absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhancing bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small in size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vacation alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chewable tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protect bone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Winter essential",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smell good",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:45.474Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

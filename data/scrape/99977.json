@@ -1,0 +1,68 @@
+{
+  "iherb_id": 99977,
+  "last_updated": "2026-03-20T10:03:36.372Z",
+  "first_scraped": "2026-03-20T10:03:36.372Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Quality improvement, Mood improvement, Energy booster, Worth buying, Convenient dosage, Hair health improvement, Body temperature, High potency. Some note: Whole bottle, Effective supplement.",
+    "tags": [
+      {
+        "name": "Quality improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth buying",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair health improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body temperature",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Whole bottle",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:36.372Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

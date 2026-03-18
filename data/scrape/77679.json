@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77679,
+  "last_updated": "2026-03-20T09:55:11.460Z",
+  "first_scraped": "2026-03-20T09:55:11.460Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good components, High potency, Hair growth, No taste, Small size, Beneficial ingredients, Helps hair, Thicker hair. Some note: No noticeable.",
+    "tags": [
+      {
+        "name": "Good components",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thicker hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No noticeable",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:11.460Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 58870,
+  "last_updated": "2026-03-20T10:37:05.219Z",
+  "first_scraped": "2026-03-20T10:37:05.219Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Brightens mood, Natural pain reliever, Helps sleep, Younger and relaxed, Post hepatic neuralgia, Highly recommend, Effective relief, Trustable supplier. Some note: Same price.",
+    "tags": [
+      {
+        "name": "Brightens mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural pain reliever",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Younger and relaxed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Post hepatic neuralgia",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trustable supplier",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Same price",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:37:05.219Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

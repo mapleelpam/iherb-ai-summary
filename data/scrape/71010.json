@@ -1,0 +1,63 @@
+{
+  "iherb_id": 71010,
+  "last_updated": "2026-03-20T09:38:56.781Z",
+  "first_scraped": "2026-03-20T09:38:56.781Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Keto drink, Tastes good, Good taste, Love grape flavor, Hydrates well, Great flavors, Energy boost. Some note: Natural ingredients, Expensive taste.",
+    "tags": [
+      {
+        "name": "Keto drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love grape flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydrates well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavors",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:56.781Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37335,
+  "last_updated": "2026-03-20T10:27:23.485Z",
+  "first_scraped": "2026-03-20T10:27:23.485Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Glass bottles, Improves stress, Keep in stock, More energetic, Improve sleeping, Calms nerves, Pure ingredients, Decently priced.",
+    "tags": [
+      {
+        "name": "Glass bottles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keep in stock",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve sleeping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calms nerves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decently priced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low energy",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not as potent",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:23.485Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

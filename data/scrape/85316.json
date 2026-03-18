@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85316,
+  "last_updated": "2026-03-20T09:32:59.563Z",
+  "first_scraped": "2026-03-20T09:32:59.563Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Protection against, Natural propolis, Good for immunity, High potency, Happy grandma, Fast shipping, Feel better. Some note: Large capsules, Natural package.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protection against",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural propolis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy grandma",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large capsules",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Natural package",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:59.563Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

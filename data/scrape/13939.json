@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13939,
+  "last_updated": "2026-03-20T09:51:53.548Z",
+  "first_scraped": "2026-03-20T09:51:53.548Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great absorption, Larger container, Great supplement, Pure powders, Pure product, Easy to use, Will buy, Low cost. Some note: Fast shipping.",
+    "tags": [
+      {
+        "name": "Great absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Larger container",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure powders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Will buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low cost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Caused gastrointestinal upset",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:53.548Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

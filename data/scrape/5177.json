@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5177,
+  "last_updated": "2026-03-20T10:10:20.186Z",
+  "first_scraped": "2026-03-20T10:10:20.186Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good relief, Circulation help, Works well, Stronger immunity, Beneficial ingredients, Testosterone production, Fast shipping, Helpful product. Some note: Effective supplement, Partial blockages.",
+    "tags": [
+      {
+        "name": "Good relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Circulation help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Testosterone production",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Partial blockages",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:20.186Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

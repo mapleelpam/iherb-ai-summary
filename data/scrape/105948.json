@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105948,
+  "last_updated": "2026-03-20T10:19:47.496Z",
+  "first_scraped": "2026-03-20T10:19:47.496Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love teeth, Tastes great, Good taste, Not chalky, Effective dosage, Pleasant taste, High absorbency, Easy to chew.",
+    "tags": [
+      {
+        "name": "Love teeth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not chalky",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High absorbency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to chew",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids overdosing",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hard texture",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:47.496Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

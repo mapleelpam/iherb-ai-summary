@@ -1,0 +1,68 @@
+{
+  "iherb_id": 112337,
+  "last_updated": "2026-03-20T10:00:48.714Z",
+  "first_scraped": "2026-03-20T10:00:48.714Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy swallow, Feel better, Good ingredients, Multiple functions, Positive impact, Improved sleep, Huge container, Effective supplement.",
+    "tags": [
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Multiple functions",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Huge container",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Size too big",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Quite big",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:48.714Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

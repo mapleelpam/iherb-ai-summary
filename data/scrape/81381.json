@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81381,
+  "last_updated": "2026-03-20T09:44:57.711Z",
+  "first_scraped": "2026-03-20T09:44:57.711Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Tiny size, Easy to swallow, Eye health, Good for hair, Essential mineral, Nice packing, High potency. Some note: High dosage.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiny size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential mineral",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:57.711Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

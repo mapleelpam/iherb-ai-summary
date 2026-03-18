@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42585,
+  "last_updated": "2026-03-20T10:12:49.848Z",
+  "first_scraped": "2026-03-20T10:12:49.848Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful with allergies, Gum care, Skin care, Good source, Improved gums, Wound healing, Good for oral, More energy.",
+    "tags": [
+      {
+        "name": "Helpful with allergies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gum care",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin care",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved gums",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wound healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for oral",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive issues",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stained palms",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:49.848Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

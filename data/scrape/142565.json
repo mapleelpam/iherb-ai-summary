@@ -1,0 +1,68 @@
+{
+  "iherb_id": 142565,
+  "last_updated": "2026-03-20T09:29:40.817Z",
+  "first_scraped": "2026-03-20T09:29:40.817Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Post workout, Clean ingredients, Trusted brand, Good results, Vanilla flavor, Big size, Delicious flavor, Powerful blend.",
+    "tags": [
+      {
+        "name": "Post workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vanilla flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not good",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:40.817Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

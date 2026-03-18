@@ -1,0 +1,68 @@
+{
+  "iherb_id": 100106,
+  "last_updated": "2026-03-20T09:33:31.963Z",
+  "first_scraped": "2026-03-20T09:33:31.963Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Effective combo, Easy choice, Cold prevention, No taste, Easy to digest, Boosts health, Health benefits. Some note: Good amount.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cold prevention",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to digest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good amount",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:31.963Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

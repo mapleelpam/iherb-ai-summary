@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9670,
+  "last_updated": "2026-03-20T09:58:03.046Z",
+  "first_scraped": "2026-03-20T09:58:03.046Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very satisfied, Good results, Fast shipment, Price acceptable, Improves circulation, No aftertaste, Protect eyesight, Clearer skin. Some note: Not tried yet.",
+    "tags": [
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Price acceptable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protect eyesight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not tried yet",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Painful liver",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:03.046Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

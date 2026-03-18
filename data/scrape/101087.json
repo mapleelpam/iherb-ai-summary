@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101087,
+  "last_updated": "2026-03-20T10:06:47.290Z",
+  "first_scraped": "2026-03-20T10:06:47.290Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice taste, Love this, Amazing flavor, Visible benefits, Supports health, Joint health, Trust products, Vanilla good.",
+    "tags": [
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Visible benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust products",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vanilla good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not complete protein",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Grainy bits",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:47.290Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

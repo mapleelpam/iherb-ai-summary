@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110942,
+  "last_updated": "2026-03-20T10:15:43.786Z",
+  "first_scraped": "2026-03-20T10:15:43.786Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Weight management, Glass bottle, Keeps regular, Organic psyllium, Gentle product, Helpful fiber, Detoxification important, Easy to swallow. Some note: Travel friendly.",
+    "tags": [
+      {
+        "name": "Weight management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps regular",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic psyllium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detoxification important",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not ideal",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Travel friendly",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:43.786Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109027,
+  "last_updated": "2026-03-20T10:00:09.798Z",
+  "first_scraped": "2026-03-20T10:00:09.798Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Alertness boost, Brain health, Mental clarity, Helpful for, Regained focus, Noticeable difference, Good stuff, Immediate results. Some note: Valuable pricing.",
+    "tags": [
+      {
+        "name": "Alertness boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful for",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regained focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weak capsules",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Valuable pricing",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:09.798Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

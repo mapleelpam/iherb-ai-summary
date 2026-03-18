@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107834,
+  "last_updated": "2026-03-20T10:04:48.689Z",
+  "first_scraped": "2026-03-20T10:04:48.689Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice packing, Must-try supplement, Decent supplement, Good choice, Energy booster, Easy mix, Muscle recovery, Happy to have. Some note: Taste great.",
+    "tags": [
+      {
+        "name": "Nice packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Must-try supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy to have",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste great",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not great taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:48.689Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

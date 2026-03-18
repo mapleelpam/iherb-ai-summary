@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1394,
+  "last_updated": "2026-03-20T09:55:58.156Z",
+  "first_scraped": "2026-03-20T09:55:58.156Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin health, Value for money, Good ingredients, Convenient delivery, Collagen building, Great for, Sweet taste, Good for pain. Some note: Amino acid, No taste.",
+    "tags": [
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Collagen building",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amino acid",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:58.156Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

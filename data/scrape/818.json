@@ -1,0 +1,68 @@
+{
+  "iherb_id": 818,
+  "last_updated": "2026-03-20T09:18:34.658Z",
+  "first_scraped": "2026-03-20T09:18:34.658Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Satisfactory results, Easy to swallow, Antioxidant mineral, Fast delivery, High potency, Boost immunity, Very happy, Improved energy. Some note: Trusted brand, Nice package.",
+    "tags": [
+      {
+        "name": "Satisfactory results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant mineral",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:34.658Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

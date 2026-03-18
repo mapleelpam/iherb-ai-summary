@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97386,
+  "last_updated": "2026-03-20T09:39:56.477Z",
+  "first_scraped": "2026-03-20T09:39:56.477Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Positive impact, Purity boost, Muscle recovery, Trusted brand, Energy boost, Helped fatigue, Great for heart, Game-changer. Some note: Easy to use.",
+    "tags": [
+      {
+        "name": "Positive impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Purity boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped fatigue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No energy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:56.477Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

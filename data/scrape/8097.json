@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8097,
+  "last_updated": "2026-03-20T10:13:56.205Z",
+  "first_scraped": "2026-03-20T10:13:56.205Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Super, Works great, Improve immunity, No complaints, Improved moods, Helps with hot flashes, Easy to take, Reliable sleep, Menopause relief.",
+    "tags": [
+      {
+        "name": "Super",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No complaints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved moods",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with hot flashes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Menopause relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Horrible side effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:56.205Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

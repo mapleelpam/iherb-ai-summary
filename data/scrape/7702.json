@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7702,
+  "last_updated": "2026-03-20T10:02:50.339Z",
+  "first_scraped": "2026-03-20T10:02:50.339Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good results, Easy to swallow, More energy, Curbs appetite, Energy boost, Metabolism increase, Fast shipping, Natural ingredients. Some note: Reduce fat.",
+    "tags": [
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Curbs appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Metabolism increase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trouble sleeping",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Reduce fat",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:50.339Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

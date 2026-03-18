@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7381,
+  "last_updated": "2026-03-20T09:34:07.637Z",
+  "first_scraped": "2026-03-20T09:34:07.637Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty mix, Nice balance, Nice flavor, Good taste, Fine mixture, Morning must-have, Good thing, Skin improvement. Some note: Fantastic stuff.",
+    "tags": [
+      {
+        "name": "Tasty mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fine mixture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning must-have",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good thing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes terrible",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fantastic stuff",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:07.637Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

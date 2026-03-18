@@ -1,0 +1,68 @@
+{
+  "iherb_id": 103333,
+  "last_updated": "2026-03-20T09:45:05.600Z",
+  "first_scraped": "2026-03-20T09:45:05.600Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost energy, Nice taste, Kid energetic, Convenient dosage, Good ingredients, Feeling better, Helpful supplement, Highly recommend. Some note: Love this, Efficient service.",
+    "tags": [
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kid energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Efficient service",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:05.600Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

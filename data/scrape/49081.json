@@ -1,0 +1,68 @@
+{
+  "iherb_id": 49081,
+  "last_updated": "2026-03-20T09:37:04.292Z",
+  "first_scraped": "2026-03-20T09:37:04.292Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tiny caps, Works great, Good ingredients, Energy boost, Helped much, Very satisfied, Improved focus, More energy. Some note: Thinking quickly, High potency.",
+    "tags": [
+      {
+        "name": "Tiny caps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped much",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thinking quickly",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:04.292Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

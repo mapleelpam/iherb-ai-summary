@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85147,
+  "last_updated": "2026-03-20T09:43:45.281Z",
+  "first_scraped": "2026-03-20T09:43:45.281Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reducing inflammation, Good component, Heart healthy, Detox energy, Great antioxidant, Immune booster, Powerful supplement, More energy. Some note: Compact design.",
+    "tags": [
+      {
+        "name": "Reducing inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good component",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive product",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Compact design",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:45.281Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

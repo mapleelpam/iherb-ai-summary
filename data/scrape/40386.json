@@ -1,0 +1,68 @@
+{
+  "iherb_id": 40386,
+  "last_updated": "2026-03-20T09:36:46.680Z",
+  "first_scraped": "2026-03-20T09:36:46.680Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Healthy digestion, Good balance, Good results, Effective concentration, Gut health, Weight loss, High content probiotic, High CFU count. Some note: Clean probiotics.",
+    "tags": [
+      {
+        "name": "Healthy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High content probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High CFU count",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not great",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Clean probiotics",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:46.680Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

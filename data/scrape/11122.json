@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11122,
+  "last_updated": "2026-03-20T09:59:16.595Z",
+  "first_scraped": "2026-03-20T09:59:16.595Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clear labeling, Maintain levels, Hip pain gone, Competitive price, Reorder again, Lower dose, Fast delivery, Boost immunity.",
+    "tags": [
+      {
+        "name": "Clear labeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hip pain gone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Competitive price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reorder again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Upset gut",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Only zinc",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:16.595Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

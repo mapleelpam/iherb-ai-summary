@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1978,
+  "last_updated": "2026-03-20T09:30:41.382Z",
+  "first_scraped": "2026-03-20T09:30:41.382Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for nails, Manageable size, Joint stiffness, Bone health, Good results, Good source, Stronger hair, Improvement seen. Some note: Good package.",
+    "tags": [
+      {
+        "name": "Good for nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Manageable size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint stiffness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not reading",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:41.382Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

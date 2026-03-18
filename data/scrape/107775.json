@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107775,
+  "last_updated": "2026-03-20T10:07:16.266Z",
+  "first_scraped": "2026-03-20T10:07:16.266Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to mix, Small capsules, Felt changes, Easy to pack, Gut health improvement, 12 strains, Effective brand, Daily maintenance. Some note: No change.",
+    "tags": [
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Felt changes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to pack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "12 strains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily maintenance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Wasteful packaging",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:16.266Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

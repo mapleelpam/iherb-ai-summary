@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2366,
+  "last_updated": "2026-03-20T10:23:19.360Z",
+  "first_scraped": "2026-03-20T10:23:19.360Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Amazing capsules, Fast shipping, High folic acid, Convenient option, Lots of B vitamins, All in one, Easy swallow, Outstanding vitamins. Some note: Color change.",
+    "tags": [
+      {
+        "name": "Amazing capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High folic acid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lots of B vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "All in one",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Outstanding vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard stomach",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Color change",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:19.360Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7614,
+  "last_updated": "2026-03-20T09:24:25.411Z",
+  "first_scraped": "2026-03-20T09:24:25.411Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Liver health, Memory improvement, Easy to swallow, Effective supplement, Great addition, Recommend to friends, Brain health, Reduce cholesterol. Some note: Helpful product.",
+    "tags": [
+      {
+        "name": "Liver health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend to friends",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Big capsules",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:25.411Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

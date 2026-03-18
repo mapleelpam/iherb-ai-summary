@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1083,
+  "last_updated": "2026-03-20T09:25:56.346Z",
+  "first_scraped": "2026-03-20T09:25:56.346Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Regular habit, Chelated calcium, Improvement noticed, One tablet, Bone strength, Muscle aches, Affordable option, Fast shipping. Some note: Arrived as promised.",
+    "tags": [
+      {
+        "name": "Regular habit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chelated calcium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "One tablet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle aches",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not for me",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Arrived as promised",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:56.346Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

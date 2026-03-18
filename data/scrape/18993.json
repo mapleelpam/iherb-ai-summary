@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18993,
+  "last_updated": "2026-03-20T09:25:26.855Z",
+  "first_scraped": "2026-03-20T09:25:26.855Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Natural enzymes, Good results, Clean supplement, Order again, Digestive discomfort, Saved my friend, Digestive support.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural enzymes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Order again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive discomfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Saved my friend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stored as fat",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:26.855Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

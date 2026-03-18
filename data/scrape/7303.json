@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7303,
+  "last_updated": "2026-03-20T10:06:37.769Z",
+  "first_scraped": "2026-03-20T10:06:37.769Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improvement after few days, Night relief, Good ingredients, Pain relief, Good combination, Helps urine flow, Symptoms gone, Control issues. Some note: Not for women.",
+    "tags": [
+      {
+        "name": "Improvement after few days",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Night relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps urine flow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Symptoms gone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped taking",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not for women",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:37.769Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1177,
+  "last_updated": "2026-03-20T09:38:57.851Z",
+  "first_scraped": "2026-03-20T09:38:57.851Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very satisfied, General health, Regulate periods, Good dosage, Skin improvement, Sore breasts relief, Relieves PMS, Easy to swallow. Some note: Good for skin.",
+    "tags": [
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "General health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate periods",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sore breasts relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves PMS",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for skin",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hot flashes",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:57.851Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78873,
+  "last_updated": "2026-03-20T10:02:33.970Z",
+  "first_scraped": "2026-03-20T10:02:33.970Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good energy, Higher strength, Iodine quality, Shorter cycle, Good dosage, Swift delivery, Fast dispatch, Regulate hormones, Convenient packaging, Natural ingredients.",
+    "tags": [
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Iodine quality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shorter cycle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Swift delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast dispatch",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:33.970Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

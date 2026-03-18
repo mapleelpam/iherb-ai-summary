@@ -1,0 +1,68 @@
+{
+  "iherb_id": 83100,
+  "last_updated": "2026-03-20T10:09:35.136Z",
+  "first_scraped": "2026-03-20T10:09:35.136Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hormone balance, Nice combination, Detox support, Rebalance estrogen, Very pleased, Stable mood, Affordable option, Helps symptoms. Some note: Neutral scent.",
+    "tags": [
+      {
+        "name": "Hormone balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rebalance estrogen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very pleased",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stable mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bloating and gas",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Neutral scent",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:35.136Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

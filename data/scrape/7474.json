@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7474,
+  "last_updated": "2026-03-20T09:49:55.353Z",
+  "first_scraped": "2026-03-20T09:49:55.353Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very convenient, Great for digestion, Good choice, Better alternative, Effective supplement, Fast shipping, Effective detox, Reduce body odor. Some note: Cancer survivor, Not much.",
+    "tags": [
+      {
+        "name": "Very convenient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce body odor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cancer survivor",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not much",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:55.353Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

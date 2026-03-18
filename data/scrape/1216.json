@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1216,
+  "last_updated": "2026-03-20T09:40:54.332Z",
+  "first_scraped": "2026-03-20T09:40:54.332Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Easy swallow, Good ingredients, Improves mood, Love brand, Boosts health, Convenient size, Good for bones. Some note: Prompt shipment, Sunlight deficiency.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt shipment",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sunlight deficiency",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:54.332Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

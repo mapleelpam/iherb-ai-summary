@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4574,
+  "last_updated": "2026-03-20T10:15:35.902Z",
+  "first_scraped": "2026-03-20T10:15:35.902Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Organic brand, Improved vision, Good combo, Control highs, Consistant results, Heart-healthy, Power blood pressure, Good benefit.",
+    "tags": [
+      {
+        "name": "Organic brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control highs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consistant results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart-healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Power blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too much b12",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Heart problems",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:35.902Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

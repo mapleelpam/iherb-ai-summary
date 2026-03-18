@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102762,
+  "last_updated": "2026-03-20T10:00:13.743Z",
+  "first_scraped": "2026-03-20T10:00:13.743Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Blood circulation, Energy boost, Intense pumps, Clean ingredients, Antioxidant properties, Great pump, Enhancing workouts, Helps anxiety. Some note: Bitter taste, Mild energy.",
+    "tags": [
+      {
+        "name": "Blood circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intense pumps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhancing workouts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Mild energy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:13.743Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

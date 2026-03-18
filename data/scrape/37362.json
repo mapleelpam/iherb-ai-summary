@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37362,
+  "last_updated": "2026-03-20T09:47:18.104Z",
+  "first_scraped": "2026-03-20T09:47:18.104Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved health, Fast shipping, Combat yeast, Nutrient-rich blend, Pale pink color, Urinary tract, UTI relief, Easy swallow. Some note: Slow results.",
+    "tags": [
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Combat yeast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrient-rich blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pale pink color",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Urinary tract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "UTI relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive option",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:18.104Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

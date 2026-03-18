@@ -1,0 +1,68 @@
+{
+  "iherb_id": 45647,
+  "last_updated": "2026-03-20T09:32:27.923Z",
+  "first_scraped": "2026-03-20T09:32:27.923Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Trust company, Less vulnerable, Gentle on stomach, Easy to consume, High antioxidants, Increase energy, Whole food. Some note: Clean simple.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less vulnerable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to consume",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High antioxidants",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Whole food",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean simple",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:27.923Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

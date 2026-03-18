@@ -1,0 +1,68 @@
+{
+  "iherb_id": 55454,
+  "last_updated": "2026-03-20T09:53:24.862Z",
+  "first_scraped": "2026-03-20T09:53:24.862Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to chew, Good taste, Very nice, Nice big bottle, Great supplement, Delicious flavor, Tasty and easy, Effective calcium. Some note: Tasty candy, Small size.",
+    "tags": [
+      {
+        "name": "Easy to chew",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice big bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty and easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective calcium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty candy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:24.862Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

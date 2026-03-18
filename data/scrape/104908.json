@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104908,
+  "last_updated": "2026-03-20T10:01:12.447Z",
+  "first_scraped": "2026-03-20T10:01:12.447Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Daily use, Enjoyable consumption, Moisturizes hair, Good taste, Tastes great, Highly satisfied, Easy to take, Sweet taste. Some note: Alright, no nausea, Vegan-friendly option.",
+    "tags": [
+      {
+        "name": "Daily use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enjoyable consumption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moisturizes hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alright, no nausea",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Vegan-friendly option",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:12.447Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

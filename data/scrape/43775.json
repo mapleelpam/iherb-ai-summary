@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43775,
+  "last_updated": "2026-03-20T09:51:17.783Z",
+  "first_scraped": "2026-03-20T09:51:17.783Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Recommend purchase, Easy to order, Joint support, Good for joints, Long-lasting relief, Easy to swallow, High potency, Improvement felt. Some note: Winter test.",
+    "tags": [
+      {
+        "name": "Recommend purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-lasting relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement felt",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Costly option",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Winter test",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:17.783Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

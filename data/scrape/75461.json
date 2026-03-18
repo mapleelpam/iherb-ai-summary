@@ -1,0 +1,68 @@
+{
+  "iherb_id": 75461,
+  "last_updated": "2026-03-20T10:20:01.113Z",
+  "first_scraped": "2026-03-20T10:20:01.113Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good saturation, Intense energy, Good energy, Best pre-workout, Easy mix, Good taste, Powerful combination, Good focus.",
+    "tags": [
+      {
+        "name": "Good saturation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intense energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best pre-workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Room for improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Horrible flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:01.113Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

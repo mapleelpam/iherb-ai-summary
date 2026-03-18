@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8102,
+  "last_updated": "2026-03-20T09:51:25.626Z",
+  "first_scraped": "2026-03-20T09:51:25.626Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energetic feeling, Certified organic, Supports urinary, Natural ingredients, Good health, Healthy hair, Fresh fruit, Effective price, Relief and heal.",
+    "tags": [
+      {
+        "name": "Energetic feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Certified organic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports urinary",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh fruit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief and heal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Harms aquatic life",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:25.626Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

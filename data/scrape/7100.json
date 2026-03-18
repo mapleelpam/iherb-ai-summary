@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7100,
+  "last_updated": "2026-03-20T10:22:03.535Z",
+  "first_scraped": "2026-03-20T10:22:03.535Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tropical flavor, Positive change, Great energy drink, Skin improvement, Natural taste, Smooth skin, Sweet taste, Efficient service. Some note: Great antioxidants.",
+    "tags": [
+      {
+        "name": "Tropical flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High cost",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Great antioxidants",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:03.535Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

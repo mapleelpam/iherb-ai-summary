@@ -1,0 +1,68 @@
+{
+  "iherb_id": 16419,
+  "last_updated": "2026-03-20T09:34:26.086Z",
+  "first_scraped": "2026-03-20T09:34:26.086Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mental clarity, No acne, Clean boost, Weight loss, Enhance energy, Effective supplement, Peripheral neuropathy, Trusted brand. Some note: Balances out, Recommend it.",
+    "tags": [
+      {
+        "name": "Mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No acne",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhance energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Peripheral neuropathy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balances out",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Recommend it",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:26.086Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

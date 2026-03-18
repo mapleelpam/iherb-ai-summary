@@ -1,0 +1,68 @@
+{
+  "iherb_id": 140018,
+  "last_updated": "2026-03-20T09:43:24.174Z",
+  "first_scraped": "2026-03-20T09:43:24.174Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Bright skin, Good formula, UTI support, UTI prevention, Relief UTI, Unique blend, Digestion support, Great probiotic.",
+    "tags": [
+      {
+        "name": "Bright skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "UTI support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "UTI prevention",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief UTI",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Disappointing results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not correct",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:24.174Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

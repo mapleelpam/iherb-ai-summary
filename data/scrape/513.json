@@ -1,0 +1,68 @@
+{
+  "iherb_id": 513,
+  "last_updated": "2026-03-20T09:18:42.479Z",
+  "first_scraped": "2026-03-20T09:18:42.479Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for PCOS, Good ingredients, Liver health, Effective supplement, Brain health, Easy to swallow, Regulating period, Mental clarity. Some note: Fast shipping, Not sure.",
+    "tags": [
+      {
+        "name": "Good for PCOS",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulating period",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:42.479Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

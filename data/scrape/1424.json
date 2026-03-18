@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1424,
+  "last_updated": "2026-03-20T10:16:52.388Z",
+  "first_scraped": "2026-03-20T10:16:52.388Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No side effects, Mild effect, Standardized amount, Restful sleep, Timed release, Very pleased, Mood booster, Easy dosage. Some note: Helpful supplement, Takes time.",
+    "tags": [
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Standardized amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restful sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timed release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very pleased",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Takes time",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:52.388Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

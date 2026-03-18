@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5141,
+  "last_updated": "2026-03-20T09:38:38.908Z",
+  "first_scraped": "2026-03-20T09:38:38.908Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Energy boost, Great scent, Pre workout, Affordable option, Trust now brand, More energy, Cooling effect. Some note: Milder influence, Immune support.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pre workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust now brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cooling effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Milder influence",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:38.908Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

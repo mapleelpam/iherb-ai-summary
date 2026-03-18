@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43652,
+  "last_updated": "2026-03-20T09:45:10.380Z",
+  "first_scraped": "2026-03-20T09:45:10.380Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Cognitive improvement, Continue taking, Speech improvement, Skin improves, No fishy taste, Effective vitamins, Lemon flavor, Good for skin. Some note: Easy to take, Blood dilution.",
+    "tags": [
+      {
+        "name": "Cognitive improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Continue taking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speech improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lemon flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Blood dilution",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:10.380Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 99607,
+  "last_updated": "2026-03-20T10:14:09.366Z",
+  "first_scraped": "2026-03-20T10:14:09.366Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes great, Good purchase, Rich flavor, Skin improvement, Mild taste, Good to add, Effective vitamins, Skin firmer. Some note: Big scoop.",
+    "tags": [
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good to add",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin firmer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big scoop",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not perfect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:09.366Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

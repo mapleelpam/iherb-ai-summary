@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118587,
+  "last_updated": "2026-03-20T09:49:50.257Z",
+  "first_scraped": "2026-03-20T09:49:50.257Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective blend, Improves digestion, Reduces gas, Easy digestion, Reasonable price, Easy swallowing, Pure ingredients, Digestive support. Some note: Ok size, No difference.",
+    "tags": [
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces gas",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallowing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ok size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:50.257Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

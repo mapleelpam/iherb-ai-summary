@@ -1,0 +1,68 @@
+{
+  "iherb_id": 94918,
+  "last_updated": "2026-03-20T09:31:07.598Z",
+  "first_scraped": "2026-03-20T09:31:07.598Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Quick delivery, Essential mineral, Best magnesium, Gentle on stomach, Improved sleep, Muscle relaxation, Good blend, Good ingredients. Some note: Good absorption, Not sure.",
+    "tags": [
+      {
+        "name": "Quick delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential mineral",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best magnesium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle relaxation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good absorption",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:07.598Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

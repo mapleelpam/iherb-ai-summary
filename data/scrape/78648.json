@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78648,
+  "last_updated": "2026-03-20T09:26:27.340Z",
+  "first_scraped": "2026-03-20T09:26:27.340Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great throughout, Good amounts, Good combination, Love this, Effective supplement, Easy intake, Great vitamin D, Good for bones. Some note: Best ingredients, Good and healthy.",
+    "tags": [
+      {
+        "name": "Great throughout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good amounts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy intake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great vitamin D",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good and healthy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:27.340Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

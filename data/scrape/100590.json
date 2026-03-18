@@ -1,0 +1,68 @@
+{
+  "iherb_id": 100590,
+  "last_updated": "2026-03-20T09:55:08.341Z",
+  "first_scraped": "2026-03-20T09:55:08.341Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good size, Effective ingredient, More energy, Increased testosterone, Efficient absorption, Enhanced results, Great pumps, Enhanced pumps. Some note: Mixed results.",
+    "tags": [
+      {
+        "name": "Good size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased testosterone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great pumps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced pumps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixed results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "After taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:08.341Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

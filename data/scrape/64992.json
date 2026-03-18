@@ -1,0 +1,68 @@
+{
+  "iherb_id": 64992,
+  "last_updated": "2026-03-20T09:51:08.855Z",
+  "first_scraped": "2026-03-20T09:51:08.855Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High potency, High dose, Great dosage, Increase energy, Texture change, Reduce risk, Small tablets, Hard to find. Some note: Active form.",
+    "tags": [
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Texture change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce risk",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to find",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Active form",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Wasteful packaging",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:08.855Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

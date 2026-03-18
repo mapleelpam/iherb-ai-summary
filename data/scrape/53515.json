@@ -1,0 +1,68 @@
+{
+  "iherb_id": 53515,
+  "last_updated": "2026-03-20T10:11:53.478Z",
+  "first_scraped": "2026-03-20T10:11:53.478Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No colds, Boosts immunity, Good taste, Fast relief, Great flavor, Convenient, chewable, Great help, Immune support. Some note: Safe so far.",
+    "tags": [
+      {
+        "name": "No colds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient, chewable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe so far",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Artificial flavors",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:53.478Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

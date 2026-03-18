@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43058,
+  "last_updated": "2026-03-20T10:12:17.234Z",
+  "first_scraped": "2026-03-20T10:12:17.234Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Healthy product, Satisfied purchase, Boosts health, Reduces cold, Prevents illness, Relief works, Immediate relief, Tasty antioxidant. Some note: Helps fight off.",
+    "tags": [
+      {
+        "name": "Healthy product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces cold",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prevents illness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps fight off",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:17.234Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8596,
+  "last_updated": "2026-03-20T10:05:53.391Z",
+  "first_scraped": "2026-03-20T10:05:53.391Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes amazing, Restores sting, Delicious raspberry taste, Helped a lot, Incredible vitamins, Sweet taste, Good taste, Free shipping.",
+    "tags": [
+      {
+        "name": "Tastes amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restores sting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious raspberry taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped a lot",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Incredible vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Free shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant flavor",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Chemical vitamin",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:53.391Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

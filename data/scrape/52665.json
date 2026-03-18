@@ -1,0 +1,68 @@
+{
+  "iherb_id": 52665,
+  "last_updated": "2026-03-20T09:27:20.212Z",
+  "first_scraped": "2026-03-20T09:27:20.212Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good dosage, Effective lines, Balance zinc copper, Vegan-friendly, Energy levels, Convenient capsules, Bioavailable form, Good source. Some note: Good ingredients, Effective supplement.",
+    "tags": [
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective lines",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balance zinc copper",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan-friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioavailable form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:20.212Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

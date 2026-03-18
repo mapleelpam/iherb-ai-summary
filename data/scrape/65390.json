@@ -1,0 +1,68 @@
+{
+  "iherb_id": 65390,
+  "last_updated": "2026-03-20T10:16:41.523Z",
+  "first_scraped": "2026-03-20T10:16:41.523Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stronger hair, Skin improves, Tastes good, Delightful flavor, Good scent, Joint lubrication, Stronger joints, Faster recovery, Excited purchase.",
+    "tags": [
+      {
+        "name": "Stronger hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delightful flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint lubrication",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Faster recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excited purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive product",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:41.523Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

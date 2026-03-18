@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6383,
+  "last_updated": "2026-03-20T10:19:39.509Z",
+  "first_scraped": "2026-03-20T10:19:39.509Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great vegan vitamins, Great choice, Complete nutritional support, Easy swallow, More energy, Wonderful balance, High dose, Love them. Some note: Strong aftertaste.",
+    "tags": [
+      {
+        "name": "Great vegan vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete nutritional support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wonderful balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love them",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not available",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Strong aftertaste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:39.509Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

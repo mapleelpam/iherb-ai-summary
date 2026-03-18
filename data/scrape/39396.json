@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39396,
+  "last_updated": "2026-03-20T10:00:35.041Z",
+  "first_scraped": "2026-03-20T10:00:35.041Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Potent vitamins, Immediate energy, Easy ordering, Comprehensive nutrients, Good ingredients, Improved energy levels, Good choice, Highly trusted.",
+    "tags": [
+      {
+        "name": "Potent vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy ordering",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comprehensive nutrients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly trusted",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adverse reaction",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too big",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:35.041Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

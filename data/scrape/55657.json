@@ -1,0 +1,68 @@
+{
+  "iherb_id": 55657,
+  "last_updated": "2026-03-20T10:10:24.384Z",
+  "first_scraped": "2026-03-20T10:10:24.384Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Balance hormones, High value, Hair improvements, Inflammation control, Effective remedy, Great help, Immune system, Affordable option. Some note: Highly recommend.",
+    "tags": [
+      {
+        "name": "Balance hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inflammation control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach cramping",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:24.384Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4240,
+  "last_updated": "2026-03-20T10:01:09.426Z",
+  "first_scraped": "2026-03-20T10:01:09.426Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy levels, Effective dose, Vitamin source, Small capsules, Pure amla, Antioxidant benefits, Immunity boost, Smooth texture. Some note: Skin wrinkle free, Skin health.",
+    "tags": [
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure amla",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin wrinkle free",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:09.426Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

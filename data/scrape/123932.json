@@ -1,0 +1,68 @@
+{
+  "iherb_id": 123932,
+  "last_updated": "2026-03-20T09:31:35.697Z",
+  "first_scraped": "2026-03-20T09:31:35.697Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective capsules, Essential minerals, Decent price, Stop leg cramps, Highly recommend, Big size, Improved energy levels, Every day, Stronger nails, Good package.",
+    "tags": [
+      {
+        "name": "Effective capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential minerals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stop leg cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Every day",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:35.697Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

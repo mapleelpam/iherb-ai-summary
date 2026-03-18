@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101084,
+  "last_updated": "2026-03-20T10:24:37.699Z",
+  "first_scraped": "2026-03-20T10:24:37.699Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean ingredients, Skin no longer, Long-lasting results, Inflammation gone, Budget-friendly, Best collagen, Great support, Affordable quantity. Some note: Slight aftertaste.",
+    "tags": [
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin no longer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-lasting results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inflammation gone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Budget-friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable quantity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not helping",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Slight aftertaste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:37.699Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 41699,
+  "last_updated": "2026-03-20T10:38:23.145Z",
+  "first_scraped": "2026-03-20T10:38:23.145Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient for me, Digestion aid, Very happy, Avoid flare-ups, Helps health, Improves food allergy, Very helpful, Natural solution.",
+    "tags": [
+      {
+        "name": "Convenient for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid flare-ups",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves food allergy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very helpful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Low energy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:38:23.145Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

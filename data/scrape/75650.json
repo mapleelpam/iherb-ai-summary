@@ -1,0 +1,68 @@
+{
+  "iherb_id": 75650,
+  "last_updated": "2026-03-20T09:34:09.603Z",
+  "first_scraped": "2026-03-20T09:34:09.603Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice price, Great glow, Well packaged, Hair growth, Liquid form, Good ingredients, Impressed with, Good taste.",
+    "tags": [
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great glow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liquid form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes bitter",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:09.603Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

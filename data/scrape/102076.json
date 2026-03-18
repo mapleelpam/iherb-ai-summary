@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102076,
+  "last_updated": "2026-03-20T09:18:19.074Z",
+  "first_scraped": "2026-03-20T09:18:19.074Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Joint pain, Easy to mix, Boost in energy, Hair improvement, Stronger nails, Effective brand, Effective supplement, Skin looks amazing. Some note: Improves skin, Good ingredient.",
+    "tags": [
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost in energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin looks amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves skin",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:19.074Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

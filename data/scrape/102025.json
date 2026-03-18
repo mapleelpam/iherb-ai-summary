@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102025,
+  "last_updated": "2026-03-20T10:10:46.265Z",
+  "first_scraped": "2026-03-20T10:10:46.265Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Just right, Helps sleep, Deep sleep, Cheaper option, Love it!, Taste good, Nice price, Highly recommend. Some note: Taste not great.",
+    "tags": [
+      {
+        "name": "Just right",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheaper option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love it!",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too strong",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Taste not great",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:46.265Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

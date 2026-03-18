@@ -1,0 +1,68 @@
+{
+  "iherb_id": 112611,
+  "last_updated": "2026-03-20T10:13:15.402Z",
+  "first_scraped": "2026-03-20T10:13:15.402Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nutrient dense, Clean ingredients, Grass-fed beef, Positive results, Healing benefits, Nice tasting, Boost immune, Regenerative abilities. Some note: Immune support, Thymus benefits.",
+    "tags": [
+      {
+        "name": "Nutrient dense",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Grass-fed beef",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healing benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice tasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regenerative abilities",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Thymus benefits",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:15.402Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

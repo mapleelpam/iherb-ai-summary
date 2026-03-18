@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71101,
+  "last_updated": "2026-03-20T09:55:37.941Z",
+  "first_scraped": "2026-03-20T09:55:37.941Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High dosage, Good mg, Neat delivery, Powerful antioxidant, Skin changes, Clean ingredients, Healing cancer, Easy to swallow. Some note: Bright red, Best value.",
+    "tags": [
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good mg",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neat delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin changes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healing cancer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bright red",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Best value",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:37.941Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

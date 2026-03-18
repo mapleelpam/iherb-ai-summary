@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108658,
+  "last_updated": "2026-03-20T10:04:39.163Z",
+  "first_scraped": "2026-03-20T10:04:39.163Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Zinc content, Tasty treat, Good taste, Easy to swallow, Tastes good, High elderberry, Great flavor, Good combo. Some note: Boosting immunity.",
+    "tags": [
+      {
+        "name": "Zinc content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty treat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High elderberry",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immunity",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Soft tablets",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:39.163Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

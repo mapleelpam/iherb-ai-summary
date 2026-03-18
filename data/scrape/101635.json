@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101635,
+  "last_updated": "2026-03-20T10:37:12.284Z",
+  "first_scraped": "2026-03-20T10:37:12.284Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Smooth drink, Keto drink, Lovely taste, Delicious, worth it, Spicy chai, Summer refreshment, Bigger size, Good serving size.",
+    "tags": [
+      {
+        "name": "Smooth drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keto drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lovely taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious, worth it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Spicy chai",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Summer refreshment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bigger size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good serving size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:37:12.284Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

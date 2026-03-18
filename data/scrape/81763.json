@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81763,
+  "last_updated": "2026-03-20T09:52:33.664Z",
+  "first_scraped": "2026-03-20T09:52:33.664Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good combination, Optimal absorption, Sunlight essential, Speedy service, Improved sleep quality, Easy to swallow, More energy, Trusted brand, Effective immunity. Some note: Recommended pair.",
+    "tags": [
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Optimal absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sunlight essential",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep quality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended pair",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:33.664Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

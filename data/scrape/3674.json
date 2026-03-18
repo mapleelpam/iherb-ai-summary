@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3674,
+  "last_updated": "2026-03-20T10:16:11.168Z",
+  "first_scraped": "2026-03-20T10:16:11.168Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works great, Tastes great, Healthy alternative, Well work, Happy guts, Helps constipation, Great BM, Thick oats.",
+    "tags": [
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well work",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy guts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great BM",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thick oats",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pulpiest juice",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Costly version",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:11.168Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

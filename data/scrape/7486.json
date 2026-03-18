@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7486,
+  "last_updated": "2026-03-20T10:32:13.604Z",
+  "first_scraped": "2026-03-20T10:32:13.604Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Better health, Powerful formula, Natural cleansing, Surprise pregnancy, Complete basic ingredient, Fast shipping, Natural energy, Boosts energy, Antioxidants support.",
+    "tags": [
+      {
+        "name": "Better health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural cleansing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Surprise pregnancy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete basic ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidants support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach discomfort",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:13.604Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

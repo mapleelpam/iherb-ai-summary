@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70908,
+  "last_updated": "2026-03-20T09:52:27.514Z",
+  "first_scraped": "2026-03-20T09:52:27.514Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fruity taste, Better taste, Warm treat, Great option, Tastes great, Convenient package, Nice change, High value. Some note: Sweet flavor.",
+    "tags": [
+      {
+        "name": "Fruity taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Warm treat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet flavor",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:27.514Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

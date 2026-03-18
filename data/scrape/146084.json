@@ -1,0 +1,68 @@
+{
+  "iherb_id": 146084,
+  "last_updated": "2026-03-20T09:42:54.029Z",
+  "first_scraped": "2026-03-20T09:42:54.029Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Recovery aid, Strength gains, Good results, Boost testosterone, Thank you, Protect people, Better sleep, Nice ingredient. Some note: Large pills.",
+    "tags": [
+      {
+        "name": "Recovery aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strength gains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost testosterone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thank you",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protect people",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too many pills",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Large pills",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:54.029Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

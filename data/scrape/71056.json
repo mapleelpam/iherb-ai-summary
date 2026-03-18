@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71056,
+  "last_updated": "2026-03-20T09:44:44.468Z",
+  "first_scraped": "2026-03-20T09:44:44.468Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Burn fat, Weight loss, Energy boost, Convenient supply, Fast delivery, Boosts exercise, Fat metabolism, Sweat stimulation. Some note: Average result, Effective supplement.",
+    "tags": [
+      {
+        "name": "Burn fat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts exercise",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweat stimulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Average result",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:44.468Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

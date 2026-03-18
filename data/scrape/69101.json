@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69101,
+  "last_updated": "2026-03-20T09:39:55.542Z",
+  "first_scraped": "2026-03-20T09:39:55.542Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious flavor, Tasty choice, Tasty blend, Easy mix, Nice price, Effective choice, Best taste, Vanilla twist. Some note: Tasty components.",
+    "tags": [
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vanilla twist",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty components",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:55.542Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

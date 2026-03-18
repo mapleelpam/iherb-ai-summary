@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3351,
+  "last_updated": "2026-03-20T09:43:43.269Z",
+  "first_scraped": "2026-03-20T09:43:43.269Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Functional food, Helping fat loss, Nice price, Right dosage, Easy to swallow, Feeling healthy, Lowered cholesterol, Improving health, Blood pressure. Some note: Good ingredients.",
+    "tags": [
+      {
+        "name": "Functional food",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helping fat loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Right dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowered cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:43.269Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

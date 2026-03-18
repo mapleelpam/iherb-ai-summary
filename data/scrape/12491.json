@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12491,
+  "last_updated": "2026-03-20T09:23:12.824Z",
+  "first_scraped": "2026-03-20T09:23:12.824Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin changes, Recommend, Improved skin, Hydrated skin, Fast delivery, Effective vitamin, Convenient packaging, Good blend.",
+    "tags": [
+      {
+        "name": "Skin changes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydrated skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too big",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:12.824Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

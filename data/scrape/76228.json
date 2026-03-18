@@ -1,0 +1,68 @@
+{
+  "iherb_id": 76228,
+  "last_updated": "2026-03-20T09:45:01.659Z",
+  "first_scraped": "2026-03-20T09:45:01.659Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Versatile oil, Bulletproof coffee, Keto friendly, Boost energy, Good so far, Light taste, Hair oil, Energy source. Some note: Excellent additive.",
+    "tags": [
+      {
+        "name": "Versatile oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bulletproof coffee",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keto friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good so far",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Light taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sore throat",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:01.659Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

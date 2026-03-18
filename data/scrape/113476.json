@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113476,
+  "last_updated": "2026-03-20T10:17:46.663Z",
+  "first_scraped": "2026-03-20T10:17:46.663Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Tastes good, Easy to eat, Refreshing flavor, Supports health, Worth to buy, Packaging good, Bladder health.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to eat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth to buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Packaging good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bladder health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not like",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Gummies stick",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:46.663Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

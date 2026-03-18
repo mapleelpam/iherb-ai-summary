@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1992,
+  "last_updated": "2026-03-20T10:18:19.846Z",
+  "first_scraped": "2026-03-20T10:18:19.846Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Brain health, Clear benefit, Effective supplement, Concentration aid, Efficient handling, Outstanding delivery, Less ringing, Legit brand.",
+    "tags": [
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Concentration aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient handling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Outstanding delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less ringing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Legit brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixture of leaves",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:19.846Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

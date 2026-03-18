@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102535,
+  "last_updated": "2026-03-20T09:15:46.028Z",
+  "first_scraped": "2026-03-20T09:15:46.028Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Gentle on stomach, Helps allergies, Buffered form, Easy to dissolve, Great addition, Boost immunity, Family health, Long-lasting supply. Some note: Highly recommendable, Salty taste.",
+    "tags": [
+      {
+        "name": "Gentle on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps allergies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buffered form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Family health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-lasting supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommendable",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Salty taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:15:46.028Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

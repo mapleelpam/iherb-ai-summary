@@ -1,0 +1,68 @@
+{
+  "iherb_id": 62651,
+  "last_updated": "2026-03-20T09:33:25.062Z",
+  "first_scraped": "2026-03-20T09:33:25.062Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Help support, Supplementing with, Less cramp, Good calcium, Improved health, Easy to swallow, Healthy pregnancy, Tailored fit. Some note: Good mix, Easy to use.",
+    "tags": [
+      {
+        "name": "Help support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supplementing with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less cramp",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good calcium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy pregnancy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tailored fit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good mix",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:25.062Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

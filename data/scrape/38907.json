@@ -1,0 +1,68 @@
+{
+  "iherb_id": 38907,
+  "last_updated": "2026-03-20T09:40:12.432Z",
+  "first_scraped": "2026-03-20T09:40:12.432Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective brand, Helps allergies, Game-changer, Boosts immunity, Very satisfied, Helpful product, High value, Easy to swallow. Some note: Natural antioxidant, Great blend.",
+    "tags": [
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps allergies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural antioxidant",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great blend",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:12.432Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

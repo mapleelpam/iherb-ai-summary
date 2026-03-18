@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70978,
+  "last_updated": "2026-03-20T10:16:00.268Z",
+  "first_scraped": "2026-03-20T10:16:00.268Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Difference noticed, Helpful addition, Improvements noticed, Daily routine, Nutritional benefits, Improved condition, Memory support, Effective combo.",
+    "tags": [
+      {
+        "name": "Difference noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvements noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily routine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutritional benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved condition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Disappointed taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "BP up",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:00.268Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

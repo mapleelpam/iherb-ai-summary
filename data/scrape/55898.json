@@ -1,0 +1,68 @@
+{
+  "iherb_id": 55898,
+  "last_updated": "2026-03-20T09:23:23.868Z",
+  "first_scraped": "2026-03-20T09:23:23.868Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Satisfied mom, Postpartum benefits, Bone health, Life changer, Hopeful addition, Good ingredients, Large bottle. Some note: Good combination, No negative effects.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied mom",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Postpartum benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hopeful addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No negative effects",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:23.868Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

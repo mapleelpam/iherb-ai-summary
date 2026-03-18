@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70403,
+  "last_updated": "2026-03-20T10:30:46.038Z",
+  "first_scraped": "2026-03-20T10:30:46.038Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to use, High energy, Reliable boost, Nice taste, Fat burning formula, Boosts energy, Control appetite, No jitters.",
+    "tags": [
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat burning formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No jitters",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High caffeine",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Didn't work",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:30:46.038Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

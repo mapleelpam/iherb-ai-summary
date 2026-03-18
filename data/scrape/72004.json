@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72004,
+  "last_updated": "2026-03-20T09:18:29.740Z",
+  "first_scraped": "2026-03-20T09:18:29.740Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Decreased fat, Full almost instantly, Extra boost, Safe and effective, Stimulant-free formula, Good ingredients, Control appetite, Effective supplement.",
+    "tags": [
+      {
+        "name": "Decreased fat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Full almost instantly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe and effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stimulant-free formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Didn't see effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:29.740Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

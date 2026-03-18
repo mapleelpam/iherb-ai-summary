@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1476,
+  "last_updated": "2026-03-20T10:05:00.080Z",
+  "first_scraped": "2026-03-20T10:05:00.080Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient size, Effective immunity, Taste great, Skin improvement, Nice flavor, Prevent colds, Skin saver, Clear skin. Some note: Good formula, Pleasant taste.",
+    "tags": [
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prevent colds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formula",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:00.080Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

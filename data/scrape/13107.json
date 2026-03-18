@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13107,
+  "last_updated": "2026-03-20T09:28:42.579Z",
+  "first_scraped": "2026-03-20T09:28:42.579Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Mood improvement, Easy to swallow, Nice price, Fast shipping, Muscle mass, Small size, Improve sleep. Some note: Convenient to take, Track benefits.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle mass",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient to take",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Track benefits",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:42.579Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

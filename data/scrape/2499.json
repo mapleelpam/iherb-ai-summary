@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2499,
+  "last_updated": "2026-03-20T10:05:06.222Z",
+  "first_scraped": "2026-03-20T10:05:06.222Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Ordering more, Heart health, Blood pressure, Improved circulation, Good results, Extra boost, Effective ingredients, Nitric oxide.",
+    "tags": [
+      {
+        "name": "Ordering more",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nitric oxide",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to swallow",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Low dosage",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:06.222Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

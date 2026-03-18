@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71182,
+  "last_updated": "2026-03-20T10:11:38.013Z",
+  "first_scraped": "2026-03-20T10:11:38.013Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Preventative feel great, Great energy, Energy booster, Reliable source, Clean energy, Boost stamina, Immunity improvement, Immune support. Some note: No benefits, Mushroom energy.",
+    "tags": [
+      {
+        "name": "Preventative feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No benefits",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Mushroom energy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:38.013Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

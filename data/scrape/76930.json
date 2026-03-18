@@ -1,0 +1,68 @@
+{
+  "iherb_id": 76930,
+  "last_updated": "2026-03-20T10:13:19.341Z",
+  "first_scraped": "2026-03-20T10:13:19.341Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean ingredients, Fast shipping, Easy addition, Great formula, Creamy flavor, Easy digestion, Mixes easily, Taste great. Some note: Improvement noticed.",
+    "tags": [
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Creamy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sour taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:19.341Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

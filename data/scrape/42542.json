@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42542,
+  "last_updated": "2026-03-20T09:37:39.679Z",
+  "first_scraped": "2026-03-20T09:37:39.679Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less muscle stiffness, Easily absorbed, Comfortable and stylish, Easy on stomach, Good ingredient, Improved sleep, Joint benefit, Price is good. Some note: Light stomach, Works great.",
+    "tags": [
+      {
+        "name": "Less muscle stiffness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easily absorbed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comfortable and stylish",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Price is good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Light stomach",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:39.679Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

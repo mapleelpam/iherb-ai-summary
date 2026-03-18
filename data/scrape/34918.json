@@ -1,0 +1,68 @@
+{
+  "iherb_id": 34918,
+  "last_updated": "2026-03-20T10:04:34.789Z",
+  "first_scraped": "2026-03-20T10:04:34.789Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this product, Sinus relief, Lost 10 pounds, Game-changer, Dry eyes, Skin improvement, Best scent, Easy to swallow.",
+    "tags": [
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sinus relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lost 10 pounds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dry eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Non-vegan coating",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:34.789Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

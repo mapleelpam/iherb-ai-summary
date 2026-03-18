@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22343,
+  "last_updated": "2026-03-20T09:23:45.633Z",
+  "first_scraped": "2026-03-20T09:23:45.633Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High protein, Mixes well, Natural flavor, Good ingredient, Good taste, Plant based, Healthy meal, Love this.",
+    "tags": [
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy meal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Huge container",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Chalky texture",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:45.633Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144867,
+  "last_updated": "2026-03-20T09:55:26.885Z",
+  "first_scraped": "2026-03-20T09:55:26.885Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Weight loss, Convenient alternative, Energy boost, Antioxidants, Pleasantly stimulating, Pick me up, Natural energy, Curbs appetite. Some note: Improves mood.",
+    "tags": [
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidants",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasantly stimulating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pick me up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Curbs appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves mood",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No benefits",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:26.885Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

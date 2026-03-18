@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3660,
+  "last_updated": "2026-03-20T10:32:06.524Z",
+  "first_scraped": "2026-03-20T10:32:06.524Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: First purchase, Good for skin, Skin improvement, Great smell, Relieving fears, Eye health, NOW foods, Vegetarian line. Some note: Check label, Not enough time.",
+    "tags": [
+      {
+        "name": "First purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieving fears",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "NOW foods",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegetarian line",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Check label",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not enough time",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:06.524Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118169,
+  "last_updated": "2026-03-20T09:51:44.510Z",
+  "first_scraped": "2026-03-20T09:51:44.510Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved sleep, Mood support, Value for money, Melatonin production, High dosage, Serotonin support, Basic supplement, Fall asleep.",
+    "tags": [
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Melatonin production",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Serotonin support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Basic supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fall asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nasty taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Nightmares",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:44.510Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

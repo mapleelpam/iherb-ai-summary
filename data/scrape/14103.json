@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14103,
+  "last_updated": "2026-03-20T09:20:25.896Z",
+  "first_scraped": "2026-03-20T09:20:25.896Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredient, Happy purchase, Fall asleep, Noticeable improvements, Cheaper option, Effective dose, Helps sleep, Small tablets. Some note: Works perfectly, Deep sleep.",
+    "tags": [
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fall asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheaper option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works perfectly",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:25.896Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

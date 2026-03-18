@@ -1,0 +1,68 @@
+{
+  "iherb_id": 54599,
+  "last_updated": "2026-03-20T10:11:07.497Z",
+  "first_scraped": "2026-03-20T10:11:07.497Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin protection, Effective supplement, Good taste, Antioxidant power, Prompt shipping, Energy level, Affordable option, Anti-inflammatory properties.",
+    "tags": [
+      {
+        "name": "Skin protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant power",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy level",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doesn't work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No visible effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:07.497Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

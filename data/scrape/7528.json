@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7528,
+  "last_updated": "2026-03-20T10:12:41.913Z",
+  "first_scraped": "2026-03-20T10:12:41.913Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious flavor, Great advantage, Convenient dosage, Boost immune, Easy way, Fast shipping, Reasonable cost, Best one.",
+    "tags": [
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great advantage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable cost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best one",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Metallic taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:41.913Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4608,
+  "last_updated": "2026-03-20T10:43:53.540Z",
+  "first_scraped": "2026-03-20T10:43:53.540Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps alleviate, Soothing and helpful, Regularity success, Quick relief, Highly recommend, Regular bowel, Really helped, Best prices.",
+    "tags": [
+      {
+        "name": "Helps alleviate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soothing and helpful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regularity success",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular bowel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Really helped",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best prices",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Never go back",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Very bad",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:43:53.540Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

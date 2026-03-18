@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48631,
+  "last_updated": "2026-03-20T10:03:34.324Z",
+  "first_scraped": "2026-03-20T10:03:34.324Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Beneficial circulation, Feel good, Improving health, Antioxidant benefits, Skin benefits, Fast shipment, Reasonable price, Trusted brand.",
+    "tags": [
+      {
+        "name": "Beneficial circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Toxic ingredients",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Big dose",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:34.324Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

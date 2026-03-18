@@ -1,0 +1,68 @@
+{
+  "iherb_id": 401,
+  "last_updated": "2026-03-20T09:59:29.858Z",
+  "first_scraped": "2026-03-20T09:59:29.858Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved vision, Builds immunity, Helps with blurry eyes, Less fatigue, Timely delivery, Neuroprotective properties, Eyes great, Great supplement.",
+    "tags": [
+      {
+        "name": "Improved vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Builds immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with blurry eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less fatigue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neuroprotective properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eyes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased desire",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Cancer risk",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:29.858Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

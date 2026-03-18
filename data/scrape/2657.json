@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2657,
+  "last_updated": "2026-03-20T09:22:04.202Z",
+  "first_scraped": "2026-03-20T09:22:04.202Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lower dosage, Highly recommend, Good ingredient, Easy to swallow, Improves appearance, Small size, Powerful antioxidant, Good stuff. Some note: Natural form, Effective brand.",
+    "tags": [
+      {
+        "name": "Lower dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves appearance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural form",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:04.202Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

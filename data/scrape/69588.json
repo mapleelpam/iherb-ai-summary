@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69588,
+  "last_updated": "2026-03-20T09:35:38.588Z",
+  "first_scraped": "2026-03-20T09:35:38.588Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast delivery, Good enough, Amazing coffee, Love this, Good blend, Easy mix, Good taste, Efficient delivery. Some note: Tasty protein, Great flavor.",
+    "tags": [
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good enough",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing coffee",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty protein",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:38.588Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

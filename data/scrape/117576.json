@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117576,
+  "last_updated": "2026-03-20T09:35:01.517Z",
+  "first_scraped": "2026-03-20T09:35:01.517Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less painful periods, Good support, Menopause relief, Improvement seen, Stabilize hormones, Complete ingredients, Good deal, Effective dosage. Some note: Nice presentation, Not sure.",
+    "tags": [
+      {
+        "name": "Less painful periods",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Menopause relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stabilize hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice presentation",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:01.517Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

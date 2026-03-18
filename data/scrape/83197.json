@@ -1,0 +1,68 @@
+{
+  "iherb_id": 83197,
+  "last_updated": "2026-03-20T10:24:51.011Z",
+  "first_scraped": "2026-03-20T10:24:51.011Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Pleasant taste, Tastes great, No fishy taste, Stable emotions, Speech improvement, Easy to take, Plumper skin. Some note: Ok, no difference.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stable emotions",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speech improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plumper skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ok, no difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Smell sensitive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:51.011Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

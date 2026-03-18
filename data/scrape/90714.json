@@ -1,0 +1,68 @@
+{
+  "iherb_id": 90714,
+  "last_updated": "2026-03-20T09:21:14.741Z",
+  "first_scraped": "2026-03-20T09:21:14.741Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps health, Trusted brand, Relaxed sleep, Bioavailable form, Good vitamin, Muscle cramps, Easy to swallow, Nerve support. Some note: Reduces migraines.",
+    "tags": [
+      {
+        "name": "Helps health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxed sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioavailable form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nerve support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces migraines",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Decrease effectiveness",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:14.741Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

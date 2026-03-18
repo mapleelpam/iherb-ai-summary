@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119894,
+  "last_updated": "2026-03-20T10:16:48.251Z",
+  "first_scraped": "2026-03-20T10:16:48.251Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy on stomach, Healthy ingredients, Safe shipping, No constipation, Good for eyes, More energy, No stomach problems, Effective supplement. Some note: Easy to take.",
+    "tags": [
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No stomach problems",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Low iron",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:48.251Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

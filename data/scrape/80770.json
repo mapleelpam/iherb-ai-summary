@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80770,
+  "last_updated": "2026-03-20T09:37:08.183Z",
+  "first_scraped": "2026-03-20T09:37:08.183Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Muscle recovery, Best drink, Good results, Metabolism benefits, Good package, Energy boost, Great benefits, Effective supplement.",
+    "tags": [
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Metabolism benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chemical aftertaste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Very bad",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:08.183Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

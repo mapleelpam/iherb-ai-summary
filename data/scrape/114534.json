@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114534,
+  "last_updated": "2026-03-20T10:21:02.455Z",
+  "first_scraped": "2026-03-20T10:21:02.455Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improvement digestion, Easy to swallow, Small size, Effective ingredients, Improves health, Supports bowel, Price satisfaction, Gas relief.",
+    "tags": [
+      {
+        "name": "Improvement digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports bowel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Price satisfaction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gas relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shortage issue",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hard time",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:02.455Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

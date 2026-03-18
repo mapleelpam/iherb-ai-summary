@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10260,
+  "last_updated": "2026-03-20T09:36:25.632Z",
+  "first_scraped": "2026-03-20T09:36:25.632Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reduce inflammation, Natural antibiotic, Quick effect, Impressive results, Immune support, Easy to swallow, Small capsules, Great oil. Some note: Strong but nice.",
+    "tags": [
+      {
+        "name": "Reduce inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural antibiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressive results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong but nice",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:25.632Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

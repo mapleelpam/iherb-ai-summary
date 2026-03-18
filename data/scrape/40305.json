@@ -1,0 +1,68 @@
+{
+  "iherb_id": 40305,
+  "last_updated": "2026-03-20T10:07:20.225Z",
+  "first_scraped": "2026-03-20T10:07:20.225Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Good minerals, Skin benefits, Missing element, Best value, Energy levels, More energy, Great supplement. Some note: Still using.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good minerals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Missing element",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Still using",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Terrible pain",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:20.225Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

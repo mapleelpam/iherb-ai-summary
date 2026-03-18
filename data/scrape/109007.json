@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109007,
+  "last_updated": "2026-03-20T09:50:02.193Z",
+  "first_scraped": "2026-03-20T09:50:02.193Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient capsule, Gut health, Bowel movements improved, Effective probiotics, Diverse microbiome, Fast improvement, Delivery fast, Reasonable prices. Some note: Improvement of intestinal health, Mixed results.",
+    "tags": [
+      {
+        "name": "Convenient capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bowel movements improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective probiotics",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Diverse microbiome",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delivery fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable prices",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement of intestinal health",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Mixed results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:02.193Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

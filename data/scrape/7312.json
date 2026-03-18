@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7312,
+  "last_updated": "2026-03-20T10:18:42.215Z",
+  "first_scraped": "2026-03-20T10:18:42.215Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Helps joints, Natural glucosamine, High hopes, See difference, Fast shipment, Some help, Back pain. Some note: Waiting for results.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural glucosamine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High hopes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "See difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Some help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Back pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Waiting for results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too many pills",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:42.215Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

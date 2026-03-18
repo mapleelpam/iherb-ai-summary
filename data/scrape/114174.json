@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114174,
+  "last_updated": "2026-03-20T09:31:03.955Z",
+  "first_scraped": "2026-03-20T09:31:03.955Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Long-term benefits, Easy to incorporate, Preventive measure, Taste acceptable, Boost energy, Effective supplement, Clear burst, Easy to dissolve. Some note: Pure ingredients.",
+    "tags": [
+      {
+        "name": "Long-term benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to incorporate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventive measure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste acceptable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear burst",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Delivery risk",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:03.955Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

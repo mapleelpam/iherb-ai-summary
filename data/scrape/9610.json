@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9610,
+  "last_updated": "2026-03-20T10:00:16.100Z",
+  "first_scraped": "2026-03-20T10:00:16.100Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Plant based, Easy to consume, No aftertaste, Purity and research, Highly potent, Efficient product, Love this brand, Well-rounded diet. Some note: Taste ok.",
+    "tags": [
+      {
+        "name": "Plant based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to consume",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Purity and research",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly potent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well-rounded diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow absorption",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Taste ok",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:16.100Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

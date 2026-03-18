@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144160,
+  "last_updated": "2026-03-20T10:13:32.082Z",
+  "first_scraped": "2026-03-20T10:13:32.082Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great booster, Appetite control, Improves mood, Helps sleep, Good buy, Relieves stress, Perfect levels, Depression relief.",
+    "tags": [
+      {
+        "name": "Great booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Appetite control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Depression relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No mood lift",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not felt",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:32.082Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

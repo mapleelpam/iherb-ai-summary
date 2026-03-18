@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43859,
+  "last_updated": "2026-03-20T10:24:12.832Z",
+  "first_scraped": "2026-03-20T10:24:12.832Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fresh herbs, Good benefits, Helps run down, Immune support, Organic brand, Supports health, Easy to take, Boosts immunity. Some note: With meal, No difference.",
+    "tags": [
+      {
+        "name": "Fresh herbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps run down",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "With meal",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:12.832Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

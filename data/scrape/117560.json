@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117560,
+  "last_updated": "2026-03-20T09:46:40.489Z",
+  "first_scraped": "2026-03-20T09:46:40.489Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Eye health, Small size, Fast shipping, Good effects, Prompt delivery, Less vitamins, Antioxidant benefits, Good package. Some note: Heart health.",
+    "tags": [
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Possible side effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:40.489Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

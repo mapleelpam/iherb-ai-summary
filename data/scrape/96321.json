@@ -1,0 +1,68 @@
+{
+  "iherb_id": 96321,
+  "last_updated": "2026-03-20T09:35:55.169Z",
+  "first_scraped": "2026-03-20T09:35:55.169Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Vegetarian lifestyle, Rich source, Powerful antioxidant, Convenient way, Moderates pain, Boost immunity, Clean ingredients. Some note: Not work.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegetarian lifestyle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moderates pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver damage",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not work",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:55.169Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

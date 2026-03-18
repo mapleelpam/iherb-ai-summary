@@ -1,0 +1,68 @@
+{
+  "iherb_id": 63178,
+  "last_updated": "2026-03-20T10:17:48.621Z",
+  "first_scraped": "2026-03-20T10:17:48.621Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lasts long, Highly recommend, Natural protocol, Easy to take, Good for inflammation, Fast order, YUM and helpful, Helps shed pounds.",
+    "tags": [
+      {
+        "name": "Lasts long",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural protocol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "YUM and helpful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps shed pounds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lost product",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Dropper issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:48.621Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1511,
+  "last_updated": "2026-03-20T10:03:12.469Z",
+  "first_scraped": "2026-03-20T10:03:12.469Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective liver support, Good formula, Alcohol support, More energy, Skin relief, Improved elimination, Liver cleanse, Improvement noticed. Some note: Effective ingredients.",
+    "tags": [
+      {
+        "name": "Effective liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alcohol support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved elimination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Repressed anger",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:12.469Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

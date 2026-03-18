@@ -1,0 +1,68 @@
+{
+  "iherb_id": 124745,
+  "last_updated": "2026-03-20T09:19:33.342Z",
+  "first_scraped": "2026-03-20T09:19:33.342Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good formula, Time saver, Great balance, Good ratio, Bone density, Proper calcium utilization, Good taste, Easy to take. Some note: Missing vitamins.",
+    "tags": [
+      {
+        "name": "Good formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Time saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ratio",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone density",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Proper calcium utilization",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Missing vitamins",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Smaller bottle",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:33.342Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

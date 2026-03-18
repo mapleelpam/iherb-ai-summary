@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42607,
+  "last_updated": "2026-03-20T10:39:03.799Z",
+  "first_scraped": "2026-03-20T10:39:03.799Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Daily support, Fully recommended, Feel better, Works fine, Very happy, Energy support, Mood support, Nice change. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Daily support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fully recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Low energy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:39:03.799Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

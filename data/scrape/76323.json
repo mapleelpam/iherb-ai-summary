@@ -1,0 +1,68 @@
+{
+  "iherb_id": 76323,
+  "last_updated": "2026-03-20T10:33:26.603Z",
+  "first_scraped": "2026-03-20T10:33:26.603Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Love formulation, Amazing love, Morning routine, Increase immunity, Immediate improvement, Easy digestion, Convenient option.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love formulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning routine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difficult to find",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "GI issues",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:33:26.603Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

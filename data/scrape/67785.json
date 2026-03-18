@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67785,
+  "last_updated": "2026-03-20T10:08:10.854Z",
+  "first_scraped": "2026-03-20T10:08:10.854Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good vitamin, Natural antioxidant, Easy to swallow, High potency, Boost immune, Convenient purchase, Legit items, Immune system, Trusted brand. Some note: Health staple.",
+    "tags": [
+      {
+        "name": "Good vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Legit items",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health staple",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:10.854Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

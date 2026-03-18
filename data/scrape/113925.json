@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113925,
+  "last_updated": "2026-03-20T10:14:29.030Z",
+  "first_scraped": "2026-03-20T10:14:29.030Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for mood, Delivered quickly, Everyday go-to, Glad I did, Good package, Supports well, Easy process, Energy booster. Some note: Old age.",
+    "tags": [
+      {
+        "name": "Good for mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delivered quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Everyday go-to",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glad I did",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy process",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Old age",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:29.030Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

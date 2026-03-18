@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85144,
+  "last_updated": "2026-03-20T09:50:07.129Z",
+  "first_scraped": "2026-03-20T09:50:07.129Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good absorption, High content, Proven result, Effective brand, Love mix, Good vitamins, Perfect dose, Small capsules. Some note: Easy to swallow.",
+    "tags": [
+      {
+        "name": "Good absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Proven result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Low energy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:07.129Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

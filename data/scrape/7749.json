@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7749,
+  "last_updated": "2026-03-20T09:46:37.519Z",
+  "first_scraped": "2026-03-20T09:46:37.519Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good deal, Small pills, Reducing plastic, Good content, Digestive support, Fresh green, Clean environment, Spring detox. Some note: No effect.",
+    "tags": [
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reducing plastic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh green",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean environment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Spring detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pricey",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:37.519Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

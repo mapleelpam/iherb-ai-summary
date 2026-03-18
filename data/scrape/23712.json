@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23712,
+  "last_updated": "2026-03-20T09:28:23.597Z",
+  "first_scraped": "2026-03-20T09:28:23.597Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Balanced body, Robust ingredients, Spore probiotic, GI regulation, Expensive but worth, Body improvement, Digestive health, Excellent gut repair. Some note: Effective formula.",
+    "tags": [
+      {
+        "name": "Balanced body",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Robust ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Spore probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "GI regulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but worth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent gut repair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High histamine",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Effective formula",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:23.597Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

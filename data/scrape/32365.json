@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32365,
+  "last_updated": "2026-03-20T09:40:32.773Z",
+  "first_scraped": "2026-03-20T09:40:32.773Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Feel better, Liver detox, Easy to swallow, Liver herb, Fast service, Good results, Life extension, Effective vitamins, Detox supplement. Some note: Original product.",
+    "tags": [
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life extension",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Original product",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:32.773Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

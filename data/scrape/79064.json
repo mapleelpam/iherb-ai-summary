@@ -1,0 +1,68 @@
+{
+  "iherb_id": 79064,
+  "last_updated": "2026-03-20T09:25:56.346Z",
+  "first_scraped": "2026-03-20T09:25:56.346Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice price, Trust this brand, Menopause relief, Night sweats, Joint pain, Happy, Stopped hair loss, Subtle change. Some note: Supportive supplement, No change.",
+    "tags": [
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust this brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Menopause relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Night sweats",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped hair loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Subtle change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supportive supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:56.346Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

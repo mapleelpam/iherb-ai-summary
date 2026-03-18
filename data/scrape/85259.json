@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85259,
+  "last_updated": "2026-03-20T10:16:22.140Z",
+  "first_scraped": "2026-03-20T10:16:22.140Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Mental health, Strong immunity, Relieves pain, Joint pain, Consult healthcare professional, Joint improvement, Maximum strength. Some note: Third-party certified, Game changer.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consult healthcare professional",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maximum strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Third-party certified",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Game changer",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:22.140Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

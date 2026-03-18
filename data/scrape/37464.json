@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37464,
+  "last_updated": "2026-03-20T10:35:06.023Z",
+  "first_scraped": "2026-03-20T10:35:06.023Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increase milk, Very happy, Delighted with, Good taste, Breast changes, Female enhancer, Best benefits, Fast shipping.",
+    "tags": [
+      {
+        "name": "Increase milk",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delighted with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Breast changes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Female enhancer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped milk",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive, no effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:35:06.023Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12522,
+  "last_updated": "2026-03-20T09:44:51.572Z",
+  "first_scraped": "2026-03-20T09:44:51.572Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Antioxidant support, Cardiovascular health, Wild blueberry, Convenient solution, Good option, Good for eyes, Small size, Improve condition. Some note: First time, Different ingredients.",
+    "tags": [
+      {
+        "name": "Antioxidant support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wild blueberry",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve condition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First time",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Different ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:51.572Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

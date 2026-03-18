@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1027,
+  "last_updated": "2026-03-20T10:10:29.403Z",
+  "first_scraped": "2026-03-20T10:10:29.403Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Value for money, Easy to swallow, Nerve regeneration, Inflammation relief, Helps with chelation, Improve immune, Energy production, Weight loss.",
+    "tags": [
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nerve regeneration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inflammation relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with chelation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy production",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Burning effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:29.403Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

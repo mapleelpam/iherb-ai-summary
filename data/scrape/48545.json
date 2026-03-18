@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48545,
+  "last_updated": "2026-03-20T09:42:57.451Z",
+  "first_scraped": "2026-03-20T09:42:57.451Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Eye health, Trust solgar, Dry eyes, Vision improvement, On time, Happy with, Good combination, Vision support.",
+    "tags": [
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust solgar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dry eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vision improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "On time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vision support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased price",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:57.451Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

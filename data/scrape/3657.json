@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3657,
+  "last_updated": "2026-03-20T10:05:07.149Z",
+  "first_scraped": "2026-03-20T10:05:07.149Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Balancing hormones, Potent stuff, Eye improvement, Energy boost, Best price, Fast shipping, Feel good, Good taste. Some note: Sweet flavor, Out of stock.",
+    "tags": [
+      {
+        "name": "Balancing hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet flavor",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Out of stock",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:07.149Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

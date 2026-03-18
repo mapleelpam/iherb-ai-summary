@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116599,
+  "last_updated": "2026-03-20T09:20:21.918Z",
+  "first_scraped": "2026-03-20T09:20:21.918Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Big bottle, Great option, Easy to swallow, No after taste, Feel good, Fast shipping, Positive change, Heart health. Some note: Inflammation reduction, Benefiting so far.",
+    "tags": [
+      {
+        "name": "Big bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No after taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inflammation reduction",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Benefiting so far",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:21.918Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

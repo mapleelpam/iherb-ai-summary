@@ -1,0 +1,68 @@
+{
+  "iherb_id": 50274,
+  "last_updated": "2026-03-20T09:45:26.249Z",
+  "first_scraped": "2026-03-20T09:45:26.249Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Fast shipping, Gentle relief, Helpful product, Good results, Feel good, Affordable option, Light diet. Some note: Effective cleanse, Nice price.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Light diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective cleanse",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:26.249Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

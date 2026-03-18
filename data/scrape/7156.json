@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7156,
+  "last_updated": "2026-03-20T10:12:25.327Z",
+  "first_scraped": "2026-03-20T10:12:25.327Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Low cost, Huge difference, Toxin free, No fillers, Blood ph, Vegan-friendly, Feel better. Some note: Between meals.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low cost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Huge difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Toxin free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fillers",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood ph",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan-friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Between meals",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Small amount",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:25.327Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

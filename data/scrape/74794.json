@@ -1,0 +1,68 @@
+{
+  "iherb_id": 74794,
+  "last_updated": "2026-03-20T09:40:40.556Z",
+  "first_scraped": "2026-03-20T09:40:40.556Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Accessible form, Improvement noticed, High potency, Full balanced array, Highly recommend, Natural smell, Great formula, Easy to take.",
+    "tags": [
+      {
+        "name": "Accessible form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Full balanced array",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big capsules",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Uncomfortable swallowing",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:40.556Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

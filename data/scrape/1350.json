@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1350,
+  "last_updated": "2026-03-20T09:45:13.449Z",
+  "first_scraped": "2026-03-20T09:45:13.449Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Joint pain relief, Healthy skin, Skin benefits, Weight loss, Improves metabolism, Easy to swallow, Adjust dose, Clear and detailed. Some note: Cellular energy boost, Effective dosage.",
+    "tags": [
+      {
+        "name": "Joint pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adjust dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear and detailed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cellular energy boost",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:13.449Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

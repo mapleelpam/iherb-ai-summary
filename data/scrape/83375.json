@@ -1,0 +1,68 @@
+{
+  "iherb_id": 83375,
+  "last_updated": "2026-03-20T10:38:43.434Z",
+  "first_scraped": "2026-03-20T10:38:43.434Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective choice, Pure product, Boost performance, Tastes good, Mixes well, Stylish packaging, Huge difference, Vanilla taste.",
+    "tags": [
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stylish packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Huge difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vanilla taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Small drawback",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:38:43.434Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

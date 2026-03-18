@@ -1,0 +1,68 @@
+{
+  "iherb_id": 62992,
+  "last_updated": "2026-03-20T10:36:16.475Z",
+  "first_scraped": "2026-03-20T10:36:16.475Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for diet, Good alternative, Full meal replacement, Good digestive, Allergy relief, Keeps full, Convenient option, Hunger relief.",
+    "tags": [
+      {
+        "name": "Good for diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Full meal replacement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good digestive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergy relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps full",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hunger relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tummy discomfort",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:36:16.475Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

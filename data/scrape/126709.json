@@ -1,0 +1,68 @@
+{
+  "iherb_id": 126709,
+  "last_updated": "2026-03-20T10:04:30.603Z",
+  "first_scraped": "2026-03-20T10:04:30.603Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Daily use, Long period, Great immunity, Original product, Expensive but effective, Convenient packaging, Improved health, High absorption. Some note: Will use.",
+    "tags": [
+      {
+        "name": "Daily use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long period",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Original product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Will use",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not correct",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:30.603Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

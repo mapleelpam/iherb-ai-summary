@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117492,
+  "last_updated": "2026-03-20T10:08:55.194Z",
+  "first_scraped": "2026-03-20T10:08:55.194Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improvement in sleep, Less sore, Fell asleep, Bone health, Relax muscles, Headache relief, Highly absorbable, Easy to mix.",
+    "tags": [
+      {
+        "name": "Improvement in sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less sore",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fell asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relax muscles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Headache relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly absorbable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes fishy",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:55.194Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

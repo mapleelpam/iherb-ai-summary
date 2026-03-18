@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114578,
+  "last_updated": "2026-03-20T10:12:54.973Z",
+  "first_scraped": "2026-03-20T10:12:54.973Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Internal detox, System reset, Liver support, No aftertaste, Very satisfied, Improved digestion, Skin glowing, Reduce bloating. Some note: Easy to swallow.",
+    "tags": [
+      {
+        "name": "Internal detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "System reset",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin glowing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:54.973Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

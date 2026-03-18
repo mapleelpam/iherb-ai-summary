@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22352,
+  "last_updated": "2026-03-20T10:28:19.704Z",
+  "first_scraped": "2026-03-20T10:28:19.704Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy swallow, Improved digestion, Extra boost, Sustained energy, Stylish packaging, Natural ingredients, Fast shipping, No smell. Some note: Price point.",
+    "tags": [
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustained energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stylish packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Funny taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Price point",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:19.704Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

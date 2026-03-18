@@ -1,0 +1,68 @@
+{
+  "iherb_id": 968,
+  "last_updated": "2026-03-20T10:20:10.034Z",
+  "first_scraped": "2026-03-20T10:20:10.034Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improvement night vision, Convenient packaging, Dark tablets, Resting eyes, Eye health, Easy to swallow, Good results, Reading glasses. Some note: Slow improvement.",
+    "tags": [
+      {
+        "name": "Improvement night vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dark tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Resting eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reading glasses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow improvement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stains tongue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:10.034Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

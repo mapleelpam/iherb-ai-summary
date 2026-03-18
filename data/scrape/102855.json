@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102855,
+  "last_updated": "2026-03-20T10:00:54.430Z",
+  "first_scraped": "2026-03-20T10:00:54.430Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Amazing taste, Best flavor, Mixes well, Exactly like fruity pebbles, Best protein powder, Packaging good, Easy on stomach, Lactose intolerant.",
+    "tags": [
+      {
+        "name": "Amazing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Exactly like fruity pebbles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best protein powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Packaging good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lactose intolerant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Artificial taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:54.430Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

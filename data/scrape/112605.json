@@ -1,0 +1,68 @@
+{
+  "iherb_id": 112605,
+  "last_updated": "2026-03-20T10:02:07.176Z",
+  "first_scraped": "2026-03-20T10:02:07.176Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great hydration, Great for, So far, Good package, Improves energy, Keeps energetic, Easy to use, Unflavored electrolytes. Some note: Quality minerals.",
+    "tags": [
+      {
+        "name": "Great hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "So far",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unflavored electrolytes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality minerals",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Capsule shell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:07.176Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

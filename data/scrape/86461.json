@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86461,
+  "last_updated": "2026-03-20T10:19:12.169Z",
+  "first_scraped": "2026-03-20T10:19:12.169Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Worth a try, Effective brand, Improvements, Eye health, Improving cognition, Memory improvement, Convenient option, Unique ingredients. Some note: Perceptual reasoning.",
+    "tags": [
+      {
+        "name": "Worth a try",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving cognition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perceptual reasoning",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Packaging too big",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:12.169Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

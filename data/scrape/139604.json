@@ -1,0 +1,68 @@
+{
+  "iherb_id": 139604,
+  "last_updated": "2026-03-20T09:56:00.140Z",
+  "first_scraped": "2026-03-20T09:56:00.140Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Easy to swallow, Good support, Convenient option, Fair size, Weight loss, Great combination, Digestive health, Safe way. Some note: Strong scent.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong scent",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:56:00.140Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

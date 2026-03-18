@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114581,
+  "last_updated": "2026-03-20T10:20:03.073Z",
+  "first_scraped": "2026-03-20T10:20:03.073Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Complete ingredients, Fast shipping, Blood surge, Energy boost, Aphrodisiac effects, Mood improvement, Results within a week, Pleased overall. Some note: Fairly average, Consistent use.",
+    "tags": [
+      {
+        "name": "Complete ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood surge",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Aphrodisiac effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Results within a week",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleased overall",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fairly average",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Consistent use",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:03.073Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

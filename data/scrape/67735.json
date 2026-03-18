@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67735,
+  "last_updated": "2026-03-20T10:26:01.770Z",
+  "first_scraped": "2026-03-20T10:26:01.770Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes great, Premium design, Improved energy, Good taste, Antioxidant-rich blend, Convenient option, Mixes well, Immunity support. Some note: Decent supplement.",
+    "tags": [
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Premium design",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant-rich blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not excellent",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Decent supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:01.770Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

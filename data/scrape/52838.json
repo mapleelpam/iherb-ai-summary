@@ -1,0 +1,68 @@
+{
+  "iherb_id": 52838,
+  "last_updated": "2026-03-20T09:20:18.168Z",
+  "first_scraped": "2026-03-20T09:20:18.168Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Efficient supplement, Boosts energy, Increase ferritin, Maintaining healthy, Easy absorption, Love this brand, Good stuff, Raises iron. Some note: High efficiency, Easy to swallow.",
+    "tags": [
+      {
+        "name": "Efficient supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase ferritin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintaining healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Raises iron",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High efficiency",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:18.168Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

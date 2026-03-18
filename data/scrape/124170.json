@@ -1,0 +1,68 @@
+{
+  "iherb_id": 124170,
+  "last_updated": "2026-03-20T09:54:10.226Z",
+  "first_scraped": "2026-03-20T09:54:10.226Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, High antioxidants, Delicious powder, Concentrated formula, Valuable addition, Empty stomach, Eye care, Great flavor. Some note: Pink color.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High antioxidants",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Concentrated formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Valuable addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Empty stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye care",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pink color",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sick stomach",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:10.226Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

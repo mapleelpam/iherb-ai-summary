@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67022,
+  "last_updated": "2026-03-20T09:31:12.451Z",
+  "first_scraped": "2026-03-20T09:31:12.451Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this, Maintain blood pressure, Good source, Impressed ingredients, High potency, Energy boost, Powerful combination, Brain health. Some note: Easy to use, More strength.",
+    "tags": [
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "More strength",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:12.451Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

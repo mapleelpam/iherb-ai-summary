@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105621,
+  "last_updated": "2026-03-20T09:30:28.316Z",
+  "first_scraped": "2026-03-20T09:30:28.316Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great improvement, Noticeable difference, Effective ingredients, Good result, High potency, Trial price, Great antioxidant, Easy to swallow. Some note: Affordable option.",
+    "tags": [
+      {
+        "name": "Great improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trial price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bioavailability issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:28.316Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 59825,
+  "last_updated": "2026-03-20T09:50:42.388Z",
+  "first_scraped": "2026-03-20T09:50:42.388Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious flavor, Good protein, Daily use, Good results, MP taste, Tasty blend, Mixes well, Good price. Some note: Aftertaste.",
+    "tags": [
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "MP taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Aftertaste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Slowly dissolve",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:42.388Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

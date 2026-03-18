@@ -1,0 +1,68 @@
+{
+  "iherb_id": 137288,
+  "last_updated": "2026-03-20T09:53:55.385Z",
+  "first_scraped": "2026-03-20T09:53:55.385Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Dosage perfect, Fast shipping, Fast acting, Potent dosage, Big bottle, Effective sleep, Helps sleep, Amazing flavor. Some note: Taste good, Natural berry flavor.",
+    "tags": [
+      {
+        "name": "Dosage perfect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast acting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Natural berry flavor",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:55.385Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

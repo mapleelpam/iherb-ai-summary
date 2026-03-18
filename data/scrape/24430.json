@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24430,
+  "last_updated": "2026-03-20T10:06:22.814Z",
+  "first_scraped": "2026-03-20T10:06:22.814Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: American brand, Absorbable iron, Scientific formula, Increased energy, Good ingredients, Increase percentage, Better absorption, Increase blood quality. Some note: Smell issue.",
+    "tags": [
+      {
+        "name": "American brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorbable iron",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Scientific formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase percentage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase blood quality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smell issue",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No impact",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:22.814Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

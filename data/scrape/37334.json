@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37334,
+  "last_updated": "2026-03-20T10:58:14.276Z",
+  "first_scraped": "2026-03-20T10:58:14.276Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Help with inflammation, Easy to swallow, Blood sugar, Small capsules, Maintain healthy, Works without dangers, Heart health, Control blood sugar. Some note: Moderate consumption, Ancient use.",
+    "tags": [
+      {
+        "name": "Help with inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works without dangers",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moderate consumption",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Ancient use",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:58:14.276Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

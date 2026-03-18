@@ -1,0 +1,68 @@
+{
+  "iherb_id": 57449,
+  "last_updated": "2026-03-20T10:04:15.992Z",
+  "first_scraped": "2026-03-20T10:04:15.992Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Slow and gradual, Lose weight, Curbs appetite, Packed well, More energy, Sweat like crazy, Small capsule, Safe and effective.",
+    "tags": [
+      {
+        "name": "Slow and gradual",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lose weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Curbs appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Packed well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweat like crazy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe and effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No benefit",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:15.992Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

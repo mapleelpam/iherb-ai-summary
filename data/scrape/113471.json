@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113471,
+  "last_updated": "2026-03-20T10:08:07.690Z",
+  "first_scraped": "2026-03-20T10:08:07.690Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good benefits, Tasty, Works well, Natural flavor, Digestion support, Love the smell, Good taste, Easy to take.",
+    "tags": [
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not correct",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Different texture",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:07.690Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

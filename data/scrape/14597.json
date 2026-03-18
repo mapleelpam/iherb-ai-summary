@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14597,
+  "last_updated": "2026-03-20T10:33:12.312Z",
+  "first_scraped": "2026-03-20T10:33:12.312Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good sign, Tastes good, Plant based, Amazing formula, Rapid repair, Herb ingredients, Promotes sleep, Nice packing. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Good sign",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rapid repair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herb ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Promotes sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Tooth decay",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:33:12.312Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

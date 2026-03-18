@@ -1,0 +1,68 @@
+{
+  "iherb_id": 134772,
+  "last_updated": "2026-03-20T09:58:00.110Z",
+  "first_scraped": "2026-03-20T09:58:00.110Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps control, Trustable ingredient, More full, Vegan-friendly, Improved metabolic health, Surpassed expectations, Weight management, Well done, Short time. Some note: Update after.",
+    "tags": [
+      {
+        "name": "Helps control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trustable ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More full",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan-friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved metabolic health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Surpassed expectations",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well done",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Short time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Update after",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:00.110Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

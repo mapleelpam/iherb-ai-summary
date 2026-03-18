@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5121,
+  "last_updated": "2026-03-20T09:27:26.300Z",
+  "first_scraped": "2026-03-20T09:27:26.300Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved rest, Easy to dissolve, Relaxing drink, Helps sleep, Great for stress, Relaxing feeling, Selected ingredients, Regular bowel movements. Some note: Deep sleep, Pure product.",
+    "tags": [
+      {
+        "name": "Improved rest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxing drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxing feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Selected ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular bowel movements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Pure product",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:26.300Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

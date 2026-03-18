@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43833,
+  "last_updated": "2026-03-20T09:23:05.953Z",
+  "first_scraped": "2026-03-20T09:23:05.953Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good addition, Good size tablet, Everyday use, Highly recommend, Great multivitamin, More energy, Essential support, Boosts immunity. Some note: Improves health.",
+    "tags": [
+      {
+        "name": "Good addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good size tablet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Everyday use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Large size",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:05.953Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

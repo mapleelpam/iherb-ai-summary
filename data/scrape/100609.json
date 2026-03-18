@@ -1,0 +1,68 @@
+{
+  "iherb_id": 100609,
+  "last_updated": "2026-03-20T09:40:32.774Z",
+  "first_scraped": "2026-03-20T09:40:32.774Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost immunity, Fast shipping, Easy to swallow, Nice price, Immunity build-up, Good vitamin, Great benefits, Very satisfied.",
+    "tags": [
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity build-up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Odd smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stomach upset",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:32.774Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

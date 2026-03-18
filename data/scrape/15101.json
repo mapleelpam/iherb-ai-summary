@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15101,
+  "last_updated": "2026-03-20T09:39:42.190Z",
+  "first_scraped": "2026-03-20T09:39:42.190Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High absorbable, Highly recommend, Take with water, Good balancer, Efficient absorption, Easy to take, Effective supplement, Trustworthy company. Some note: Convenient formulation.",
+    "tags": [
+      {
+        "name": "High absorbable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Take with water",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balancer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trustworthy company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difficult to swallow",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Convenient formulation",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:42.190Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

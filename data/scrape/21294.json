@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21294,
+  "last_updated": "2026-03-20T09:53:12.190Z",
+  "first_scraped": "2026-03-20T09:53:12.190Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clear skin, Taste good, Good price, Speedy shipping, Reduction of acne, Recommend to friends, Great supplement, Helps cortisol. Some note: Big tablets.",
+    "tags": [
+      {
+        "name": "Clear skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduction of acne",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend to friends",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps cortisol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difficult to swallow",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Big tablets",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:12.190Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

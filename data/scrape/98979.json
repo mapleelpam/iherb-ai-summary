@@ -1,0 +1,68 @@
+{
+  "iherb_id": 98979,
+  "last_updated": "2026-03-20T09:49:46.343Z",
+  "first_scraped": "2026-03-20T09:49:46.343Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved results, Improved digestion, Professional approach, Easy to take, Overall health, Must have, Good blend, Effective supplement. Some note: Spore based bacteria.",
+    "tags": [
+      {
+        "name": "Improved results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Professional approach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Must have",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Spore based bacteria",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Maltodextrin not good",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:46.343Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

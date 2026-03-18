@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114533,
+  "last_updated": "2026-03-20T10:18:38.081Z",
+  "first_scraped": "2026-03-20T10:18:38.081Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good absorption, Smell good, Important packing, Fit perfectly, Regulate bowel, Blend strains, Nice package, Favorite probiotic, Product intact, Gut regular.",
+    "tags": [
+      {
+        "name": "Good absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smell good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Important packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fit perfectly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate bowel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blend strains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Favorite probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Product intact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut regular",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:38.081Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

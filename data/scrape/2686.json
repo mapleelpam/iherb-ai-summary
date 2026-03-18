@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2686,
+  "last_updated": "2026-03-20T09:44:41.535Z",
+  "first_scraped": "2026-03-20T09:44:41.535Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural supplement, Improves mood, Hormone balance, Reasonable price, Period relief, Big help, Fertility help, Relief from PMS.",
+    "tags": [
+      {
+        "name": "Natural supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormone balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Period relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fertility help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief from PMS",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not for me",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stopped periods",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:41.535Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

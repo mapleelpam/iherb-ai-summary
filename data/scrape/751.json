@@ -1,0 +1,68 @@
+{
+  "iherb_id": 751,
+  "last_updated": "2026-03-20T09:32:33.823Z",
+  "first_scraped": "2026-03-20T09:32:33.823Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural alternative, Good stuff, Improve condition, Works great, Lower cholesterol, Easy swallow, Sleep better, Help my health.",
+    "tags": [
+      {
+        "name": "Natural alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve condition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Help my health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large pills",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Metallic taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:33.823Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

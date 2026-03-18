@@ -1,0 +1,68 @@
+{
+  "iherb_id": 126852,
+  "last_updated": "2026-03-20T09:27:18.103Z",
+  "first_scraped": "2026-03-20T09:27:18.103Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin smoother, Improvement joints, Improved health, Good size, Good vitamin, Easy to swallow, Effective supplement, Improvement hair. Some note: No funny taste.",
+    "tags": [
+      {
+        "name": "Skin smoother",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No funny taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Serving size",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:18.103Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

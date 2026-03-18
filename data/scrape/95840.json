@@ -1,0 +1,68 @@
+{
+  "iherb_id": 95840,
+  "last_updated": "2026-03-20T10:01:16.395Z",
+  "first_scraped": "2026-03-20T10:01:16.395Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Best combination, Good taste, Great flavor, Great energy, Fantastic, Tasty drink, Strong lemon, Good boost. Some note: Convenient packaging.",
+    "tags": [
+      {
+        "name": "Best combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong lemon",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High cost",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:16.395Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

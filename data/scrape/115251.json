@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115251,
+  "last_updated": "2026-03-20T10:21:24.622Z",
+  "first_scraped": "2026-03-20T10:21:24.622Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty combination, Repeat order, Convenient and tasty, Elderberry ice cubes, Immune boosting, Antioxidants anytime, Healthy option, Blends well, Flavor boost. Some note: Smoothie ingredient.",
+    "tags": [
+      {
+        "name": "Tasty combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient and tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Elderberry ice cubes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune boosting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidants anytime",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blends well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flavor boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smoothie ingredient",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:24.622Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

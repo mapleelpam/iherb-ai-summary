@@ -1,0 +1,68 @@
+{
+  "iherb_id": 63911,
+  "last_updated": "2026-03-20T09:41:00.279Z",
+  "first_scraped": "2026-03-20T09:41:00.279Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost heart health, Energy levels, Happy to try, Flexible heart, Intact product, Feel great, Get back, Good improvement. Some note: Vitamin E, Grade i'm.",
+    "tags": [
+      {
+        "name": "Boost heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy to try",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flexible heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intact product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Get back",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin E",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Grade i'm",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:00.279Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

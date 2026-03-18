@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5286,
+  "last_updated": "2026-03-20T09:50:49.317Z",
+  "first_scraped": "2026-03-20T09:50:49.317Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Instant gratification, Stay awake, Good energy, Value for money, Quick results, Tasty way, Makes difference, Magic powder.",
+    "tags": [
+      {
+        "name": "Instant gratification",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stay awake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Makes difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Magic powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not good taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:49.317Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67594,
+  "last_updated": "2026-03-20T09:40:43.530Z",
+  "first_scraped": "2026-03-20T09:40:43.530Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Impressive results, High nutritional value, High protein, Smooth shake, Low carbs, Dissolves easily, Taste good, Good iso.",
+    "tags": [
+      {
+        "name": "Impressive results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High nutritional value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth shake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low carbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good iso",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Legit protein",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Flavor issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:43.530Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

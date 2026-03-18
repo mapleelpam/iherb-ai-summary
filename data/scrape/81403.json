@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81403,
+  "last_updated": "2026-03-20T10:04:09.541Z",
+  "first_scraped": "2026-03-20T10:04:09.541Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Spicy flavor, Pleasant taste, Immune support, Effective oil, Lowest price, Good taste, Effective supplement, Adequate price. Some note: Healing properties, Strong taste.",
+    "tags": [
+      {
+        "name": "Spicy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowest price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adequate price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healing properties",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:09.541Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

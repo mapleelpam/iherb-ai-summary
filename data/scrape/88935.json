@@ -1,0 +1,68 @@
+{
+  "iherb_id": 88935,
+  "last_updated": "2026-03-20T09:27:17.185Z",
+  "first_scraped": "2026-03-20T09:27:17.185Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps sleep, Sleeping well, High potency, Boost health, Low ph, Anxiety relief, Promote relaxation, Natural calm.",
+    "tags": [
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleeping well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low ph",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Promote relaxation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural calm",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awful smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:17.185Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

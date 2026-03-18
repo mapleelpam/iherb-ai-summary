@@ -1,0 +1,68 @@
+{
+  "iherb_id": 88693,
+  "last_updated": "2026-03-20T09:32:34.875Z",
+  "first_scraped": "2026-03-20T09:32:34.875Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Joint pain, Dissolves quickly, Effective ingredients, No noticeable taste, Fuller hair, Handy packets, Skin improvement, Easy travel option. Some note: No change.",
+    "tags": [
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fuller hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Handy packets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy travel option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fishy smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:34.875Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1473,
+  "last_updated": "2026-03-20T09:27:11.346Z",
+  "first_scraped": "2026-03-20T09:27:11.346Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Blood sugar, Muscle support, Helps regulate, Small pill, Great for health, Hard to find, Effective supplement, Reduce cravings. Some note: Good combination.",
+    "tags": [
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps regulate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small pill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to find",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Feel sick",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:11.346Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10788,
+  "last_updated": "2026-03-20T10:11:39.994Z",
+  "first_scraped": "2026-03-20T10:11:39.994Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Affordable and effective, Magnificent effect, Good support, Aiding digestion, Clear up, Bladder support, Big help, More alert. Some note: Not sure, Noticeable difference.",
+    "tags": [
+      {
+        "name": "Affordable and effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Magnificent effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Aiding digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bladder support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More alert",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:39.994Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

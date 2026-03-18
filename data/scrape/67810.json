@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67810,
+  "last_updated": "2026-03-20T09:51:17.825Z",
+  "first_scraped": "2026-03-20T09:51:17.825Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trusted brand, Pleasant taste, Fast delivery, Helps hair, Extra energy, Good additive, Easy swallow, Skin improvement, Nail growth. Some note: Ill order again.",
+    "tags": [
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nail growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ill order again",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:17.825Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

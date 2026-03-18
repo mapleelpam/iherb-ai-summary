@@ -1,0 +1,68 @@
+{
+  "iherb_id": 33110,
+  "last_updated": "2026-03-20T09:34:11.594Z",
+  "first_scraped": "2026-03-20T09:34:11.594Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Excellent additive, Delicious taste, High protein, Mild sweetness, Good taste, Nice package, Crunchy wafer, Balanced taste. Some note: Great calories.",
+    "tags": [
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild sweetness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Crunchy wafer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great calories",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Disappointed",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:11.594Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

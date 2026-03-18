@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8807,
+  "last_updated": "2026-03-20T10:13:04.645Z",
+  "first_scraped": "2026-03-20T10:13:04.645Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Powerful support, Boost immunity, Easy absorption, Immune support, Powerful antioxidant, Migraine relief, Cold prevention, Cold season. Some note: Fever reducers.",
+    "tags": [
+      {
+        "name": "Powerful support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Migraine relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cold prevention",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cold season",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not feeling well",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fever reducers",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:04.645Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

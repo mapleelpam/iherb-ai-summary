@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117680,
+  "last_updated": "2026-03-20T10:01:44.265Z",
+  "first_scraped": "2026-03-20T10:01:44.265Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved sleep, Good alternative, Improved option, Heart health, Easy to swallow, Fine charge, Calming effect, Game-changer. Some note: Average composition.",
+    "tags": [
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fine charge",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Average composition",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not good taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:44.265Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 724,
+  "last_updated": "2026-03-20T09:22:18.484Z",
+  "first_scraped": "2026-03-20T09:22:18.484Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reasonable price, Better skin, Improvement noticed, Good ingredients, Great supplement, Improved energy, So far so good, No fishy aftertaste. Some note: Great fish oil, High dose omega.",
+    "tags": [
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "So far so good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great fish oil",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High dose omega",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:18.484Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

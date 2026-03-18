@@ -1,0 +1,68 @@
+{
+  "iherb_id": 54839,
+  "last_updated": "2026-03-20T09:47:25.235Z",
+  "first_scraped": "2026-03-20T09:47:25.235Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good size capsule, Feel better, Polyphenols benefit, Easy to swallow, Super food, Improved circulation, Whole fruit extract, Enhanced vitality. Some note: Ingredient quality.",
+    "tags": [
+      {
+        "name": "Good size capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Polyphenols benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super food",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Whole fruit extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ingredient quality",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Large amount",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:25.235Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

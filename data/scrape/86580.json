@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86580,
+  "last_updated": "2026-03-20T09:30:40.406Z",
+  "first_scraped": "2026-03-20T09:30:40.406Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Fair price, Good portion, High potency, Heart healthy, Based science dosage, No aftertaste, High concentration. Some note: Burpless feature, Very nice taste.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good portion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Based science dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Burpless feature",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Very nice taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:40.406Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

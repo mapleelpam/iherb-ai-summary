@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77146,
+  "last_updated": "2026-03-20T09:59:36.912Z",
+  "first_scraped": "2026-03-20T09:59:36.912Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fit diet, High efficiency, Easy to swallow, Recommend everyone, Good omega, Effective ingredients, Good size, Great supplement. Some note: Lemon flavor.",
+    "tags": [
+      {
+        "name": "Fit diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High efficiency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend everyone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good omega",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fish burps",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Lemon flavor",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:36.912Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

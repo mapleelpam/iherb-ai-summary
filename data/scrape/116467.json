@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116467,
+  "last_updated": "2026-03-20T10:22:52.585Z",
+  "first_scraped": "2026-03-20T10:22:52.585Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increase energy, Clear labeling, Affordable option, Sounder sleep, Mental energy, Good daily, Remarkable impact, Mental clarity.",
+    "tags": [
+      {
+        "name": "Increase energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear labeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sounder sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good daily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Remarkable impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow delivery",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Nausea and sick",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:52.585Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

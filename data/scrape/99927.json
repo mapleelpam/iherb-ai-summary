@@ -1,0 +1,68 @@
+{
+  "iherb_id": 99927,
+  "last_updated": "2026-03-20T09:24:53.472Z",
+  "first_scraped": "2026-03-20T09:24:53.472Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Standardized extract, Effective ingredients, More energy, Liver detox, Digestive improvement, Easy to swallow, Fast shipping, Quality supplement. Some note: Body detoxification, Natural ingredient.",
+    "tags": [
+      {
+        "name": "Standardized extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body detoxification",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredient",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:53.472Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

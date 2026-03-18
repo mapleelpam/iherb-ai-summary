@@ -1,0 +1,68 @@
+{
+  "iherb_id": 38795,
+  "last_updated": "2026-03-20T10:12:05.307Z",
+  "first_scraped": "2026-03-20T10:12:05.307Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hormone support, Slowly increasing dosage, Improved labs, Small capsules, Brand trustworthy, More energy, Balancing hormones, Professional brand.",
+    "tags": [
+      {
+        "name": "Hormone support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slowly increasing dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved labs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brand trustworthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balancing hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Professional brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ruined cycle",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bad reactions",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:05.307Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

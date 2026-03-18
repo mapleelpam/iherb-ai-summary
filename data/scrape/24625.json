@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24625,
+  "last_updated": "2026-03-20T09:42:38.525Z",
+  "first_scraped": "2026-03-20T09:42:38.525Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Organic ingredients, Effective blend, High dose, Certified organic, Best vitamin, Very satisfied, Easy to swallow, Organic high dose. Some note: Helps teeth, Not sure.",
+    "tags": [
+      {
+        "name": "Organic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Certified organic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic high dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps teeth",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:38.525Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

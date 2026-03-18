@@ -1,0 +1,68 @@
+{
+  "iherb_id": 46166,
+  "last_updated": "2026-03-20T09:34:48.044Z",
+  "first_scraped": "2026-03-20T09:34:48.044Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Blood sugar, Easy swallow, Tiredness improvement, Great supplement, Insulin resistance, Highly recommend, Nice taste, Fast shipping. Some note: Not sure, High potency b1.",
+    "tags": [
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiredness improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Insulin resistance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High potency b1",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:48.044Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

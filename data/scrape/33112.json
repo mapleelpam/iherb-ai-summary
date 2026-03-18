@@ -1,0 +1,68 @@
+{
+  "iherb_id": 33112,
+  "last_updated": "2026-03-20T09:23:04.975Z",
+  "first_scraped": "2026-03-20T09:23:04.975Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: After workout, High protein, Yummy choice, Delicious bars, Good taste, Excellent additive, Rich chocolate taste, Crunchy and delicious. Some note: Selected ingredients.",
+    "tags": [
+      {
+        "name": "After workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious bars",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich chocolate taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Crunchy and delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Selected ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:04.975Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109838,
+  "last_updated": "2026-03-20T09:35:02.459Z",
+  "first_scraped": "2026-03-20T09:35:02.459Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy hydration, Great flavor, Reduced muscle cramps, Easy to carry, Tastes good, Good taste, Fast shipping, Non GMO. Some note: Hydration tablets, Must-have option.",
+    "tags": [
+      {
+        "name": "Easy hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced muscle cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to carry",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Non GMO",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydration tablets",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Must-have option",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:02.459Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

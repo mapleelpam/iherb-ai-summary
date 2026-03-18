@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118355,
+  "last_updated": "2026-03-20T10:05:09.192Z",
+  "first_scraped": "2026-03-20T10:05:09.192Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural herb, Notable relief, Pure ingredients, Supplier meet, Whole plant, Small tabs, Supports elasticity, Meeting expectation, Gut relief.",
+    "tags": [
+      {
+        "name": "Natural herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Notable relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supplier meet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Whole plant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small tabs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports elasticity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Meeting expectation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:09.192Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

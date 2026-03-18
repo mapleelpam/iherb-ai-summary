@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109029,
+  "last_updated": "2026-03-20T09:42:48.554Z",
+  "first_scraped": "2026-03-20T09:42:48.554Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pure product, Big improvement, Noticeable effect, Memory support, Sharp mind, High dose, Good ingredients, Effective supplement. Some note: No effect.",
+    "tags": [
+      {
+        "name": "Pure product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sharp mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Tinnitus problem",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:48.554Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

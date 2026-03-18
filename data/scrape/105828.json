@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105828,
+  "last_updated": "2026-03-20T09:26:22.561Z",
+  "first_scraped": "2026-03-20T09:26:22.561Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Impressed results, Increased energy, Powerful duo, Skin looks, Healthy cells, Great supplement, Easy to swallow. Some note: Good ingredients.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful duo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin looks",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy cells",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sleepy more often",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:22.561Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

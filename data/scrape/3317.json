@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3317,
+  "last_updated": "2026-03-20T10:16:38.584Z",
+  "first_scraped": "2026-03-20T10:16:38.584Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin improvement, Youthful skin, Reasonable price, Hand improvement, Intensive hydration, Aching joints, Swelling down, Plumper skin.",
+    "tags": [
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Youthful skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hand improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intensive hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Aching joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Swelling down",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plumper skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sharp pain",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:38.584Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

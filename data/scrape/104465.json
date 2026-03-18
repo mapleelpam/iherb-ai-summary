@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104465,
+  "last_updated": "2026-03-20T10:12:14.264Z",
+  "first_scraped": "2026-03-20T10:12:14.264Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Packed well, Lean muscle, Big size protein, Hopeful and happy, Nice smell, Moisturize lips, Effective supplement, Best amino. Some note: Large number.",
+    "tags": [
+      {
+        "name": "Packed well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lean muscle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hopeful and happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moisturize lips",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best amino",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to swallow",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Large number",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:14.264Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

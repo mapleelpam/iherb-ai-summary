@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109039,
+  "last_updated": "2026-03-20T09:55:42.781Z",
+  "first_scraped": "2026-03-20T09:55:42.781Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost digestion, Nice price, Convenient and efficient, Eases bloated tummy, Relieves constipation, More fiber, Easy to swallow, Effective bowel movement. Some note: No major benefits.",
+    "tags": [
+      {
+        "name": "Boost digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient and efficient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eases bloated tummy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective bowel movement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No major benefits",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Digestive issues",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:42.781Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

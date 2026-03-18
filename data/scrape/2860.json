@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2860,
+  "last_updated": "2026-03-20T09:52:58.443Z",
+  "first_scraped": "2026-03-20T09:52:58.443Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective drainage, Clearer skin, Amazing herbs, Herbal ingredients, Great supplement, Small pill, Visible detoxification, Skin problems. Some note: Simple job.",
+    "tags": [
+      {
+        "name": "Effective drainage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing herbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herbal ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small pill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Visible detoxification",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin problems",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Simple job",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:58.443Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

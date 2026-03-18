@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115262,
+  "last_updated": "2026-03-20T09:50:10.201Z",
+  "first_scraped": "2026-03-20T09:50:10.201Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Value for money, Breathing improved, Liver detoxification, Citrusy taste, Good ingredients, Powerful antioxidant, Package is excellent, Respiratory support. Some note: Easy to use.",
+    "tags": [
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Breathing improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver detoxification",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Citrusy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Package is excellent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Respiratory support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:10.201Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14656,
+  "last_updated": "2026-03-20T09:29:03.251Z",
+  "first_scraped": "2026-03-20T09:29:03.251Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small capsules, Doctor prescribed, Immunity boost, High potency, Good for skin, High dose, Nice price, Significant improvement. Some note: Efficient size, Easy swallow.",
+    "tags": [
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doctor prescribed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Significant improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:03.251Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

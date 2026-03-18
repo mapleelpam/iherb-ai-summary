@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1744,
+  "last_updated": "2026-03-20T10:04:34.789Z",
+  "first_scraped": "2026-03-20T10:04:34.789Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty flavor, Easy to chew, OK product, Easy relief, Pure papaya, Good taste, Digestive aid, Good digestion. Some note: Many benefits.",
+    "tags": [
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to chew",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "OK product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure papaya",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Many benefits",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sensitive teeth",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:34.789Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

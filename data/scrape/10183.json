@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10183,
+  "last_updated": "2026-03-20T10:19:39.509Z",
+  "first_scraped": "2026-03-20T10:19:39.509Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps IC, Easy to take, Feel better, Combat colds, Cheaper, healthier, Symptom relief, Natural healing, Nice taste. Some note: Big bottle.",
+    "tags": [
+      {
+        "name": "Helps IC",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Combat colds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheaper, healthier",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Symptom relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big bottle",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Harmful additive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:39.509Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

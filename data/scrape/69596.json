@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69596,
+  "last_updated": "2026-03-20T10:07:08.175Z",
+  "first_scraped": "2026-03-20T10:07:08.175Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean ingredients, Energy boost, More energetic, Great pump, Noticeable results, Fast acting, Heart health, Solid option, Blood flow, Excellent dosage.",
+    "tags": [
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast acting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Solid option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood flow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent dosage",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:08.175Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

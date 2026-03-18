@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78964,
+  "last_updated": "2026-03-20T09:49:57.341Z",
+  "first_scraped": "2026-03-20T09:49:57.341Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Overall health, Immune system, Digestive improvement, Muscle recovery, Raw glutamine, Excellent choice, Good taste, Stomach absorption. Some note: Helpful for recovery.",
+    "tags": [
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Raw glutamine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not good",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Helpful for recovery",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:57.341Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

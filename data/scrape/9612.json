@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9612,
+  "last_updated": "2026-03-20T09:24:21.628Z",
+  "first_scraped": "2026-03-20T09:24:21.628Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Instantly better, Highly recommend, Effective UTI, Hope it's good, Easy to swallow, Fantastic way, Stopped disease, Relief discomfort. Some note: Powerful relief.",
+    "tags": [
+      {
+        "name": "Instantly better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective UTI",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hope it's good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped disease",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief discomfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Powerful relief",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:21.628Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 68760,
+  "last_updated": "2026-03-20T10:16:26.138Z",
+  "first_scraped": "2026-03-20T10:16:26.138Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Large size capsules, Easy swallow, Really works, Effective choice, Long expiry, Better arousal, Satisfying results, Works as described. Some note: Reproductive warning.",
+    "tags": [
+      {
+        "name": "Large size capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Really works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long expiry",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better arousal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfying results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works as described",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Reproductive warning",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:26.138Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

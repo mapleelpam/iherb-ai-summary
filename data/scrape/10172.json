@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10172,
+  "last_updated": "2026-03-20T10:03:56.588Z",
+  "first_scraped": "2026-03-20T10:03:56.588Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Super delivery, Natural energy, Helps mothers, Nice small size, Boosted energy, Short term boost, Great energy, Stable energy. Some note: Life changer.",
+    "tags": [
+      {
+        "name": "Super delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps mothers",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Short term boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stable energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changer",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:56.588Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

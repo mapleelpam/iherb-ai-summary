@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78213,
+  "last_updated": "2026-03-20T09:30:14.597Z",
+  "first_scraped": "2026-03-20T09:30:14.597Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient capsules, Easy to take, Glowing skin, Hair improvement, Convenient for travels, Skin improvement, Good additive, Joint improvement. Some note: No taste.",
+    "tags": [
+      {
+        "name": "Convenient capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glowing skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient for travels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not nice",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:14.597Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

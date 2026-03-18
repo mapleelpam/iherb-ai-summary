@@ -1,0 +1,68 @@
+{
+  "iherb_id": 94920,
+  "last_updated": "2026-03-20T10:02:13.270Z",
+  "first_scraped": "2026-03-20T10:02:13.270Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to use, Good ingredients, Regular movement, Improved gut health, Good balance, Healthy microbiome, Mixes well, No side effects.",
+    "tags": [
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular movement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy microbiome",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not organic",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Difficult to dissolve",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:13.270Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

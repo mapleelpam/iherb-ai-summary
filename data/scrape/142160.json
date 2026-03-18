@@ -1,0 +1,68 @@
+{
+  "iherb_id": 142160,
+  "last_updated": "2026-03-20T09:53:51.392Z",
+  "first_scraped": "2026-03-20T09:53:51.392Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hormone support, Convenient combination, Feel better, Clean ingredients, Regulate hormones, Improved cycles, More energy, Energy levels. Some note: Mixed results, No improvement.",
+    "tags": [
+      {
+        "name": "Hormone support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved cycles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixed results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:51.392Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

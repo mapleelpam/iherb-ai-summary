@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42604,
+  "last_updated": "2026-03-20T10:15:20.023Z",
+  "first_scraped": "2026-03-20T10:15:20.023Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clears cracks, Mild symptoms, Active ingredients, Cleared eczema, Effective supplement, More resistant, Good ingredients, Great combination. Some note: Not strong.",
+    "tags": [
+      {
+        "name": "Clears cracks",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Active ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleared eczema",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More resistant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not helping",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not strong",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:20.023Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

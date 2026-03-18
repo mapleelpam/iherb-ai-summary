@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8074,
+  "last_updated": "2026-03-20T10:29:27.494Z",
+  "first_scraped": "2026-03-20T10:29:27.494Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Potent extract, Easy to take, Deep sleep, Helps relax, Works great, Peculiar taste, Better feeling, Traditional use.",
+    "tags": [
+      {
+        "name": "Potent extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps relax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Peculiar taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Traditional use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not strong",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Upset stomach",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:29:27.494Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

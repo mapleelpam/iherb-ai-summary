@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114468,
+  "last_updated": "2026-03-20T10:05:48.047Z",
+  "first_scraped": "2026-03-20T10:05:48.047Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fair price, Maximum mg, Safe, Antioxidant, High bioavailability, Amazing vitamin, Recommend again, Improved immunity. Some note: No taste.",
+    "tags": [
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maximum mg",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High bioavailability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Toxic, low limit",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:48.047Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 75267,
+  "last_updated": "2026-03-20T10:21:45.053Z",
+  "first_scraped": "2026-03-20T10:21:45.053Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great probiotic, Good for digestion, Feel detoxed, Works great, Effective packaging, Natural capsules, Improves gut, Recommend to others. Some note: White stool.",
+    "tags": [
+      {
+        "name": "Great probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel detoxed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend to others",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "White stool",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bloating issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:45.053Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

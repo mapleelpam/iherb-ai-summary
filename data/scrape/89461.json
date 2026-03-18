@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89461,
+  "last_updated": "2026-03-20T10:08:20.584Z",
+  "first_scraped": "2026-03-20T10:08:20.584Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Multiple benefits, Easy to swallow, Freshness and vitality, Silica content, Radiant skin, Organic step forward, Good for hair, Hair strength. Some note: Not much different, No change.",
+    "tags": [
+      {
+        "name": "Multiple benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Freshness and vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Silica content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Radiant skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic step forward",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not much different",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:20.584Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

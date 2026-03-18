@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102766,
+  "last_updated": "2026-03-20T09:46:31.784Z",
+  "first_scraped": "2026-03-20T09:46:31.784Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, High energy, Stable supply, Good delivery service, Muscle pump, Improved endurance, Effective supplement, High dose. Some note: Small tablet size.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stable supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good delivery service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big capsules",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Small tablet size",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:31.784Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

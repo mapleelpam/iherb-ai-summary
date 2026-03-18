@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70103,
+  "last_updated": "2026-03-20T10:07:54.773Z",
+  "first_scraped": "2026-03-20T10:07:54.773Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost energy, Fast service, Iron free, Sustained energy, Immunity increase, Easy ingestion, Vitality increase, Purchase list. Some note: First time.",
+    "tags": [
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Iron free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustained energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity increase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy ingestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitality increase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Purchase list",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Headache issue",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "First time",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:54.773Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101959,
+  "last_updated": "2026-03-20T10:02:14.297Z",
+  "first_scraped": "2026-03-20T10:02:14.297Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes delicious, Immune support, Organic product, Good taste, Boost immunities, Health benefits, Difference noticed, Natural ingredients. Some note: Home remedy.",
+    "tags": [
+      {
+        "name": "Tastes delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunities",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difference noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Home remedy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not tasty",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:14.297Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

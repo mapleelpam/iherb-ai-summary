@@ -1,0 +1,68 @@
+{
+  "iherb_id": 65899,
+  "last_updated": "2026-03-20T10:15:00.978Z",
+  "first_scraped": "2026-03-20T10:15:00.978Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost energy, Shows improvement, Effective supplement, Affordable option, Helps sustain, Real deal, Fast shipping, Nice formula. Some note: Cycle support.",
+    "tags": [
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shows improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sustain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not strong",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Cycle support",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:00.978Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

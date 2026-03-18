@@ -1,0 +1,68 @@
+{
+  "iherb_id": 26998,
+  "last_updated": "2026-03-20T10:01:46.136Z",
+  "first_scraped": "2026-03-20T10:01:46.136Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small and easy, High dose, Regulate cycle, Energy levels, Easy to take, Under tongue, Game-changer, Doctor recommended.",
+    "tags": [
+      {
+        "name": "Small and easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate cycle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Under tongue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doctor recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dry tablets",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not potent",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:46.136Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

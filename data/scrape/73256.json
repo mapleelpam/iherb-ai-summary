@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73256,
+  "last_updated": "2026-03-20T10:21:22.730Z",
+  "first_scraped": "2026-03-20T10:21:22.730Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Rich peanut taste, Smooth texture, Tasty protein, Favorite flavor, Great flavour, Mixes well, High protein, Tastes good. Some note: Bigger size.",
+    "tags": [
+      {
+        "name": "Rich peanut taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Favorite flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavour",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bigger size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Disappointing",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:22.730Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

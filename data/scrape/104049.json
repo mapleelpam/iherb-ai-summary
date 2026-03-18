@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104049,
+  "last_updated": "2026-03-20T10:08:37.270Z",
+  "first_scraped": "2026-03-20T10:08:37.270Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great package, Healthy hair, Nails improvement, Easy swallow, Feel better, Skin firmness, Reasonable price, Skin improvements. Some note: High benefits, Still testing.",
+    "tags": [
+      {
+        "name": "Great package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nails improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin firmness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefits",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Still testing",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:37.270Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

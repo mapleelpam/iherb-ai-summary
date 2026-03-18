@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118020,
+  "last_updated": "2026-03-20T09:33:40.725Z",
+  "first_scraped": "2026-03-20T09:33:40.725Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Detoxifies toxins, Boost energy, Immune support, Digestive health, Clear acne, Superfood, Anemia relief, Convenient option. Some note: Green urine.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detoxifies toxins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear acne",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superfood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anemia relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Green urine",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:40.725Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

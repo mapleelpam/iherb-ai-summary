@@ -1,0 +1,68 @@
+{
+  "iherb_id": 62787,
+  "last_updated": "2026-03-20T10:07:03.365Z",
+  "first_scraped": "2026-03-20T10:07:03.365Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Supports immunity, Friends loved, Fast shipping, Tastes good, Convenient, Highly recommend, Delicious AND healthy!, High potency. Some note: Just regular.",
+    "tags": [
+      {
+        "name": "Supports immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Friends loved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious AND healthy!",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Just regular",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expiration date",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:03.365Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

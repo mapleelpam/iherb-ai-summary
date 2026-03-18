@@ -1,0 +1,68 @@
+{
+  "iherb_id": 988,
+  "last_updated": "2026-03-20T09:47:46.432Z",
+  "first_scraped": "2026-03-20T09:47:46.432Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural ingredients, Cholesterol managed, Well packaged, Gum health, Effective support, Sunflower oil, Unique strength, Small size. Some note: Easy to take.",
+    "tags": [
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol managed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gum health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sunflower oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:46.432Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

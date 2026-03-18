@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119942,
+  "last_updated": "2026-03-20T10:33:18.417Z",
+  "first_scraped": "2026-03-20T10:33:18.417Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immunity support, Stay healthy, Vegan capsules, Feeling great, Easy to swallow, Convenient blend, Strong immunity, Effective supplement, Boost immune, Natural ingredients.",
+    "tags": [
+      {
+        "name": "Immunity support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stay healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:33:18.417Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

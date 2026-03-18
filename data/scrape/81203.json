@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81203,
+  "last_updated": "2026-03-20T09:35:38.625Z",
+  "first_scraped": "2026-03-20T09:35:38.625Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Good taste, Effective vitamins, Best b12, Tiny tablets, Safe ingredients, Fast shipping, Tasty and quick. Some note: More energy, Simple intake.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best b12",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiny tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty and quick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Simple intake",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:38.625Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

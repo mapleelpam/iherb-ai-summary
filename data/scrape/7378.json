@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7378,
+  "last_updated": "2026-03-20T09:59:48.927Z",
+  "first_scraped": "2026-03-20T09:59:48.927Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good mobility, Blessing and relief, Fair price, Easy to take, Super ingredients, Fast relief, Good results, Joint flexibility.",
+    "tags": [
+      {
+        "name": "Good mobility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blessing and relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint flexibility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Water retention",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:48.927Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

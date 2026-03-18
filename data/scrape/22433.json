@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22433,
+  "last_updated": "2026-03-20T10:24:11.795Z",
+  "first_scraped": "2026-03-20T10:24:11.795Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increase in energy, Effective supplement, Good antioxidant, Budget price, Good vitamins, Lower blood pressure, Heart health, Easy swallow.",
+    "tags": [
+      {
+        "name": "Increase in energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Budget price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Big pills",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:11.795Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

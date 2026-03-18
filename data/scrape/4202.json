@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4202,
+  "last_updated": "2026-03-20T09:33:17.221Z",
+  "first_scraped": "2026-03-20T09:33:17.221Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin health, Improved health, Good taste, Tastes great, Great for, Clean tasting, Immune system, Mild flavor, High concentration.",
+    "tags": [
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean tasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fishy taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:17.221Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

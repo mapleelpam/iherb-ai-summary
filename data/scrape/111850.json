@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111850,
+  "last_updated": "2026-03-20T10:09:53.977Z",
+  "first_scraped": "2026-03-20T10:09:53.977Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High dosage, Lower blood pressure, Nice packing, Resolved issue, Maintaining endurance, Reduce inflammation, Boosted performance, Congestion relief.",
+    "tags": [
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Resolved issue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintaining endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Congestion relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Raised doubts",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Did not work",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:53.977Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

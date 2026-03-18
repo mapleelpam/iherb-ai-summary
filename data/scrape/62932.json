@@ -1,0 +1,68 @@
+{
+  "iherb_id": 62932,
+  "last_updated": "2026-03-20T09:32:53.727Z",
+  "first_scraped": "2026-03-20T09:32:53.727Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small tablets, Feel great, Fermented product, Increased energy, Doing good work, Good taste, Top choice, Fast shipping, Good ingredients. Some note: Gut health.",
+    "tags": [
+      {
+        "name": "Small tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fermented product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doing good work",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:53.727Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 684,
+  "last_updated": "2026-03-20T09:17:31.732Z",
+  "first_scraped": "2026-03-20T09:17:31.732Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Repeat purchase, Nice formula, Improved focus, Very happy, Helped PCOS, Convenient package, Boost energy. Some note: Effective supplement, No change.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped PCOS",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:31.732Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

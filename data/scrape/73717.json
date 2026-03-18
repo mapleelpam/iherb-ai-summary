@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73717,
+  "last_updated": "2026-03-20T10:12:07.300Z",
+  "first_scraped": "2026-03-20T10:12:07.300Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosts immunity, Good ingredients, More energy, Ingredient quality, Detox work, Lung health, Good for health, Anti-aging properties.",
+    "tags": [
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ingredient quality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox work",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lung health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-aging properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach discomfort",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:07.300Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

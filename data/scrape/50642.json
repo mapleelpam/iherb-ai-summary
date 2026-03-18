@@ -1,0 +1,68 @@
+{
+  "iherb_id": 50642,
+  "last_updated": "2026-03-20T10:19:56.302Z",
+  "first_scraped": "2026-03-20T10:19:56.302Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Full night's sleep, Proactive solution, Unique ingredient, Fewer trips, Bladder health, Good feel, Relieve pain, Reduced nighttime visits.",
+    "tags": [
+      {
+        "name": "Full night's sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Proactive solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fewer trips",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bladder health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good feel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieve pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced nighttime visits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:56.302Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

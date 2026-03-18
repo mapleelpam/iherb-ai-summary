@@ -1,0 +1,68 @@
+{
+  "iherb_id": 47465,
+  "last_updated": "2026-03-20T09:44:27.506Z",
+  "first_scraped": "2026-03-20T09:44:27.506Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful for age, High benefit, Improve health, Weight control benefit, Muscle recovery, Life extension, Boosts energy, Burns fat. Some note: Recommend ordering.",
+    "tags": [
+      {
+        "name": "Helpful for age",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight control benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life extension",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Burns fat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend ordering",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Poor pictures",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:27.506Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

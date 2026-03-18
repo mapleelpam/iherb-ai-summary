@@ -1,0 +1,68 @@
+{
+  "iherb_id": 49050,
+  "last_updated": "2026-03-20T09:34:11.624Z",
+  "first_scraped": "2026-03-20T09:34:11.624Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves performance, Useful product, Large tablets, Boosting energy levels, Best multivitamin, Effective combo, More energised, Good for daily. Some note: Loaded vitamins, Mixed feelings.",
+    "tags": [
+      {
+        "name": "Improves performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Useful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energised",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for daily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loaded vitamins",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Mixed feelings",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:11.624Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

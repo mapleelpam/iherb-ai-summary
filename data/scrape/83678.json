@@ -1,0 +1,68 @@
+{
+  "iherb_id": 83678,
+  "last_updated": "2026-03-20T09:34:22.196Z",
+  "first_scraped": "2026-03-20T09:34:22.196Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trust NOW, Easy to swallow, Improved gut health, Good probiotic, Effective supplement, Fast shipping, Eases bloating, Satisfied with. Some note: Helping digestion, Digestive balance.",
+    "tags": [
+      {
+        "name": "Trust NOW",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eases bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helping digestion",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Digestive balance",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:22.196Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

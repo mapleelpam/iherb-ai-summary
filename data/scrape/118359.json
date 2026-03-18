@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118359,
+  "last_updated": "2026-03-20T09:40:34.717Z",
+  "first_scraped": "2026-03-20T09:40:34.717Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective sleep, Great night, Natural remedy, Can't sleep, Freshness & dosage, Herbal supplement, Cost-effective solution, Great supplement. Some note: Kind prices, Helps sleep.",
+    "tags": [
+      {
+        "name": "Effective sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great night",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Can't sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Freshness & dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herbal supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cost-effective solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kind prices",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:34.717Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

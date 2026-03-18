@@ -1,0 +1,68 @@
+{
+  "iherb_id": 64832,
+  "last_updated": "2026-03-20T10:03:35.395Z",
+  "first_scraped": "2026-03-20T10:03:35.395Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for health, High protein, Ease pain, Increased milk, Easy to swallow, Fast delivery, Good superfood, Nice package, Regulates blood pressure, Energy boost.",
+    "tags": [
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ease pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased milk",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good superfood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulates blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:35.395Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

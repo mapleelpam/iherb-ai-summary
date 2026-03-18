@@ -1,0 +1,68 @@
+{
+  "iherb_id": 79840,
+  "last_updated": "2026-03-20T10:31:55.974Z",
+  "first_scraped": "2026-03-20T10:31:55.974Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sleeps perfectly, Good night, Effective blend, Helps with depression, Fall asleep fast, Deep sleep, Helpful sleep, Fast shipping, Homeopathic alternative.",
+    "tags": [
+      {
+        "name": "Sleeps perfectly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good night",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with depression",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fall asleep fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Homeopathic alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doesn't work",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:55.974Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

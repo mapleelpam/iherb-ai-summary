@@ -1,0 +1,68 @@
+{
+  "iherb_id": 16301,
+  "last_updated": "2026-03-20T10:04:31.821Z",
+  "first_scraped": "2026-03-20T10:04:31.821Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pure fish oils, Nice price, Lasting effect, Good for joints, No aftertaste, Reasonable price, Antioxidants benefits, Memory improvement. Some note: Good content, Stronger hair.",
+    "tags": [
+      {
+        "name": "Pure fish oils",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lasting effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidants benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good content",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stronger hair",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:31.821Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

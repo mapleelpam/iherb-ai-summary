@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10428,
+  "last_updated": "2026-03-20T10:04:17.989Z",
+  "first_scraped": "2026-03-20T10:04:17.989Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works wonders, Fast results, Effective treatment, Quick relief, Sinus relief, Tastes okay, Clearing fungus, Fight candida.",
+    "tags": [
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective treatment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sinus relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes okay",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearing fungus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fight candida",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Yellow nails",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:17.989Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

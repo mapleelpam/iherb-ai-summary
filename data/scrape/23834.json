@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23834,
+  "last_updated": "2026-03-20T10:12:16.260Z",
+  "first_scraped": "2026-03-20T10:12:16.260Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pure ingredients, Reduce swelling, Effective choice, Optimal absorption, Good combination, Shrinking nodules, Smell and looks, Shoulder pain. Some note: Taste neutral.",
+    "tags": [
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce swelling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Optimal absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shrinking nodules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smell and looks",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shoulder pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Taste neutral",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:16.260Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

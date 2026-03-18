@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85684,
+  "last_updated": "2026-03-20T09:51:08.807Z",
+  "first_scraped": "2026-03-20T09:51:08.807Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural eradication, Good for stomach, Fast shipping, Immediate benefit, Worth it, Digestion improvement, Top ingredients, Relief from reflux. Some note: Big pills.",
+    "tags": [
+      {
+        "name": "Natural eradication",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief from reflux",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big pills",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "React to",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:08.807Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18693,
+  "last_updated": "2026-03-20T09:35:43.300Z",
+  "first_scraped": "2026-03-20T09:35:43.300Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy absorption, Effective supplement, Blood pressure, Reasonable price, No side effects, Helps control, Enhances mental, Positive effects. Some note: Clean ingredient list.",
+    "tags": [
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhances mental",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Useful product",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredient list",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:43.300Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

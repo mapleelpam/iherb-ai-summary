@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78916,
+  "last_updated": "2026-03-20T10:24:18.858Z",
+  "first_scraped": "2026-03-20T10:24:18.858Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Healthy option, Chewy texture, More protein, Delicious chocolate, Taste great, Buttery taste, Good taste, Good choice. Some note: Yummiest bars.",
+    "tags": [
+      {
+        "name": "Healthy option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chewy texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buttery taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummiest bars",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Yeasty aftertaste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:18.858Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

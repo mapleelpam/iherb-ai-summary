@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117,
+  "last_updated": "2026-03-20T09:38:39.930Z",
+  "first_scraped": "2026-03-20T09:38:39.930Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Superior kind, Easy to take, Pain relief, Potent formula, High absorbability, Improved focus, Increased energy, High dose. Some note: High potency.",
+    "tags": [
+      {
+        "name": "Superior kind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High absorbability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Ineffective product",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:39.930Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

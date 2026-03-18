@@ -1,0 +1,68 @@
+{
+  "iherb_id": 19141,
+  "last_updated": "2026-03-20T09:53:19.827Z",
+  "first_scraped": "2026-03-20T09:53:19.827Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Super appetite, Iron-free option, Great potency levels, Easy to take, Pill size good, Super energy, No iron, Hemoglobin balance.",
+    "tags": [
+      {
+        "name": "Super appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Iron-free option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great potency levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pill size good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No iron",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hemoglobin balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Upset stomach",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Yellow urine",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:19.827Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

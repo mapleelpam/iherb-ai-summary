@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105656,
+  "last_updated": "2026-03-20T09:26:56.495Z",
+  "first_scraped": "2026-03-20T09:26:56.495Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, High dose, Fertility improvement, Love this brand, Antioxidant benefits, Doctor recommended, More energy, Skin benefits. Some note: High concentration, Still waiting.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fertility improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doctor recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Still waiting",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:56.495Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

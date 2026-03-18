@@ -1,0 +1,68 @@
+{
+  "iherb_id": 41291,
+  "last_updated": "2026-03-20T10:01:16.435Z",
+  "first_scraped": "2026-03-20T10:01:16.435Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Convenient and tasty, Handy sachets, Probiotic formula, Tastes good, Preventive measure, Preventing utis, UTI relief, Energy boost, Good ingredient.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient and tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Handy sachets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Probiotic formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventive measure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventing utis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "UTI relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:16.435Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

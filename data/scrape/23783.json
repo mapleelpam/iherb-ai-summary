@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23783,
+  "last_updated": "2026-03-20T09:59:50.904Z",
+  "first_scraped": "2026-03-20T09:59:50.904Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredient, Perfect ratio, Improved absorbency, Great vitamin, Pain relief, Balance restored, Effective supplement, Eliminate cramping.",
+    "tags": [
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect ratio",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved absorbency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balance restored",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eliminate cramping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Missing k2",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Absorption issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:50.904Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

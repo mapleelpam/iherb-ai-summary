@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9990,
+  "last_updated": "2026-03-20T10:01:40.411Z",
+  "first_scraped": "2026-03-20T10:01:40.411Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Well packaged, Love all, Support needed, Improves vision, Great improvement, Reduced floaters, Fast recovery.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love all",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support needed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced floaters",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No benefits",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not good",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:40.411Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

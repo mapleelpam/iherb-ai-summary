@@ -1,0 +1,68 @@
+{
+  "iherb_id": 95884,
+  "last_updated": "2026-03-20T10:05:53.324Z",
+  "first_scraped": "2026-03-20T10:05:53.324Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Appetite control, Weight loss, Extra energy, Best ingredients, Healthy lifestyle, Lean physique, Good boost, Suppress appetite. Some note: Works incredibly.",
+    "tags": [
+      {
+        "name": "Appetite control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy lifestyle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lean physique",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suppress appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works incredibly",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Headache, jitters",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:53.324Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

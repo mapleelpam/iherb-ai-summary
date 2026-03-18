@@ -1,0 +1,68 @@
+{
+  "iherb_id": 64499,
+  "last_updated": "2026-03-20T09:43:22.039Z",
+  "first_scraped": "2026-03-20T09:43:22.039Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love these, Skin benefits, Comfortable and stylish, Big bottle, Improvement in hair, Good ingredient, Great supplement, Good taste. Some note: Easy way to consume, Big size.",
+    "tags": [
+      {
+        "name": "Love these",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comfortable and stylish",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy way to consume",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:22.039Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

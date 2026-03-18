@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8201,
+  "last_updated": "2026-03-20T09:32:47.684Z",
+  "first_scraped": "2026-03-20T09:32:47.684Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Calming effect, Helps sleep, Chill day, Calms down, Sensoril better, Effective supplement, Supports mood, Adaptogenic properties. Some note: Organic ashwagandha.",
+    "tags": [
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chill day",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calms down",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sensoril better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adaptogenic properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weak product",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Organic ashwagandha",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:47.684Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

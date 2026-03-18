@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14769,
+  "last_updated": "2026-03-20T10:19:04.181Z",
+  "first_scraped": "2026-03-20T10:19:04.181Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes good, Nutritional makeup, Higher energy level, Immediate change, Strongest vitamins, Easy to take, Amazing vitamin, Delicious drink.",
+    "tags": [
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutritional makeup",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher energy level",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strongest vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Synthetic ingredients",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:04.181Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

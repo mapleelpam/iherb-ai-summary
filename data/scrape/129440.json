@@ -1,0 +1,68 @@
+{
+  "iherb_id": 129440,
+  "last_updated": "2026-03-20T10:06:35.664Z",
+  "first_scraped": "2026-03-20T10:06:35.664Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Positive changes, Digestion support, Affordable option, Bigger packaging, Reputable ingredient, Real deal, Bile flow, Calm stomach.",
+    "tags": [
+      {
+        "name": "Positive changes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bigger packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reputable ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bile flow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calm stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Difficult to swallow",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:35.664Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

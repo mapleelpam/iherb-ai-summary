@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4308,
+  "last_updated": "2026-03-20T10:29:12.644Z",
+  "first_scraped": "2026-03-20T10:29:12.644Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Visible difference, Easy to take, Shows results, Buy again, Pain lessened, Joint pain, Hydrated skin, Skin improving.",
+    "tags": [
+      {
+        "name": "Visible difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shows results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buy again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain lessened",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydrated skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improving",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Side effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:29:12.644Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3316,
+  "last_updated": "2026-03-20T10:13:13.456Z",
+  "first_scraped": "2026-03-20T10:13:13.456Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delay deterioration, Works great, Eye health, Clean shiny skin, Water intake, Timely delivery, High hopes, Relief from pain.",
+    "tags": [
+      {
+        "name": "Delay deterioration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean shiny skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Water intake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High hopes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief from pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Severe headaches",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Upsetting stomach",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:13.456Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

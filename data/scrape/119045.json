@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119045,
+  "last_updated": "2026-03-20T10:04:59.053Z",
+  "first_scraped": "2026-03-20T10:04:59.053Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Love this, Satisfying snack, Extra protein, Protein chips, Nice packing, Quick arrival, Perfect size.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfying snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protein chips",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick arrival",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Full-carb",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:59.053Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

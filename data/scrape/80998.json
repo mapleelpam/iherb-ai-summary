@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80998,
+  "last_updated": "2026-03-20T10:08:28.574Z",
+  "first_scraped": "2026-03-20T10:08:28.574Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immediate improvements, Less bathroom trips, Trusted brand, Relief after, Relieves pain, Discomfort disappeared, Effective ingredients, Women's health. Some note: More cranberry.",
+    "tags": [
+      {
+        "name": "Immediate improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bathroom trips",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief after",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Discomfort disappeared",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Women's health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More cranberry",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No relief",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:28.574Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

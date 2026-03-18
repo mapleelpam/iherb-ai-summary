@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8569,
+  "last_updated": "2026-03-20T09:37:53.586Z",
+  "first_scraped": "2026-03-20T09:37:53.586Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Healing stomach, Good energy, Great for heartburn, Digestive relief, Immune support, Improved skin, Organic option, Tastes good.",
+    "tags": [
+      {
+        "name": "Healing stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for heartburn",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Heavy bottle",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:53.586Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

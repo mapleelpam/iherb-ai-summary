@@ -1,0 +1,68 @@
+{
+  "iherb_id": 26981,
+  "last_updated": "2026-03-20T09:45:17.749Z",
+  "first_scraped": "2026-03-20T09:45:17.749Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Easy to take, Potent formula, Energy support, Fast dissolve, Extra boost, Clear mind all day, Good taste. Some note: Pleasant taste.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear mind all day",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:17.749Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4027,
+  "last_updated": "2026-03-20T09:49:22.274Z",
+  "first_scraped": "2026-03-20T09:49:22.274Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trust life extension, Tomato extract, Easy to swallow, Skin health, Eye health, Good dosage, Prostate health, Effective supplement, Higher price. Some note: Consult healthcare.",
+    "tags": [
+      {
+        "name": "Trust life extension",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tomato extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prostate health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consult healthcare",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:22.274Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

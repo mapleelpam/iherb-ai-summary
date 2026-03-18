@@ -1,0 +1,68 @@
+{
+  "iherb_id": 565,
+  "last_updated": "2026-03-20T09:32:04.984Z",
+  "first_scraped": "2026-03-20T09:32:04.984Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Absorption help, Thick texture, Fast shipping, Indulgence spirit, Rarely get, Moisturizes well, Good ingredient, Good dosage.",
+    "tags": [
+      {
+        "name": "Absorption help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thick texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Indulgence spirit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rarely get",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moisturizes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Disgusting taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Small bottle",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:04.984Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

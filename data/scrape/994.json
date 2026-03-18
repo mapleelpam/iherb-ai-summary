@@ -1,0 +1,68 @@
+{
+  "iherb_id": 994,
+  "last_updated": "2026-03-20T10:02:56.346Z",
+  "first_scraped": "2026-03-20T10:02:56.346Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, High potency, Pleasant taste, High dose, More energy, Convenient size, Great flavor, Effective brand.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow dissolve",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No impact",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:56.346Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

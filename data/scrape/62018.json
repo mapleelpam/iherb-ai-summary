@@ -1,0 +1,68 @@
+{
+  "iherb_id": 62018,
+  "last_updated": "2026-03-20T09:51:08.948Z",
+  "first_scraped": "2026-03-20T09:51:08.948Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Detox pills, Feel lighter, Prompt delivery, Regular bowel, Gentle dose, Good ingredients, Easy dosage, Weight loss. Some note: Lighter body, Strong taste.",
+    "tags": [
+      {
+        "name": "Detox pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel lighter",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular bowel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lighter body",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:08.948Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

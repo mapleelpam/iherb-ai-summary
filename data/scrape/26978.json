@@ -1,0 +1,68 @@
+{
+  "iherb_id": 26978,
+  "last_updated": "2026-03-20T09:31:56.532Z",
+  "first_scraped": "2026-03-20T09:31:56.532Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tiny tablet, Normal levels, High dose, Easy to use, Boosting immunity, Strong results, Timely delivery, Convenient, compact, High effect.",
+    "tags": [
+      {
+        "name": "Tiny tablet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient, compact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Disappointed milk",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:56.532Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

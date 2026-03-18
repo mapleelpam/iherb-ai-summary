@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114722,
+  "last_updated": "2026-03-20T09:21:50.885Z",
+  "first_scraped": "2026-03-20T09:21:50.885Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Cardiovascular health, High concentration, Hair growth, Convenient combo, Very happy, Strong bones, High dose. Some note: Heart protocol, Soft bottle.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart protocol",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Soft bottle",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:50.885Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

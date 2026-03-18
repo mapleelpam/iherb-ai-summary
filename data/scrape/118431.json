@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118431,
+  "last_updated": "2026-03-20T09:33:20.109Z",
+  "first_scraped": "2026-03-20T09:33:20.109Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Essential vitamins, Critical supplement, Best D, Immune support, Bone health, Easy to swallow, Good results, High dose. Some note: Larger size.",
+    "tags": [
+      {
+        "name": "Essential vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Critical supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best D",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too much",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Larger size",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:20.109Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

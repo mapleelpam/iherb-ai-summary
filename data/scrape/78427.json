@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78427,
+  "last_updated": "2026-03-20T09:35:17.945Z",
+  "first_scraped": "2026-03-20T09:35:17.945Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lower risk, More energy, Estrogen balance, More orders, Good alternative, Good choice, Easy to swallow, Antioxidant protection. Some note: No taste, Better sleep.",
+    "tags": [
+      {
+        "name": "Lower risk",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Estrogen balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More orders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:17.945Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

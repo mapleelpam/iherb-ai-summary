@@ -1,0 +1,68 @@
+{
+  "iherb_id": 17594,
+  "last_updated": "2026-03-20T10:02:59.452Z",
+  "first_scraped": "2026-03-20T10:02:59.452Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tolerates well, Vegetarian capsules, Effective ingredients, Alternative option, Good dose, Good choice, Helped cramping, Efficient combination, Easy to swallow.",
+    "tags": [
+      {
+        "name": "Tolerates well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegetarian capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alternative option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped cramping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ineffective product",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:59.452Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

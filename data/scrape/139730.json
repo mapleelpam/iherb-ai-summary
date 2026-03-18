@@ -1,0 +1,68 @@
+{
+  "iherb_id": 139730,
+  "last_updated": "2026-03-20T09:38:49.708Z",
+  "first_scraped": "2026-03-20T09:38:49.708Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Feeling better, High potency composition, Natural way, Energy boost, Natural herbs, Easy to swallow, More energy, Support thyroid. Some note: Good blend, No changes.",
+    "tags": [
+      {
+        "name": "Feeling better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural herbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support thyroid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good blend",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No changes",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:49.708Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

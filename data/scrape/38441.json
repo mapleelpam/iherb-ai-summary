@@ -1,0 +1,68 @@
+{
+  "iherb_id": 38441,
+  "last_updated": "2026-03-20T09:41:26.735Z",
+  "first_scraped": "2026-03-20T09:41:26.735Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved skin, Easy to swallow, Maintain longevity, Lessen neuropathy, Effective supplement, Boosted energy, Good antioxidant, Fast shipping. Some note: Good ingredients.",
+    "tags": [
+      {
+        "name": "Improved skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain longevity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lessen neuropathy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox warning",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:26.735Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

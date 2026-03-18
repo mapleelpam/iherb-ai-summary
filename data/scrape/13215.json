@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13215,
+  "last_updated": "2026-03-20T10:09:16.610Z",
+  "first_scraped": "2026-03-20T10:09:16.610Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Urinary cramps, Love this, Fast delivery, Dietary restrictions, Good probiotic, Easy digestion, Helps digestion, Improved health. Some note: Woman health, Works okay.",
+    "tags": [
+      {
+        "name": "Urinary cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dietary restrictions",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Woman health",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Works okay",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:16.610Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

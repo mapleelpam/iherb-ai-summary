@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1913,
+  "last_updated": "2026-03-20T09:42:30.570Z",
+  "first_scraped": "2026-03-20T09:42:30.570Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps lower blood sugar, Effective supplement, Balances sugar, Effective ingredients, Reduce cravings, Lower sugar level, Weight loss, Pancreas health. Some note: No difference, Nice packing.",
+    "tags": [
+      {
+        "name": "Helps lower blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balances sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower sugar level",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pancreas health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nice packing",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:30.570Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 68449,
+  "last_updated": "2026-03-20T09:49:41.322Z",
+  "first_scraped": "2026-03-20T09:49:41.322Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Prompt shipping, Reduces inflammation, Joint pain, Impressed results, Easy to take, Works better, Good antioxidant, Improvement noticed, Safe choice. Some note: Instant effects.",
+    "tags": [
+      {
+        "name": "Prompt shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Instant effects",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:41.322Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

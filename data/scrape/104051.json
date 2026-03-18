@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104051,
+  "last_updated": "2026-03-20T10:11:42.007Z",
+  "first_scraped": "2026-03-20T10:11:42.007Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosts immunity, Fast shipping, Clean ingredients, Easy to swallow, Effective supplement, Digestion help, Good composition, High-quality probiotic.",
+    "tags": [
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High-quality probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bloating issue",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Severe bloating",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:42.007Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

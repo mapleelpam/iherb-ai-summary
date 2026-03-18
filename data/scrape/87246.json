@@ -1,0 +1,68 @@
+{
+  "iherb_id": 87246,
+  "last_updated": "2026-03-20T10:12:53.997Z",
+  "first_scraped": "2026-03-20T10:12:53.997Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Better pumps, Love flavor, Fast energy, Enhance performance, Huge hunger, Amazing taste, Efficient energy, Best pre-workout, Boosted energy.",
+    "tags": [
+      {
+        "name": "Better pumps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhance performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Huge hunger",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best pre-workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High caffeine",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:53.997Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

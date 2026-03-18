@@ -1,0 +1,68 @@
+{
+  "iherb_id": 56695,
+  "last_updated": "2026-03-20T09:39:22.426Z",
+  "first_scraped": "2026-03-20T09:39:22.426Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Yummy snack, Comfortable and stylish, Delicious taste, Flavor improvement, Best protein, Sweet vegan cookies, High carbs, Nice taste. Some note: Taste issue, High protein.",
+    "tags": [
+      {
+        "name": "Yummy snack",
+        "classification": 0,
+        "count": 16
+      },
+      {
+        "name": "Comfortable and stylish",
+        "classification": 0,
+        "count": 7
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 7
+      },
+      {
+        "name": "Flavor improvement",
+        "classification": 0,
+        "count": 7
+      },
+      {
+        "name": "Best protein",
+        "classification": 0,
+        "count": 7
+      },
+      {
+        "name": "Sweet vegan cookies",
+        "classification": 0,
+        "count": 6
+      },
+      {
+        "name": "High carbs",
+        "classification": 0,
+        "count": 5
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste issue",
+        "classification": 1,
+        "count": 19
+      },
+      {
+        "name": "High protein",
+        "classification": 1,
+        "count": 18
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:22.426Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

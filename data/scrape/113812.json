@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113812,
+  "last_updated": "2026-03-20T10:04:47.584Z",
+  "first_scraped": "2026-03-20T10:04:47.584Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Tastes OK, Effective fat burner, Nice flavor, Energy boost, More energy, Good taste, Worth it.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes OK",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective fat burner",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach ache",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Taste horrible",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:47.584Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

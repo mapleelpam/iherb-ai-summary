@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106946,
+  "last_updated": "2026-03-20T10:21:02.453Z",
+  "first_scraped": "2026-03-20T10:21:02.453Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Affordable and recommended, Helped reduce, Improves mood, Ease anxiety, Great mood, Helpful product, Quality boost, Helps sleep. Some note: Small size, Sleepy but manageable.",
+    "tags": [
+      {
+        "name": "Affordable and recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped reduce",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ease anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sleepy but manageable",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:02.453Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

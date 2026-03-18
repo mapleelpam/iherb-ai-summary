@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3359,
+  "last_updated": "2026-03-20T09:27:23.160Z",
+  "first_scraped": "2026-03-20T09:27:23.160Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Health benefits, Sun protection, Beneficial product, Reasonable price, Found improvement, Great antioxidant, Value for money. Some note: No visible effects.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sun protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Found improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Artificial colors",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No visible effects",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:23.160Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

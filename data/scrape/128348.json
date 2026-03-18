@@ -1,0 +1,68 @@
+{
+  "iherb_id": 128348,
+  "last_updated": "2026-03-20T09:57:43.322Z",
+  "first_scraped": "2026-03-20T09:57:43.322Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Added benefits, Tasted lemony, Good taste, Convenient size, Sugarless lemonade, Boost of energy, Refreshing taste, Hydration benefits. Some note: Just okay.",
+    "tags": [
+      {
+        "name": "Added benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasted lemony",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sugarless lemonade",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydration benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Just okay",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:43.322Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

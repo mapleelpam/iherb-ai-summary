@@ -1,0 +1,68 @@
+{
+  "iherb_id": 141008,
+  "last_updated": "2026-03-20T10:02:35.874Z",
+  "first_scraped": "2026-03-20T10:02:35.874Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Boosts energy, Feel good, Good price, Enhanced curves, Easy to swallow, Efficiency size, Moderate moisturize.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced curves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficiency size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moderate moisturize",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Horrible tummy pain",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No noticeable",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:35.874Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

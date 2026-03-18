@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4741,
+  "last_updated": "2026-03-20T09:58:26.224Z",
+  "first_scraped": "2026-03-20T09:58:26.224Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved flexibility, Minimal additives, Effective detoxing, Improved health, Good results, Relief knee pain, Healthy hair, Knee support. Some note: Good ingredients.",
+    "tags": [
+      {
+        "name": "Improved flexibility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Minimal additives",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective detoxing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief knee pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Knee support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Misleading label",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:26.224Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

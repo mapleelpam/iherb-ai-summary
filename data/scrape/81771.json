@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81771,
+  "last_updated": "2026-03-20T10:05:42.013Z",
+  "first_scraped": "2026-03-20T10:05:42.013Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Small size, Digestion improvement, Nighttime relief, Nice heat, Effective diuretic, Less bloated, Potent ingredients. Some note: Slow results.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nighttime relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice heat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective diuretic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:42.013Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

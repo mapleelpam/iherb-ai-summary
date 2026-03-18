@@ -1,0 +1,68 @@
+{
+  "iherb_id": 76202,
+  "last_updated": "2026-03-20T09:43:59.620Z",
+  "first_scraped": "2026-03-20T09:43:59.620Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Best taste, Tasty option, Blends well, Everyday use, Long term, Good taste, Healthy option, Keto lifestyle. Some note: Ethical company.",
+    "tags": [
+      {
+        "name": "Best taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blends well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Everyday use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long term",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keto lifestyle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ethical company",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Tastes disgusting",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:59.620Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

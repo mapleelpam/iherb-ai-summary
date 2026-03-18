@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67664,
+  "last_updated": "2026-03-20T09:53:35.518Z",
+  "first_scraped": "2026-03-20T09:53:35.518Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Value for money, Clear instructions, Improved flexibility, Helps digestive issues, Good for protein, Life saver, Effective enzymes, Delicious flavor.",
+    "tags": [
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear instructions",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved flexibility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestive issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective enzymes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Packaging too big",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stomachache",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:35.518Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

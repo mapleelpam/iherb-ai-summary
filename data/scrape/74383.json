@@ -1,0 +1,68 @@
+{
+  "iherb_id": 74383,
+  "last_updated": "2026-03-20T10:05:52.380Z",
+  "first_scraped": "2026-03-20T10:05:52.380Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Boosting energy, Love this, Pretty good, More strength, Great energy, Tasty flavor, Alertness and bettering. Some note: Instant effect.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pretty good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alertness and bettering",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Instant effect",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not strong",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:52.380Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

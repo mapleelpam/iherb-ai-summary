@@ -1,0 +1,68 @@
+{
+  "iherb_id": 103761,
+  "last_updated": "2026-03-20T10:25:03.302Z",
+  "first_scraped": "2026-03-20T10:25:03.302Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved digestion, Weight loss, Gets job done, Effective supplement, Good probiotic, Regulate bowel, Happy tummy, Happy with autoship. Some note: Stomach benefits.",
+    "tags": [
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gets job done",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate bowel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy tummy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with autoship",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Disappointed package",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stomach benefits",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:03.302Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

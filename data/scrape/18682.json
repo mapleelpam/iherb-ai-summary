@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18682,
+  "last_updated": "2026-03-20T10:11:39.958Z",
+  "first_scraped": "2026-03-20T10:11:39.958Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Brain health, Hair growth, Trusted brand, Repeat purchase, No fishy, Dry skin, Love this brand, High EPA. Some note: No bad taste.",
+    "tags": [
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dry skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High EPA",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No bad taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not enough",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:39.958Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

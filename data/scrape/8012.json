@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8012,
+  "last_updated": "2026-03-20T09:45:00.686Z",
+  "first_scraped": "2026-03-20T09:45:00.686Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Compact bottle, Noticeable effect, High benefits, Adaptogenic herb, Vision benefits, Liked extracts, Liver support, Good taste. Some note: Excellent additive, Taste okay.",
+    "tags": [
+      {
+        "name": "Compact bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adaptogenic herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vision benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liked extracts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Taste okay",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:00.686Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

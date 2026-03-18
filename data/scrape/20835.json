@@ -1,0 +1,68 @@
+{
+  "iherb_id": 20835,
+  "last_updated": "2026-03-20T10:02:31.912Z",
+  "first_scraped": "2026-03-20T10:02:31.912Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Beautiful skin, Feel difference, Best multivitamins, Morning boost, Better forms, Hits daily value, Good combination, Easy swallow.",
+    "tags": [
+      {
+        "name": "Beautiful skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best multivitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better forms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hits daily value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weird smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Pricey, value",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:31.912Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

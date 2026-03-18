@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24288,
+  "last_updated": "2026-03-20T09:49:26.871Z",
+  "first_scraped": "2026-03-20T09:49:26.871Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energetic, Easy to swallow, Feel good, Skin tone, Trust thorne, Good antioxidant, Blend ingredients, Works well. Some note: Needs research.",
+    "tags": [
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin tone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust thorne",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blend ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Needs research",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Thyroid issues",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:26.871Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

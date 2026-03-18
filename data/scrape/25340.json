@@ -1,0 +1,68 @@
+{
+  "iherb_id": 25340,
+  "last_updated": "2026-03-20T10:08:26.627Z",
+  "first_scraped": "2026-03-20T10:08:26.627Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Relief joint pain, Effective drink, Concept great, Love taste, Fast delivery, Tastes nice, Extra energy, Noticeable improvement, Less joint discomfort.",
+    "tags": [
+      {
+        "name": "Relief joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Concept great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less joint discomfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:26.627Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

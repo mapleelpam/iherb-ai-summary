@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7107,
+  "last_updated": "2026-03-20T09:53:10.322Z",
+  "first_scraped": "2026-03-20T09:53:10.322Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural vitamin C, Good booster, Easy to swallow, Natural ingredients, Worthy supplement, Eye health, Immune support, Plant-based option.",
+    "tags": [
+      {
+        "name": "Natural vitamin C",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worthy supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant-based option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too few pills",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:10.322Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

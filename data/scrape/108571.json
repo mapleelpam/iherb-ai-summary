@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108571,
+  "last_updated": "2026-03-20T10:15:48.186Z",
+  "first_scraped": "2026-03-20T10:15:48.186Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Full absorption, Well packed, Calcium placement, Effective dosage, Satisfies needs, Raises level, Maintains calcium. Some note: Similar color, First time.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Full absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calcium placement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfies needs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Raises level",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintains calcium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Similar color",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "First time",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:48.186Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

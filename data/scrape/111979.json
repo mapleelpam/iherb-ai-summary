@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111979,
+  "last_updated": "2026-03-20T09:53:06.277Z",
+  "first_scraped": "2026-03-20T09:53:06.277Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Healthy smell, Taste ok, Good ingredients, Easy drink, Great package, Easy to use, Beneficial product, Helpful taste. Some note: Decent taste.",
+    "tags": [
+      {
+        "name": "Healthy smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste ok",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Histamine issues",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Decent taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:06.277Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "iherb_id": 4705,
+  "last_updated": "2026-03-20T10:10:29.403Z",
+  "first_scraped": "2026-03-20T10:10:29.403Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mix with fruit, Good taste, Mixes well, Nutritional benefits, Boosts energy, Beneficial product, High fiber. Some note: Protein powder.",
+    "tags": [
+      {
+        "name": "Mix with fruit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutritional benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Earthly taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Protein powder",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:29.403Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

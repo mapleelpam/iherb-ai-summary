@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105722,
+  "last_updated": "2026-03-20T09:34:55.720Z",
+  "first_scraped": "2026-03-20T09:34:55.720Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easier absorption, Leaky gut, Decreasing sugar cravings, Great deal, Easy to take, Dissolves well, No stomach issues, Good for gut.",
+    "tags": [
+      {
+        "name": "Easier absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Leaky gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decreasing sugar cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No stomach issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weird taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:55.720Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

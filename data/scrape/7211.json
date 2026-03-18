@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7211,
+  "last_updated": "2026-03-20T10:10:33.400Z",
+  "first_scraped": "2026-03-20T10:10:33.400Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Regulate body, Effective ingredients, Perfect match, Highly recommend, Easy to take, No complications, Combats stress, Anti stress supplement.",
+    "tags": [
+      {
+        "name": "Regulate body",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect match",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No complications",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Combats stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti stress supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid salicylates",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Large capsules",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:33.400Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

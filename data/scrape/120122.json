@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120122,
+  "last_updated": "2026-03-20T10:28:34.962Z",
+  "first_scraped": "2026-03-20T10:28:34.962Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Lovely packaging, Highly recommend, Arrived on time, Pumped up, Tasty flavor, Nice mix, Great option. Some note: Decent energy.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lovely packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arrived on time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pumped up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent energy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Small quantity",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:34.962Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

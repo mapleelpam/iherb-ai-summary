@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8293,
+  "last_updated": "2026-03-20T10:01:54.607Z",
+  "first_scraped": "2026-03-20T10:01:54.607Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Facial hair, Extra boost, Fast shipping, Works great, Period relief, Healthy cycle, Skin cleared, Fast results. Some note: Minimal ingredients.",
+    "tags": [
+      {
+        "name": "Facial hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Period relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy cycle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin cleared",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Minimal ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not good",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:54.607Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

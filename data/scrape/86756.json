@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86756,
+  "last_updated": "2026-03-20T09:46:47.389Z",
+  "first_scraped": "2026-03-20T09:46:47.389Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very happy, Sleep well, Easy to take, Natural extract, Joint pain, Fast recovery, Nutrient-rich, Good for gout. Some note: Good for recovery, Life changing.",
+    "tags": [
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrient-rich",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for gout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for recovery",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Life changing",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:47.389Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

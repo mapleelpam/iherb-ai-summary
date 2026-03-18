@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23374,
+  "last_updated": "2026-03-20T09:42:44.501Z",
+  "first_scraped": "2026-03-20T09:42:44.501Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Firmer breasts, Positive effects, Good ingredients, Smells good, Balance hormones, Works great, Calming hot flashes, High care.",
+    "tags": [
+      {
+        "name": "Firmer breasts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smells good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balance hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming hot flashes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High care",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Side effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Useless snd waste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:44.501Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

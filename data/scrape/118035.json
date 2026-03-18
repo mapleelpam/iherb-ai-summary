@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118035,
+  "last_updated": "2026-03-20T10:22:34.772Z",
+  "first_scraped": "2026-03-20T10:22:34.772Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost thyroid, Nice package, Buy more, Secure packaging, More energy, Thyroid support, Feel better, Natural source. Some note: Just started, Iodine dose.",
+    "tags": [
+      {
+        "name": "Boost thyroid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buy more",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Secure packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thyroid support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Just started",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Iodine dose",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:34.772Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

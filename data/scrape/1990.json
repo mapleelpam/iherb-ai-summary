@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1990,
+  "last_updated": "2026-03-20T10:15:30.882Z",
+  "first_scraped": "2026-03-20T10:15:30.882Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Heart health, Easy to swallow, Helps health, Odourless, effective, High allicillin content, Cardiovascular support, Bug deterrent, Reduced symptoms.",
+    "tags": [
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Odourless, effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High allicillin content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bug deterrent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not strong",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No allicin",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:30.882Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

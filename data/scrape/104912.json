@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104912,
+  "last_updated": "2026-03-20T10:16:13.154Z",
+  "first_scraped": "2026-03-20T10:16:13.154Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean ingredients, Small size, Fair pricing, Effective dosage, Effective combo, Love clean, Bone health support, Natural formula, Immediate improvement, Easy swallow.",
+    "tags": [
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair pricing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love clean",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:13.154Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

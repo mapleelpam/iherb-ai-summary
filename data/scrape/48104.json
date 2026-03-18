@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48104,
+  "last_updated": "2026-03-20T10:14:15.304Z",
+  "first_scraped": "2026-03-20T10:14:15.304Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Endurance improvement, Good alternative, Outstanding performance, Super results, No bloating, Stomach friendly, Strength gains, Power improvement.",
+    "tags": [
+      {
+        "name": "Endurance improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Outstanding performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strength gains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Power improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High creatinine",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not superior",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:15.304Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

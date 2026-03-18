@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32301,
+  "last_updated": "2026-03-20T10:23:35.546Z",
+  "first_scraped": "2026-03-20T10:23:35.546Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great alternative, Flush free, Positive results, No flushing, Cholesterol improvement, Effective dosage, Boosts metabolism, Clean ingredient, Energy boost, Price good.",
+    "tags": [
+      {
+        "name": "Great alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flush free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No flushing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Price good",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:35.546Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

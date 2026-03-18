@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144169,
+  "last_updated": "2026-03-20T10:01:27.446Z",
+  "first_scraped": "2026-03-20T10:01:27.446Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improvement noticed, Effective supplement, Relief achieved, Effective brand, Repeat purchase, Easy split, Good absorption, Packed well, Joint relief. Some note: Just starting.",
+    "tags": [
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief achieved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy split",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Packed well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Just starting",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:27.446Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

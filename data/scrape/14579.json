@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14579,
+  "last_updated": "2026-03-20T10:11:34.130Z",
+  "first_scraped": "2026-03-20T10:11:34.130Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hopeful result, Relaxed feeling, Emotionally sensitive, Fast shipping, High absorbability, Boost dopamine, Emotional balance, Assist mental clarity, Clear-headed focus.",
+    "tags": [
+      {
+        "name": "Hopeful result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxed feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Emotionally sensitive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High absorbability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost dopamine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Emotional balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Assist mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear-headed focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Terrible headache",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:34.130Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

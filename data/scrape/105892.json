@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105892,
+  "last_updated": "2026-03-20T09:40:03.486Z",
+  "first_scraped": "2026-03-20T09:40:03.486Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Liposomal delivery, Brain clarity, Honest company, Marked improvement, Trustworthy site, Improvements ordered, Memory improvement, Excellent formula.",
+    "tags": [
+      {
+        "name": "Liposomal delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Honest company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Marked improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trustworthy site",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvements ordered",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thicker consistency",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bad smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:03.486Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

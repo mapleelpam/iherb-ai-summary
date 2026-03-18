@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73685,
+  "last_updated": "2026-03-20T09:54:57.561Z",
+  "first_scraped": "2026-03-20T09:54:57.561Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Mixed berry flavor, Immediate stress relief, Pain relief, Easy dosage, Helps digestive, Less troubled, Intestinal repair supplement.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixed berry flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate stress relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less troubled",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intestinal repair supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nauseated dose",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Acid reflux",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:57.561Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

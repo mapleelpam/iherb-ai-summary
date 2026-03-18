@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1820,
+  "last_updated": "2026-03-20T09:24:45.789Z",
+  "first_scraped": "2026-03-20T09:24:45.789Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural supplement, Blood sugar, Affordable option, Fast shipping, No side effects, Stable levels, Cinnamon taste, Improves health. Some note: Stay energized.",
+    "tags": [
+      {
+        "name": "Natural supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stable levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cinnamon taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No impact",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stay energized",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:45.789Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

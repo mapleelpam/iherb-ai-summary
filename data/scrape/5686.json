@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5686,
+  "last_updated": "2026-03-20T10:45:48.078Z",
+  "first_scraped": "2026-03-20T10:45:48.078Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No leg cramps, Gas relief, Sleep aid, Good pick up, Daily use, Better sleep, Strong nails, Energy boost.",
+    "tags": [
+      {
+        "name": "No leg cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gas relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good pick up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart racing",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Disappointed product",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:45:48.078Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

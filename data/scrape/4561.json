@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4561,
+  "last_updated": "2026-03-20T09:54:51.622Z",
+  "first_scraped": "2026-03-20T09:54:51.622Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great solution, Noticeable difference, Wow, Very satisfied, Fast shipping, Highly potent, Relief symptoms, Hyperforin content.",
+    "tags": [
+      {
+        "name": "Great solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly potent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hyperforin content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Drug interaction",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No relief",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:51.622Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

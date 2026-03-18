@@ -1,0 +1,68 @@
+{
+  "iherb_id": 54820,
+  "last_updated": "2026-03-20T10:10:49.270Z",
+  "first_scraped": "2026-03-20T10:10:49.270Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Wonderful service, Good strength, Energy boost, Nice price, Healthy life, Speedy delivery, Small size, Insane energy, Lower cost.",
+    "tags": [
+      {
+        "name": "Wonderful service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy life",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Insane energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower cost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bit pricey",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:49.270Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78413,
+  "last_updated": "2026-03-20T09:31:05.083Z",
+  "first_scraped": "2026-03-20T09:31:05.083Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Perfect combination, Small tablets, Greater bioavailability, Good balance, Quick dissolving, Effective b12, Easy to use, Dual-action b-12.",
+    "tags": [
+      {
+        "name": "Perfect combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Greater bioavailability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick dissolving",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective b12",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dual-action b-12",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too big",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:05.083Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

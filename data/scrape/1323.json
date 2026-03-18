@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1323,
+  "last_updated": "2026-03-20T10:04:16.985Z",
+  "first_scraped": "2026-03-20T10:04:16.985Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High potency, Improved recovery, Lowered BP, Good replacement, Clear brain fog, Protects heart, Improves endurance, High dose. Some note: Mixed results, Fillers noticed.",
+    "tags": [
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowered BP",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good replacement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear brain fog",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protects heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixed results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Fillers noticed",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:16.985Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

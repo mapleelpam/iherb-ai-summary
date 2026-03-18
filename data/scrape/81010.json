@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81010,
+  "last_updated": "2026-03-20T09:35:46.370Z",
+  "first_scraped": "2026-03-20T09:35:46.370Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Great benefits, Joint health, Convenient size, Easy consumption, Reduce uric acid, Happy with results, Buy again, Working fine, Highly recommend.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy consumption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce uric acid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buy again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Working fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:46.370Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 31080,
+  "last_updated": "2026-03-20T09:42:45.476Z",
+  "first_scraped": "2026-03-20T09:42:45.476Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fine powder, No sugar, Extra energy, Great fiber, Beneficial gut, Mixes well, Good for keto, Works great.",
+    "tags": [
+      {
+        "name": "Fine powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for keto",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chronic constipation",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not good",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:45.476Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11762,
+  "last_updated": "2026-03-20T09:39:55.542Z",
+  "first_scraped": "2026-03-20T09:39:55.542Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clears lungs, Helps asthma, Fast shipping, Helped cough, Highly commendable, Natural ingredients, Trusted brand, Less coughing. Some note: Supports respiratory, Seems good.",
+    "tags": [
+      {
+        "name": "Clears lungs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps asthma",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped cough",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly commendable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less coughing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports respiratory",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Seems good",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:55.542Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

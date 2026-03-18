@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18454,
+  "last_updated": "2026-03-20T09:47:37.455Z",
+  "first_scraped": "2026-03-20T09:47:37.455Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Worth it, Muscle insulin, Noticeable difference, Great improvement, Hair growth, Easy to swallow, Stronger nails, Nail health. Some note: Effective choice.",
+    "tags": [
+      {
+        "name": "Worth it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle insulin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nail health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective choice",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Difficult to remember",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:37.455Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

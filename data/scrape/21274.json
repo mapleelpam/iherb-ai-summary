@@ -1,0 +1,63 @@
+{
+  "iherb_id": 21274,
+  "last_updated": "2026-03-20T09:40:29.758Z",
+  "first_scraped": "2026-03-20T09:40:29.758Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective after 2 weeks, Energy boost, Daily need, Works wonders, More energy, Strong smell, Harder erections.",
+    "tags": [
+      {
+        "name": "Effective after 2 weeks",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily need",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Harder erections",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive supplement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Erections lousy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:29.758Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

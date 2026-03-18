@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117703,
+  "last_updated": "2026-03-20T10:00:45.780Z",
+  "first_scraped": "2026-03-20T10:00:45.780Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Appetite control, Feel full, Less constipation, Hopeful help, Weight loss, Blood sugar levels, Helps digestion, Clean source.",
+    "tags": [
+      {
+        "name": "Appetite control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel full",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hopeful help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach aches",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Slow dissolve",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:45.780Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

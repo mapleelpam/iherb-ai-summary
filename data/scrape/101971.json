@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101971,
+  "last_updated": "2026-03-20T09:34:08.570Z",
+  "first_scraped": "2026-03-20T09:34:08.570Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increased energy, Great supplement, Convenient sample, Easy to use, Refreshing flavor, Good ingredients, Tasty and energizing, Convenient and nutritious. Some note: Antioxidant benefits.",
+    "tags": [
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient sample",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty and energizing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient and nutritious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant benefits",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Didn't like",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:08.570Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

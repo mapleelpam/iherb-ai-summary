@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106062,
+  "last_updated": "2026-03-20T10:00:01.992Z",
+  "first_scraped": "2026-03-20T10:00:01.992Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Soothing drink, Excellent additive, Tasty & healthy, Good taste, Mild flavor, Improvements noticed, Creamy texture, Delicious flavor.",
+    "tags": [
+      {
+        "name": "Soothing drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty & healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvements noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Creamy texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:01.992Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

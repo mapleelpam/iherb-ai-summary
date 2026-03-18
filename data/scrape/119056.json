@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119056,
+  "last_updated": "2026-03-20T10:00:12.606Z",
+  "first_scraped": "2026-03-20T10:00:12.606Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Versatile option, Tastes great, Mild and tasty, Best protein, Strong taste, Fitness journey, Easy to blend, Quick and convenient.",
+    "tags": [
+      {
+        "name": "Versatile option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild and tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fitness journey",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick and convenient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not consumed",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tasted awful",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:12.606Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

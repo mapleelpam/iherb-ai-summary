@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71138,
+  "last_updated": "2026-03-20T09:33:31.963Z",
+  "first_scraped": "2026-03-20T09:33:31.963Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Feeling good, Love garden of life, Hair thicker, Love ingredients, Feel better, Natural form, Great vegan collagen, Plant based.",
+    "tags": [
+      {
+        "name": "Feeling good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love garden of life",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair thicker",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great vegan collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big tablets",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Increasing anxiety",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:31.963Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89263,
+  "last_updated": "2026-03-20T09:59:07.973Z",
+  "first_scraped": "2026-03-20T09:59:07.973Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Digestive improvement, Bowel regularity, Quality supplement, Repeat order, Healthy guts, Noticeable difference, Better gut. Some note: High content, Prostate health.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bowel regularity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy guts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High content",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Prostate health",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:07.973Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

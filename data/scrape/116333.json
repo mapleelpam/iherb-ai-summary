@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116333,
+  "last_updated": "2026-03-20T09:55:54.585Z",
+  "first_scraped": "2026-03-20T09:55:54.585Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Surprisingly good, Amazing, unbelievable, Morning boost, Natural ingredients, Tiny capsules, Helped condition, Maximum benefits, Good composition.",
+    "tags": [
+      {
+        "name": "Surprisingly good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing, unbelievable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiny capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped condition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maximum benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:54.585Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

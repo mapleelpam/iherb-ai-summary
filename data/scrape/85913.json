@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85913,
+  "last_updated": "2026-03-20T10:07:55.711Z",
+  "first_scraped": "2026-03-20T10:07:55.711Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Best form, Energy boost, Control meniere's, Easy to take, Exactly what, Fast absorbing, Absorption improvement, Great supplement.",
+    "tags": [
+      {
+        "name": "Best form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control meniere's",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Exactly what",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast absorbing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorption improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Government overreach",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Massive side effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:55.711Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

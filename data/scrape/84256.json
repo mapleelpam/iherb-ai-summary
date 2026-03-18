@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84256,
+  "last_updated": "2026-03-20T10:20:53.339Z",
+  "first_scraped": "2026-03-20T10:20:53.339Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice package, Fully corresponds, Adds value, Great combo, Good taste, Tastes good, Pleasant texture, Clean diet.",
+    "tags": [
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fully corresponds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adds value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tastes bad",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:53.339Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 79,
+  "last_updated": "2026-03-20T10:22:55.665Z",
+  "first_scraped": "2026-03-20T10:22:55.665Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pain relief, Great supplement, Back pain, Anti inflammatory, Appetite suppressant, Noticeable benefits, Easy to swallow, Works great. Some note: Fast shipment, Happy with it.",
+    "tags": [
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Back pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti inflammatory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Appetite suppressant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Happy with it",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:55.665Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

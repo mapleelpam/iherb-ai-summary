@@ -1,0 +1,68 @@
+{
+  "iherb_id": 75264,
+  "last_updated": "2026-03-20T10:23:08.814Z",
+  "first_scraped": "2026-03-20T10:23:08.814Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reasonable price, Efficient delivery, High percentage, Helps digestion, Gut health, Repurchased several times, Feel better, Love smell, Effective price, Good fit.",
+    "tags": [
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High percentage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repurchased several times",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good fit",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:08.814Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

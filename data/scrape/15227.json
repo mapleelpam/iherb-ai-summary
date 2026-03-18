@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15227,
+  "last_updated": "2026-03-20T10:25:14.360Z",
+  "first_scraped": "2026-03-20T10:25:14.360Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Satisfied with, Helpful remedy, Helpful product, Sleep support, Heart arythmia, Calming nerves, Anxiety relief, Easy to dispense.",
+    "tags": [
+      {
+        "name": "Satisfied with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart arythmia",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming nerves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to dispense",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Upset stomach",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:14.360Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

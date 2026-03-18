@@ -1,0 +1,68 @@
+{
+  "iherb_id": 51948,
+  "last_updated": "2026-03-20T10:13:18.367Z",
+  "first_scraped": "2026-03-20T10:13:18.367Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tummy size, Fat metabolism, Lost weight, Fast shipping, Good scent, Powerful, like, Convenient size, Supplement benefits. Some note: Not seeing results.",
+    "tags": [
+      {
+        "name": "Tummy size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lost weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful, like",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supplement benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not seeing results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not worth it",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:18.367Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

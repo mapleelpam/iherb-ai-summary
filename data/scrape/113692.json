@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113692,
+  "last_updated": "2026-03-20T10:14:10.388Z",
+  "first_scraped": "2026-03-20T10:14:10.388Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Complete formulation, Impressed benefits, Nice package, Good composition, Worth the money, Tasteless capsule, Some improvement, Health improvement.",
+    "tags": [
+      {
+        "name": "Complete formulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth the money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasteless capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Some improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No visible results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Dark packaging",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:10.388Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

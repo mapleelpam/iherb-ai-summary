@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80480,
+  "last_updated": "2026-03-20T09:35:27.729Z",
+  "first_scraped": "2026-03-20T09:35:27.729Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Feel better, Quality supplement, Effective detox, Good liver support, Big drop, More energy, Works wonders, Sleep better. Some note: One of the best.",
+    "tags": [
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big drop",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not much effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "One of the best",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:27.729Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

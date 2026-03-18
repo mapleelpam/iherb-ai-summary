@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101576,
+  "last_updated": "2026-03-20T10:09:03.351Z",
+  "first_scraped": "2026-03-20T10:09:03.351Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost immune, Relaxed feeling, Good adaptogen, Love it!, Improves sleep, Less stressed, Calms stress, Balanced inner peace.",
+    "tags": [
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxed feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good adaptogen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love it!",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less stressed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calms stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced inner peace",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild calming effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Face pimples",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:03.351Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

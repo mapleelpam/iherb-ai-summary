@@ -1,0 +1,68 @@
+{
+  "iherb_id": 46761,
+  "last_updated": "2026-03-20T09:43:50.403Z",
+  "first_scraped": "2026-03-20T09:43:50.403Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Perfect amount, Pleasant taste, Affordable and well-packed, Easy to swallow, Affordable, immediate, Small capsules, Bone support, Daily use, Boost immunity.",
+    "tags": [
+      {
+        "name": "Perfect amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable and well-packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable, immediate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inflammatory body",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:50.403Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

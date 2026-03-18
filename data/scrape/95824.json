@@ -1,0 +1,68 @@
+{
+  "iherb_id": 95824,
+  "last_updated": "2026-03-20T10:25:16.305Z",
+  "first_scraped": "2026-03-20T10:25:16.305Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Plenty servings, Tasty flavor, Lots of energy, Trusted brand, High intensity, Effective size, Good boost, Effective workout.",
+    "tags": [
+      {
+        "name": "Plenty servings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lots of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High intensity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid proprietary blends",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Chemical taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:16.305Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1909,
+  "last_updated": "2026-03-20T10:13:45.197Z",
+  "first_scraped": "2026-03-20T10:13:45.197Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps relax, Stress support, Boost mood, Stylish packaging, Sleep better, Health benefits, Easy way, Calm and relax. Some note: Happy with.",
+    "tags": [
+      {
+        "name": "Helps relax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stylish packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calm and relax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:45.197Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

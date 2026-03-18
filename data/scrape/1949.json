@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1949,
+  "last_updated": "2026-03-20T10:09:52.128Z",
+  "first_scraped": "2026-03-20T10:09:52.128Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Herbs smell, Anti-bacterial solution, High potency, Helpful combination, Improved digestion, Natural solution, Boosted up, Effective supplement. Some note: Highly recommend, Update later.",
+    "tags": [
+      {
+        "name": "Herbs smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-bacterial solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Update later",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:52.128Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

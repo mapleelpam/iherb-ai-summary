@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70644,
+  "last_updated": "2026-03-20T10:19:18.005Z",
+  "first_scraped": "2026-03-20T10:19:18.005Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Allergen friendly, Delicious smoothie, Vegan approved, Lightweight option, Clean ingredients, Muscle recovery, Not overpowering, Feel great.",
+    "tags": [
+      {
+        "name": "Allergen friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious smoothie",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan approved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lightweight option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not overpowering",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Grainy taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Dairy issues",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:18.005Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

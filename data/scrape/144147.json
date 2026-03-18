@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144147,
+  "last_updated": "2026-03-20T09:48:42.498Z",
+  "first_scraped": "2026-03-20T09:48:42.498Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Overall health, Skin tone, Fast delivery, Improved concentration, Increased alertness, Focus aid, Muscle tone, Highly recommend.",
+    "tags": [
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin tone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased alertness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Focus aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle tone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Did not work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Risk not worth",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:42.498Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

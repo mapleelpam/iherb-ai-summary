@@ -1,0 +1,68 @@
+{
+  "iherb_id": 100977,
+  "last_updated": "2026-03-20T10:04:26.797Z",
+  "first_scraped": "2026-03-20T10:04:26.797Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No fish smell, Notice difference, Fast shipping, Scientific formula, No aftertaste, High DHA, Decreased inflammation, Easy swallow. Some note: Trust brand, Natural nutrients.",
+    "tags": [
+      {
+        "name": "No fish smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Notice difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Scientific formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High DHA",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decreased inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Natural nutrients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:26.797Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

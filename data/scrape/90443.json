@@ -1,0 +1,68 @@
+{
+  "iherb_id": 90443,
+  "last_updated": "2026-03-20T10:12:23.383Z",
+  "first_scraped": "2026-03-20T10:12:23.383Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fresh bottle, Support in circulation, Glass bottle, Digestive support, Improvement in skin, Memory improvement, Fresh scent, Cardiovascular system.",
+    "tags": [
+      {
+        "name": "Fresh bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support in circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:23.383Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

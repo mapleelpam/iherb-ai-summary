@@ -1,0 +1,68 @@
+{
+  "iherb_id": 95818,
+  "last_updated": "2026-03-20T10:04:35.917Z",
+  "first_scraped": "2026-03-20T10:04:35.917Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes amazing, Dosage ingredient okay, Effective supplement, Compact package, Good taste, Energy boost, Extra reps, Notice improvement. Some note: Helps burn fat.",
+    "tags": [
+      {
+        "name": "Tastes amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dosage ingredient okay",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Compact package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra reps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Notice improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps burn fat",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Tingly sensation",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:35.917Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

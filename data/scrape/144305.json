@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144305,
+  "last_updated": "2026-03-20T09:57:48.160Z",
+  "first_scraped": "2026-03-20T09:57:48.160Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Perfect dosage, Lighter legs, Natural ingredients, Prevents varicose, Helps veins, Relieve pain, Great smell, Improves circulation. Some note: Leg pain relief.",
+    "tags": [
+      {
+        "name": "Perfect dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lighter legs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prevents varicose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps veins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieve pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong flavor",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Leg pain relief",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:48.160Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

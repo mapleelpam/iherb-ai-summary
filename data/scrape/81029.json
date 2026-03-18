@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81029,
+  "last_updated": "2026-03-20T10:16:01.238Z",
+  "first_scraped": "2026-03-20T10:16:01.238Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High magnesium, High dose, Good purchase, Taste good, Immune support, Flavorful, Easy dissolve, Convenient packaging.",
+    "tags": [
+      {
+        "name": "High magnesium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flavorful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not recommended",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Chemical taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:01.238Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

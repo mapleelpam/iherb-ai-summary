@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115156,
+  "last_updated": "2026-03-20T10:14:16.327Z",
+  "first_scraped": "2026-03-20T10:14:16.327Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful for diet, High benefit, Big meals, Natural ingredients, Works wonders, Father likes, Easy swallow, Works the best. Some note: First time.",
+    "tags": [
+      {
+        "name": "Helpful for diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big meals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Father likes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works the best",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First time",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Regular strength",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:16.327Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

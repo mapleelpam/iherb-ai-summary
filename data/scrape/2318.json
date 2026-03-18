@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2318,
+  "last_updated": "2026-03-20T10:30:01.696Z",
+  "first_scraped": "2026-03-20T10:30:01.696Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, High dosage, Fast shipping, Found it, Correct potency, Fast absorption, Vegan supplement, Melts fast. Some note: Won't harm.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Found it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Correct potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Melts fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Won't harm",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:30:01.696Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

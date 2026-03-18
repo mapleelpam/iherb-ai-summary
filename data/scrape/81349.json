@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81349,
+  "last_updated": "2026-03-20T10:23:09.736Z",
+  "first_scraped": "2026-03-20T10:23:09.736Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Comprehensive multivitamin, Purchase again, Good ingredients, Essential for keto, Good nutrition, Micro elements, Highly recommend, Vital vitamins. Some note: No difference.",
+    "tags": [
+      {
+        "name": "Comprehensive multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Purchase again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential for keto",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good nutrition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Micro elements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vital vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:09.736Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

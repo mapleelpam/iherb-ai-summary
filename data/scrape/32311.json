@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32311,
+  "last_updated": "2026-03-20T09:45:24.199Z",
+  "first_scraped": "2026-03-20T09:45:24.199Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Focus boost, Well packed, Fast shipping, Natural ingredients, Fast thinking, Easy to swallow, Memory improvement, Boost brain, Brain health.",
+    "tags": [
+      {
+        "name": "Focus boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast thinking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost brain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach ache",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:24.199Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23181,
+  "last_updated": "2026-03-20T09:50:13.087Z",
+  "first_scraped": "2026-03-20T09:50:13.087Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Healthy skin, Impressed switch, Effective supplement, Impressed with bluebonnet, Good for health, Good dosage, Good ingredients, Good for hair, Tocotrienols benefits.",
+    "tags": [
+      {
+        "name": "Healthy skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed switch",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed with bluebonnet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tocotrienols benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soy based",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:13.087Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

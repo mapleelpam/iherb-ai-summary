@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113454,
+  "last_updated": "2026-03-20T10:08:29.589Z",
+  "first_scraped": "2026-03-20T10:08:29.589Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to use, Easy swallow, Immune support, Helpful choice, Improved health, Authentic oil, Immune system, Great supplement.",
+    "tags": [
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Authentic oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lesser product",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Pizza burps",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:29.589Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101359,
+  "last_updated": "2026-03-20T10:09:35.142Z",
+  "first_scraped": "2026-03-20T10:09:35.142Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Convenient & tasty, Refreshing taste, Mixes easily, Vitamin C source, Easy to use, Zero sugar, Perfect size. Some note: Great blend.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient & tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin C source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Zero sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Horrible taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Great blend",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:35.142Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

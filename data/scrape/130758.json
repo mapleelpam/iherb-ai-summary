@@ -1,0 +1,68 @@
+{
+  "iherb_id": 130758,
+  "last_updated": "2026-03-20T09:45:17.749Z",
+  "first_scraped": "2026-03-20T09:45:17.749Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sweet addition, Glass bottle, Reduces inflammation, Tastes great, Good taste, High concentrated, Great tarty taste, Thicker product.",
+    "tags": [
+      {
+        "name": "Sweet addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentrated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great tarty taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thicker product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this stuff",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Swollen gingiva",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:17.749Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144251,
+  "last_updated": "2026-03-20T09:33:56.347Z",
+  "first_scraped": "2026-03-20T09:33:56.347Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Muscle recovery, Long lasting, Good buy, Positive results, Healthy skin, Better sleep, Convenient site, Joint pain, Hair growth. Some note: Bitter taste.",
+    "tags": [
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long lasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient site",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:56.347Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

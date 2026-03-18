@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12796,
+  "last_updated": "2026-03-20T10:08:51.227Z",
+  "first_scraped": "2026-03-20T10:08:51.227Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Good sleep, Muscle relief, Trusted brand, Good price, Lessened migraines, Effective supplement, Bowel regularity. Some note: Large bottle.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lessened migraines",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bowel regularity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "So bad",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Large bottle",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:51.227Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

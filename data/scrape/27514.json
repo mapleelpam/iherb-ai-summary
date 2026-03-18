@@ -1,0 +1,68 @@
+{
+  "iherb_id": 27514,
+  "last_updated": "2026-03-20T09:26:14.238Z",
+  "first_scraped": "2026-03-20T09:26:14.238Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Speedy dissolving, Satisfied, Excellent composition, Fast shipping, Nice flavor, Good taste, Best tasting protein, Mixes well.",
+    "tags": [
+      {
+        "name": "Speedy dissolving",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best tasting protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Artificial taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Horrible acne",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:14.238Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

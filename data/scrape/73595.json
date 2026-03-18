@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73595,
+  "last_updated": "2026-03-20T10:02:40.022Z",
+  "first_scraped": "2026-03-20T10:02:40.022Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trusted company, Sleeping benefits, Convenient capsule form, Sleep better, Good dosage, Economical purchase, Muscle relaxation, Fast shipping, Game-changer. Some note: Mixed forms.",
+    "tags": [
+      {
+        "name": "Trusted company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleeping benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient capsule form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economical purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle relaxation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixed forms",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:40.022Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

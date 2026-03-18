@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115155,
+  "last_updated": "2026-03-20T10:16:28.326Z",
+  "first_scraped": "2026-03-20T10:16:28.326Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Edge off, Calm and focused, Energy boost, Calming benefits, Helps with sleep, Relaxed mind, Easy ingestion, Tasty & relaxing, Sweet dreams, Reduction in stress.",
+    "tags": [
+      {
+        "name": "Edge off",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calm and focused",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxed mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy ingestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty & relaxing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet dreams",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduction in stress",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:28.326Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

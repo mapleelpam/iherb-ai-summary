@@ -1,0 +1,68 @@
+{
+  "iherb_id": 16549,
+  "last_updated": "2026-03-20T09:29:32.764Z",
+  "first_scraped": "2026-03-20T09:29:32.764Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less expensive, Digestive relief, Minty relief, Soothing relief, Great for digestion, Works fast, Helps stomach, Easy to swallow. Some note: Relieves bloating.",
+    "tags": [
+      {
+        "name": "Less expensive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Minty relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soothing relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Relieves bloating",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:32.764Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

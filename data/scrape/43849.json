@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43849,
+  "last_updated": "2026-03-20T10:01:09.426Z",
+  "first_scraped": "2026-03-20T10:01:09.426Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More vitamin C, Helps tiredness, Huge changes, Value for money, Balanced multivitamin, High potency, Good amount of, Immediate effect. Some note: Bright red color.",
+    "tags": [
+      {
+        "name": "More vitamin C",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps tiredness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Huge changes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good amount of",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bright red color",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Artificial colors",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:09.426Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

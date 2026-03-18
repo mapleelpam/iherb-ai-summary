@@ -1,0 +1,68 @@
+{
+  "iherb_id": 33721,
+  "last_updated": "2026-03-20T09:54:21.388Z",
+  "first_scraped": "2026-03-20T09:54:21.388Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Emergency preparedness, Emergency use, Simple ingredients, Benefit to health, Essential tablet, High dose, Just in case, Energy boost, Can't wait. Some note: Great supplement.",
+    "tags": [
+      {
+        "name": "Emergency preparedness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Emergency use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Simple ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit to health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential tablet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Just in case",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Can't wait",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:21.388Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

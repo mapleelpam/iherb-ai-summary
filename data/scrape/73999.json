@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73999,
+  "last_updated": "2026-03-20T09:32:54.691Z",
+  "first_scraped": "2026-03-20T09:32:54.691Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Control triglycerides, Love this product, Timely shipping, Heart health, Effective ingredients, Potent and pure, High dose, Good composition. Some note: Ok, IFOS certified.",
+    "tags": [
+      {
+        "name": "Control triglycerides",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent and pure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ok",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "IFOS certified",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:54.691Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 112246,
+  "last_updated": "2026-03-20T09:24:41.800Z",
+  "first_scraped": "2026-03-20T09:24:41.800Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very satisfied, Highly recommend, Bone health, Mental clarity, Effective brand, Boosts immunity, Morning brain fog, Easy to swallow. Some note: Noticeable effects.",
+    "tags": [
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning brain fog",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decrease anxiety",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Noticeable effects",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:41.800Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

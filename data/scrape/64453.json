@@ -1,0 +1,68 @@
+{
+  "iherb_id": 64453,
+  "last_updated": "2026-03-20T10:01:57.560Z",
+  "first_scraped": "2026-03-20T10:01:57.560Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Taste great, Good taste, Well buy, Convenient chewable, Digestion help, Effective aid, Works great, Easy to take. Some note: Organic ingredients.",
+    "tags": [
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient chewable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:57.560Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

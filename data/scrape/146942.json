@@ -1,0 +1,68 @@
+{
+  "iherb_id": 146942,
+  "last_updated": "2026-03-20T11:08:54.694Z",
+  "first_scraped": "2026-03-20T11:08:54.694Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Inflammation reduced, Beneficial option, Joint support, Pleasant flavor, Good antioxidant, Vegan capsules, Organic support, Good blend, Organic ingredients. Some note: Update review.",
+    "tags": [
+      {
+        "name": "Inflammation reduced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Update review",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T11:08:54.694Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

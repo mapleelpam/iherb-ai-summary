@@ -1,0 +1,68 @@
+{
+  "iherb_id": 506,
+  "last_updated": "2026-03-20T09:57:48.212Z",
+  "first_scraped": "2026-03-20T09:57:48.212Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps digestion, Relieving effects, Blood sugar, Antioxidant supplement, Less pimples, Right price, Appetite suppression, Weight loss. Some note: Organic source.",
+    "tags": [
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieving effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less pimples",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Right price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Appetite suppression",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gaining weight",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Organic source",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:48.212Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 74329,
+  "last_updated": "2026-03-20T10:07:44.841Z",
+  "first_scraped": "2026-03-20T10:07:44.841Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Beneficial option, Trust brand, Organic ingredients, Memory support, Love this, Healthy aging support, Moderate size, Smooth wrinkles. Some note: Awesome website.",
+    "tags": [
+      {
+        "name": "Beneficial option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy aging support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moderate size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth wrinkles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awesome website",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive product",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:44.841Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

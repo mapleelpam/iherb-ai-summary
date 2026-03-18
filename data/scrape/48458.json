@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48458,
+  "last_updated": "2026-03-20T09:34:21.182Z",
+  "first_scraped": "2026-03-20T09:34:21.182Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Renewed energy, Boost testosterone, Great energy, Increased strength, Good taste, Feel stronger, Good ingredients, Fair price. Some note: Great improvement.",
+    "tags": [
+      {
+        "name": "Renewed energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost testosterone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel stronger",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Great improvement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:21.182Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

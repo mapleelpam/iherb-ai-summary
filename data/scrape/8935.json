@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8935,
+  "last_updated": "2026-03-20T10:03:58.640Z",
+  "first_scraped": "2026-03-20T10:03:58.640Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Best product, Reasonable pricing, Dry eyes, Improved vision, Nice delivery, Vision support, Eye relief, High omega content. Some note: Thankful iherb.",
+    "tags": [
+      {
+        "name": "Best product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable pricing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dry eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vision support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High omega content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Insignificant effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Thankful iherb",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:58.640Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

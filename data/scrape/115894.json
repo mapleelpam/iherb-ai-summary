@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115894,
+  "last_updated": "2026-03-20T09:47:20.117Z",
+  "first_scraped": "2026-03-20T09:47:20.117Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Peak performance, Vitality boost, Natural boost, Good results, Easy to swallow, Clear mind, Great energy, Fast shipping. Some note: Improved endurance, Increased energy.",
+    "tags": [
+      {
+        "name": "Peak performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitality boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved endurance",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:20.117Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

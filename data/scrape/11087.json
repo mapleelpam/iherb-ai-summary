@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11087,
+  "last_updated": "2026-03-20T09:53:19.904Z",
+  "first_scraped": "2026-03-20T09:53:19.904Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reduce hemorrhoid, Trackable shipping, Bruise relief, Immune health, Pure product, Blood vessel support, Improve circulation, Doing well, Protects brain.",
+    "tags": [
+      {
+        "name": "Reduce hemorrhoid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trackable shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bruise relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood vessel support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doing well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protects brain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to get",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:19.904Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

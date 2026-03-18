@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110340,
+  "last_updated": "2026-03-20T09:51:02.876Z",
+  "first_scraped": "2026-03-20T09:51:02.876Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No taste, Detox superfood, Energy boost, Easy dosage, Great option, Clear liquid, Improved mental health, Great results. Some note: Easy way, Benefit for health.",
+    "tags": [
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox superfood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear liquid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mental health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy way",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Benefit for health",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:02.876Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6281,
+  "last_updated": "2026-03-20T09:44:52.695Z",
+  "first_scraped": "2026-03-20T09:44:52.695Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved vitality, Convenient doses, High dose, Easy absorption, Energy boost, Great energy, Helped hair, Mental clarity. Some note: Great help.",
+    "tags": [
+      {
+        "name": "Improved vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient doses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great help",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:52.695Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

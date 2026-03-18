@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118105,
+  "last_updated": "2026-03-20T09:43:50.403Z",
+  "first_scraped": "2026-03-20T09:43:50.403Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stomach health, Good ingredient, Digestive support, Hair strengthening, Positive changes, Leaky gut improved, Absorbable solution, Immunity support. Some note: Pepzin GI protection.",
+    "tags": [
+      {
+        "name": "Stomach health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair strengthening",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive changes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Leaky gut improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorbable solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nauseous after",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Pepzin GI protection",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:50.403Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

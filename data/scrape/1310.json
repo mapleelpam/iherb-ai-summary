@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1310,
+  "last_updated": "2026-03-20T10:20:56.516Z",
+  "first_scraped": "2026-03-20T10:20:56.516Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works fine, Small tablets, Jet lag relief, Help promote sleep, Great solution, Good help, Best sleep, Good dose. Some note: No difference, Effective supplement.",
+    "tags": [
+      {
+        "name": "Works fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Jet lag relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Help promote sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:56.516Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

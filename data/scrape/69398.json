@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69398,
+  "last_updated": "2026-03-20T09:57:52.126Z",
+  "first_scraped": "2026-03-20T09:57:52.126Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High protein, Quick arrival, Tasty bar, Very nice, Taste great, Nice flavor, Love quest, Low sugar. Some note: Not bad.",
+    "tags": [
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick arrival",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty bar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love quest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not bad",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Horrible flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:52.126Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

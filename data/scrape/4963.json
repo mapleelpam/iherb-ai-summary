@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4963,
+  "last_updated": "2026-03-20T09:48:10.706Z",
+  "first_scraped": "2026-03-20T09:48:10.706Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Memory enhancement, Energy boost, Good results, Deep sleep, Good for memory, Clear mind, Improved focus, Easy swallow. Some note: Longer effect, Timely delivery.",
+    "tags": [
+      {
+        "name": "Memory enhancement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Longer effect",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Timely delivery",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:10.706Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

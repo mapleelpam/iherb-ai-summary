@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119512,
+  "last_updated": "2026-03-20T09:58:29.041Z",
+  "first_scraped": "2026-03-20T09:58:29.041Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Thicker hair growth, Stopped falling, Gorgeous hair, Stopped shedding, Best experience, Fuller hair, Noticeable improvement, Larger size.",
+    "tags": [
+      {
+        "name": "Thicker hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped falling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gorgeous hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped shedding",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best experience",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fuller hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Larger size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No changes",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:29.041Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

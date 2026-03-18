@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111019,
+  "last_updated": "2026-03-20T09:30:47.305Z",
+  "first_scraped": "2026-03-20T09:30:47.305Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective choice, Nice package, Feel more powerful, Good ingredients, Balancing hormones, Memory improved, Easy swallow, Boosts energy. Some note: No noticeable, Very happy.",
+    "tags": [
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel more powerful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balancing hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:47.305Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

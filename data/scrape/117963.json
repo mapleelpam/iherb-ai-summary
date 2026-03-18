@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117963,
+  "last_updated": "2026-03-20T10:15:28.930Z",
+  "first_scraped": "2026-03-20T10:15:28.930Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Traditional benefits, Improves sleep, Affordable option, Relaxed choice, Decent pricing, Supplement benefits, Works great, Potent extract. Some note: No noticeable changes.",
+    "tags": [
+      {
+        "name": "Traditional benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxed choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent pricing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supplement benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased bleeding",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No noticeable changes",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:28.930Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

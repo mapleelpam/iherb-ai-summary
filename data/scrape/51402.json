@@ -1,0 +1,68 @@
+{
+  "iherb_id": 51402,
+  "last_updated": "2026-03-20T09:46:46.465Z",
+  "first_scraped": "2026-03-20T09:46:46.465Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energetic, Easy to swallow, Works as expected, Boosted stamina, Vitamin d3, Love this, Vegan option, Improved energy levels. Some note: Vegan d3, Saved money.",
+    "tags": [
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works as expected",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin d3",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan d3",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Saved money",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:46.465Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

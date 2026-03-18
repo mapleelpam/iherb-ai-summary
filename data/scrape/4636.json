@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4636,
+  "last_updated": "2026-03-20T09:58:38.022Z",
+  "first_scraped": "2026-03-20T09:58:38.022Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Satisfied again, Great results, High concentration, Traditional practice, Effective herb, Good taste, Helps fight, Hair growth. Some note: Not enough.",
+    "tags": [
+      {
+        "name": "Satisfied again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Traditional practice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps fight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver damage",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not enough",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:38.022Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

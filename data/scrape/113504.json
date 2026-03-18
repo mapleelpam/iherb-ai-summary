@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113504,
+  "last_updated": "2026-03-20T10:13:20.270Z",
+  "first_scraped": "2026-03-20T10:13:20.270Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small size, Vegan-friendly option, Immunity boost, Vitamin C, Improved energy, First time, Nicely presented, Absorbs well. Some note: Limited options, Neutral stand.",
+    "tags": [
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan-friendly option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin C",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nicely presented",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorbs well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Limited options",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Neutral stand",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:20.270Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 46284,
+  "last_updated": "2026-03-20T09:25:24.907Z",
+  "first_scraped": "2026-03-20T09:25:24.907Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small capsules, Good for bones, Nice serving size, Easy to swallow, Value for money, Good results, Increased well-being, Essential for immunity. Some note: Effective supplement, Love brand.",
+    "tags": [
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice serving size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased well-being",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential for immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Love brand",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:24.907Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42385,
+  "last_updated": "2026-03-20T09:39:07.795Z",
+  "first_scraped": "2026-03-20T09:39:07.795Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Positive experience, No adverse, Improves uterine lining, Affordable doses, Cardiovascular health, Good pump, Lean muscle. Some note: Nice price, Convenient packaging.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive experience",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No adverse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves uterine lining",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable doses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lean muscle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:07.795Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

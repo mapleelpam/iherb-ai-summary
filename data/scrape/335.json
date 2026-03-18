@@ -1,0 +1,68 @@
+{
+  "iherb_id": 335,
+  "last_updated": "2026-03-20T09:22:28.687Z",
+  "first_scraped": "2026-03-20T09:22:28.687Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy booster, Calms stress, Boosts mood, Feel better, Stress and anxiety, Improved focus, Natural energy, Nice taste.",
+    "tags": [
+      {
+        "name": "Energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calms stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress and anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Anxiety relief",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:28.687Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

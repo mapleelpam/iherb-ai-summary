@@ -1,0 +1,68 @@
+{
+  "iherb_id": 58127,
+  "last_updated": "2026-03-20T09:35:51.271Z",
+  "first_scraped": "2026-03-20T09:35:51.271Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good stuff, General immunity, Pleasant taste, Small dose, Love the taste, Easy to use, Easy absorption, Easy spray. Some note: Tasty vegan.",
+    "tags": [
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "General immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy spray",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tasty vegan",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:51.271Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

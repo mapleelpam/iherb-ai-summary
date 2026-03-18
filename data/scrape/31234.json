@@ -1,0 +1,68 @@
+{
+  "iherb_id": 31234,
+  "last_updated": "2026-03-20T09:33:06.417Z",
+  "first_scraped": "2026-03-20T09:33:06.417Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Quick relief, Great supplement, Decreased drainage, Helps breathe better, Tasty lozenges, Tastes good, Highly recommend, Good results.",
+    "tags": [
+      {
+        "name": "Quick relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decreased drainage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps breathe better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty lozenges",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too big",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:06.417Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

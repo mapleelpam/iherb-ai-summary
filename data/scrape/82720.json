@@ -1,0 +1,68 @@
+{
+  "iherb_id": 82720,
+  "last_updated": "2026-03-20T09:25:38.674Z",
+  "first_scraped": "2026-03-20T09:25:38.674Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient packaging, Great macros, Good taste, Good package, Soft and delicious, Tastes great, Good snack, Chocolate chips.",
+    "tags": [
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great macros",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soft and delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chocolate chips",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Protein taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:38.674Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

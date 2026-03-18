@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117630,
+  "last_updated": "2026-03-20T09:23:04.928Z",
+  "first_scraped": "2026-03-20T09:23:04.928Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves condition, Easy to swallow, Skin nails, Nice package, Mega dose, Protects immunity, Hair growth, Less hair loss. Some note: Vegan GMP, Size acceptable.",
+    "tags": [
+      {
+        "name": "Improves condition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mega dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protects immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less hair loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan GMP",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Size acceptable",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:04.928Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

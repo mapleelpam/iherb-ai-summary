@@ -1,0 +1,68 @@
+{
+  "iherb_id": 90003,
+  "last_updated": "2026-03-20T09:57:59.116Z",
+  "first_scraped": "2026-03-20T09:57:59.116Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes good, Health improvement, Natural food coloring, Tasty boost, Boost energy, Antioxidant boost, Pretty color, Convenient storage.",
+    "tags": [
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural food coloring",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pretty color",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient storage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smells bad",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not trustworthy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:59.116Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

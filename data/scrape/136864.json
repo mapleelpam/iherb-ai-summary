@@ -1,0 +1,68 @@
+{
+  "iherb_id": 136864,
+  "last_updated": "2026-03-20T09:44:55.733Z",
+  "first_scraped": "2026-03-20T09:44:55.733Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good results, More energy, Easy capsules, Best value, Good purchase, Headache relief, Good taste, Accurate delivery.",
+    "tags": [
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Headache relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Accurate delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No impact",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Irritable skin",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:55.733Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

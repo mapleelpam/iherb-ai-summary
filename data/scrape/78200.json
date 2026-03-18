@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78200,
+  "last_updated": "2026-03-20T09:17:59.368Z",
+  "first_scraped": "2026-03-20T09:17:59.368Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves health, Felt better, Hair growth, Skin improvement, Collagen support, Cold sores, Helps herpes, Reduces outbreaks. Some note: Healthy ingredients, Super l-lysine.",
+    "tags": [
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Felt better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Collagen support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cold sores",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps herpes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces outbreaks",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Super l-lysine",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:59.368Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

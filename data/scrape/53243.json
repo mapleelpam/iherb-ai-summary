@@ -1,0 +1,68 @@
+{
+  "iherb_id": 53243,
+  "last_updated": "2026-03-20T09:49:56.377Z",
+  "first_scraped": "2026-03-20T09:49:56.377Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this protein, Rich flavor, Sweet taste, Good taste, More protein, Tastes good, Green drink, Creamy texture. Some note: Thicker texture.",
+    "tags": [
+      {
+        "name": "Love this protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Green drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Creamy texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thicker texture",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Artificial taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:56.377Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

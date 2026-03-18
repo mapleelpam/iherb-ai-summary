@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14025,
+  "last_updated": "2026-03-20T10:20:21.904Z",
+  "first_scraped": "2026-03-20T10:20:21.904Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective brand, Helps histamine, Impressed with purity, Love smell, Allergy relief, Immune support, Seasonal sinus, Sinus relief.",
+    "tags": [
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps histamine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed with purity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergy relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seasonal sinus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sinus relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sedating effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High prices",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:21.904Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

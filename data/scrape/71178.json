@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71178,
+  "last_updated": "2026-03-20T10:06:15.854Z",
+  "first_scraped": "2026-03-20T10:06:15.854Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Brain healing, Helps focus, Less nervous, More clarity, Improved memory, Great combo, Powerful blend, Easy pill. Some note: Good energy input, Love the brand.",
+    "tags": [
+      {
+        "name": "Brain healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less nervous",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy pill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy input",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Love the brand",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:15.854Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

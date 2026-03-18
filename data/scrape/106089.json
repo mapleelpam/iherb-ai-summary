@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106089,
+  "last_updated": "2026-03-20T10:28:40.602Z",
+  "first_scraped": "2026-03-20T10:28:40.602Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Positive improvement, Nutrient support, Control leakage, Stress incontinence, Improved bladder, Reduces nighttime trips, Natural ingredients, Herbal remedy.",
+    "tags": [
+      {
+        "name": "Positive improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrient support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control leakage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress incontinence",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved bladder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces nighttime trips",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herbal remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Frequent breaks",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:40.602Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

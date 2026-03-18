@@ -1,0 +1,68 @@
+{
+  "iherb_id": 123127,
+  "last_updated": "2026-03-20T09:43:14.295Z",
+  "first_scraped": "2026-03-20T09:43:14.295Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Better sleep, Daily supplement, Top integrity, Stress management, Calmer nerves, Effective ingredients, Immediate benefit, Feeling better. Some note: Just started, Placebo effect.",
+    "tags": [
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top integrity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calmer nerves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Just started",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Placebo effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:14.295Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 571,
+  "last_updated": "2026-03-20T09:38:14.215Z",
+  "first_scraped": "2026-03-20T09:38:14.215Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Affordable, Helps focus, Elevated energy, Weight loss, Effective brand, Boosts energy, Powerful boost. Some note: Great benefits, Love the product.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Elevated energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Love the product",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:14.215Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

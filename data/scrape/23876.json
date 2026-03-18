@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23876,
+  "last_updated": "2026-03-20T09:42:59.405Z",
+  "first_scraped": "2026-03-20T09:42:59.405Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delightful flavor, Kids love, Fast shipping, Yummy treat, No fishy, Good taste, Creamy texture, Benefits skin. Some note: Thank you.",
+    "tags": [
+      {
+        "name": "Delightful flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy treat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Creamy texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefits skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Costly",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Thank you",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:59.405Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

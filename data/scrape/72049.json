@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72049,
+  "last_updated": "2026-03-20T09:37:40.744Z",
+  "first_scraped": "2026-03-20T09:37:40.744Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Joint pain, Control gout, Good sleep, Aided sleep, Good for diet, Relatively fast shipping, Easy to swallow, Muscle recovery. Some note: Broad benefit.",
+    "tags": [
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control gout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Aided sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relatively fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clumped together",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Broad benefit",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:40.744Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

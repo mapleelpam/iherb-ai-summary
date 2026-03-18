@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108797,
+  "last_updated": "2026-03-20T10:36:07.464Z",
+  "first_scraped": "2026-03-20T10:36:07.464Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty gummies, Easy digestion, Effective supplement, Sweet taste, Travel convenience, Good taste, Overall digestive health, Sturdy package.",
+    "tags": [
+      {
+        "name": "Tasty gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Travel convenience",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sturdy package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable changes",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Unexpected side effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:36:07.464Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

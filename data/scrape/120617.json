@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120617,
+  "last_updated": "2026-03-20T10:39:42.306Z",
+  "first_scraped": "2026-03-20T10:39:42.306Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty flavor, Kept full, Good taste, Cravings kick, Convenient, satisfying, Delicious bars, Creamy peanut butter, Delicious snack. Some note: Ingredients fine.",
+    "tags": [
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kept full",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cravings kick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient, satisfying",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious bars",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Creamy peanut butter",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ingredients fine",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not worth",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:39:42.306Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

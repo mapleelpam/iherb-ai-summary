@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15251,
+  "last_updated": "2026-03-20T10:01:18.592Z",
+  "first_scraped": "2026-03-20T10:01:18.592Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Increase bone density, Works beautifully, Fast shipment, Increased energy, Tasty vitamin, Bone support, Good purchase.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase bone density",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works beautifully",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion issue",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Difficult swallow",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:18.592Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "iherb_id": 34119,
+  "last_updated": "2026-03-20T10:31:38.678Z",
+  "first_scraped": "2026-03-20T10:31:38.678Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for congestion, Gentle improvement, Improved lungs, Range expanded, Lung tonic, Worth to try, Helped cough.",
+    "tags": [
+      {
+        "name": "Good for congestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved lungs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Range expanded",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lung tonic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth to try",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped cough",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too strong",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No impact",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:38.678Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

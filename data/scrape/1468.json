@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1468,
+  "last_updated": "2026-03-20T10:14:40.992Z",
+  "first_scraped": "2026-03-20T10:14:40.992Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Joint support, Skin improvement, Visible results, Digestive well-being, Ingredients similar, Skin tone, Essential nutrients, Radiant skin. Some note: Good outcome, Potent capsules.",
+    "tags": [
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Visible results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive well-being",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ingredients similar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin tone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential nutrients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Radiant skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good outcome",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Potent capsules",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:40.992Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

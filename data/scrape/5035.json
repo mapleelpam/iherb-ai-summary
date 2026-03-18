@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5035,
+  "last_updated": "2026-03-20T10:08:03.683Z",
+  "first_scraped": "2026-03-20T10:08:03.683Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less pain, Improved mobility, Type II collagen, High dosage, Quick results, Heals cartilage, Easy to take, Thick texture. Some note: Helps flexibility, Best supplement.",
+    "tags": [
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mobility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Type II collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heals cartilage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thick texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps flexibility",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Best supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:03.683Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115407,
+  "last_updated": "2026-03-20T09:57:16.797Z",
+  "first_scraped": "2026-03-20T09:57:16.797Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Low calories, Good for, Stronger and healthier, Love mini, Tastes good, High protein, Buy again, Convenient option. Some note: Easy to carry.",
+    "tags": [
+      {
+        "name": "Low calories",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger and healthier",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love mini",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buy again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Easy to carry",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:16.797Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

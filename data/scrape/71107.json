@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71107,
+  "last_updated": "2026-03-20T09:28:15.822Z",
+  "first_scraped": "2026-03-20T09:28:15.822Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for keto, Start slow, Mental clarity, High-quality MCT, Weight management, Energy boost, Easy pouring, Health benefits. Some note: Fast shipping, Helps digestion.",
+    "tags": [
+      {
+        "name": "Good for keto",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Start slow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High-quality MCT",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy pouring",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:15.822Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

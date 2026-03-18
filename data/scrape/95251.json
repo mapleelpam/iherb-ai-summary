@@ -1,0 +1,68 @@
+{
+  "iherb_id": 95251,
+  "last_updated": "2026-03-20T09:49:45.317Z",
+  "first_scraped": "2026-03-20T09:49:45.317Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Satisfied, High dosage, Liver health, Convenient size, Stronger purchase, Works for me, Easy to take, Hangover relief. Some note: Effective option, Small package.",
+    "tags": [
+      {
+        "name": "Satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hangover relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective option",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Small package",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:45.317Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

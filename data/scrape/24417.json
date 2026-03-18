@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24417,
+  "last_updated": "2026-03-20T09:57:18.659Z",
+  "first_scraped": "2026-03-20T09:57:18.659Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Good for cells, Easy to swallow, Weight loss, Feeling better, Boosts metabolism, Manage weight, Energy boost. Some note: Great anti-aging.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for cells",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Manage weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great anti-aging",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:18.659Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

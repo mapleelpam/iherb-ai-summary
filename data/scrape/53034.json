@@ -1,0 +1,68 @@
+{
+  "iherb_id": 53034,
+  "last_updated": "2026-03-20T09:32:40.683Z",
+  "first_scraped": "2026-03-20T09:32:40.683Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost immunity, Good taste, High dose, Convenient dosage, Good formula, Crucial nutrient, Yummy flavor, Easy to use.",
+    "tags": [
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Crucial nutrient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not vegan",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not strong",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:40.683Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

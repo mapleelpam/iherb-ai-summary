@@ -1,0 +1,68 @@
+{
+  "iherb_id": 17106,
+  "last_updated": "2026-03-20T10:11:56.550Z",
+  "first_scraped": "2026-03-20T10:11:56.550Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High potency, Easy to take, Expensive but effective, Smooth energy, Best b-complex, Overall wellness, Healthy produce, Met expectations. Some note: Red for hour.",
+    "tags": [
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best b-complex",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall wellness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy produce",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Met expectations",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste terrible",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Red for hour",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:56.550Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

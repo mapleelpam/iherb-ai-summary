@@ -1,0 +1,68 @@
+{
+  "iherb_id": 64663,
+  "last_updated": "2026-03-20T10:20:57.540Z",
+  "first_scraped": "2026-03-20T10:20:57.540Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good stuff, Beneficial investment, Amazing pump, Expensive but worth, Good for workout, Satisfying results, Boosts endurance, Strength increases. Some note: Combining with.",
+    "tags": [
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial investment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but worth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfying results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strength increases",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Combining with",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:57.540Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

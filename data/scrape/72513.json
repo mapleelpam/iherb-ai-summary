@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72513,
+  "last_updated": "2026-03-20T10:26:01.770Z",
+  "first_scraped": "2026-03-20T10:26:01.770Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Smooth blend, Reliable brand, Mixes well, Customizable flavor, Natural and plain, No bloating, Clean taste, Love iherb.",
+    "tags": [
+      {
+        "name": "Smooth blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Customizable flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural and plain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love iherb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Larger size",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:01.770Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

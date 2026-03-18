@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4756,
+  "last_updated": "2026-03-20T10:37:22.118Z",
+  "first_scraped": "2026-03-20T10:37:22.118Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Ingredients good, Strong smell, Works great, Fresh smell, Natural antibiotic, Highly recommend, Genuine ingredients, Indispensable during, Potent herb.",
+    "tags": [
+      {
+        "name": "Ingredients good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural antibiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Genuine ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Indispensable during",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "P65 warning",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:37:22.118Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

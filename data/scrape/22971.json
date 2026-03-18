@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22971,
+  "last_updated": "2026-03-20T10:30:51.998Z",
+  "first_scraped": "2026-03-20T10:30:51.998Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural relief, Nice package, Smart choice, Works great, Bone health, Great results, Healing quicker, Legacy continues.",
+    "tags": [
+      {
+        "name": "Natural relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smart choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healing quicker",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Legacy continues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tastes lousy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:30:51.998Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

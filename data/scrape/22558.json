@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22558,
+  "last_updated": "2026-03-20T10:33:44.818Z",
+  "first_scraped": "2026-03-20T10:33:44.818Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective choice, Extra energy, Immune support, Digestive support, Swollen leg, Boost some days, Natural support, Improvement in stress. Some note: Warming formula.",
+    "tags": [
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Swollen leg",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost some days",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Warming formula",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:33:44.818Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

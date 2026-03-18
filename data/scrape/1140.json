@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1140,
+  "last_updated": "2026-03-20T09:46:53.389Z",
+  "first_scraped": "2026-03-20T09:46:53.389Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune health, Pure ingredients, Easy use, Gut healing, Good taste, Affordable option, Boosts immunity, Gastric relief.",
+    "tags": [
+      {
+        "name": "Immune health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gastric relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Poorly dissolves",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Small container",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:53.389Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

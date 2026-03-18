@@ -1,0 +1,68 @@
+{
+  "iherb_id": 47510,
+  "last_updated": "2026-03-20T10:31:15.164Z",
+  "first_scraped": "2026-03-20T10:31:15.164Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reasonable price, Refreshing taste, Good ingredients, No bloating, More energy, Changed mine, Acquired taste, Convenient all-in-one.",
+    "tags": [
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Changed mine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acquired taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient all-in-one",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:15.164Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

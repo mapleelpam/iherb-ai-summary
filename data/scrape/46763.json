@@ -1,0 +1,68 @@
+{
+  "iherb_id": 46763,
+  "last_updated": "2026-03-20T09:21:15.673Z",
+  "first_scraped": "2026-03-20T09:21:15.673Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Joint pain relief, High potency, Shoulder flexibility, High benefits, Recommendation: collagen, Improved health, Good combination, Joint support. Some note: Immediate shipping.",
+    "tags": [
+      {
+        "name": "Joint pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shoulder flexibility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommendation: collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Immediate shipping",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:15.673Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

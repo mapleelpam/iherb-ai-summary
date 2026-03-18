@@ -1,0 +1,68 @@
+{
+  "iherb_id": 55164,
+  "last_updated": "2026-03-20T10:16:21.208Z",
+  "first_scraped": "2026-03-20T10:16:21.208Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hair improvement, Reduce inflammation, Vegan capsule, Helps with PMS, Skin care, Gentle smell, Joint pain relief, Eye relief.",
+    "tags": [
+      {
+        "name": "Hair improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with PMS",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin care",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fishy smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No omega 3",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:21.208Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

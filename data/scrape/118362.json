@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118362,
+  "last_updated": "2026-03-20T09:54:01.242Z",
+  "first_scraped": "2026-03-20T09:54:01.242Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Memory health, Effective taste, Morning routine, Maintains metabolism, Boost of energy, Natural ingredients, Easy to swallow, Better sleep.",
+    "tags": [
+      {
+        "name": "Memory health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning routine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintains metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel weird",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Cyanocobalamin not good",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:01.242Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

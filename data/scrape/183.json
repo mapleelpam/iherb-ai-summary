@@ -1,0 +1,68 @@
+{
+  "iherb_id": 183,
+  "last_updated": "2026-03-20T09:28:57.387Z",
+  "first_scraped": "2026-03-20T09:28:57.387Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for leaky gut, Easy to drink, Empty stomach, Good for chemotherapy, Support cell health, Muscle recovery, Energy level, Good price. Some note: Medicinal smell, Not sure.",
+    "tags": [
+      {
+        "name": "Good for leaky gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Empty stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for chemotherapy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support cell health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy level",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Medicinal smell",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:57.387Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

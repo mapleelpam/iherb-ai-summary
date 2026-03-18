@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72086,
+  "last_updated": "2026-03-20T09:25:11.905Z",
+  "first_scraped": "2026-03-20T09:25:11.905Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mood enhancement, Immune support, Herbal supplement, Helped mood, Anxiety relief, Easy to swallow, Positive effects, Good ingredients. Some note: Natural product.",
+    "tags": [
+      {
+        "name": "Mood enhancement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herbal supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Natural product",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:11.905Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

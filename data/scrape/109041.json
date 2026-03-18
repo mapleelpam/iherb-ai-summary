@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109041,
+  "last_updated": "2026-03-20T09:44:39.554Z",
+  "first_scraped": "2026-03-20T09:44:39.554Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More oleuropein, Immune system, Virus buster, Blood pressure, Value for money, Mild symptoms, Gentle and effective, Immunity supplement. Some note: Consult physician.",
+    "tags": [
+      {
+        "name": "More oleuropein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Virus buster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle and effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consult physician",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Less energy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:39.554Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

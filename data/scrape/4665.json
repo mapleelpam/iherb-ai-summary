@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4665,
+  "last_updated": "2026-03-20T09:44:12.764Z",
+  "first_scraped": "2026-03-20T09:44:12.764Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Value for money, Lead reduction, Blood pressure, Remove plaque, Effective supplement, Metal detox, Healthy heart, More energy. Some note: Good stuff.",
+    "tags": [
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lead reduction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Remove plaque",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Metal detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuff",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Dangerous supplement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:12.764Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

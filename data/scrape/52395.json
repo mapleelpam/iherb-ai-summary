@@ -1,0 +1,68 @@
+{
+  "iherb_id": 52395,
+  "last_updated": "2026-03-20T09:23:45.592Z",
+  "first_scraped": "2026-03-20T09:23:45.592Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy swallow, Boosting immune, Good for, Smart combination, Easy dosage, Stops flu, Gut health, Natural ingredients. Some note: Improved health, Convenient capsules.",
+    "tags": [
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smart combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stops flu",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Convenient capsules",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:45.592Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

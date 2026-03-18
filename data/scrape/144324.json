@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144324,
+  "last_updated": "2026-03-20T10:01:27.446Z",
+  "first_scraped": "2026-03-20T10:01:27.446Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps constipation, Digestive support, High value, Healthy gut, Great for digestion, Extra help, Works great, Eliminate toxins. Some note: Difficult to swallow.",
+    "tags": [
+      {
+        "name": "Helps constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eliminate toxins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergic reaction",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Difficult to swallow",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:27.446Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

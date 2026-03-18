@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111035,
+  "last_updated": "2026-03-20T09:48:22.989Z",
+  "first_scraped": "2026-03-20T09:48:22.989Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good zinc, Convenient size, Reduce acne, Healthier hair, Immune system, Proper dosage, Copper balance, Speedy delivery, High bioavailability, Immune support.",
+    "tags": [
+      {
+        "name": "Good zinc",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce acne",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthier hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Proper dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Copper balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High bioavailability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:22.989Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

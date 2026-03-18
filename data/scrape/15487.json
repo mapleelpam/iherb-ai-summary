@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15487,
+  "last_updated": "2026-03-20T10:00:24.291Z",
+  "first_scraped": "2026-03-20T10:00:24.291Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good composition, Immune booster, Small capsules, Affordable option, Vegan, Happy results, No additives, Adaptogen benefits.",
+    "tags": [
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No additives",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adaptogen benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Dosage too strong",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:24.291Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21098,
+  "last_updated": "2026-03-20T09:27:51.745Z",
+  "first_scraped": "2026-03-20T09:27:51.745Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Different strains, Reasonable price, Great probiotic, Game changer, Excellent supplement, Regulates intestines, Improved digestion, Fast shipping. Some note: Seems to be, Works wonderful.",
+    "tags": [
+      {
+        "name": "Different strains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulates intestines",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seems to be",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Works wonderful",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:51.745Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

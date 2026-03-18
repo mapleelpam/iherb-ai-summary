@@ -1,0 +1,68 @@
+{
+  "iherb_id": 585,
+  "last_updated": "2026-03-20T09:24:50.536Z",
+  "first_scraped": "2026-03-20T09:24:50.536Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Brain health, Fast shipping, Saves money, Pure ingredients, Easy dosage, Easy to mix, Increased energy, Calming effect. Some note: Subtle effect, Helps sleep.",
+    "tags": [
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Saves money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Subtle effect",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:50.536Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

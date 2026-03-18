@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114890,
+  "last_updated": "2026-03-20T10:23:04.616Z",
+  "first_scraped": "2026-03-20T10:23:04.616Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Selected ingredients, Increased metabolism, Included scoop, Helps regulate, PCOS symptoms, Higher dose, Regulates ovulation, Balances hormones. Some note: Stick with.",
+    "tags": [
+      {
+        "name": "Selected ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Included scoop",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps regulate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "PCOS symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulates ovulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balances hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stick with",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Made me drowsy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:04.616Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

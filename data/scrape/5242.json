@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5242,
+  "last_updated": "2026-03-20T10:07:36.708Z",
+  "first_scraped": "2026-03-20T10:07:36.708Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural relief, Breathing relief, Satisfied, Good job, Clear lungs, Quit smoking, Highly recommend, Liver clean. Some note: Great extract, Great benefit.",
+    "tags": [
+      {
+        "name": "Natural relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Breathing relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good job",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear lungs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quit smoking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver clean",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great extract",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great benefit",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:36.708Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

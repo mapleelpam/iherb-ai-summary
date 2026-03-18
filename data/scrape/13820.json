@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13820,
+  "last_updated": "2026-03-20T10:19:04.181Z",
+  "first_scraped": "2026-03-20T10:19:04.181Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Memory improvement, Vision improvement, Faster recall, Better price, Full effect, Blood pressure, Highly recommend, Clean product.",
+    "tags": [
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vision improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Faster recall",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Full effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Eyesight problems",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:04.181Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

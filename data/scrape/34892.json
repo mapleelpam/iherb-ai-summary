@@ -1,0 +1,68 @@
+{
+  "iherb_id": 34892,
+  "last_updated": "2026-03-20T09:27:46.834Z",
+  "first_scraped": "2026-03-20T09:27:46.834Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Affordable option, Individually sealed, Joint pain, Boost serotonin, Good value pack, Improved mood, Easy to swallow, Uplifting effect. Some note: Trial and error, Life saver.",
+    "tags": [
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Individually sealed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost serotonin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good value pack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Uplifting effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trial and error",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Life saver",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:46.834Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

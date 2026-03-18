@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9327,
+  "last_updated": "2026-03-20T10:24:40.720Z",
+  "first_scraped": "2026-03-20T10:24:40.720Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stress support, Natural energy, Energy support, No burpy after, Easy to digest, Energized feeling, Adrenal support, Effective energy. Some note: Good adaptogen.",
+    "tags": [
+      {
+        "name": "Stress support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No burpy after",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to digest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energized feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adrenal support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good adaptogen",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Tired",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:40.720Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

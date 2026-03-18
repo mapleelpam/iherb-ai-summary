@@ -1,0 +1,68 @@
+{
+  "iherb_id": 54591,
+  "last_updated": "2026-03-20T09:23:46.599Z",
+  "first_scraped": "2026-03-20T09:23:46.599Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hard to notice, Natural supplement, Works for myoma, Lighter periods, Effective ingredient, Hormonal balance, Small capsules, Inner health.",
+    "tags": [
+      {
+        "name": "Hard to notice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for myoma",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lighter periods",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormonal balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inner health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher GST",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stopped taking",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:46.599Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

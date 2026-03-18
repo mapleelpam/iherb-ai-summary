@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77390,
+  "last_updated": "2026-03-20T10:08:19.553Z",
+  "first_scraped": "2026-03-20T10:08:19.553Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Anti-aging benefits, Convenient combination, Fast shipping, Recommended products, Heart health, Boost health, Lower price. Some note: No aftertaste, Helps heart.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-aging benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended products",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helps heart",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:19.553Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

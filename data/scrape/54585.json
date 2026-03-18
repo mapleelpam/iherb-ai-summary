@@ -1,0 +1,68 @@
+{
+  "iherb_id": 54585,
+  "last_updated": "2026-03-20T10:06:06.380Z",
+  "first_scraped": "2026-03-20T10:06:06.380Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Better price, Natural energy, Digestive system, Weight loss, Energy boost, Effective supplement, Easy to take, Great results. Some note: Many benefits.",
+    "tags": [
+      {
+        "name": "Better price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weak formula",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Many benefits",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:06.380Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39208,
+  "last_updated": "2026-03-20T09:45:07.541Z",
+  "first_scraped": "2026-03-20T09:45:07.541Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Amazing improvement, Good additive, Good taste, Tastes good, Continue taking, Easy absorption, Joint help, Reduced knee pain.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Continue taking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced knee pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes horrible",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:07.541Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

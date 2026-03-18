@@ -1,0 +1,68 @@
+{
+  "iherb_id": 29035,
+  "last_updated": "2026-03-20T09:29:00.327Z",
+  "first_scraped": "2026-03-20T09:29:00.327Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this, Wonderful service, Real aloe, Natural taste, Good taste, Pleasant taste, Nice gel, Thick consistency. Some note: Beneficial product, Super nice.",
+    "tags": [
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wonderful service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real aloe",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice gel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thick consistency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Super nice",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:00.327Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

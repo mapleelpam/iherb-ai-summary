@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22427,
+  "last_updated": "2026-03-20T09:25:56.346Z",
+  "first_scraped": "2026-03-20T09:25:56.346Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Arrived fast, Benefit awesome, Good result, Convenient dosage, Better than before, Lower dosage, Trusted brand, Boosts immunity. Some note: Natural ingredients.",
+    "tags": [
+      {
+        "name": "Arrived fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit awesome",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better than before",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:56.346Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

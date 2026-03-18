@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2081,
+  "last_updated": "2026-03-20T09:56:00.141Z",
+  "first_scraped": "2026-03-20T09:56:00.141Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fantastic remedy, Great blend, Kept going, Speed up recovery, Large pills, Miracle coat, Boosts immunity, Not gotten sick. Some note: Keeps healthy, Easy to take.",
+    "tags": [
+      {
+        "name": "Fantastic remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kept going",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speed up recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Miracle coat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not gotten sick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps healthy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:56:00.141Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

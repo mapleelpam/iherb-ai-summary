@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32378,
+  "last_updated": "2026-03-20T10:03:31.467Z",
+  "first_scraped": "2026-03-20T10:03:31.467Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps hot flashes, Affordable supplements, Great results, Reduces pain, Relief of night sweats, Helps with, Well packed, Balancing hormones. Some note: Seems fine.",
+    "tags": [
+      {
+        "name": "Helps hot flashes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable supplements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief of night sweats",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balancing hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Headache",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Seems fine",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:31.467Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

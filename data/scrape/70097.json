@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70097,
+  "last_updated": "2026-03-20T09:53:36.452Z",
+  "first_scraped": "2026-03-20T09:53:36.452Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hot flashes, Excessive sweating, Reducing perspiration, Life changer, Relieves headaches, Healing properties, Immunity support, Helped massively.",
+    "tags": [
+      {
+        "name": "Hot flashes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excessive sweating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reducing perspiration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves headaches",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healing properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped massively",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thujone side effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No benefit",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:36.452Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

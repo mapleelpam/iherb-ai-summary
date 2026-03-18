@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105833,
+  "last_updated": "2026-03-20T10:28:59.439Z",
+  "first_scraped": "2026-03-20T10:28:59.439Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great option, Skin clearer, Trust nordic naturals, Worth it, Rarely find, Clean ingredients, Good effects, High potency.",
+    "tags": [
+      {
+        "name": "Great option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin clearer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust nordic naturals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rarely find",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cost excessive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fill up",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:59.439Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

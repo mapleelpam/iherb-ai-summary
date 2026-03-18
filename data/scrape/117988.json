@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117988,
+  "last_updated": "2026-03-20T10:14:44.814Z",
+  "first_scraped": "2026-03-20T10:14:44.814Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Strong package, Cost-effective option, Helpful product, Reduced stress, Relax and deal, Natural support, Anxiety relief, Keeps returning. Some note: No difference.",
+    "tags": [
+      {
+        "name": "Strong package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cost-effective option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relax and deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps returning",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bad smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:44.814Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105829,
+  "last_updated": "2026-03-20T10:15:42.819Z",
+  "first_scraped": "2026-03-20T10:15:42.819Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Kid friendly, Clean ingredients, Love product, Kids love, Effective blend, Fast acting, Amazing sleep, Helps sleep. Some note: Great help.",
+    "tags": [
+      {
+        "name": "Kid friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast acting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great help",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant texture",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:42.819Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

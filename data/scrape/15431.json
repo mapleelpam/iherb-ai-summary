@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15431,
+  "last_updated": "2026-03-20T10:10:20.186Z",
+  "first_scraped": "2026-03-20T10:10:20.186Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Vegetable capsules, Love this product, Reduction in bloating, Good price, Natural diuretic, Very satisfied, Effective plant-based, Increases frequency. Some note: No effect.",
+    "tags": [
+      {
+        "name": "Vegetable capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduction in bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural diuretic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective plant-based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increases frequency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Disappointed product",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:20.186Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

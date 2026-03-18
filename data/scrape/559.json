@@ -1,0 +1,68 @@
+{
+  "iherb_id": 559,
+  "last_updated": "2026-03-20T10:18:59.168Z",
+  "first_scraped": "2026-03-20T10:18:59.168Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good energy, Iron-free benefit, Energy mood, Sustained energy, Easy swallow, No iron, Working good, Detox skin.",
+    "tags": [
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Iron-free benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustained energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No iron",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Working good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High vitamin b6",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Upset stomach",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:59.168Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

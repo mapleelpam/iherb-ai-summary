@@ -1,0 +1,68 @@
+{
+  "iherb_id": 36574,
+  "last_updated": "2026-03-20T10:11:21.583Z",
+  "first_scraped": "2026-03-20T10:11:21.583Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Rich chocolate taste, Love this, Solid flavor, Protein goals, Tastes good, Muscle building, Mixes well, Plant-based protein.",
+    "tags": [
+      {
+        "name": "Rich chocolate taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Solid flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protein goals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle building",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant-based protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chalky taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Grainy texture",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:21.583Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

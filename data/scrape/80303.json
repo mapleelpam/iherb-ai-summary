@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80303,
+  "last_updated": "2026-03-20T10:09:17.567Z",
+  "first_scraped": "2026-03-20T10:09:17.567Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Therapeutic grade, Worth the price, Clear acne, More alert, Heart health, Effective supplement, Effective additive, Longevity benefits, Slow PSA.",
+    "tags": [
+      {
+        "name": "Therapeutic grade",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth the price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear acne",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More alert",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Longevity benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow PSA",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive, longer",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:17.567Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

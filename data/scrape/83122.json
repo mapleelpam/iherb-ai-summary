@@ -1,0 +1,68 @@
+{
+  "iherb_id": 83122,
+  "last_updated": "2026-03-20T09:37:52.711Z",
+  "first_scraped": "2026-03-20T09:37:52.711Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes amazing, Alcohol-free, Good taste, Promote relaxation, Natural ingredients, Immune booster, Calming effect, Natural miracle. Some note: Not sure, Relaxing formula.",
+    "tags": [
+      {
+        "name": "Tastes amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alcohol-free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Promote relaxation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural miracle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Relaxing formula",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:52.711Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 40563,
+  "last_updated": "2026-03-20T09:52:08.268Z",
+  "first_scraped": "2026-03-20T09:52:08.268Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Avoid antibiotics, Incredible relief, Easy to take, UTI relief, Reliable supplement, Great result, Works fast, Convenient package.",
+    "tags": [
+      {
+        "name": "Avoid antibiotics",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Incredible relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "UTI relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not helping",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Changed formula",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:08.268Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

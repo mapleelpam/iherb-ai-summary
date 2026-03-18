@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115368,
+  "last_updated": "2026-03-20T10:18:22.912Z",
+  "first_scraped": "2026-03-20T10:18:22.912Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hormone balance, Helps balance, Easy to swallow, More energy, Boost immune, Reproductive health, Less breakouts, Great supplement. Some note: Inconsistent results.",
+    "tags": [
+      {
+        "name": "Hormone balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reproductive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less breakouts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Inconsistent results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:22.912Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

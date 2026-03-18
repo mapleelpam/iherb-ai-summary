@@ -1,0 +1,68 @@
+{
+  "iherb_id": 49055,
+  "last_updated": "2026-03-20T09:40:18.782Z",
+  "first_scraped": "2026-03-20T09:40:18.782Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin improvement, Tastes delicious, Helps skin, Good taste, Delicious candy, Helpful review, Hair improvement, Nice good.",
+    "tags": [
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious candy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful review",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sticky texture",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:18.782Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

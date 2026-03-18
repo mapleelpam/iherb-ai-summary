@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120121,
+  "last_updated": "2026-03-20T10:27:40.842Z",
+  "first_scraped": "2026-03-20T10:27:40.842Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good scent, Prepped, primed, Effective blend, Great flavor, Good energy, Promising ingredients, Improved training, Extra kick.",
+    "tags": [
+      {
+        "name": "Good scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prepped, primed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Promising ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved training",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra kick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Medicated cherry",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tastes bad",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:40.842Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

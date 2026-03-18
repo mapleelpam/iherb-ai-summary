@@ -1,0 +1,68 @@
+{
+  "iherb_id": 46317,
+  "last_updated": "2026-03-20T09:38:18.230Z",
+  "first_scraped": "2026-03-20T09:38:18.230Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Visible growth, Well packaged, Stronger hair, Boosts growth, Easy to drink, Good results, Effective supplement, Works great. Some note: Great for keeping, Visible results.",
+    "tags": [
+      {
+        "name": "Visible growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for keeping",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Visible results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:18.230Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

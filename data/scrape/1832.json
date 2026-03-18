@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1832,
+  "last_updated": "2026-03-20T09:47:21.069Z",
+  "first_scraped": "2026-03-20T09:47:21.069Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice price, Urinary health, Helps UTI, Easy separation, Cheaper than amazon, Helping product, Works for me, Bladder support. Some note: Vegan capsules, Daily supplement.",
+    "tags": [
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Urinary health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps UTI",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy separation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheaper than amazon",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helping product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bladder support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan capsules",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Daily supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:21.069Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104048,
+  "last_updated": "2026-03-20T09:50:14.091Z",
+  "first_scraped": "2026-03-20T09:50:14.091Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to use, Excellent additive, Potent blend, More energy, Great support, Complete ingredients, Vegan product, Easy to swallow. Some note: More peppy.",
+    "tags": [
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More peppy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Medium sized pills",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:14.091Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

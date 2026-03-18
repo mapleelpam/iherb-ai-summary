@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113498,
+  "last_updated": "2026-03-20T09:53:07.290Z",
+  "first_scraped": "2026-03-20T09:53:07.290Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good amount, Effective protein, Trusted brand, Thicker hair, Clean supplement, Smooth recovery, Improved skin, Easy to mix.",
+    "tags": [
+      {
+        "name": "Good amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thicker hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weird taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Strong flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:07.290Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

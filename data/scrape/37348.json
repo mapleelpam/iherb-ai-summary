@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37348,
+  "last_updated": "2026-03-20T09:27:39.088Z",
+  "first_scraped": "2026-03-20T09:27:39.088Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast relief, Fast shipping, Effective vitamin, Beneficial for joints, Support bone, Great benefits, Great source, Quick improvement. Some note: Good for age.",
+    "tags": [
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial for joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support bone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Little benefit",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good for age",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:39.088Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

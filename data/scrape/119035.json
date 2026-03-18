@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119035,
+  "last_updated": "2026-03-20T10:14:06.291Z",
+  "first_scraped": "2026-03-20T10:14:06.291Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean ingredient, Filling bar, Delicious and filling, Increased protein, Tastes great, Crunchy texture, Delicious protein, Amazing macros.",
+    "tags": [
+      {
+        "name": "Clean ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Filling bar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious and filling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Crunchy texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing macros",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Artificial aftertaste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:06.291Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

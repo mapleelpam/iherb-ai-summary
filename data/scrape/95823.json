@@ -1,0 +1,68 @@
+{
+  "iherb_id": 95823,
+  "last_updated": "2026-03-20T10:28:21.700Z",
+  "first_scraped": "2026-03-20T10:28:21.700Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great energy, Gets me, Plenty energy, Good scent, Energy rush, Explosive energy, Amazing taste, Tasty twist.",
+    "tags": [
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gets me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plenty energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy rush",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Explosive energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty twist",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No weight loss",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:21.700Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

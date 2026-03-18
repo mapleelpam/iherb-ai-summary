@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116351,
+  "last_updated": "2026-03-20T10:02:57.404Z",
+  "first_scraped": "2026-03-20T10:02:57.404Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Eye health, Skin benefits, More resistant, Competitive price, Moist eyes, Good ingredients, Extra zeaxanthin, Affordable option. Some note: Long term, Vision support.",
+    "tags": [
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More resistant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Competitive price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moist eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra zeaxanthin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long term",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Vision support",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:57.404Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9443,
+  "last_updated": "2026-03-20T10:03:53.690Z",
+  "first_scraped": "2026-03-20T10:03:53.690Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune system, Worth every penny, Life-changing, Right dosage, Easy to swallow, Cost-effective capsules, Tiny gelcap, Boost immunity. Some note: Different source.",
+    "tags": [
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth every penny",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life-changing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Right dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cost-effective capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiny gelcap",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Different source",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sticky bottle",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:53.690Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

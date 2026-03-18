@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67344,
+  "last_updated": "2026-03-20T09:37:28.756Z",
+  "first_scraped": "2026-03-20T09:37:28.756Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love the flavor, High potency, Trusted brand, Good taste, Immune system, Soft texture, Tasty and sugary, Easy intake.",
+    "tags": [
+      {
+        "name": "Love the flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soft texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty and sugary",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy intake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Upset stomach",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:28.756Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13653,
+  "last_updated": "2026-03-20T10:23:34.520Z",
+  "first_scraped": "2026-03-20T10:23:34.520Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective cleanse, Feel good, Detoxing body, Mercury levels, High levels, Doctor suggested, Metal binding, Crohn's management.",
+    "tags": [
+      {
+        "name": "Effective cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detoxing body",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mercury levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doctor suggested",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Metal binding",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Crohn's management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not much pectin",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Wasted money",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:34.520Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

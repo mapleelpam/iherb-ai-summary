@@ -1,0 +1,68 @@
+{
+  "iherb_id": 90201,
+  "last_updated": "2026-03-20T10:13:43.254Z",
+  "first_scraped": "2026-03-20T10:13:43.254Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Low sugar, Chocolate taste, Very satisfied, High protein, Packed with protein, Peanut butter flavor, Brand obsession. Some note: Healthy option.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chocolate taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Packed with protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Peanut butter flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brand obsession",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Price concern",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Healthy option",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:43.254Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

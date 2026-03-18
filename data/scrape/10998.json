@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10998,
+  "last_updated": "2026-03-20T10:32:14.717Z",
+  "first_scraped": "2026-03-20T10:32:14.717Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Relaxing sleep, Wind down, Tea aid, Natural therapy, Better sleep, Anxiety relief, Calming effect, Prompt service. Some note: Not opened, Start slowly.",
+    "tags": [
+      {
+        "name": "Relaxing sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wind down",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tea aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural therapy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not opened",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Start slowly",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:14.717Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

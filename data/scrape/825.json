@@ -1,0 +1,68 @@
+{
+  "iherb_id": 825,
+  "last_updated": "2026-03-20T09:22:16.597Z",
+  "first_scraped": "2026-03-20T09:22:16.597Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin glow, Great source, Huge bottle, Big size, Moisturizing oil, Highly recommend, Excellent additive, Good energy.",
+    "tags": [
+      {
+        "name": "Skin glow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Huge bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moisturizing oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Smells awful",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:16.597Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

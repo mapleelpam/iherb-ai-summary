@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4214,
+  "last_updated": "2026-03-20T09:25:39.656Z",
+  "first_scraped": "2026-03-20T09:25:39.656Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Much improvement, Good immune booster, Good balance, Natural antibiotic, Cold prevention, Great results, Antibiotic supplement. Some note: Easy to swallow, Better gut.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Much improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural antibiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cold prevention",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antibiotic supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Better gut",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:39.656Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

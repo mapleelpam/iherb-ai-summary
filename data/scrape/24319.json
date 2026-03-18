@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24319,
+  "last_updated": "2026-03-20T10:17:34.682Z",
+  "first_scraped": "2026-03-20T10:17:34.682Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, More energy, More active, Convenient dose, Less susceptible, Energy levels, Cellular energy, Effective energy.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More active",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less susceptible",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cellular energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large tablets",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Body aches",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:34.682Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13978,
+  "last_updated": "2026-03-20T09:47:43.462Z",
+  "first_scraped": "2026-03-20T09:47:43.462Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reduced inflammation, Must buy, Reliable service, Overall health, Great binder, Happy with, Detox support, Easy dosage. Some note: Good package.",
+    "tags": [
+      {
+        "name": "Reduced inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Must buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great binder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wasted money",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:43.462Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

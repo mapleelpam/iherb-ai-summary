@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114171,
+  "last_updated": "2026-03-20T10:02:32.008Z",
+  "first_scraped": "2026-03-20T10:02:32.008Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Noticeable difference, Good package, Convenient and easy, Trusted brand, Slowly melts, More energetic, Pleasant taste, Less fatigue. Some note: Enjoy their flavor.",
+    "tags": [
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient and easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slowly melts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less fatigue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enjoy their flavor",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sleepy after",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:32.008Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 63180,
+  "last_updated": "2026-03-20T09:36:41.559Z",
+  "first_scraped": "2026-03-20T09:36:41.559Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Master antioxidant, Better digestion, Natural supplement, Skin improvement, Healthy combination, Detox protocol, Easy to swallow, Powerful combination. Some note: Convenient intake.",
+    "tags": [
+      {
+        "name": "Master antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox protocol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Menstrual period",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Convenient intake",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:41.559Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

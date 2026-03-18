@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5205,
+  "last_updated": "2026-03-20T10:17:23.521Z",
+  "first_scraped": "2026-03-20T10:17:23.521Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works wonders, Helps menopause, Fast shipping, Stop smoking, Easy to use, Hormonal balance, Sleeping better, Hot flashes disappeared. Some note: Small dose.",
+    "tags": [
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps menopause",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stop smoking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormonal balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleeping better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hot flashes disappeared",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Misleading label",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Small dose",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:23.521Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

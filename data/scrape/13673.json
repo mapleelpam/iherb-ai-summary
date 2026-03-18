@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13673,
+  "last_updated": "2026-03-20T09:30:20.515Z",
+  "first_scraped": "2026-03-20T09:30:20.515Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Combat winter, Easy swallow, High potency, Non-acidic, Antioxidants help, Throat pain, Great supplement, Well formulated product. Some note: Large capsules, Value for money.",
+    "tags": [
+      {
+        "name": "Combat winter",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Non-acidic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidants help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Throat pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well formulated product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large capsules",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:20.515Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

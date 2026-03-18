@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97385,
+  "last_updated": "2026-03-20T09:31:07.602Z",
+  "first_scraped": "2026-03-20T09:31:07.602Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved sleep, Fast shipping, Dissolves easily, Taste ok, Effective supplement, No taste, Works beautifully, Lab tested. Some note: Easy to use, Rare find.",
+    "tags": [
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste ok",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works beautifully",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lab tested",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Rare find",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:07.602Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

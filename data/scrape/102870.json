@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102870,
+  "last_updated": "2026-03-20T10:38:03.074Z",
+  "first_scraped": "2026-03-20T10:38:03.074Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Awesome electrolyte, Tastes excellent, Healthy brand, Sweet taste, Great hydration, Powerful workout, Love love love, Mix well. Some note: List of ingredients.",
+    "tags": [
+      {
+        "name": "Awesome electrolyte",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes excellent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love love love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mix well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bitter aftertaste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "List of ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:38:03.074Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

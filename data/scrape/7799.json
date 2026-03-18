@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7799,
+  "last_updated": "2026-03-20T09:38:43.824Z",
+  "first_scraped": "2026-03-20T09:38:43.824Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Efficient packaging, High dose omega, Improved well-being, Best flavor, Pleasant flavor, Tastes great, Effective supplement. Some note: Easy to consume, Enjoyed product.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose omega",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved well-being",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to consume",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Enjoyed product",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:43.824Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109006,
+  "last_updated": "2026-03-20T09:21:54.838Z",
+  "first_scraped": "2026-03-20T09:21:54.838Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy swallow, Bioavailable zinc, Boost immune, Immunity support, High dose, Good energy, Hair improvement, Effective supplement. Some note: Fast recovery.",
+    "tags": [
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioavailable zinc",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Question brand",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fast recovery",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:54.838Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

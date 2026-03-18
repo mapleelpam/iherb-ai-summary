@@ -1,0 +1,68 @@
+{
+  "iherb_id": 41219,
+  "last_updated": "2026-03-20T10:18:43.142Z",
+  "first_scraped": "2026-03-20T10:18:43.142Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved focus, Memory enhancement, Small size, Best price, Brain support, Value purchase, Noticeable enhancement, Benefit leaves, Affordable option.",
+    "tags": [
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory enhancement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable enhancement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit leaves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach full",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:43.142Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

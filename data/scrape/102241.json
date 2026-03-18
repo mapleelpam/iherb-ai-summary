@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102241,
+  "last_updated": "2026-03-20T09:34:17.378Z",
+  "first_scraped": "2026-03-20T09:34:17.378Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Love this, Effective brand, Immune support, Great combination, Working great, Daily usage, Antioxidant benefits. Some note: High CP rate.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Working great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily usage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not correct",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High CP rate",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:17.378Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

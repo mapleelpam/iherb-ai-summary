@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15518,
+  "last_updated": "2026-03-20T09:31:24.999Z",
+  "first_scraped": "2026-03-20T09:31:24.999Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy absorbable, Enhanced bioavailability, Muscle relaxation, Chelated magnesium, Constipation relief, Very happy, Pain relief, Effective supplement. Some note: Suitable for vegetarians, Big pill.",
+    "tags": [
+      {
+        "name": "Easy absorbable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced bioavailability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle relaxation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chelated magnesium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Constipation relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suitable for vegetarians",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Big pill",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:24.999Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

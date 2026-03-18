@@ -1,0 +1,68 @@
+{
+  "iherb_id": 112612,
+  "last_updated": "2026-03-20T10:18:03.403Z",
+  "first_scraped": "2026-03-20T10:18:03.403Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small size, Simple packaging, Unique flavor, Yummy gummies, Fast shipping, Convenient support, Great flavor, Great results. Some note: Takes time, Taste ok.",
+    "tags": [
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Simple packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Takes time",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Taste ok",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:03.403Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

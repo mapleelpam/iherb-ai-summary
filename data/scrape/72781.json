@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72781,
+  "last_updated": "2026-03-20T10:20:35.021Z",
+  "first_scraped": "2026-03-20T10:20:35.021Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Cleaner source, Clean ingredients, Pain relief, Energy boost, Pairing benefits, Brain health, Valuable ingredient, Joint pain, Effective supplement.",
+    "tags": [
+      {
+        "name": "Cleaner source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pairing benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Valuable ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No benefits",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:35.021Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106735,
+  "last_updated": "2026-03-20T09:40:57.452Z",
+  "first_scraped": "2026-03-20T09:40:57.452Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reduced inflammation, Good stuff, Antioxidant benefits, Easy to swallow, Skin improvement, Important form, Phenomenal product, Improved energy. Some note: Impressive supplement, Full spectrum.",
+    "tags": [
+      {
+        "name": "Reduced inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Important form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Phenomenal product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressive supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Full spectrum",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:57.452Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

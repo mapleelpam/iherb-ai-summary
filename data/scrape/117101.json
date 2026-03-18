@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117101,
+  "last_updated": "2026-03-20T10:19:32.429Z",
+  "first_scraped": "2026-03-20T10:19:32.429Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes good, Energy boost, Good taste, Plant-based protein, Clean ingredients, Number one choice, Great vegan option, Creamy flavor.",
+    "tags": [
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant-based protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Number one choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great vegan option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Creamy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weird chocolate flavor",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tribal taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:32.429Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

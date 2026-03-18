@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8568,
+  "last_updated": "2026-03-20T09:50:41.465Z",
+  "first_scraped": "2026-03-20T09:50:41.465Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Chewy tablets, Boosts immunity, Taste good, Yummy flavor, Natural ingredients, Easy to chew, Provides energy, High potency form. Some note: Bubble wrap, Big tablets.",
+    "tags": [
+      {
+        "name": "Chewy tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to chew",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Provides energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bubble wrap",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Big tablets",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:41.465Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

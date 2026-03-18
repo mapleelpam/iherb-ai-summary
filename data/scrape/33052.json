@@ -1,0 +1,68 @@
+{
+  "iherb_id": 33052,
+  "last_updated": "2026-03-20T10:14:39.030Z",
+  "first_scraped": "2026-03-20T10:14:39.030Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increases vitality, Blood levels, Happy with purchase, High concentration, High dose, Great dosage, Convenient dosage, Bone density. Some note: Menatetrenone form.",
+    "tags": [
+      {
+        "name": "Increases vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone density",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart palpitations",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Menatetrenone form",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:39.030Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

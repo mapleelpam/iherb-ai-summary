@@ -1,0 +1,68 @@
+{
+  "iherb_id": 16756,
+  "last_updated": "2026-03-20T09:20:21.989Z",
+  "first_scraped": "2026-03-20T09:20:21.989Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Loved it, Easy to swallow, Great supplement, Stronger nails, Not sure, Visible improvement, Skin improvement, Good ingredients. Some note: Visible results.",
+    "tags": [
+      {
+        "name": "Loved it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Visible improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not wow",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Visible results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:21.989Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

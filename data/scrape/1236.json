@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1236,
+  "last_updated": "2026-03-20T10:19:33.470Z",
+  "first_scraped": "2026-03-20T10:19:33.470Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great stress, Feel great, Less stress, Natural calm, Less lethargic, Levels off, Delivery on time, Helps focus.",
+    "tags": [
+      {
+        "name": "Great stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural calm",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less lethargic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Levels off",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delivery on time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too much",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Wrong b12",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:33.470Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97969,
+  "last_updated": "2026-03-20T10:15:37.949Z",
+  "first_scraped": "2026-03-20T10:15:37.949Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, More energy, Trusted brand, Boost testosterone, Enhance effectiveness, High dosage, Best combo, Good ingredients.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost testosterone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhance effectiveness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Questionable additions",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No real benefit",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:37.949Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

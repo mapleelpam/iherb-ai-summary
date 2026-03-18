@@ -1,0 +1,68 @@
+{
+  "iherb_id": 592,
+  "last_updated": "2026-03-20T09:30:53.142Z",
+  "first_scraped": "2026-03-20T09:30:53.142Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Upset stomach, Blood pressure, Digestive health, Natural remedy, Convenient way, Improves digestion, Smells like ginger, Clean ingredients. Some note: Good for stomach, No improvement.",
+    "tags": [
+      {
+        "name": "Upset stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smells like ginger",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for stomach",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:53.142Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

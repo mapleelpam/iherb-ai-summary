@@ -1,0 +1,68 @@
+{
+  "iherb_id": 46040,
+  "last_updated": "2026-03-20T09:22:01.130Z",
+  "first_scraped": "2026-03-20T09:22:01.130Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean ingredients, Easy to swallow, Boost energy, Trust brand, Immune support, Improved mood, Reputable brand, Small size pills. Some note: Trust thorne, Balanced thyroid.",
+    "tags": [
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reputable brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust thorne",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Balanced thyroid",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:01.130Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

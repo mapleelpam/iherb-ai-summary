@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43718,
+  "last_updated": "2026-03-20T09:25:53.321Z",
+  "first_scraped": "2026-03-20T09:25:53.321Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No aftertaste, Joint pain, Good source, Impressive boost, Small pill, Proven effectiveness, Improved health, Easy to swallow. Some note: No taste.",
+    "tags": [
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressive boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small pill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Proven effectiveness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Contains soy",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:53.321Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

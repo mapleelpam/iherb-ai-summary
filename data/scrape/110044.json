@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110044,
+  "last_updated": "2026-03-20T09:53:29.635Z",
+  "first_scraped": "2026-03-20T09:53:29.635Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Parasite cleanse, Maintenance pill, Improvement in digestion, Strong antimicrobian, Highly recommend, Good ingredients, Effective supplement, Potent herb. Some note: Cleans stomach.",
+    "tags": [
+      {
+        "name": "Parasite cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintenance pill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong antimicrobian",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Cleans stomach",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:29.635Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

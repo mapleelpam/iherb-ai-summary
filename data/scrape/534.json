@@ -1,0 +1,68 @@
+{
+  "iherb_id": 534,
+  "last_updated": "2026-03-20T09:33:56.407Z",
+  "first_scraped": "2026-03-20T09:33:56.407Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Maintaining brain health, Easy to swallow, Fast shipping, Non GMO, Good package, Cognitive function, No aftertaste, Eye doctor. Some note: Effective DHA, Supports cognition.",
+    "tags": [
+      {
+        "name": "Maintaining brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Non GMO",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cognitive function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye doctor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective DHA",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Supports cognition",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:56.407Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

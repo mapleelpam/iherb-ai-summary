@@ -1,0 +1,68 @@
+{
+  "iherb_id": 64700,
+  "last_updated": "2026-03-20T10:25:33.305Z",
+  "first_scraped": "2026-03-20T10:25:33.305Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, More energetic, Small pills, Enabled me, Minimal packaging, Good for brain, Convenient form, Increase in energy.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enabled me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Minimal packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for brain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase in energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid with vitamin C",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Avoid C",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:33.305Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

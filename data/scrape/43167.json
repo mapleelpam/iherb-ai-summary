@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43167,
+  "last_updated": "2026-03-20T09:34:29.010Z",
+  "first_scraped": "2026-03-20T09:34:29.010Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Excited to use, Energy boost, Digestion support, Detoxification support, Improvement noticed, Skin better, Reduced body odor, Neutralized odor.",
+    "tags": [
+      {
+        "name": "Excited to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detoxification support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced body odor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutralized odor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach bloating",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not favorite",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:29.010Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71865,
+  "last_updated": "2026-03-20T09:55:15.350Z",
+  "first_scraped": "2026-03-20T09:55:15.350Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy booster, Hair growth, Boosting immunity, Great benefits, Mental clarity, High potency, Good additive, More energy, Supports fertility. Some note: Effective supplement.",
+    "tags": [
+      {
+        "name": "Energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports fertility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:15.350Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

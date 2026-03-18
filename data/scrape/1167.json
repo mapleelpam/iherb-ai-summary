@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1167,
+  "last_updated": "2026-03-20T10:00:06.858Z",
+  "first_scraped": "2026-03-20T10:00:06.858Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Happy with the product, Calming effect, Good sleep, Natural solution, Great communication, Convenient option, Budget-friendly choice, Control dose. Some note: Helps recovery.",
+    "tags": [
+      {
+        "name": "Happy with the product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great communication",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Budget-friendly choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Helps recovery",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:06.858Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

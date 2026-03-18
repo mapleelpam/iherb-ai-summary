@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48279,
+  "last_updated": "2026-03-20T09:55:16.408Z",
+  "first_scraped": "2026-03-20T09:55:16.408Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good probiotic, Fast shipping, Worth a try, Feels better, Improvement felt, Trusted brand, Reduce heartburns, Works great. Some note: Immune boost, Not sure.",
+    "tags": [
+      {
+        "name": "Good probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth a try",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feels better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement felt",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce heartburns",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune boost",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:16.408Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

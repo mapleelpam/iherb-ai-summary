@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2892,
+  "last_updated": "2026-03-20T10:33:44.818Z",
+  "first_scraped": "2026-03-20T10:33:44.818Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Freeze dried, Good for, Fast shipping, Trustable source, Overall health, Heart health, No fillers, Support heart.",
+    "tags": [
+      {
+        "name": "Freeze dried",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trustable source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fillers",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart palpitations",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:33:44.818Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

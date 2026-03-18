@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14401,
+  "last_updated": "2026-03-20T10:02:23.968Z",
+  "first_scraped": "2026-03-20T10:02:23.968Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: New energy, Natural ingredients, Improved sleep, Immediate benefits, Winter months, Works fine, Effective alternative, Keeps asleep.",
+    "tags": [
+      {
+        "name": "New energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Winter months",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No benefits",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No noticeable effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:23.968Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

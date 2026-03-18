@@ -1,0 +1,68 @@
+{
+  "iherb_id": 429,
+  "last_updated": "2026-03-20T09:28:48.478Z",
+  "first_scraped": "2026-03-20T09:28:48.478Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pain relief, Joint flexibility, Fast shipping, Turmeric boost, Improves well-being, Finger pain help, Great supplement, Headaches gone. Some note: No change.",
+    "tags": [
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint flexibility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Turmeric boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves well-being",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Finger pain help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Headaches gone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle spasms",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:48.478Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 126704,
+  "last_updated": "2026-03-20T09:41:04.164Z",
+  "first_scraped": "2026-03-20T09:41:04.164Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very satisfied, Works great, Good alternative, Easy to swallow, Maintains water balance, Good ingredients, Improvement noticed, Good potassium. Some note: No change, Delivered on time.",
+    "tags": [
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintains water balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good potassium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Delivered on time",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:04.164Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

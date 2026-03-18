@@ -1,0 +1,68 @@
+{
+  "iherb_id": 138696,
+  "last_updated": "2026-03-20T09:50:55.193Z",
+  "first_scraped": "2026-03-20T09:50:55.193Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty coffee, Test feel, Kids love, Increased energy, Sweet taste, Clean and delicious, Delicious flavor, Good taste. Some note: Love this product, Mocha taste.",
+    "tags": [
+      {
+        "name": "Tasty coffee",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Test feel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean and delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Mocha taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:55.193Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

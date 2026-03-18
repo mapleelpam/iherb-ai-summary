@@ -1,0 +1,68 @@
+{
+  "iherb_id": 74637,
+  "last_updated": "2026-03-20T10:04:19.943Z",
+  "first_scraped": "2026-03-20T10:04:19.943Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Feel good, Pure enzymes, Telomere health, Fast shipment, Increased energy, Cellular health, Nice supplement. Some note: Value for money.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure enzymes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Telomere health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cellular health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive but",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:19.943Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

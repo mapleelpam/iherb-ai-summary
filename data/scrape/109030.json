@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109030,
+  "last_updated": "2026-03-20T09:55:46.675Z",
+  "first_scraped": "2026-03-20T09:55:46.675Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Uric acid, Muscle relief, Joint relief, Better sleep, Pain management, Detox benefits, Alleviate joint pain, Science backed. Some note: Fast shipping, Melatonin source.",
+    "tags": [
+      {
+        "name": "Uric acid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alleviate joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Science backed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Melatonin source",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:46.675Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

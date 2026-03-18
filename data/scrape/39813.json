@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39813,
+  "last_updated": "2026-03-20T09:27:24.112Z",
+  "first_scraped": "2026-03-20T09:27:24.112Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune health, Value product, Good dosage, Good stuff, Good benefit, Children liked, Easy to use, Fast shipping.",
+    "tags": [
+      {
+        "name": "Immune health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Children liked",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Misleading packaging",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Lower vit d3",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:24.112Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

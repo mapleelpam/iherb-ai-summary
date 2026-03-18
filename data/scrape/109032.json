@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109032,
+  "last_updated": "2026-03-20T09:39:52.577Z",
+  "first_scraped": "2026-03-20T09:39:52.577Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works great, Kidney stones, Natural juice, Supports UT health, Easy to swallow, Taste ok, Urinary tract, Good ingredients. Some note: Affordable option, Good taste.",
+    "tags": [
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kidney stones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural juice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports UT health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste ok",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Urinary tract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:52.577Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

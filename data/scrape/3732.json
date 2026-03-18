@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3732,
+  "last_updated": "2026-03-20T10:02:20.084Z",
+  "first_scraped": "2026-03-20T10:02:20.084Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High recommend, Sleeping well, Effective herb, T levels, Feel good feeling, Improves mood, Energizing effects, Moody refreshing. Some note: Top choice, Minimal impact.",
+    "tags": [
+      {
+        "name": "High recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleeping well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "T levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energizing effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moody refreshing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top choice",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Minimal impact",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:20.084Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

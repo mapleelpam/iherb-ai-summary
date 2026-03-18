@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116285,
+  "last_updated": "2026-03-20T10:07:40.843Z",
+  "first_scraped": "2026-03-20T10:07:40.843Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mind-blowing, magic, Hip relief, Clean packaging, No side effects, Helps with concentration, Gentle touch, Sore ankle pain, Control chronic reaction, Easy to swallow. Some note: Fast swallow.",
+    "tags": [
+      {
+        "name": "Mind-blowing, magic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hip relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle touch",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sore ankle pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control chronic reaction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast swallow",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:40.843Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

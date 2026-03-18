@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119036,
+  "last_updated": "2026-03-20T09:40:43.566Z",
+  "first_scraped": "2026-03-20T09:40:43.566Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Crunchy texture, Easy and delicious, Good ingredients, Low calorie, Delicious taste, High protein, Great snack, Creamy filling. Some note: Tasty bar.",
+    "tags": [
+      {
+        "name": "Crunchy texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy and delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low calorie",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Creamy filling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty bar",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strong aftertaste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:43.566Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

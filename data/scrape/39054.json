@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39054,
+  "last_updated": "2026-03-20T09:58:05.890Z",
+  "first_scraped": "2026-03-20T09:58:05.890Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Liquid form, Joint health, Less dry, Helped knees, Noticeable difference, Berry taste, Absorbs quickly, Reduces pain. Some note: Tasty flavor, Love this product.",
+    "tags": [
+      {
+        "name": "Liquid form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less dry",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped knees",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Berry taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorbs quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty flavor",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:05.890Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

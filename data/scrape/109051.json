@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109051,
+  "last_updated": "2026-03-20T10:17:27.576Z",
+  "first_scraped": "2026-03-20T10:17:27.576Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Recommend to, Boosts immunity, Stopped disease, Effective protection, Good effects, Immune support, Strong immune, Significant improvements, Fast shipping. Some note: Tiny bottle.",
+    "tags": [
+      {
+        "name": "Recommend to",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped disease",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Significant improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiny bottle",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:27.576Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

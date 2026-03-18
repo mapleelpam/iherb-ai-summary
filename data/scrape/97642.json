@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97642,
+  "last_updated": "2026-03-20T09:55:15.350Z",
+  "first_scraped": "2026-03-20T09:55:15.350Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great packing, Great option, Skin benefits, Joint relief, Energy boost, Trusted brand, Great combination, Pain relief.",
+    "tags": [
+      {
+        "name": "Great packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach burn",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too large",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:15.350Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118199,
+  "last_updated": "2026-03-20T10:04:00.581Z",
+  "first_scraped": "2026-03-20T10:04:00.581Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Absorb well, Works great, Blood sugar, More energy, Effective supply, Brain support, Sciatica relief, High potency, Liver supplement, Nerve health.",
+    "tags": [
+      {
+        "name": "Absorb well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sciatica relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nerve health",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:00.581Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

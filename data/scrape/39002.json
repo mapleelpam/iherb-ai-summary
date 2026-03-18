@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39002,
+  "last_updated": "2026-03-20T10:00:46.710Z",
+  "first_scraped": "2026-03-20T10:00:46.710Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No sleep issues, Tastes great, Effective BCAA, Sweet taste, Good results, Refreshed feeling, Pre/post workout, Lean mass.",
+    "tags": [
+      {
+        "name": "No sleep issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective BCAA",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshed feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pre/post workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lean mass",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not necessary",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:46.710Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

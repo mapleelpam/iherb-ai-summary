@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14500,
+  "last_updated": "2026-03-20T10:12:29.318Z",
+  "first_scraped": "2026-03-20T10:12:29.318Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Life changer, Health improved, Works great, Symptoms gone, Grateful, Confidence boost, Progress with mood, Less severe.",
+    "tags": [
+      {
+        "name": "Life changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Symptoms gone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Grateful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Confidence boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Progress with mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less severe",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excessive zinc",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Nausea worse",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:29.318Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

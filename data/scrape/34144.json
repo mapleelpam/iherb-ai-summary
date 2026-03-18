@@ -1,0 +1,68 @@
+{
+  "iherb_id": 34144,
+  "last_updated": "2026-03-20T10:10:34.367Z",
+  "first_scraped": "2026-03-20T10:10:34.367Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosts energy, Repeat order, Found product, Feel better, Well formulated, Prostate support, Healthy living, Rarely sick, More energy, Sticking with.",
+    "tags": [
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Found product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well formulated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prostate support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy living",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rarely sick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sticking with",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:34.367Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

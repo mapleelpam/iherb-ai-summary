@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109040,
+  "last_updated": "2026-03-20T09:29:41.835Z",
+  "first_scraped": "2026-03-20T09:29:41.835Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Trusted brand, Thicker hair, Extra ummph, Hair loss, Natural ingredients, Easy to swallow, Positive results. Some note: No changes, High concentration.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thicker hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra ummph",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No changes",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:41.835Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

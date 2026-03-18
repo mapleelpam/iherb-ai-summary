@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97387,
+  "last_updated": "2026-03-20T09:34:51.985Z",
+  "first_scraped": "2026-03-20T09:34:51.985Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good dose, Improving sleep, Reasonable price, Improves cognitive function, Good additive, Sunflower source, Noticeable benefits, Improved focus. Some note: Sleep support.",
+    "tags": [
+      {
+        "name": "Good dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves cognitive function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sunflower source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep support",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive product",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:51.985Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

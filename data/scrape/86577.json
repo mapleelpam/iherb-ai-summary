@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86577,
+  "last_updated": "2026-03-20T09:21:48.898Z",
+  "first_scraped": "2026-03-20T09:21:48.898Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good endurance, Solid choice, Easy consumption, Easily dissolves, Clean supplement, Helpful product, Effective brand, Energy boost, High benefits. Some note: Good ingredients.",
+    "tags": [
+      {
+        "name": "Good endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Solid choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy consumption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easily dissolves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:48.898Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

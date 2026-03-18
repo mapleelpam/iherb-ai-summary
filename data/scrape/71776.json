@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71776,
+  "last_updated": "2026-03-20T09:54:18.210Z",
+  "first_scraped": "2026-03-20T09:54:18.210Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Uplifted mood, More alert, Convenient blister pack, Cognitive boost, Minerals impact, Effective brand, Starting to happen. Some note: Sleep better.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Uplifted mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More alert",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient blister pack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cognitive boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Minerals impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Starting to happen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep better",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Cognitive impairment",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:18.210Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

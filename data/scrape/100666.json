@@ -1,0 +1,68 @@
+{
+  "iherb_id": 100666,
+  "last_updated": "2026-03-20T09:58:20.079Z",
+  "first_scraped": "2026-03-20T09:58:20.079Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Boost immunity, Shorten duration, Flavorful gummies, Tasty, vegan, Stayed healthy, Fast shipping, Sweet flavor, Fruity taste. Some note: Vegetarian diet.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shorten duration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flavorful gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty, vegan",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stayed healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fruity taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegetarian diet",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:20.079Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

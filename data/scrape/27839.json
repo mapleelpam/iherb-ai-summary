@@ -1,0 +1,68 @@
+{
+  "iherb_id": 27839,
+  "last_updated": "2026-03-20T09:57:20.687Z",
+  "first_scraped": "2026-03-20T09:57:20.687Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Excellent additive, Muscle support, Speedy delivery, Increased energy, Improved muscles, Improved mood, Happy results, Less tired.",
+    "tags": [
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved muscles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less tired",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Got zits",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Allergy issues",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:20.687Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

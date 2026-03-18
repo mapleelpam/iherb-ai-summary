@@ -1,0 +1,68 @@
+{
+  "iherb_id": 731,
+  "last_updated": "2026-03-20T09:21:12.697Z",
+  "first_scraped": "2026-03-20T09:21:12.697Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful supplement, Boost immune, Works great, Helps reduce, Combat candida, Intestinal support, Natural antibiotic, Fast recovery. Some note: Trust brand.",
+    "tags": [
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps reduce",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Combat candida",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intestinal support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural antibiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stomach pain",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:12.697Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

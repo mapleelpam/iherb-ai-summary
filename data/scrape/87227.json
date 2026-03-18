@@ -1,0 +1,68 @@
+{
+  "iherb_id": 87227,
+  "last_updated": "2026-03-20T10:29:47.665Z",
+  "first_scraped": "2026-03-20T10:29:47.665Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Daily support, Natural remedy, Fast shipping, Best value, Antioxidant properties, Skin benefits, Smells great, Boosts energy.",
+    "tags": [
+      {
+        "name": "Daily support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smells great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enlarged lymph node",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive, no difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:29:47.665Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

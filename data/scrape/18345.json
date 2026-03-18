@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18345,
+  "last_updated": "2026-03-20T09:32:06.929Z",
+  "first_scraped": "2026-03-20T09:32:06.929Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fantastic help, Works great, Best liquid, Tastes great, Pleasant taste, Quick and easy, Regulate sleep, Members of. Some note: Controlled dose.",
+    "tags": [
+      {
+        "name": "Fantastic help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best liquid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick and easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Members of",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Controlled dose",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:06.929Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

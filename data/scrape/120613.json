@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120613,
+  "last_updated": "2026-03-20T10:15:28.930Z",
+  "first_scraped": "2026-03-20T10:15:28.930Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty and filling, Mint chocolate, Friend approved, Good taste, Very fudgy, Delicious flavor, High protein, Chilled taste. Some note: Less saturated fat.",
+    "tags": [
+      {
+        "name": "Tasty and filling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mint chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Friend approved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very fudgy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chilled taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less saturated fat",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not favorite",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:28.930Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

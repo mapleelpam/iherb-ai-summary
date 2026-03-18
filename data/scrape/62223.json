@@ -1,0 +1,68 @@
+{
+  "iherb_id": 62223,
+  "last_updated": "2026-03-20T10:10:58.190Z",
+  "first_scraped": "2026-03-20T10:10:58.190Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Breathing improvement, Highly recommend, Boost immunity, Satisfied, Easy consumption, Amazing improvement, Regular part, Less coughing. Some note: Post covid, Helped breathing.",
+    "tags": [
+      {
+        "name": "Breathing improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy consumption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular part",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less coughing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Post covid",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helped breathing",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:58.190Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

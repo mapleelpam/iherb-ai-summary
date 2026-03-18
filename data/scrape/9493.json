@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9493,
+  "last_updated": "2026-03-20T10:20:52.317Z",
+  "first_scraped": "2026-03-20T10:20:52.317Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good protein, Amazing taste, Reasonable price, Mixes easily, Love banana taste, Just right, No cramps, Great results.",
+    "tags": [
+      {
+        "name": "Good protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love banana taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Just right",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant aftertaste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:52.317Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

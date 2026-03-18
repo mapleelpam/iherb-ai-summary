@@ -1,0 +1,68 @@
+{
+  "iherb_id": 54982,
+  "last_updated": "2026-03-20T10:18:07.295Z",
+  "first_scraped": "2026-03-20T10:18:07.295Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Exceeds expectations, Morning wood, No aftertaste, Pure ingredients, Hormone balance, Standout choice, Good combination, Started working. Some note: Mixed feelings.",
+    "tags": [
+      {
+        "name": "Exceeds expectations",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning wood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormone balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Standout choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Started working",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvements",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Mixed feelings",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:07.295Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

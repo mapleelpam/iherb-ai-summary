@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118368,
+  "last_updated": "2026-03-20T09:37:27.746Z",
+  "first_scraped": "2026-03-20T09:37:27.746Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good combination, Good energy, More energy, Value for money, Muscle effects, Relieves stress, Fair price, Essential formula. Some note: Fast shipping.",
+    "tags": [
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High levels",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:27.746Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 103460,
+  "last_updated": "2026-03-20T10:13:24.308Z",
+  "first_scraped": "2026-03-20T10:13:24.308Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pain relief, Multiple collagen types, Good taste, Fast supplement, Affordable hydrolyzed collagen, Natural collagen, Improves skin, Good dissolve, Tasteless, Keto friendly.",
+    "tags": [
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Multiple collagen types",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable hydrolyzed collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasteless",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keto friendly",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:24.308Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

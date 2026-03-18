@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4662,
+  "last_updated": "2026-03-20T10:07:38.801Z",
+  "first_scraped": "2026-03-20T10:07:38.801Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy support, Good for men, Boost energy, Weight loss, Big difference, Ingredient good, Met expectation, Clean ingredients. Some note: Effective dosage.",
+    "tags": [
+      {
+        "name": "Energy support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for men",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ingredient good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Met expectation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:38.801Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

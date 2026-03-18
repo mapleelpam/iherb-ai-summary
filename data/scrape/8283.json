@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8283,
+  "last_updated": "2026-03-20T10:01:17.433Z",
+  "first_scraped": "2026-03-20T10:01:17.433Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost immunity, Blood purifier, Digestive support, Magnificent effect, Reduce pain, Proteinuria relief, Daily necessary liver, Fast shipping. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood purifier",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Magnificent effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Proteinuria relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily necessary liver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin zits",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:17.433Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

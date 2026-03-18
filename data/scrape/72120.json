@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72120,
+  "last_updated": "2026-03-20T09:38:50.680Z",
+  "first_scraped": "2026-03-20T09:38:50.680Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, High protein content, Mixes well, Tastes good, No taste, Organic ingredients, Good taste, Healthy option. Some note: Easy to digest.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Half full",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Easy to digest",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:50.680Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

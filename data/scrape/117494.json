@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117494,
+  "last_updated": "2026-03-20T10:24:44.682Z",
+  "first_scraped": "2026-03-20T10:24:44.682Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reasonable price, Trusted manufacturer, Boost energy, Thyroid health, Easy to take, Natural ingredients, Love brand, Long-lasting dose. Some note: Purified water, Drink water.",
+    "tags": [
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted manufacturer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thyroid health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-lasting dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Purified water",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Drink water",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:44.682Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

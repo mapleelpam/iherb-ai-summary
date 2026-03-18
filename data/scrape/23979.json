@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23979,
+  "last_updated": "2026-03-20T09:53:50.461Z",
+  "first_scraped": "2026-03-20T09:53:50.461Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No aftertaste, Received promptly, Small and easy, High dose, Subtle vanilla scent, Great at supplementing, Small capsules, Effective solution. Some note: Love this brand.",
+    "tags": [
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Received promptly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small and easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Subtle vanilla scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great at supplementing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this brand",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not enough",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:50.461Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

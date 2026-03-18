@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5523,
+  "last_updated": "2026-03-20T10:24:58.191Z",
+  "first_scraped": "2026-03-20T10:24:58.191Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good health, Comfortable and stylish, Immune system, Boosting immunity, Works amazing, Easy swallow, Energy relaxation, Used product. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comfortable and stylish",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy relaxation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Used product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Reproductive health",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:58.191Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

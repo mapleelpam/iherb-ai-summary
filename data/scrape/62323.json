@@ -1,0 +1,68 @@
+{
+  "iherb_id": 62323,
+  "last_updated": "2026-03-20T09:31:02.111Z",
+  "first_scraped": "2026-03-20T09:31:02.111Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Game-changer for gut, Rebalance gut, Good for gut, Innovative supplement, Groundbreaking, Less bloating, Good for health, Supports digestion.",
+    "tags": [
+      {
+        "name": "Game-changer for gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rebalance gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Innovative supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Groundbreaking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stinky farts",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:02.111Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

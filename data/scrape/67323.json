@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67323,
+  "last_updated": "2026-03-20T09:49:39.410Z",
+  "first_scraped": "2026-03-20T09:49:39.410Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Weight loss, Love the taste, Good taste, Natural flavor, Fast shipping, Amazing results, Convenient mixing, Will buy again.",
+    "tags": [
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient mixing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Will buy again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High sugar content",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:39.410Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101362,
+  "last_updated": "2026-03-20T09:34:27.052Z",
+  "first_scraped": "2026-03-20T09:34:27.052Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to use, Energy levels, Great support, Unique flavor, Organic composition, High potassium, Helps fasting, Good price. Some note: Good taste, Very happy.",
+    "tags": [
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potassium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps fasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:27.052Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

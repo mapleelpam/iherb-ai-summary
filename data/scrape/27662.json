@@ -1,0 +1,68 @@
+{
+  "iherb_id": 27662,
+  "last_updated": "2026-03-20T09:54:52.575Z",
+  "first_scraped": "2026-03-20T09:54:52.575Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Blood sugar, Carb blocker, Reduce weight, Strong, Lost weight, Low carb, Easy swallow, Digest carbs.",
+    "tags": [
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Carb blocker",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lost weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low carb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digest carbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bigger belly",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:52.575Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

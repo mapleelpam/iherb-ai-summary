@@ -1,0 +1,68 @@
+{
+  "iherb_id": 26179,
+  "last_updated": "2026-03-20T09:59:47.009Z",
+  "first_scraped": "2026-03-20T09:59:47.009Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works great, Natural solution, Best price, Safe ingredient, Immediate relief, Healed burn, Relief, Throat relief. Some note: Effective additive, Strong taste.",
+    "tags": [
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healed burn",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Throat relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective additive",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:47.009Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

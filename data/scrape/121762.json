@@ -1,0 +1,68 @@
+{
+  "iherb_id": 121762,
+  "last_updated": "2026-03-20T10:23:42.204Z",
+  "first_scraped": "2026-03-20T10:23:42.204Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Certified organic, Vibrant color, Great detox, Effective supplement, Cell wall, Small doses, Big bottle size, High minerals, Love the.",
+    "tags": [
+      {
+        "name": "Certified organic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vibrant color",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cell wall",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small doses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big bottle size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High minerals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Costly future",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:42.204Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

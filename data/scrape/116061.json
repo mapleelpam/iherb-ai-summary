@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116061,
+  "last_updated": "2026-03-20T10:05:16.463Z",
+  "first_scraped": "2026-03-20T10:05:16.463Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective hydration, Refreshing flavor, Broad appeal, Recovering effect, Favorite taste, Highly recommend, Clean taste, Top pick. Some note: Value for money.",
+    "tags": [
+      {
+        "name": "Effective hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Broad appeal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recovering effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Favorite taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top pick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:16.463Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

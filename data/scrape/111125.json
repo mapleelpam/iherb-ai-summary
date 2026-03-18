@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111125,
+  "last_updated": "2026-03-20T10:28:21.700Z",
+  "first_scraped": "2026-03-20T10:28:21.700Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small tablet size, Fast shipment, Tolerable taste, Digestive improvement, Hair growth, Hair fall stopped, Thicker hair, No upset stomach. Some note: Hot headed, Early effects.",
+    "tags": [
+      {
+        "name": "Small tablet size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tolerable taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair fall stopped",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thicker hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No upset stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hot headed",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Early effects",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:21.700Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

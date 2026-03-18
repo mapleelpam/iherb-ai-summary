@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2703,
+  "last_updated": "2026-03-20T09:59:04.805Z",
+  "first_scraped": "2026-03-20T09:59:04.805Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Keep using, Broad-spectrum vitamins, High potency, No-fuss supplement, Easy option, Extra vitamins, Impressed usefulness, Well-rounded multi, Easy to take. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Keep using",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Broad-spectrum vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No-fuss supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed usefulness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well-rounded multi",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:04.805Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

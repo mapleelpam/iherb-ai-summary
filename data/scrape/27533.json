@@ -1,0 +1,68 @@
+{
+  "iherb_id": 27533,
+  "last_updated": "2026-03-20T09:22:18.537Z",
+  "first_scraped": "2026-03-20T09:22:18.537Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Top ingredients, Manage glucose, Muscle recovery, Boost performance, Fast shipping, Vibrant display, Pure bcaas, Good results.",
+    "tags": [
+      {
+        "name": "Top ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Manage glucose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vibrant display",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure bcaas",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not as advertised",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Animal gelatin",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:18.537Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

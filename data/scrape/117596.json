@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117596,
+  "last_updated": "2026-03-20T09:36:57.533Z",
+  "first_scraped": "2026-03-20T09:36:57.533Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy enhancer, Brain health, Easy to take, Immune system, Good ingredients, Boosts energy, High potency, Noticeable boost. Some note: Nice package, Not too bad.",
+    "tags": [
+      {
+        "name": "Energy enhancer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not too bad",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:57.533Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

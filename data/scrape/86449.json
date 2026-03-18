@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86449,
+  "last_updated": "2026-03-20T09:58:18.053Z",
+  "first_scraped": "2026-03-20T09:58:18.053Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast delivery, Helps with pain, Improved mobility, Small capsules, Improved joint, Trusted brand, Love smell, Joint pain. Some note: Relief achieved, Easy absorption.",
+    "tags": [
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mobility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved joint",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief achieved",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:18.053Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 41290,
+  "last_updated": "2026-03-20T09:35:28.661Z",
+  "first_scraped": "2026-03-20T09:35:28.661Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trust NOW brand, Easy to swallow, High concentration, Cheaper alternative, Potent antioxidant, More energy, Improved circulation, Good for immunity. Some note: Boosts energy, Promote cardiovascular.",
+    "tags": [
+      {
+        "name": "Trust NOW brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheaper alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Promote cardiovascular",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:28.661Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 749,
+  "last_updated": "2026-03-20T09:48:22.989Z",
+  "first_scraped": "2026-03-20T09:48:22.989Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune boost, Handy package, Blood pressure, Stopped HSV, Fast shipping, Easy to take, Love this, Fast relief. Some note: Pure ingredients.",
+    "tags": [
+      {
+        "name": "Immune boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Handy package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped HSV",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes unpleasant",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:22.989Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

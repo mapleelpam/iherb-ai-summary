@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4115,
+  "last_updated": "2026-03-20T10:40:44.254Z",
+  "first_scraped": "2026-03-20T10:40:44.254Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No after-taste, Reliable supplement, Easy to swallow, Improved cholesterol, Cost-effective option, Unique coating, Prompt delivery, No burps, No smell, Small softgels.",
+    "tags": [
+      {
+        "name": "No after-taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cost-effective option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique coating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No burps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small softgels",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:40:44.254Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

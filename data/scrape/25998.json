@@ -1,0 +1,68 @@
+{
+  "iherb_id": 25998,
+  "last_updated": "2026-03-20T09:32:04.985Z",
+  "first_scraped": "2026-03-20T09:32:04.985Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Collagen production, Taste like water, Improved growth, Healthy bones, Natural reaction, Hair and nails, Fast shipping, Thickening hair. Some note: Subtle effect, Clean and healthy.",
+    "tags": [
+      {
+        "name": "Collagen production",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste like water",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural reaction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair and nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thickening hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Subtle effect",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Clean and healthy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:04.985Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

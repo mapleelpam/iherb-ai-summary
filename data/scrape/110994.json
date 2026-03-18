@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110994,
+  "last_updated": "2026-03-20T10:00:30.232Z",
+  "first_scraped": "2026-03-20T10:00:30.232Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural ingredients, Blood sugar control, Hunger control, Hormonal problems, Overall health, Weight loss, High absorption, No side effects. Some note: Therapeutic dose.",
+    "tags": [
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hunger control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormonal problems",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Therapeutic dose",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Liver issues",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:30.232Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

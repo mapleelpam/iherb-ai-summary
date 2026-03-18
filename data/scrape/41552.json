@@ -1,0 +1,68 @@
+{
+  "iherb_id": 41552,
+  "last_updated": "2026-03-20T10:11:15.535Z",
+  "first_scraped": "2026-03-20T10:11:15.535Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hormone effects, Anti-cancer, Convenient capsules, Wild siberian, Feeling better, Helpful product, Qi tonic, Careful packing. Some note: Slow growing.",
+    "tags": [
+      {
+        "name": "Hormone effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-cancer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wild siberian",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Qi tonic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Careful packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow growing",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Magnesium stearate",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:15.535Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

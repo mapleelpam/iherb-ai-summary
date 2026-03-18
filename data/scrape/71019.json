@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71019,
+  "last_updated": "2026-03-20T09:39:01.636Z",
+  "first_scraped": "2026-03-20T09:39:01.636Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: On the go, Convenient hydration, Delicious flavor, Easy order, Travel hydration, No added sugar, Easy to carry, Energy boost. Some note: Convenient packaging.",
+    "tags": [
+      {
+        "name": "On the go",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Travel hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No added sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to carry",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Artificial taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:01.636Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

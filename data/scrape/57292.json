@@ -1,0 +1,68 @@
+{
+  "iherb_id": 57292,
+  "last_updated": "2026-03-20T09:29:39.930Z",
+  "first_scraped": "2026-03-20T09:29:39.930Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Happy with, Brain fog, Well packed, Natural product, Highly bioavailable, Powerful curcumin, Anti-inflammatory supplement, Powerful antioxidant. Some note: Inflammation help.",
+    "tags": [
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain fog",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly bioavailable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful curcumin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Inflammation help",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:39.930Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

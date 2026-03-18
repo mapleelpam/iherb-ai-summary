@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4637,
+  "last_updated": "2026-03-20T09:48:38.578Z",
+  "first_scraped": "2026-03-20T09:48:38.578Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Blood pressure, Effective supplement, Great adaptogen, Immense benefits, Weight loss, Efficient delivery, Immune system, Boosts energy. Some note: Seems to work.",
+    "tags": [
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great adaptogen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immense benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seems to work",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not recommend",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:38.578Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

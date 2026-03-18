@@ -1,0 +1,68 @@
+{
+  "iherb_id": 112132,
+  "last_updated": "2026-03-20T09:53:57.425Z",
+  "first_scraped": "2026-03-20T09:53:57.425Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Healthy alternative, Good source, Certified non-gmo, Cheesy taste, Mild taste, Umami flavor, Vitamin benefits, Fast service. Some note: Tasty choice, Better taste.",
+    "tags": [
+      {
+        "name": "Healthy alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Certified non-gmo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheesy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Umami flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty choice",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Better taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:57.425Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

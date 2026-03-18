@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13,
+  "last_updated": "2026-03-20T09:20:00.308Z",
+  "first_scraped": "2026-03-20T09:20:00.308Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune support, Potent dose, Good improvement, Detox support, Reduce joint pain, Easy to swallow, Relief from inflammation, Reduction in aches, Powerful antioxidant.",
+    "tags": [
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief from inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduction in aches",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too big",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:00.308Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

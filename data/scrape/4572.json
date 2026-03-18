@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4572,
+  "last_updated": "2026-03-20T10:08:08.647Z",
+  "first_scraped": "2026-03-20T10:08:08.647Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Safe support, Hair growth, Fast shipping, Effective ingredients, Immune health, Efficient service, Boosts immune, Low cost. Some note: Takes time, Longevity support.",
+    "tags": [
+      {
+        "name": "Safe support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low cost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Takes time",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Longevity support",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:08.647Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2672,
+  "last_updated": "2026-03-20T09:44:59.662Z",
+  "first_scraped": "2026-03-20T09:44:59.662Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Rich composition, Hot flashes, Natural herbs, Pleasant smell, Very satisfied, Affordable option, Reduce stress, Great vitamin.",
+    "tags": [
+      {
+        "name": "Rich composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hot flashes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural herbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large tablets",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not great taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:59.662Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 494,
+  "last_updated": "2026-03-20T10:12:47.902Z",
+  "first_scraped": "2026-03-20T10:12:47.902Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Recognized brand, Protects heart, Increase mitochondria, Cholesterol down, Heart health, Tastes fruity, Easy digestion, Pleasant flavor. Some note: Energy level.",
+    "tags": [
+      {
+        "name": "Recognized brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protects heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase mitochondria",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol down",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes fruity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dust circulates",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Energy level",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:47.902Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

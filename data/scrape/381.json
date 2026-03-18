@@ -1,0 +1,68 @@
+{
+  "iherb_id": 381,
+  "last_updated": "2026-03-20T09:23:18.854Z",
+  "first_scraped": "2026-03-20T09:23:18.854Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Good for digestion, Acid reflux, Healing plant, Fast shipping, Improves health, Good dosage size, Convenient size. Some note: Minor concern.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acid reflux",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healing plant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Minor concern",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:18.854Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118598,
+  "last_updated": "2026-03-20T09:53:08.274Z",
+  "first_scraped": "2026-03-20T09:53:08.274Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Rare product, Fantastic antioxidant, Good energy, Protect cell membranes, Life changing, High dosage, Easy to swallow, Hormonal balance, Easy absorption. Some note: Needs more inventory.",
+    "tags": [
+      {
+        "name": "Rare product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protect cell membranes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormonal balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Needs more inventory",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:08.274Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

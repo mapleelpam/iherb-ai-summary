@@ -1,0 +1,68 @@
+{
+  "iherb_id": 33142,
+  "last_updated": "2026-03-20T09:29:25.853Z",
+  "first_scraped": "2026-03-20T09:29:25.853Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Relieves knee pain, Helpful product, Feel improvement, Fast shipping, Supports joint health, Good results, Less joint pain. Some note: Big tablets.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves knee pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big tablets",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Dangerous ingredient",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:25.853Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

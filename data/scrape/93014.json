@@ -1,0 +1,68 @@
+{
+  "iherb_id": 93014,
+  "last_updated": "2026-03-20T10:29:41.523Z",
+  "first_scraped": "2026-03-20T10:29:41.523Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good immunity, Health benefits, Feeling good, Energy boost, Less stress, Strong scent, Underrated product, Sustainable brand. Some note: Well try.",
+    "tags": [
+      {
+        "name": "Good immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Underrated product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustainable brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well try",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Ineffective dosage",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:29:41.523Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

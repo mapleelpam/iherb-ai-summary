@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3613,
+  "last_updated": "2026-03-20T09:24:47.682Z",
+  "first_scraped": "2026-03-20T09:24:47.682Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Game-changer for digestion, High lipase, Very helpful, Easy digestion, Outstanding compared, Helps digestion, Ideal product, High fat. Some note: Lightness to stomach.",
+    "tags": [
+      {
+        "name": "Game-changer for digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High lipase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very helpful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Outstanding compared",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ideal product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High fat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lightness to stomach",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Side effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:47.682Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

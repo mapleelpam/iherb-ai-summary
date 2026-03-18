@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1864,
+  "last_updated": "2026-03-20T09:47:38.445Z",
+  "first_scraped": "2026-03-20T09:47:38.445Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural ingredients, Kidney support, Bladder support, Helpful item, Natural assistance, Remarkable difference, Affordable option, Reduces leaks. Some note: Fast results, Easy swallow.",
+    "tags": [
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kidney support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bladder support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful item",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural assistance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Remarkable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces leaks",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:38.445Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 146428,
+  "last_updated": "2026-03-20T11:37:51.601Z",
+  "first_scraped": "2026-03-20T11:37:51.601Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice taste, Tastes better, Items shipped, Easy blend, Boost immunity, Energy boost, Good buy, Improved health.",
+    "tags": [
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Items shipped",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pricey taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T11:37:51.601Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

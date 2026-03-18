@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115229,
+  "last_updated": "2026-03-20T10:03:07.339Z",
+  "first_scraped": "2026-03-20T10:03:07.339Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Positive changes, Good ingredients, Men's health, Mood boost, Improved blood flow, Update future, Effective supplement, Energy boost. Some note: Power capsule, Affordable option.",
+    "tags": [
+      {
+        "name": "Positive changes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Men's health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved blood flow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Update future",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Power capsule",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:07.339Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7249,
+  "last_updated": "2026-03-20T10:10:09.234Z",
+  "first_scraped": "2026-03-20T10:10:09.234Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Budget priced, Fantastic job, Quick metabolism, Good antioxidant, Appetite control, Boost metabolism, High polyphenols, Great dosage. Some note: Prompt delivery.",
+    "tags": [
+      {
+        "name": "Budget priced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic job",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Appetite control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High polyphenols",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Usual sluggishness",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:09.234Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

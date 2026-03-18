@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85694,
+  "last_updated": "2026-03-20T10:03:40.824Z",
+  "first_scraped": "2026-03-20T10:03:40.824Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice package, Promoting eyes, Improved dry eye, Brain function, Easy swallow, Big benefits, Improved vision, Everyday consumption. Some note: Few weeks.",
+    "tags": [
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Promoting eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved dry eye",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Everyday consumption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Few weeks",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:40.824Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

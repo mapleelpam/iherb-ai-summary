@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104468,
+  "last_updated": "2026-03-20T10:20:29.787Z",
+  "first_scraped": "2026-03-20T10:20:29.787Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice price, Fast shipping, Powerful supplement, Impressive results, Boost weight loss, Easy to take, Works as expected, Sleek packaging, Good energy.",
+    "tags": [
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressive results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works as expected",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleek packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad reactions",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:29.787Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

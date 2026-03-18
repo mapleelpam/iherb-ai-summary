@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1920,
+  "last_updated": "2026-03-20T10:07:22.134Z",
+  "first_scraped": "2026-03-20T10:07:22.134Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Never got impetigo, Big difference, Root extract, Short time, Works like a charm, Good herb, Impressive benefits, Decreased hemoglobin, Very happy. Some note: 2 weeks maximum.",
+    "tags": [
+      {
+        "name": "Never got impetigo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Root extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Short time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works like a charm",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressive benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decreased hemoglobin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "2 weeks maximum",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:22.134Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

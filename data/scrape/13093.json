@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13093,
+  "last_updated": "2026-03-20T09:24:06.982Z",
+  "first_scraped": "2026-03-20T09:24:06.982Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Night vision improved, Helps with dryness, Improved vision, Great results, Noticeable difference, Eye health, Less strain. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Night vision improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with dryness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less strain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Dry eyes",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:06.982Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

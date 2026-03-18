@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89432,
+  "last_updated": "2026-03-20T09:33:51.693Z",
+  "first_scraped": "2026-03-20T09:33:51.693Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mix easily, Vanilla taste, Good composition, Delicious flavor, Good taste, Great benefits, Energy boost, Improved skin.",
+    "tags": [
+      {
+        "name": "Mix easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vanilla taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:51.693Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

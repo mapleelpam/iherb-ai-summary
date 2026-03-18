@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70038,
+  "last_updated": "2026-03-20T10:02:28.936Z",
+  "first_scraped": "2026-03-20T10:02:28.936Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Ingredients good, Highly recommend, Vision support, Worth it, Quick effects, Improvement sight, Clear vision, Mother happy, Good for eyes, Healthy lifestyle.",
+    "tags": [
+      {
+        "name": "Ingredients good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vision support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement sight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mother happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy lifestyle",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:28.936Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

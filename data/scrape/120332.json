@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120332,
+  "last_updated": "2026-03-20T10:11:29.115Z",
+  "first_scraped": "2026-03-20T10:11:29.115Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this, Stronger nails, Recommended friends, Less breakage, Good results, Reduce wrinkles, Easy to swallow, Visible results, Regular size, Natural ingredients.",
+    "tags": [
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended friends",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less breakage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce wrinkles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Visible results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:29.115Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

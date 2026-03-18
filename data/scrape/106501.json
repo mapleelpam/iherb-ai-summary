@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106501,
+  "last_updated": "2026-03-20T10:13:28.045Z",
+  "first_scraped": "2026-03-20T10:13:28.045Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mixes well, Feel happier, Reduce OCD behaviors, Easy dissolve, Accurate description, Detox liver, It worked, Improvement in, Life changer.",
+    "tags": [
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel happier",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce OCD behaviors",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Accurate description",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox liver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "It worked",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bulk form",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:28.045Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

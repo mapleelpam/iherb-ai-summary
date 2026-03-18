@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110268,
+  "last_updated": "2026-03-20T10:32:45.025Z",
+  "first_scraped": "2026-03-20T10:32:45.025Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes great, Works amazing, Deep sleep, Helps fall asleep, Good dose, Well rested, Fair dosage, Great for kids. Some note: Hit or miss.",
+    "tags": [
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps fall asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well rested",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for kids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Went bad",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hit or miss",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:45.025Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

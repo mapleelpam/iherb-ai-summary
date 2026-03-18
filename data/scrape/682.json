@@ -1,0 +1,68 @@
+{
+  "iherb_id": 682,
+  "last_updated": "2026-03-20T10:00:08.857Z",
+  "first_scraped": "2026-03-20T10:00:08.857Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great formula, Tastes better, Effective medicine, Convenient packaging, Natural relaxant, Evening tea, Helps sleep, Balancing emotions. Some note: Very relaxing, Dosage depends.",
+    "tags": [
+      {
+        "name": "Great formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective medicine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural relaxant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Evening tea",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balancing emotions",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very relaxing",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Dosage depends",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:08.857Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

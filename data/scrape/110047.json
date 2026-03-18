@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110047,
+  "last_updated": "2026-03-20T10:19:20.053Z",
+  "first_scraped": "2026-03-20T10:19:20.053Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pure ingredients, Works wonders, Supports gut health, Highly recommend, Nutritional support, Solid stools, Amazing results, Glass bottle. Some note: Organic, bovine gelatin.",
+    "tags": [
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutritional support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Solid stools",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic, bovine gelatin",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Price increase",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:20.053Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

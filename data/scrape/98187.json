@@ -1,0 +1,68 @@
+{
+  "iherb_id": 98187,
+  "last_updated": "2026-03-20T09:37:05.311Z",
+  "first_scraped": "2026-03-20T09:37:05.311Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Fast shipping, Mixes well, Reasonable price, Big size, High protein levels, Frozen treat, Great vanilla taste. Some note: Sweet taste.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Frozen treat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great vanilla taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive off-sale",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:05.311Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

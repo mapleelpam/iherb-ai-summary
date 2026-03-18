@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70024,
+  "last_updated": "2026-03-20T09:55:28.910Z",
+  "first_scraped": "2026-03-20T09:55:28.910Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Liver toner, Water weight, Detox kidneys, Convenient to take, Improvement in well-being, Less swelling, Antioxidant rich, Sluggish liver. Some note: Hope benefit health.",
+    "tags": [
+      {
+        "name": "Liver toner",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Water weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox kidneys",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in well-being",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less swelling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant rich",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sluggish liver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No changes",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hope benefit health",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:28.910Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

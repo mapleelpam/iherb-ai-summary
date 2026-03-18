@@ -1,0 +1,68 @@
+{
+  "iherb_id": 79094,
+  "last_updated": "2026-03-20T09:33:57.422Z",
+  "first_scraped": "2026-03-20T09:33:57.422Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Digestion support, Fair price, Prompt delivery, Mixes well, Delicious flavor, Quick and easy, Energy boost, Awesome smell. Some note: Taste is ok.",
+    "tags": [
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick and easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awesome smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste is ok",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:57.422Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

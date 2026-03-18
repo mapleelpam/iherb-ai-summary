@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9298,
+  "last_updated": "2026-03-20T10:04:11.147Z",
+  "first_scraped": "2026-03-20T10:04:11.147Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Joint relief, Helped my joint, Promotes healthy, Vegan friendly, Recent research, Pain relief, Therapeutic effect, Next day delivery.",
+    "tags": [
+      {
+        "name": "Joint relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped my joint",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Promotes healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recent research",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Therapeutic effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Next day delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this brand",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:11.147Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

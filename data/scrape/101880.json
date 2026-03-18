@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101880,
+  "last_updated": "2026-03-20T10:15:22.074Z",
+  "first_scraped": "2026-03-20T10:15:22.074Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Complete ingredients, Weight loss, Fat burning, Helps weight, Mood stabilizer, Blocks fat, Will buy, Natural dietary. Some note: No appetite change.",
+    "tags": [
+      {
+        "name": "Complete ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat burning",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood stabilizer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blocks fat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Will buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural dietary",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No appetite change",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not for weight",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:22.074Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

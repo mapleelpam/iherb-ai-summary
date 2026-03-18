@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144298,
+  "last_updated": "2026-03-20T10:18:30.765Z",
+  "first_scraped": "2026-03-20T10:18:30.765Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Fast shipping, Pain relief, Joint support, Gluten-free option, Anti-inflammatory effects, Improved benefits, Thicker hair. Some note: Hard swallow, Research needed.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gluten-free option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thicker hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard swallow",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Research needed",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:30.765Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

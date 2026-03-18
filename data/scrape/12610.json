@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12610,
+  "last_updated": "2026-03-20T10:12:22.365Z",
+  "first_scraped": "2026-03-20T10:12:22.365Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Taste tolerable, Reliable solution, Helps breathe, Helped sinus, Nasal comfort, No symptoms, No antihistamines, Good addition.",
+    "tags": [
+      {
+        "name": "Taste tolerable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps breathe",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped sinus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nasal comfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No antihistamines",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hot taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:22.365Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

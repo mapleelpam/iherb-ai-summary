@@ -1,0 +1,68 @@
+{
+  "iherb_id": 103640,
+  "last_updated": "2026-03-20T09:28:03.930Z",
+  "first_scraped": "2026-03-20T09:28:03.930Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective choice, Helps digestion, Nutrient absorption, Feel better, Less bloating, Regular bowel movements, Good blend, Digestive relief. Some note: Helpful product, Good ingredients.",
+    "tags": [
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrient absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular bowel movements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:03.930Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32094,
+  "last_updated": "2026-03-20T10:04:38.164Z",
+  "first_scraped": "2026-03-20T10:04:38.164Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Prompt delivery, Easy to swallow, Water-soluble vitamin, Hashimoto's support, Boost energy, Red blood cells, Feeling better, Simple and good. Some note: Colors pee.",
+    "tags": [
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Water-soluble vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hashimoto's support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Red blood cells",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Simple and good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Aftertaste issue",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Colors pee",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:38.164Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102864,
+  "last_updated": "2026-03-20T10:28:58.412Z",
+  "first_scraped": "2026-03-20T10:28:58.412Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes good, Energised workout, Shipping great, Intense energy, Natural taste, Helps workout, Enhanced routine, Satisfied taste. Some note: Different taste.",
+    "tags": [
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energised workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shipping great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intense energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced routine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Different taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bad aftertaste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:58.412Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

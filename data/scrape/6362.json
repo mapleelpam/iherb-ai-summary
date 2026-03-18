@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6362,
+  "last_updated": "2026-03-20T09:49:49.261Z",
+  "first_scraped": "2026-03-20T09:49:49.261Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Gentle laxative, Smooth morning, Love this, Easy to use, Works good, Good formulation, Grade A, Effective cleanse.",
+    "tags": [
+      {
+        "name": "Gentle laxative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth morning",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Grade A",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this brand",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Severe constipation",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:49.261Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

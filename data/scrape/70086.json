@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70086,
+  "last_updated": "2026-03-20T09:35:37.551Z",
+  "first_scraped": "2026-03-20T09:35:37.551Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Top ingredients, Very pleased, Highly recommend, Excellent absorption, Good sleep, Relaxation aid, Inexpensive supplement, Eliminates cramps.",
+    "tags": [
+      {
+        "name": "Top ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very pleased",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxation aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inexpensive supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eliminates cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Laxative effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Lacking vitamins",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:37.551Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

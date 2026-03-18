@@ -1,0 +1,68 @@
+{
+  "iherb_id": 64692,
+  "last_updated": "2026-03-20T10:23:14.760Z",
+  "first_scraped": "2026-03-20T10:23:14.760Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Slowing down aging, Excellent rejuvenation, Good results, Premium ingredients, Great supplement, Highly recommend, Increased energy, Reliable formula.",
+    "tags": [
+      {
+        "name": "Slowing down aging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent rejuvenation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Premium ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weird tasting",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High cost",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:14.760Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

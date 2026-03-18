@@ -1,0 +1,68 @@
+{
+  "iherb_id": 64490,
+  "last_updated": "2026-03-20T10:13:18.367Z",
+  "first_scraped": "2026-03-20T10:13:18.367Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Important ingredient, Best support, Effective supplement, Best price, Great combination, Beneficial formula, Urination problems, Fair dosage.",
+    "tags": [
+      {
+        "name": "Important ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Urination problems",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Negative side effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:18.367Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

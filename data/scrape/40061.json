@@ -1,0 +1,68 @@
+{
+  "iherb_id": 40061,
+  "last_updated": "2026-03-20T09:48:08.651Z",
+  "first_scraped": "2026-03-20T09:48:08.651Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sinus congestion, Good serving, High dose, Dissolves tumors, Improved digestion, Clearing up, Powerful substance, Chemical-free acid armor.",
+    "tags": [
+      {
+        "name": "Sinus congestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good serving",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves tumors",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearing up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful substance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chemical-free acid armor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergic reaction",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:08.651Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

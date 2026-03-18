@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4795,
+  "last_updated": "2026-03-20T09:29:18.012Z",
+  "first_scraped": "2026-03-20T09:29:18.012Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Colon cleansing, Efficient cleansing, Helped me, Significant improvement, Fulfills hunger, Timely arrival, Good fiber, Fast shipping. Some note: Best choice, Works well.",
+    "tags": [
+      {
+        "name": "Colon cleansing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient cleansing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Significant improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fulfills hunger",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely arrival",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best choice",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Works well",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:18.012Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

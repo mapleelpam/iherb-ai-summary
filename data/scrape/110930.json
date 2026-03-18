@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110930,
+  "last_updated": "2026-03-20T09:31:21.267Z",
+  "first_scraped": "2026-03-20T09:31:21.267Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Yummy flavor, Good taste, Sleep aid, Delicious gummies, Apple flavor, Tasty and sweet, Relaxing taste, Taste great. Some note: Favorite brand, Improved well-being.",
+    "tags": [
+      {
+        "name": "Yummy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Apple flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty and sweet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Favorite brand",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Improved well-being",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:21.267Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

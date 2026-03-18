@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117514,
+  "last_updated": "2026-03-20T09:24:37.746Z",
+  "first_scraped": "2026-03-20T09:24:37.746Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Original product, Stronger lifts, Body benefits, Good taste, Energy boost, Essential staple, Less pills, Great convenience. Some note: Ingredient benefit.",
+    "tags": [
+      {
+        "name": "Original product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger lifts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential staple",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great convenience",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ingredient benefit",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Pill size",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:37.746Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

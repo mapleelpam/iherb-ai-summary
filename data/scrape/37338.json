@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37338,
+  "last_updated": "2026-03-20T10:22:15.982Z",
+  "first_scraped": "2026-03-20T10:22:15.982Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Supports heart, Heart health, Fresh smell, Organic product, Glass bottle, Blood pressure, Good herb, Build strength.",
+    "tags": [
+      {
+        "name": "Supports heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Build strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too many",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Made me dizzy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:15.982Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

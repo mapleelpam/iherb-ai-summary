@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7695,
+  "last_updated": "2026-03-20T10:20:16.275Z",
+  "first_scraped": "2026-03-20T10:20:16.275Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast delivery, Lung health, Less distinct, Reduce inflammation, High amount, Natural energy, Clean ingredients, Reduce edema. Some note: Big size.",
+    "tags": [
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lung health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less distinct",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce edema",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Severe pain",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:16.275Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "iherb_id": 144220,
+  "last_updated": "2026-03-20T10:16:51.333Z",
+  "first_scraped": "2026-03-20T10:16:51.333Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works great, Improvement seen, Increase heart rate, Positive results, Value for money, Start small, Good for e.d.. Some note: Ok to use.",
+    "tags": [
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase heart rate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Start small",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for e.d.",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ok to use",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:51.333Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 140418,
+  "last_updated": "2026-03-20T09:29:33.797Z",
+  "first_scraped": "2026-03-20T09:29:33.797Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Higher dosage, Great addition, Easy to swallow, Fast shipping, Trust them, Supports calcium absorption, Small size, Calcium transport. Some note: Strong bones, Enjoying the benefits.",
+    "tags": [
+      {
+        "name": "Higher dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust them",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports calcium absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calcium transport",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong bones",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Enjoying the benefits",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:33.797Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

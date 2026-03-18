@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7139,
+  "last_updated": "2026-03-20T09:46:37.518Z",
+  "first_scraped": "2026-03-20T09:46:37.518Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for, Positive results, Sleep better, Improved health, Mars trip, Anti-cancer supplement, No side effects, Boost immunity. Some note: Easy ordering.",
+    "tags": [
+      {
+        "name": "Good for",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mars trip",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-cancer supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy ordering",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Mixed with brown rice",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:37.518Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

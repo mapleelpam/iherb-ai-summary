@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101377,
+  "last_updated": "2026-03-20T09:23:37.743Z",
+  "first_scraped": "2026-03-20T09:23:37.743Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Good taste, Dissolves easily, Great collagen, Affordable peptides, No flavor, Skin improvement, Grass fed. Some note: Pure source.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable peptides",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Grass fed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure source",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Doesn't dissolve well",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:37.743Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

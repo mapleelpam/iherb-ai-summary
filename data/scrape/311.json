@@ -1,0 +1,68 @@
+{
+  "iherb_id": 311,
+  "last_updated": "2026-03-20T09:35:08.174Z",
+  "first_scraped": "2026-03-20T09:35:08.174Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved health, Relieves joint, Nerve support, Great supplement, Powerful antioxidant, Easy to take, Good ingredients, Great detoxer.",
+    "tags": [
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves joint",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nerve support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great detoxer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sleepy dingdong",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:08.174Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

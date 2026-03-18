@@ -1,0 +1,68 @@
+{
+  "iherb_id": 130241,
+  "last_updated": "2026-03-20T09:17:21.679Z",
+  "first_scraped": "2026-03-20T09:17:21.679Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps digestion, Improving gut, Great for yogurt, Reasonable price, Easy to swallow, Fast shipping, Good after antibiotics, Noticeable improvement. Some note: Not noticeable.",
+    "tags": [
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for yogurt",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good after antibiotics",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not noticeable",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not much",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:21.679Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

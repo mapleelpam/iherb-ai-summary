@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70450,
+  "last_updated": "2026-03-20T10:23:53.258Z",
+  "first_scraped": "2026-03-20T10:23:53.258Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Eye support, Scientific formula, Helpful for autism, Effective brand, Fast shipping, Decreased inflammation, Highly recommend, Delightful flavor.",
+    "tags": [
+      {
+        "name": "Eye support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Scientific formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful for autism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decreased inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delightful flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Discontinued product",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Lower potency",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:53.258Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

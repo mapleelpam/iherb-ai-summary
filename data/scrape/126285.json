@@ -1,0 +1,68 @@
+{
+  "iherb_id": 126285,
+  "last_updated": "2026-03-20T10:17:28.542Z",
+  "first_scraped": "2026-03-20T10:17:28.542Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mixes well, Tasty pink lemonade, Energy boost, Pleasant taste, Love taste, Hydration benefits, Compact size, Lemon flavor.",
+    "tags": [
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty pink lemonade",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydration benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Compact size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lemon flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fake taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No citric acid",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:28.542Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

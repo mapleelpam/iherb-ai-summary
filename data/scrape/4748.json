@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4748,
+  "last_updated": "2026-03-20T10:34:56.296Z",
+  "first_scraped": "2026-03-20T10:34:56.296Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Best plant-based, Boost in health, Travel packs, Travel convenience, Complete supplement, Nutritional kick, Improved digestion, Mild taste. Some note: Longer consumption.",
+    "tags": [
+      {
+        "name": "Best plant-based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost in health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Travel packs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Travel convenience",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutritional kick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste horrible",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Longer consumption",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:34:56.296Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

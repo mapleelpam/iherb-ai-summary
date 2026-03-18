@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14174,
+  "last_updated": "2026-03-20T09:51:56.491Z",
+  "first_scraped": "2026-03-20T09:51:56.491Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes great, Trusted brand, Fuller hair, Brighter skin, Immune support, Stronger hair, Works for me, Good health.",
+    "tags": [
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fuller hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brighter skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-aging doubt",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Nausea and rashes",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:56.491Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

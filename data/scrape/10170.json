@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10170,
+  "last_updated": "2026-03-20T09:50:41.464Z",
+  "first_scraped": "2026-03-20T09:50:41.464Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High dosage, Easy to swallow, Helpful item, Love solgar, Speed up healing, Quality supplement, Very satisfied, Reducing migraines. Some note: Easy to split, Effective vitamin.",
+    "tags": [
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful item",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love solgar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speed up healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reducing migraines",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to split",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective vitamin",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:41.464Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

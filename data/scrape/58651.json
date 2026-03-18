@@ -1,0 +1,68 @@
+{
+  "iherb_id": 58651,
+  "last_updated": "2026-03-20T09:54:10.226Z",
+  "first_scraped": "2026-03-20T09:54:10.226Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Muscular strength, Improved sleep quality, Nice recovery formula, Recovery benefits, Happy consumer, Good before bed, Helps with sleep, Effective supplement.",
+    "tags": [
+      {
+        "name": "Muscular strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep quality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice recovery formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recovery benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy consumer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good before bed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stomach hurt",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:10.226Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

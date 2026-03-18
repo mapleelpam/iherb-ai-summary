@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114461,
+  "last_updated": "2026-03-20T10:05:48.012Z",
+  "first_scraped": "2026-03-20T10:05:48.012Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved focus, Small size, Good ingredients, Promising option, Brand trust, Improved sleep, Improves brain fog, Maintain alertness.",
+    "tags": [
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Promising option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brand trust",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves brain fog",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain alertness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pricey for",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Strong flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:48.012Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

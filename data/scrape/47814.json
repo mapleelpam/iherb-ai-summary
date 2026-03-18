@@ -1,0 +1,68 @@
+{
+  "iherb_id": 47814,
+  "last_updated": "2026-03-20T09:43:25.213Z",
+  "first_scraped": "2026-03-20T09:43:25.213Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Brain support, Trust brand, Calmer, focused, Positive results, Easy to swallow, Improved attention, Good for brain, Recommended by doctor.",
+    "tags": [
+      {
+        "name": "Brain support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calmer, focused",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved attention",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for brain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended by doctor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory loss",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Brain fog",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:25.213Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70817,
+  "last_updated": "2026-03-20T10:24:12.816Z",
+  "first_scraped": "2026-03-20T10:24:12.816Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for constipation, Mild taste, Delicious fiber, Boost of energy, Good option, Easy digestion, High value, Effective cleanse. Some note: Dense, good taste.",
+    "tags": [
+      {
+        "name": "Good for constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Horrible taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Dense, good taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:12.816Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

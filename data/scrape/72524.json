@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72524,
+  "last_updated": "2026-03-20T09:54:37.749Z",
+  "first_scraped": "2026-03-20T09:54:37.749Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Meal replacement, Lost weight, Tastes great, Filling taste, Works wonders, Good taste, Protein content, Healthy product. Some note: Best product, Pricey but.",
+    "tags": [
+      {
+        "name": "Meal replacement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lost weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Filling taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protein content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Pricey but",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:37.749Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

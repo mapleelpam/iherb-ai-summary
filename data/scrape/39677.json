@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39677,
+  "last_updated": "2026-03-20T10:06:02.087Z",
+  "first_scraped": "2026-03-20T10:06:02.087Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small size, Good taste, Effective protein, Love it!, Delicious flavor, Sustain muscles, Amazing results, Tastes good.",
+    "tags": [
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love it!",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustain muscles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unnatural flavor",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High fructose",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:02.087Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 17472,
+  "last_updated": "2026-03-20T09:22:35.637Z",
+  "first_scraped": "2026-03-20T09:22:35.637Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good choice, Improved stamina, Supports thyroid, Effective source, Easy to swallow, Energy boost, Iodine support, Convenient way. Some note: Daily intake, Not bad.",
+    "tags": [
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports thyroid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Iodine support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily intake",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not bad",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:35.637Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

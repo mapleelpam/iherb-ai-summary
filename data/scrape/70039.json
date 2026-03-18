@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70039,
+  "last_updated": "2026-03-20T10:17:43.693Z",
+  "first_scraped": "2026-03-20T10:17:43.693Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Blood sugar, Sugar management, Digestion aid, Balance yin-yang, Natural support, Love the product, Clean colon, Convenient packaging, Works well, Quality pills.",
+    "tags": [
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sugar management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balance yin-yang",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean colon",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality pills",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:43.693Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

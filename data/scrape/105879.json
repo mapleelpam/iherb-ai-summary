@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105879,
+  "last_updated": "2026-03-20T09:19:14.988Z",
+  "first_scraped": "2026-03-20T09:19:14.988Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy support, Fast delivery, Good multivitamin, Easy to swallow, Good ingredient, More energy, Helps nutrition, Full potency. Some note: Great composition.",
+    "tags": [
+      {
+        "name": "Energy support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps nutrition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Full potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great composition",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Upset stomach",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:14.988Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84062,
+  "last_updated": "2026-03-20T10:11:58.495Z",
+  "first_scraped": "2026-03-20T10:11:58.495Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Positive impact, Better sleep, Small results, Value buy, Great results, Helps relax, Convenient form, Mental energy.",
+    "tags": [
+      {
+        "name": "Positive impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps relax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hard to wake",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:58.495Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

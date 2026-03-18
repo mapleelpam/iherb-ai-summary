@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113501,
+  "last_updated": "2026-03-20T10:04:55.982Z",
+  "first_scraped": "2026-03-20T10:04:55.982Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Easy to use, High dosage ingredients, Speeds up, Helps with, Good probiotic, Helped greatly, Beneficial blend. Some note: Value for money.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speeds up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped greatly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Magic goes away",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:55.982Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

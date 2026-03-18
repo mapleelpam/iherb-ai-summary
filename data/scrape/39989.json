@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39989,
+  "last_updated": "2026-03-20T09:27:07.453Z",
+  "first_scraped": "2026-03-20T09:27:07.453Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Excellent additive, Natural ingredients, Easy to take, Tastes good, Moderation is key, Effective source, Natural choice, Natural source.",
+    "tags": [
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moderation is key",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Poor packaging",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Strange taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:07.453Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

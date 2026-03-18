@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71026,
+  "last_updated": "2026-03-20T09:18:21.903Z",
+  "first_scraped": "2026-03-20T09:18:21.903Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No taste, Easy use, Great deal, Good package, Effective supplement, Helps with workouts, Muscle growth, Helping us. Some note: Improved endurance, Slow release.",
+    "tags": [
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with workouts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helping us",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved endurance",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Slow release",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:21.903Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

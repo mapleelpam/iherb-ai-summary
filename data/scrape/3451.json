@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3451,
+  "last_updated": "2026-03-20T09:29:05.129Z",
+  "first_scraped": "2026-03-20T09:29:05.129Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Beneficial size, Helps digestion, Less pain, Less bloating, Digestion improved, Digestive health, Digestive aid, Digests fats. Some note: Game changer, Minimal effectiveness.",
+    "tags": [
+      {
+        "name": "Beneficial size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digests fats",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game changer",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Minimal effectiveness",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:05.129Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

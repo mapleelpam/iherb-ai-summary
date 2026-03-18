@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73863,
+  "last_updated": "2026-03-20T10:26:25.423Z",
+  "first_scraped": "2026-03-20T10:26:25.423Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increased energy, Increased performance, Early delivery, Hydrated and balanced, Effective for endurance, Good balance, Hydration support, Recover faster, Good start, Highly recommend.",
+    "tags": [
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Early delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydrated and balanced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective for endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydration support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recover faster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good start",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:25.423Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

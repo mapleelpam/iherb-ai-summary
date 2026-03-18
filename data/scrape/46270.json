@@ -1,0 +1,68 @@
+{
+  "iherb_id": 46270,
+  "last_updated": "2026-03-20T10:31:44.861Z",
+  "first_scraped": "2026-03-20T10:31:44.861Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Ideal concentration, Special promotion, Working great, Natural ingredients, More ordering, Reliable omega, Lowered blood pressure, No aftertaste. Some note: Tolerable capsules.",
+    "tags": [
+      {
+        "name": "Ideal concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Special promotion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Working great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More ordering",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable omega",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowered blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin problems",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tolerable capsules",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:44.861Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

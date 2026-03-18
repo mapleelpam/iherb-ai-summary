@@ -1,0 +1,68 @@
+{
+  "iherb_id": 25338,
+  "last_updated": "2026-03-20T10:06:47.289Z",
+  "first_scraped": "2026-03-20T10:06:47.289Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective relief, Good taste, Tastes good, Accurate delivery, Pain relief noticed, High dosage, Joint pain relief, Works fantastic.",
+    "tags": [
+      {
+        "name": "Effective relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Accurate delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fantastic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong flavor",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:47.289Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

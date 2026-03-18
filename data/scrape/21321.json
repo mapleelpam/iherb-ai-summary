@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21321,
+  "last_updated": "2026-03-20T09:37:38.800Z",
+  "first_scraped": "2026-03-20T09:37:38.800Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helped tremendously, Love this, Helps digestion, Improves health, Vegetarian capsules, Food sensitivity, Effective blend, Gut support. Some note: Skin care products, Broad spectrum.",
+    "tags": [
+      {
+        "name": "Helped tremendously",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegetarian capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Food sensitivity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin care products",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Broad spectrum",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:38.800Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

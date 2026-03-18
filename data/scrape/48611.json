@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48611,
+  "last_updated": "2026-03-20T09:22:32.629Z",
+  "first_scraped": "2026-03-20T09:22:32.629Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great antioxidant, Easy to swallow, Glass bottle, Supports immunity, Skin benefits, Good dosage, Small size, More energetic. Some note: Efficient shipping, Love solgar.",
+    "tags": [
+      {
+        "name": "Great antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient shipping",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Love solgar",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:32.629Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

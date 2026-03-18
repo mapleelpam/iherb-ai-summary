@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18560,
+  "last_updated": "2026-03-20T09:27:52.771Z",
+  "first_scraped": "2026-03-20T09:27:52.771Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Gut health, Anti fungal, Effective solution, Kills candida, Life saver, Start slowly, Love this, Significant relief. Some note: Digestive support.",
+    "tags": [
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti fungal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kills candida",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Start slowly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Significant relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not recommended",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:52.771Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

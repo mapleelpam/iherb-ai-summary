@@ -1,0 +1,68 @@
+{
+  "iherb_id": 83352,
+  "last_updated": "2026-03-20T09:38:53.653Z",
+  "first_scraped": "2026-03-20T09:38:53.653Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Ordering again, Good taste, Fast shipping, Good absorbion, Pain relief, Good dosage, High potency, Less stiffness, Joint pain. Some note: No difference.",
+    "tags": [
+      {
+        "name": "Ordering again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good absorbion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less stiffness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:53.653Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5179,
+  "last_updated": "2026-03-20T10:03:34.369Z",
+  "first_scraped": "2026-03-20T10:03:34.369Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great benefits, Easy dosage, Enhances focus, Anxiety relief, Detox protocol, Mild taste, Energy support, Good stuff.",
+    "tags": [
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhances focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox protocol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not good",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:34.369Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

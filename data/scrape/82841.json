@@ -1,0 +1,68 @@
+{
+  "iherb_id": 82841,
+  "last_updated": "2026-03-20T09:25:50.353Z",
+  "first_scraped": "2026-03-20T09:25:50.353Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clearer mind, Highly recommend, Effective ingredients, Boosts cognitive function, Energy boost, Cognitive support, Improved memory, Good capsule size. Some note: No noticeable, Not much.",
+    "tags": [
+      {
+        "name": "Clearer mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts cognitive function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cognitive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good capsule size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not much",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:50.353Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

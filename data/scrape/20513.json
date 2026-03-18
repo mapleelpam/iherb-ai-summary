@@ -1,0 +1,68 @@
+{
+  "iherb_id": 20513,
+  "last_updated": "2026-03-20T10:42:23.174Z",
+  "first_scraped": "2026-03-20T10:42:23.174Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mental clarity, Pricey investment, Lasting effect, Easy to take, Superior absorption, Scientific formula, Effective mood, Great supplement. Some note: Salmon substitute.",
+    "tags": [
+      {
+        "name": "Mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pricey investment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lasting effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superior absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Scientific formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Costly option",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Salmon substitute",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:42:23.174Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

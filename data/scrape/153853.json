@@ -1,0 +1,68 @@
+{
+  "iherb_id": 153853,
+  "last_updated": "2026-03-20T11:42:02.994Z",
+  "first_scraped": "2026-03-20T11:42:02.994Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helped heavy heart, Versatile usage, Edge off, Good results, Good choice, Mental health, Blessed product, Love this, Slightly lift.",
+    "tags": [
+      {
+        "name": "Helped heavy heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Versatile usage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Edge off",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blessed product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slightly lift",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T11:42:02.994Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81000,
+  "last_updated": "2026-03-20T10:28:02.918Z",
+  "first_scraped": "2026-03-20T10:28:02.918Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Potent formula, Easy consumption, Mild garlic, Boost in well-being, Strong defense, No smell, Anti microbial, High benefits.",
+    "tags": [
+      {
+        "name": "Potent formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy consumption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild garlic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost in well-being",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong defense",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti microbial",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low effectiveness",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive investment",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:02.918Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

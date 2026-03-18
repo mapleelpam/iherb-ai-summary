@@ -1,0 +1,68 @@
+{
+  "iherb_id": 129,
+  "last_updated": "2026-03-20T09:20:46.784Z",
+  "first_scraped": "2026-03-20T09:20:46.784Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great results, Great supplement, Boost energy, Feeling better, High bioavailability, Vegan b12, Good taste, Pleasant flavor. Some note: Slow dissolve.",
+    "tags": [
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High bioavailability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan b12",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Slow dissolve",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:46.784Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

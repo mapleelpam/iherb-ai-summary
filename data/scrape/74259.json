@@ -1,0 +1,68 @@
+{
+  "iherb_id": 74259,
+  "last_updated": "2026-03-20T09:54:42.574Z",
+  "first_scraped": "2026-03-20T09:54:42.574Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Taste like, Great flavor, Fast shipping, Vanilla taste, Body increase, Muscle gain, Good deal, Great results. Some note: Gain weight.",
+    "tags": [
+      {
+        "name": "Taste like",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vanilla taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body increase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle gain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive, lower quality",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Gain weight",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:42.574Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

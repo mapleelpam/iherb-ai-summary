@@ -1,0 +1,68 @@
+{
+  "iherb_id": 33643,
+  "last_updated": "2026-03-20T10:02:16.181Z",
+  "first_scraped": "2026-03-20T10:02:16.181Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reduced LDL, Healthy cholesterol, Healthy range, Lowering cholesterol, Excellent supplement, Easy to swallow, Feeling good, Amazing effect. Some note: Red yeast rice.",
+    "tags": [
+      {
+        "name": "Reduced LDL",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy range",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowering cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Red yeast rice",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:16.181Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

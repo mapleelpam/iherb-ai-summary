@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10625,
+  "last_updated": "2026-03-20T09:17:21.633Z",
+  "first_scraped": "2026-03-20T09:17:21.633Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Extra energy, Gentle iron, No side effects, Easy on digestion, Improved hemoglobin, Easy to swallow, No constipation, Gentle on stomach. Some note: Works properly.",
+    "tags": [
+      {
+        "name": "Extra energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle iron",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved hemoglobin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works properly",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bad constipation",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:21.633Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

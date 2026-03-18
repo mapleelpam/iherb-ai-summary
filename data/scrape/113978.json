@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113978,
+  "last_updated": "2026-03-20T09:38:17.300Z",
+  "first_scraped": "2026-03-20T09:38:17.300Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved energy, Energy and focus, Fast delivery, Impressed results, Improved digestion, Memory support, Energy booster, Helps focus. Some note: Great benefits, Clear mind.",
+    "tags": [
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy and focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Clear mind",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:17.300Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

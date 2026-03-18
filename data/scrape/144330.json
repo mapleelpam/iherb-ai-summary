@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144330,
+  "last_updated": "2026-03-20T10:35:54.415Z",
+  "first_scraped": "2026-03-20T10:35:54.415Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean version, Helps prevent, Temperature adjustment, Immune support, Relief from allergies, Move quickly, Easy to swallow, Beneficial effect. Some note: Too early.",
+    "tags": [
+      {
+        "name": "Clean version",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps prevent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Temperature adjustment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief from allergies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Move quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too early",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Still sick",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:35:54.415Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

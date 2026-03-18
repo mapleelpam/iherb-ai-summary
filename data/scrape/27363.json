@@ -1,0 +1,68 @@
+{
+  "iherb_id": 27363,
+  "last_updated": "2026-03-20T09:34:22.196Z",
+  "first_scraped": "2026-03-20T09:34:22.196Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trusted brand, Pleasant taste, Love this fiber, Effective fiber, Mixes easily, Natural peristaltic, Helps digestion, Mix with water. Some note: Slow results, Effective ingredient.",
+    "tags": [
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural peristaltic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mix with water",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredient",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:22.196Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

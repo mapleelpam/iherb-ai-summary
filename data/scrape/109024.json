@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109024,
+  "last_updated": "2026-03-20T10:06:18.925Z",
+  "first_scraped": "2026-03-20T10:06:18.925Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps inflammation, Immune health, Supportive dose, Love smell, Budget-friendly option, New brand, Reasonable price, Good deal. Some note: High potency, Hope it works.",
+    "tags": [
+      {
+        "name": "Helps inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supportive dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Budget-friendly option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "New brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hope it works",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:18.925Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

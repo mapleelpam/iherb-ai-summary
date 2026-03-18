@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97846,
+  "last_updated": "2026-03-20T10:07:39.824Z",
+  "first_scraped": "2026-03-20T10:07:39.824Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective amino blend, Good taste, Muscle building, Sweet taste, Effective blend, Hydrating preworkout, Tastes nice, Ingredient good.",
+    "tags": [
+      {
+        "name": "Effective amino blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle building",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydrating preworkout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ingredient good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Artificial sweeteners",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:39.824Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

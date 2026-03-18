@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7694,
+  "last_updated": "2026-03-20T10:26:07.198Z",
+  "first_scraped": "2026-03-20T10:26:07.198Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes good, Immune support, Boosting immune, Clears congestion, Improvement noticed, Healthy immunity, Effective remedy, Gut health.",
+    "tags": [
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clears congestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Price gouging",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:07.198Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

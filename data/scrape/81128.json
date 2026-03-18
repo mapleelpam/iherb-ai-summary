@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81128,
+  "last_updated": "2026-03-20T10:00:08.857Z",
+  "first_scraped": "2026-03-20T10:00:08.857Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective vitamin, Weight loss, Easy to use, Kosher certification, Easy absorption, Satisfied result, Immunity booster, Family use.",
+    "tags": [
+      {
+        "name": "Effective vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kosher certification",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Family use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dispenser issue",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:08.857Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

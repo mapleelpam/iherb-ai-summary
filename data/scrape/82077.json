@@ -1,0 +1,68 @@
+{
+  "iherb_id": 82077,
+  "last_updated": "2026-03-20T09:41:24.692Z",
+  "first_scraped": "2026-03-20T09:41:24.692Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reduce appetite, Antioxidant support, Blood sugar, High potency, Metabolism boost, Brain health, Easy weight loss, Outstanding support. Some note: Weight loss.",
+    "tags": [
+      {
+        "name": "Reduce appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Metabolism boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Outstanding support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No benefit",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:24.692Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

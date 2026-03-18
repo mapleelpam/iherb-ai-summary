@@ -1,0 +1,68 @@
+{
+  "iherb_id": 74182,
+  "last_updated": "2026-03-20T09:20:23.916Z",
+  "first_scraped": "2026-03-20T09:20:23.916Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Decreased knee pain, Good option, Effective supplement, Less pain, Helps joints, Good ingredients, Joint relief, Good vitamin, Improved flexibility.",
+    "tags": [
+      {
+        "name": "Decreased knee pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved flexibility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:23.916Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

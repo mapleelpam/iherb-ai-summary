@@ -1,0 +1,68 @@
+{
+  "iherb_id": 150688,
+  "last_updated": "2026-03-20T09:35:56.046Z",
+  "first_scraped": "2026-03-20T09:35:56.046Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective energy boost, Improved endurance, Natural energy, Low cost, Muscle function, Enhances strength performance, Tingling sensation, Real thing. Some note: Great blend.",
+    "tags": [
+      {
+        "name": "Effective energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low cost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhances strength performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tingling sensation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real thing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great blend",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Mental strain",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:56.046Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

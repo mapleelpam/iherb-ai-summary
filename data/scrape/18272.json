@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18272,
+  "last_updated": "2026-03-20T10:07:47.914Z",
+  "first_scraped": "2026-03-20T10:07:47.914Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great antioxidant, Skin protecting, Quality supplement, Best resveratrol, Good energy, Quality commitment, More energy, Helps stay. Some note: Moderate potency, No difference.",
+    "tags": [
+      {
+        "name": "Great antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin protecting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best resveratrol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality commitment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps stay",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moderate potency",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:47.914Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

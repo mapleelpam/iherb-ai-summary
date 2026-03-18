@@ -1,0 +1,68 @@
+{
+  "iherb_id": 52476,
+  "last_updated": "2026-03-20T09:39:40.226Z",
+  "first_scraped": "2026-03-20T09:39:40.226Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosts energy, Fair price, Superfood improvement, Fast delivery, Increasing milk, Improvement health, Organic brand, Easy to swallow. Some note: Healthy product.",
+    "tags": [
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superfood improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increasing milk",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:40.226Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

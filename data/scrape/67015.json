@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67015,
+  "last_updated": "2026-03-20T09:19:16.992Z",
+  "first_scraped": "2026-03-20T09:19:16.992Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Valuable addition, Muscle support, Liver support, Love this product, Immune support, Heart health, Improved sleep, Good dose. Some note: Improved focus, Pure taurine.",
+    "tags": [
+      {
+        "name": "Valuable addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Pure taurine",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:16.992Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105249,
+  "last_updated": "2026-03-20T09:52:04.378Z",
+  "first_scraped": "2026-03-20T09:52:04.378Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to open, Fast shipping, Plant-based ferritin, Less dizzy, Stopped hair loss, Effective iron, Absorbs well, More energy. Some note: Update efficiency.",
+    "tags": [
+      {
+        "name": "Easy to open",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant-based ferritin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less dizzy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped hair loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective iron",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorbs well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Didn't work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Update efficiency",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:04.378Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

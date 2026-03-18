@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116355,
+  "last_updated": "2026-03-20T10:00:04.845Z",
+  "first_scraped": "2026-03-20T10:00:04.845Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice package, Easy absorption, 60 servings, Maintain iron levels, Tiny capsules, Amazing effect, Normal levels, Improvement energy.",
+    "tags": [
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "60 servings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain iron levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiny capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dry hair",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Don't constipate",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:04.845Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

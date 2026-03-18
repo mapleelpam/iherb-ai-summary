@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23516,
+  "last_updated": "2026-03-20T09:19:28.556Z",
+  "first_scraped": "2026-03-20T09:19:28.556Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No taste, Easy to take, Immunity support, Energy booster, Highly recommend, Easy dosage, Increased levels, Absorbs well. Some note: Good results, Effective brand.",
+    "tags": [
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorbs well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:28.556Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

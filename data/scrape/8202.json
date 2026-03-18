@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8202,
+  "last_updated": "2026-03-20T10:03:58.640Z",
+  "first_scraped": "2026-03-20T10:03:58.640Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stronger bones, Easy to swallow, Maximum benefit, Helped tremendously, Great supplement, Fast shipping, Joint pain relief, Best price.",
+    "tags": [
+      {
+        "name": "Stronger bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maximum benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped tremendously",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach problems",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Quit problems",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:58.640Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

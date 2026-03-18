@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119516,
+  "last_updated": "2026-03-20T10:07:19.237Z",
+  "first_scraped": "2026-03-20T10:07:19.237Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Less irritation, Refreshing addition, Helps a lot, Improved digestion, Support health benefits, Boosts immunity, Nice package. Some note: With sleeping, Orange burps.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less irritation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps a lot",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "With sleeping",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Orange burps",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:19.237Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

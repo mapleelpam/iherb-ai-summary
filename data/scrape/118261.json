@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118261,
+  "last_updated": "2026-03-20T09:49:21.335Z",
+  "first_scraped": "2026-03-20T09:49:21.335Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Religiously use, Helps greatly, Fast shipping, Reduces night sweats, Easy to use, Cooler nights, Improvement noticed, Transparency shines.",
+    "tags": [
+      {
+        "name": "Religiously use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps greatly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces night sweats",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cooler nights",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Transparency shines",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep disturbance",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Nausea noticed",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:21.335Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

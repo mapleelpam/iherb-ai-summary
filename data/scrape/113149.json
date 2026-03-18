@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113149,
+  "last_updated": "2026-03-20T10:09:33.284Z",
+  "first_scraped": "2026-03-20T10:09:33.284Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps sleep, Effective sleep, Sleep issues, Edge off, Always helps, Fast action, Fast shipment, Improved rest.",
+    "tags": [
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Edge off",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Always helps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast action",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved rest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Ineffective sleep",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:33.284Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

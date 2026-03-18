@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7018,
+  "last_updated": "2026-03-20T09:24:22.596Z",
+  "first_scraped": "2026-03-20T09:24:22.596Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good melatonin, Sleep quality, Easy to swallow, Vegan capsules, Better sleep, Fall asleep, Natural sleep, Good dosage.",
+    "tags": [
+      {
+        "name": "Good melatonin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep quality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fall asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doesn't work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:22.596Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5689,
+  "last_updated": "2026-03-20T09:46:30.759Z",
+  "first_scraped": "2026-03-20T09:46:30.759Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good and will buy again, Love this, Long term benefit, Tastes good, Healthy lifestyle, Good taste, Increased energy, Boosting immune. Some note: Unusual taste.",
+    "tags": [
+      {
+        "name": "Good and will buy again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long term benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy lifestyle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inconsistent quality",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Unusual taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:30.759Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

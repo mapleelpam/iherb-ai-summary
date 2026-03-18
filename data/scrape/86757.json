@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86757,
+  "last_updated": "2026-03-20T10:03:10.593Z",
+  "first_scraped": "2026-03-20T10:03:10.593Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Quick energy, Strongly recommend, Great oil, Good taste, Good addition, Generous quantity, Organic oil, Boost performance. Some note: Bulletproof coffee.",
+    "tags": [
+      {
+        "name": "Quick energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strongly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Generous quantity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plastic container",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bulletproof coffee",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:10.593Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 19376,
+  "last_updated": "2026-03-20T10:36:56.310Z",
+  "first_scraped": "2026-03-20T10:36:56.310Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Memory benefits, Huge difference, No fishy taste, Supports organs, Fast shipping, Blood support, Happy purchase, Flax oil. Some note: No difference.",
+    "tags": [
+      {
+        "name": "Memory benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Huge difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports organs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flax oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Cap crack",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:36:56.310Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113502,
+  "last_updated": "2026-03-20T10:01:40.178Z",
+  "first_scraped": "2026-03-20T10:01:40.178Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast delivery, Increase bioavailability, Small size capsule, Ideal dose, Fat meal, Highly recommend, Good ingredients, More energy. Some note: Boost bone.",
+    "tags": [
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase bioavailability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ideal dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat meal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost bone",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High cost",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:40.178Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

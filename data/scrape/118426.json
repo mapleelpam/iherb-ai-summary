@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118426,
+  "last_updated": "2026-03-20T10:01:46.139Z",
+  "first_scraped": "2026-03-20T10:01:46.139Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Enhanced absorption, Improvement to health, Impressed results, General health, Natural over synthetic, Energy boost, Natural quality, Trusted brand. Some note: Packaging as expected, Cholesterol help.",
+    "tags": [
+      {
+        "name": "Enhanced absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement to health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "General health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural over synthetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural quality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Packaging as expected",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol help",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:46.139Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

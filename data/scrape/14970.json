@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14970,
+  "last_updated": "2026-03-20T09:42:50.505Z",
+  "first_scraped": "2026-03-20T09:42:50.505Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice flavor, Top pick, Tasty and good, Good taste, Easy chew, good flavor, Berry flavor, Avoided root canal, Good composition. Some note: Glass bottle.",
+    "tags": [
+      {
+        "name": "Nice flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top pick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty and good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy chew, good flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Berry flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoided root canal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective vitamin",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Glass bottle",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:50.505Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

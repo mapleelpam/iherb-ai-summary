@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3184,
+  "last_updated": "2026-03-20T09:20:20.082Z",
+  "first_scraped": "2026-03-20T09:20:20.082Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Seeing results, Weight management, Carb control, Helpful carb, Fast delivery, Cheat days, Blood sugar. Some note: Maintain weight, Natural ingredients.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seeing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Carb control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful carb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheat days",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain weight",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:20.082Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

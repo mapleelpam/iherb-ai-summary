@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111951,
+  "last_updated": "2026-03-20T09:43:18.494Z",
+  "first_scraped": "2026-03-20T09:43:18.494Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Strong taste, Body odor reduction, Tastes good, Boost in energy, Digestion help, Highly recommend, Nice package, Superfood supplement. Some note: No opinion, Refreshing breath.",
+    "tags": [
+      {
+        "name": "Strong taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body odor reduction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost in energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superfood supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No opinion",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Refreshing breath",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:18.494Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

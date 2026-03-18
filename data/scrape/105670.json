@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105670,
+  "last_updated": "2026-03-20T09:38:32.908Z",
+  "first_scraped": "2026-03-20T09:38:32.908Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clear head, Manufacturing standards, Gradual mental high-five, Stamina boost, Improved energy levels, Easy to swallow, Superior absorption, Good choice. Some note: Brain health.",
+    "tags": [
+      {
+        "name": "Clear head",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Manufacturing standards",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gradual mental high-five",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stamina boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superior absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Be careful",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:32.908Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69336,
+  "last_updated": "2026-03-20T09:50:21.804Z",
+  "first_scraped": "2026-03-20T09:50:21.804Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Affordable option, All needed, Great vitamins, Clean ingredients, Best price, High researched, Dry eyes, Less floaters. Some note: Very convenient.",
+    "tags": [
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "All needed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High researched",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dry eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less floaters",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not repurchase",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Very convenient",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:21.804Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

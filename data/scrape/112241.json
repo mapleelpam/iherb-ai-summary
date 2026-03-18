@@ -1,0 +1,68 @@
+{
+  "iherb_id": 112241,
+  "last_updated": "2026-03-20T10:36:30.402Z",
+  "first_scraped": "2026-03-20T10:36:30.402Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Certified organic, Promising source, Works wonders, Noticeable difference, Real mushrooms, Effective blend, Overall health, Strong immunity.",
+    "tags": [
+      {
+        "name": "Certified organic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Promising source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real mushrooms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Microbiome issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:36:30.402Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

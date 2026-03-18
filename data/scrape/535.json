@@ -1,0 +1,68 @@
+{
+  "iherb_id": 535,
+  "last_updated": "2026-03-20T09:26:24.506Z",
+  "first_scraped": "2026-03-20T09:26:24.506Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Noticeable results, No taste, Clean products, Muscle recovery, Effective supplement, Highly recommend, Fast shipping, Increased strength. Some note: Staple supplement, Best value.",
+    "tags": [
+      {
+        "name": "Noticeable results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean products",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Staple supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Best value",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:24.506Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

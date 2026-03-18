@@ -1,0 +1,68 @@
+{
+  "iherb_id": 76624,
+  "last_updated": "2026-03-20T10:22:32.874Z",
+  "first_scraped": "2026-03-20T10:22:32.874Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Impressed with, No fish, No aftertaste, Easy to take, Feel better, Good stuff, Powerful blood-thinner, Healthy balance, Beneficial omega threes. Some note: Refrigerator storage.",
+    "tags": [
+      {
+        "name": "Impressed with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fish",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful blood-thinner",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial omega threes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refrigerator storage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:32.874Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

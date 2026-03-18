@@ -1,0 +1,68 @@
+{
+  "iherb_id": 19129,
+  "last_updated": "2026-03-20T09:35:47.302Z",
+  "first_scraped": "2026-03-20T09:35:47.302Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improve memory, Helps reduce inflammation, Effective brand, Small tablets, Blood circulation, Quick effect, Good antioxidant, Value for money. Some note: Effective choice, Fantastic addition.",
+    "tags": [
+      {
+        "name": "Improve memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps reduce inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective choice",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Fantastic addition",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:47.302Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

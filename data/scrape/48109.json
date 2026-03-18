@@ -1,0 +1,58 @@
+{
+  "iherb_id": 48109,
+  "last_updated": "2026-03-20T10:07:52.827Z",
+  "first_scraped": "2026-03-20T10:07:52.827Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Best carb supplement, Energy boost, Delicious flavor, Good taste, Love flavor, Amazing results. Some note: Effective energy.",
+    "tags": [
+      {
+        "name": "Best carb supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective energy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Kind of expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:52.827Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 121778,
+  "last_updated": "2026-03-20T10:12:20.308Z",
+  "first_scraped": "2026-03-20T10:12:20.308Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stronger nails, No taste, Very satisfied, Easy to mix, Ingredients are good, So far so good, Skin support, Joint health. Some note: No complaints.",
+    "tags": [
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ingredients are good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "So far so good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No complaints",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Gross texture",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:20.308Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

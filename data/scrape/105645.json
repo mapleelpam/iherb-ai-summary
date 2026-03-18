@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105645,
+  "last_updated": "2026-03-20T10:06:49.236Z",
+  "first_scraped": "2026-03-20T10:06:49.236Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Neurology pain, Effective supplement, Hot foot relief, Happy with it, Improved health, Clean ingredients, Impressive potency, Boost energy, Easy to swallow.",
+    "tags": [
+      {
+        "name": "Neurology pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hot foot relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressive potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Price increase",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:49.236Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

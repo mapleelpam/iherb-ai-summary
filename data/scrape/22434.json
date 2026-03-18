@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22434,
+  "last_updated": "2026-03-20T10:13:46.129Z",
+  "first_scraped": "2026-03-20T10:13:46.129Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Very happy, Quick refill, Timely arrived, Easy to swallow, Love dosage, Fertility support, More energy. Some note: High potency, Decent coq10.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick refill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely arrived",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fertility support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Decent coq10",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:46.129Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

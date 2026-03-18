@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144191,
+  "last_updated": "2026-03-20T10:19:30.359Z",
+  "first_scraped": "2026-03-20T10:19:30.359Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Quick recovery, Prevent getting sick, Works wonders, Effective remedy, Stopped sneezing, Cold relief, Effective immunity, Alcohol-free formula. Some note: Tasty option, Simple process.",
+    "tags": [
+      {
+        "name": "Quick recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prevent getting sick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped sneezing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cold relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alcohol-free formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Simple process",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:30.359Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

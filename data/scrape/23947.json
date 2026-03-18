@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23947,
+  "last_updated": "2026-03-20T09:54:24.489Z",
+  "first_scraped": "2026-03-20T09:54:24.489Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved hydration, Effective supplement, Balances electrolytes, Fast shipping, Digestion support, Boost health, Muscle cramps, 5 stars.",
+    "tags": [
+      {
+        "name": "Improved hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balances electrolytes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "5 stars",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Water retention",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Low potency",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:24.489Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

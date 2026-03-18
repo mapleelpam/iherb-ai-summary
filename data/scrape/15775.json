@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15775,
+  "last_updated": "2026-03-20T09:40:42.604Z",
+  "first_scraped": "2026-03-20T09:40:42.604Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reasonable price, Organic acerola, Boost collagen, Boost immunity, Tastes good, Good composition, Highly absorbable, Boost energy. Some note: Easy to take, No smell.",
+    "tags": [
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic acerola",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly absorbable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No smell",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:42.604Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

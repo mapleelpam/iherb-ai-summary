@@ -1,0 +1,68 @@
+{
+  "iherb_id": 126556,
+  "last_updated": "2026-03-20T09:31:30.006Z",
+  "first_scraped": "2026-03-20T09:31:30.006Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Year's supply, Easy to consume, High dosage, Ingredients listed, Increased vitality, Improved immunity, Perfectly suits, Feel better. Some note: Nice package.",
+    "tags": [
+      {
+        "name": "Year's supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to consume",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ingredients listed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfectly suits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:30.006Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

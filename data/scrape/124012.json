@@ -1,0 +1,68 @@
+{
+  "iherb_id": 124012,
+  "last_updated": "2026-03-20T10:00:41.848Z",
+  "first_scraped": "2026-03-20T10:00:41.848Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Versatile product, Standard favorite, Good ingredients, Boost performance, Powerful composition, Delicious taste, More energy, Good package size, Favorite flavor.",
+    "tags": [
+      {
+        "name": "Versatile product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Standard favorite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Favorite flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:41.848Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

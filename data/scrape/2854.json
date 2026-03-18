@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2854,
+  "last_updated": "2026-03-20T10:35:29.064Z",
+  "first_scraped": "2026-03-20T10:35:29.064Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Bowel problems, Simple ingredient, Boost immune, Easy to take, Convenient option, Optimal ingredients, Effective supplement, Good antioxidant. Some note: Ingredients good.",
+    "tags": [
+      {
+        "name": "Bowel problems",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Simple ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Optimal ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difficult to find",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Ingredients good",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:35:29.064Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 525,
+  "last_updated": "2026-03-20T09:19:22.874Z",
+  "first_scraped": "2026-03-20T09:19:22.874Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Life saver, Bladder health, Easy to take, Helpful solution, Works great, Avoid antibiotics, Supports health, Daily basis. Some note: Helps keep, Effective dosage.",
+    "tags": [
+      {
+        "name": "Life saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bladder health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid antibiotics",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily basis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps keep",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:22.874Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

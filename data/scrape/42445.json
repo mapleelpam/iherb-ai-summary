@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42445,
+  "last_updated": "2026-03-20T09:32:36.873Z",
+  "first_scraped": "2026-03-20T09:32:36.873Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Thyroid support, Essential nutrient, Proper function, Matches description, Very happy, Perfect dosage, Easy to swallow, Good addition. Some note: Effective supplement.",
+    "tags": [
+      {
+        "name": "Thyroid support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential nutrient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Proper function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Matches description",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Never use",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:36.873Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

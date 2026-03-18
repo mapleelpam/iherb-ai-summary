@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73641,
+  "last_updated": "2026-03-20T09:44:01.666Z",
+  "first_scraped": "2026-03-20T09:44:01.666Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great source of, Gentle lotion, High antioxidants, Immune system, Quality supplement, Helped recover, Energy boost, Blends well. Some note: Selected ingredients, High vitamin C.",
+    "tags": [
+      {
+        "name": "Great source of",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle lotion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High antioxidants",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped recover",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blends well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Selected ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High vitamin C",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:01.666Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

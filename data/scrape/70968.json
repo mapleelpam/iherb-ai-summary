@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70968,
+  "last_updated": "2026-03-20T10:05:14.213Z",
+  "first_scraped": "2026-03-20T10:05:14.213Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy dosage, Easy chew, Helps sleep, Better nights, Fall asleep faster, Fast delivery, Natural solution, Pleasant taste, Works great. Some note: Adults only.",
+    "tags": [
+      {
+        "name": "Easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy chew",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better nights",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fall asleep faster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adults only",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:14.213Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

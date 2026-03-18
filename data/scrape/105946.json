@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105946,
+  "last_updated": "2026-03-20T10:02:52.487Z",
+  "first_scraped": "2026-03-20T10:02:52.487Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Well package, Nice touch, Chewable option, Sleep aid, Easy to take, Easy swallowing, Taste good, Boosts energy. Some note: Convenient size.",
+    "tags": [
+      {
+        "name": "Well package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice touch",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chewable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallowing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:52.487Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

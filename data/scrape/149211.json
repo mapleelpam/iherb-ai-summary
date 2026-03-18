@@ -1,0 +1,68 @@
+{
+  "iherb_id": 149211,
+  "last_updated": "2026-03-20T10:32:13.604Z",
+  "first_scraped": "2026-03-20T10:32:13.604Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Happy purchase, No weird flavor, Skin elasticity, Immunity support, Organic powder, Clean ingredients, Fast shipping, Healthy rotation.",
+    "tags": [
+      {
+        "name": "Happy purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No weird flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin elasticity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy rotation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less servings",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No benefit",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:13.604Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

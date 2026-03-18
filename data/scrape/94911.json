@@ -1,0 +1,68 @@
+{
+  "iherb_id": 94911,
+  "last_updated": "2026-03-20T09:26:18.142Z",
+  "first_scraped": "2026-03-20T09:26:18.142Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No aftertaste, Good choice, Fast shipping, Easy to swallow, Budget priced, Good for health, High potency, Lower triglycerides. Some note: Effective supplement.",
+    "tags": [
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Budget priced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower triglycerides",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:18.142Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10912,
+  "last_updated": "2026-03-20T10:16:39.451Z",
+  "first_scraped": "2026-03-20T10:16:39.451Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Not sweet, Tasty option, Mixes easily, Buy again, Tastes great, Toasted coconut, Not weird.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sweet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buy again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Toasted coconut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not weird",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Artificial flavor",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Pink color",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:39.451Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

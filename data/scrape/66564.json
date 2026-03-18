@@ -1,0 +1,68 @@
+{
+  "iherb_id": 66564,
+  "last_updated": "2026-03-20T09:47:13.185Z",
+  "first_scraped": "2026-03-20T09:47:13.185Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great results, Tastes great, Restoring health, Boost of energy, Easy absorption, Natural vitamin C, Love this, Fast results. Some note: Boost immunity.",
+    "tags": [
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restoring health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural vitamin C",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Side effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:13.185Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

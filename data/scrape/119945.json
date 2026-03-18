@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119945,
+  "last_updated": "2026-03-20T10:23:22.348Z",
+  "first_scraped": "2026-03-20T10:23:22.348Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Consistent results, Absorption boost, High antioxidants, Improved energy, Improved form, Anti-inflammatory relief, Supports joints. Some note: Blood thiner, Health benefits.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consistent results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorption boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High antioxidants",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood thiner",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Health benefits",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:22.348Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

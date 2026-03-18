@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67661,
+  "last_updated": "2026-03-20T09:53:00.389Z",
+  "first_scraped": "2026-03-20T09:53:00.389Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Value as, Muscle preservation, Mixes well, Effective supplement, Ideal product, Trusted company, Effective dosage, Great recovery. Some note: Various seals.",
+    "tags": [
+      {
+        "name": "Value as",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle preservation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ideal product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Various seals",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Taste horrible",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:00.389Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

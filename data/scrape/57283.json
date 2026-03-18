@@ -1,0 +1,68 @@
+{
+  "iherb_id": 57283,
+  "last_updated": "2026-03-20T10:10:45.326Z",
+  "first_scraped": "2026-03-20T10:10:45.326Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient packaging, Natural support, Richness of vitamins, Reduces frequency, Easy to take, Worth ordering, Potent product, Most complete product.",
+    "tags": [
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Richness of vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces frequency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth ordering",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Most complete product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive pharmacies",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:45.326Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

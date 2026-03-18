@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105896,
+  "last_updated": "2026-03-20T10:10:22.442Z",
+  "first_scraped": "2026-03-20T10:10:22.442Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love smell, Improved joint health, Convenient packaging, Reduced arthritis, Powerful blend, Helpful product, Package is great, Knee support.",
+    "tags": [
+      {
+        "name": "Love smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced arthritis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Package is great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Knee support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wasted money",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Wished worked",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:22.442Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

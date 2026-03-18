@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21457,
+  "last_updated": "2026-03-20T09:45:26.249Z",
+  "first_scraped": "2026-03-20T09:45:26.249Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosts immune, Stopped growing, Will buy again, Amazing product, Antiviral properties, Recommend winter, Tumor shrinkage, More alert. Some note: Not sure, Credible source.",
+    "tags": [
+      {
+        "name": "Boosts immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped growing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Will buy again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antiviral properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend winter",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tumor shrinkage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More alert",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Credible source",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:26.249Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

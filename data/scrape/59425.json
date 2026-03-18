@@ -1,0 +1,68 @@
+{
+  "iherb_id": 59425,
+  "last_updated": "2026-03-20T09:37:55.457Z",
+  "first_scraped": "2026-03-20T09:37:55.457Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Awesome flavor, Excellent additive, Excellent recovery, Good taste, Muscle recovery, Good results, Refreshing taste, Delicious BCAA. Some note: Artificial sweeteners.",
+    "tags": [
+      {
+        "name": "Awesome flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious BCAA",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Artificial sweeteners",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:55.457Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

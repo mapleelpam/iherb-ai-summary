@@ -1,0 +1,68 @@
+{
+  "iherb_id": 545,
+  "last_updated": "2026-03-20T09:23:44.661Z",
+  "first_scraped": "2026-03-20T09:23:44.661Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Useful addition, Helps bloating, Improvement digestion, Easy to swallow, Liver health, Improvement in health, Improved recovery, Helps with water retention, Great benefits.",
+    "tags": [
+      {
+        "name": "Useful addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with water retention",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:44.661Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

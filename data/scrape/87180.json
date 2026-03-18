@@ -1,0 +1,68 @@
+{
+  "iherb_id": 87180,
+  "last_updated": "2026-03-20T10:18:15.540Z",
+  "first_scraped": "2026-03-20T10:18:15.540Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less constipation, Good formula, Anaerobic environment, Improved gut, Good response, Flat tummy, Clean product, Comfortable packaging.",
+    "tags": [
+      {
+        "name": "Less constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anaerobic environment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good response",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flat tummy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comfortable packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive brand",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Digestive balance",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:15.540Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

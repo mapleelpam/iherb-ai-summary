@@ -1,0 +1,68 @@
+{
+  "iherb_id": 54096,
+  "last_updated": "2026-03-20T09:19:27.638Z",
+  "first_scraped": "2026-03-20T09:19:27.638Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural way, Happy with it, Efficient service, Helps with anxiety, More relaxed, Improved mood, Calms ADHD, Caffeine relief.",
+    "tags": [
+      {
+        "name": "Natural way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More relaxed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calms ADHD",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Caffeine relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slowly declined",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:27.638Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

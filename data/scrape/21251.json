@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21251,
+  "last_updated": "2026-03-20T09:41:37.488Z",
+  "first_scraped": "2026-03-20T09:41:37.488Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No aftertaste, Fair price, Easy to use, One per day, Plant based, Clean energy, Effective solution, Improved mind, Improvement noticed.",
+    "tags": [
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "One per day",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped using",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:37.488Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

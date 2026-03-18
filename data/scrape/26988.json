@@ -1,0 +1,68 @@
+{
+  "iherb_id": 26988,
+  "last_updated": "2026-03-20T10:12:16.227Z",
+  "first_scraped": "2026-03-20T10:12:16.227Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fall asleep, Small size, No side effects, Natural hormone, Trusted manufacturer, Onset sleep, Taste good, Easy to take.",
+    "tags": [
+      {
+        "name": "Fall asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural hormone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted manufacturer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Onset sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small bottle",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Doesn't work",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:16.227Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69202,
+  "last_updated": "2026-03-20T10:03:38.381Z",
+  "first_scraped": "2026-03-20T10:03:38.381Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Prompt service, Easy dissolve, Healthy option, Fast shipping, Nice quad, Clear pipes, Regularity I need, Works great.",
+    "tags": [
+      {
+        "name": "Prompt service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice quad",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear pipes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regularity I need",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped using",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Container overkill",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:38.381Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

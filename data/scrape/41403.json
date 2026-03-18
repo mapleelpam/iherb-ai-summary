@@ -1,0 +1,68 @@
+{
+  "iherb_id": 41403,
+  "last_updated": "2026-03-20T10:07:01.113Z",
+  "first_scraped": "2026-03-20T10:07:01.113Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fight sickness, Selected ingredients, Effective herbal blend, Highly recommend, Immune health, Boost immunity, Natural remedy, Benefit to health.",
+    "tags": [
+      {
+        "name": "Fight sickness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Selected ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective herbal blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit to health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Severe cold",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No impact",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:01.113Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

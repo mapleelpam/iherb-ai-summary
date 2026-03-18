@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8392,
+  "last_updated": "2026-03-20T09:36:51.586Z",
+  "first_scraped": "2026-03-20T09:36:51.586Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Excellent superfood, Antioxidant benefits, Improved digestion, Fast delivery, Daily energy, Good for detox, Taste good, Energy boost.",
+    "tags": [
+      {
+        "name": "Excellent superfood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love green magma",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Less green color",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:51.586Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

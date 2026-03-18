@@ -1,0 +1,68 @@
+{
+  "iherb_id": 57426,
+  "last_updated": "2026-03-20T10:13:14.385Z",
+  "first_scraped": "2026-03-20T10:13:14.385Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy back, Impressed, Skin cleared up, Small size, Balancing candida, Cleansing rotation, Antifungal blend, Good package.",
+    "tags": [
+      {
+        "name": "Energy back",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin cleared up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balancing candida",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleansing rotation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antifungal blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:14.385Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

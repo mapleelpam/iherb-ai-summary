@@ -1,0 +1,68 @@
+{
+  "iherb_id": 100010,
+  "last_updated": "2026-03-20T09:23:22.847Z",
+  "first_scraped": "2026-03-20T09:23:22.847Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Gradual improvement, Exceptional potency, Easy to swallow, Noticeable difference, Relatively small size, Optimal choice, No aftertaste, Convenient dose. Some note: Improved heart.",
+    "tags": [
+      {
+        "name": "Gradual improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Exceptional potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relatively small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Optimal choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved heart",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Fishy smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:22.847Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22350,
+  "last_updated": "2026-03-20T09:24:29.306Z",
+  "first_scraped": "2026-03-20T09:24:29.306Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great multivitamin, Effective brand, Easy to swallow, Happy customer, Clean ingredients, High potency, Energy boost, Strength and activity.",
+    "tags": [
+      {
+        "name": "Great multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy customer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strength and activity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Find something else",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stomach discomfort",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:29.306Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

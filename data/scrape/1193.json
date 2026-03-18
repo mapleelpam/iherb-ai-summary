@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1193,
+  "last_updated": "2026-03-20T09:49:52.382Z",
+  "first_scraped": "2026-03-20T09:49:52.382Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved skin, Boost health, Effective ingredient, Good composition, Fantastic addition, Menopause support, Improved sleep, Fast shipping. Some note: Great help.",
+    "tags": [
+      {
+        "name": "Improved skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Menopause support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great help",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:52.382Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

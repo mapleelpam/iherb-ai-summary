@@ -1,0 +1,68 @@
+{
+  "iherb_id": 30709,
+  "last_updated": "2026-03-20T09:36:45.656Z",
+  "first_scraped": "2026-03-20T09:36:45.656Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Gluten-free bread, Effective ingredient, Feel full, Excellent additive, Good for baking, Good alternative, Good for digestion, Keto bread. Some note: Good source.",
+    "tags": [
+      {
+        "name": "Gluten-free bread",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel full",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for baking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keto bread",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too fine",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:45.656Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

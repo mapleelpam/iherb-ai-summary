@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70645,
+  "last_updated": "2026-03-20T09:35:03.418Z",
+  "first_scraped": "2026-03-20T09:35:03.418Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves immunity, Bioflavonoids included, Clean ingredients, Blood vessel health, Immune support, Helps fight, Additive free, Good to buy. Some note: Different taste, Effective vitamin C.",
+    "tags": [
+      {
+        "name": "Improves immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioflavonoids included",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood vessel health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps fight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Additive free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good to buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Different taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective vitamin C",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:03.418Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

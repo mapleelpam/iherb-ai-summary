@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102082,
+  "last_updated": "2026-03-20T09:54:14.299Z",
+  "first_scraped": "2026-03-20T09:54:14.299Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Strong chocolate, Smooth texture, Mixes well, Rich flavor, Fast delivery, Unbelievably picky, Clean ingredients, Good deal. Some note: Decent taste.",
+    "tags": [
+      {
+        "name": "Strong chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unbelievably picky",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:14.299Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

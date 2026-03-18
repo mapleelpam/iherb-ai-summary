@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15856,
+  "last_updated": "2026-03-20T10:11:30.128Z",
+  "first_scraped": "2026-03-20T10:11:30.128Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Regulate sleep, Non-pharmaceutical remedy, Easy to swallow, Upper respiratory, Well worth, Immediate effect, No coughing.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Non-pharmaceutical remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Upper respiratory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well worth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No coughing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Night sleep",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not recommended",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:30.128Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118158,
+  "last_updated": "2026-03-20T10:06:14.333Z",
+  "first_scraped": "2026-03-20T10:06:14.333Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Must have, Enough protein, Handsome package, Energy boosting, Top choice, Protein support, Good bargain, Key dietary amino, Pleasant taste, Joint pain relief.",
+    "tags": [
+      {
+        "name": "Must have",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enough protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Handsome package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boosting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protein support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good bargain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Key dietary amino",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain relief",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:14.333Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2121,
+  "last_updated": "2026-03-20T10:03:12.469Z",
+  "first_scraped": "2026-03-20T10:03:12.469Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Adrenal support, Supporting organs, Well packaged, Powerful version, Life changer, Timely manner, Feel better, More energy. Some note: Effective supplement.",
+    "tags": [
+      {
+        "name": "Adrenal support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supporting organs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful version",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely manner",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Didn't work",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:12.469Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

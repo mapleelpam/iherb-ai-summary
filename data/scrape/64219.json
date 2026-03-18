@@ -1,0 +1,68 @@
+{
+  "iherb_id": 64219,
+  "last_updated": "2026-03-20T10:32:08.456Z",
+  "first_scraped": "2026-03-20T10:32:08.456Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Organic protein, Flour replacement, Tasty addition, No after taste, Lower price, Clean and tasty, Morning smoothies, Muscle recovery.",
+    "tags": [
+      {
+        "name": "Organic protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flour replacement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No after taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean and tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning smoothies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Horrible taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Upset stomach",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:08.456Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

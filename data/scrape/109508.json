@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109508,
+  "last_updated": "2026-03-20T09:51:07.918Z",
+  "first_scraped": "2026-03-20T09:51:07.918Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective formulation, Sleep aid, Best combination, Sleeping helper, Fall asleep, Good size tablets, Fast delivery, Good sleep. Some note: Great results.",
+    "tags": [
+      {
+        "name": "Effective formulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleeping helper",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fall asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good size tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Weak dosage",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:07.918Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

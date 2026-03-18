@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117528,
+  "last_updated": "2026-03-20T09:27:56.575Z",
+  "first_scraped": "2026-03-20T09:27:56.575Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Helps fall asleep, Fast acting, Fast shipping, Fall asleep quickly, Natural sleep, Effective brand, Sleep well. Some note: Great supplement.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps fall asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast acting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fall asleep quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Price difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:56.575Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

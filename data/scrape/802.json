@@ -1,0 +1,68 @@
+{
+  "iherb_id": 802,
+  "last_updated": "2026-03-20T09:16:15.685Z",
+  "first_scraped": "2026-03-20T09:16:15.685Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Liver support, Improved digestion, Nice package, Easy to swallow, Improved energy, Trust brand, Highly recommend, Strong supplement. Some note: Helpful detox, No difference.",
+    "tags": [
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful detox",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:16:15.685Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101085,
+  "last_updated": "2026-03-20T10:10:35.446Z",
+  "first_scraped": "2026-03-20T10:10:35.446Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Joint improvement, Easy to take, Trust brand, Improved mobility, Healthy supplement, Good vitamin, Happy with, Best collagen. Some note: Update later.",
+    "tags": [
+      {
+        "name": "Joint improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mobility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Update later",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Unhappy about",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:35.446Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

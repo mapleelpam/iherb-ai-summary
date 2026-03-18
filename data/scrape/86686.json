@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86686,
+  "last_updated": "2026-03-20T09:41:11.069Z",
+  "first_scraped": "2026-03-20T09:41:11.069Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Coconut taste, Good nutrition, Dissolves easily, Fast shipping, Creamy texture, Good taste, Fat burning. Some note: Big size.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Coconut taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good nutrition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Creamy texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat burning",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:11.069Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

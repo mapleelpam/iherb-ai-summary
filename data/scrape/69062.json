@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69062,
+  "last_updated": "2026-03-20T10:08:56.220Z",
+  "first_scraped": "2026-03-20T10:08:56.220Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Powerful antioxidant, Heart health, Fast digestive relief, Fast shipping, Second try, Efficient delivery, Replenish coq10, Good package. Some note: Lemon burps.",
+    "tags": [
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast digestive relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Second try",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Replenish coq10",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too big",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Lemon burps",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:56.220Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

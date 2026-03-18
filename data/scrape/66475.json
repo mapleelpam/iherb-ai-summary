@@ -1,0 +1,68 @@
+{
+  "iherb_id": 66475,
+  "last_updated": "2026-03-20T09:31:19.307Z",
+  "first_scraped": "2026-03-20T09:31:19.307Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great for muscle, Convenient meal replacement, Works great, Effective supplement, Mixes well, Good for gaining, High-calorie formula, Calories enough. Some note: Blend of proteins.",
+    "tags": [
+      {
+        "name": "Great for muscle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient meal replacement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for gaining",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High-calorie formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calories enough",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blend of proteins",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:19.307Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

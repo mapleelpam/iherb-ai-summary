@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107788,
+  "last_updated": "2026-03-20T10:18:22.912Z",
+  "first_scraped": "2026-03-20T10:18:22.912Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural sleep, Time released, Insomnia relief, Secure closure, Improved rest, Improves sleep, Easy to swallow, Fall asleep quickly.",
+    "tags": [
+      {
+        "name": "Natural sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Time released",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Insomnia relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Secure closure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved rest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fall asleep quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Doesn't work",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:22.912Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

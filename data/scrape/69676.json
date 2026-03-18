@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69676,
+  "last_updated": "2026-03-20T09:48:03.359Z",
+  "first_scraped": "2026-03-20T09:48:03.359Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Morning booster, Steady energy, Lovely taste, Great results, Energy boost, Less noticeable, More energy, Calmer, happier. Some note: No impact.",
+    "tags": [
+      {
+        "name": "Morning booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Steady energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lovely taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less noticeable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calmer, happier",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No impact",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Waste of money",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:03.359Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

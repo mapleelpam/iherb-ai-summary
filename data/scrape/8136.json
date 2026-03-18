@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8136,
+  "last_updated": "2026-03-20T10:10:08.924Z",
+  "first_scraped": "2026-03-20T10:10:08.924Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reliable brand, Shorter duration, Arm pain, Long-lasting, Gentle relief, Natural remedy, Natural combination, Works fine. Some note: Occasional pain.",
+    "tags": [
+      {
+        "name": "Reliable brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shorter duration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arm pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-lasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Occasional pain",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:08.924Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

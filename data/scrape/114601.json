@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114601,
+  "last_updated": "2026-03-20T10:02:14.297Z",
+  "first_scraped": "2026-03-20T10:02:14.297Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes great, Well rounded diet, Boosts energy, Immunity blend, Superfood, Good taste, High energy, Looks promising. Some note: Natural berry flavor.",
+    "tags": [
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well rounded diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superfood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Looks promising",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural berry flavor",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Triggers migraine",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:14.297Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

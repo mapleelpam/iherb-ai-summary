@@ -1,0 +1,68 @@
+{
+  "iherb_id": 27268,
+  "last_updated": "2026-03-20T09:40:42.604Z",
+  "first_scraped": "2026-03-20T09:40:42.604Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective ingredient, Lean muscle, Solid gains, Good composition, Arginine pill, Happy recommend, Boost energy, Fast shipping. Some note: Beneficial for fitness.",
+    "tags": [
+      {
+        "name": "Effective ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lean muscle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Solid gains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arginine pill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big tablets",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Beneficial for fitness",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:42.604Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

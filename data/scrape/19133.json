@@ -1,0 +1,68 @@
+{
+  "iherb_id": 19133,
+  "last_updated": "2026-03-20T10:01:03.510Z",
+  "first_scraped": "2026-03-20T10:01:03.510Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for, Great relief, Control blood sugar, Weight loss, Good results, Blood sugar, Memory improving, Pain relief. Some note: Small change.",
+    "tags": [
+      {
+        "name": "Good for",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improving",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small change",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not convinced",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:03.510Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

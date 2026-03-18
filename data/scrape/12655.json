@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12655,
+  "last_updated": "2026-03-20T09:44:48.564Z",
+  "first_scraped": "2026-03-20T09:44:48.564Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful aid, Berry flavor, Convenient tablet, Fulfilled function, Meal digestion, Speedy shipping, Easy to chew, Helpful digestive aid.",
+    "tags": [
+      {
+        "name": "Helpful aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Berry flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient tablet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fulfilled function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Meal digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to chew",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful digestive aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No benefits",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:48.564Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

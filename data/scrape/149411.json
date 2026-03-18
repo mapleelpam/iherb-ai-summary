@@ -1,0 +1,53 @@
+{
+  "iherb_id": 149411,
+  "last_updated": "2026-03-20T11:34:37.961Z",
+  "first_scraped": "2026-03-20T11:34:37.961Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Chocolatey flavor, Delicious and filling, Tasty protein, Good snack, Soft texture. Some note: Yummy bar.",
+    "tags": [
+      {
+        "name": "Chocolatey flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious and filling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soft texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy bar",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T11:34:37.961Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

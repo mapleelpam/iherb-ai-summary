@@ -1,0 +1,68 @@
+{
+  "iherb_id": 61587,
+  "last_updated": "2026-03-20T09:22:32.641Z",
+  "first_scraped": "2026-03-20T09:22:32.641Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increased vitality, Effective supplement, No taste, Essential minerals, Boost immunity, Boost energy, Positive change, Easy to take. Some note: Mild flavor.",
+    "tags": [
+      {
+        "name": "Increased vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential minerals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heavy metals",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Mild flavor",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:32.641Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

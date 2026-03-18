@@ -1,0 +1,68 @@
+{
+  "iherb_id": 55700,
+  "last_updated": "2026-03-20T10:08:46.230Z",
+  "first_scraped": "2026-03-20T10:08:46.230Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Keeps regular, Discounted price, Moisture mask, Parasite cleanse, Top ingredients, Freeze pills, Easy swallow, Digestion improvement. Some note: Noticeable effect, Aloe ferox.",
+    "tags": [
+      {
+        "name": "Keeps regular",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Discounted price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moisture mask",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Parasite cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Freeze pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable effect",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Aloe ferox",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:46.230Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

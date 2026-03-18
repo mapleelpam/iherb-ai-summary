@@ -1,0 +1,68 @@
+{
+  "iherb_id": 27029,
+  "last_updated": "2026-03-20T09:43:32.584Z",
+  "first_scraped": "2026-03-20T09:43:32.584Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sense of peace, Tastes good, Calming help, Good taste, Works fast, Easy to take, Life saver, Helps sleep.",
+    "tags": [
+      {
+        "name": "Sense of peace",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste odd",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Side effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:32.584Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7006,
+  "last_updated": "2026-03-20T09:18:53.993Z",
+  "first_scraped": "2026-03-20T09:18:53.993Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increased dosage, Reduced bloating, Travel-friendly, High potency, Easy to swallow, Good bacteria, Highly recommend, Helps digestion. Some note: Individually packaged.",
+    "tags": [
+      {
+        "name": "Increased dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Travel-friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good bacteria",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not much",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Individually packaged",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:53.993Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

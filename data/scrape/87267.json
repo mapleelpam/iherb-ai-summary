@@ -1,0 +1,68 @@
+{
+  "iherb_id": 87267,
+  "last_updated": "2026-03-20T10:02:13.270Z",
+  "first_scraped": "2026-03-20T10:02:13.270Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Ideal composition, Knee pain, Joint pain improved, Mom likes, Bone strength, Good thing, Effective for bones, Nice packing.",
+    "tags": [
+      {
+        "name": "Ideal composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Knee pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mom likes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good thing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective for bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach bother",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Capsules smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:13.270Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

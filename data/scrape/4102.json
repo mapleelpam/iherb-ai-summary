@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4102,
+  "last_updated": "2026-03-20T09:29:17.048Z",
+  "first_scraped": "2026-03-20T09:29:17.048Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful product, Good taste, Lovely scent, Balanced nutrition, Sweet taste, Good choice, Large size, Tastes good. Some note: Terrible aftertaste.",
+    "tags": [
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lovely scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced nutrition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Terrible aftertaste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Struggle with",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:17.048Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

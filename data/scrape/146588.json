@@ -1,0 +1,68 @@
+{
+  "iherb_id": 146588,
+  "last_updated": "2026-03-20T10:24:29.667Z",
+  "first_scraped": "2026-03-20T10:24:29.667Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Competitively priced, Best choice, Feel good, Improved significantly, Regular use, Good results, Easy to swallow, Flex result.",
+    "tags": [
+      {
+        "name": "Competitively priced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved significantly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flex result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hard time",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:29.667Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

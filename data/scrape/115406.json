@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115406,
+  "last_updated": "2026-03-20T10:27:48.846Z",
+  "first_scraped": "2026-03-20T10:27:48.846Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great composition, Improving gut, Convenient jar, Good ingredient, Improving sleep, Deep sleep, Alert and refreshed, Improved rest.",
+    "tags": [
+      {
+        "name": "Great composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient jar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alert and refreshed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved rest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Doesn't work",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:48.846Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

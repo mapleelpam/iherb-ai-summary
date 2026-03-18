@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23839,
+  "last_updated": "2026-03-20T10:16:39.538Z",
+  "first_scraped": "2026-03-20T10:16:39.538Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pure ingredients, Hair improvement, Convenient way, Liver processing, Increased energy, Better IVF, Long time, Fountain of youth.",
+    "tags": [
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver processing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better IVF",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fountain of youth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Side effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:39.538Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

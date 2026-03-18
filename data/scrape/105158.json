@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105158,
+  "last_updated": "2026-03-20T10:18:55.223Z",
+  "first_scraped": "2026-03-20T10:18:55.223Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes like, Dissolves well, Amazing taste, Cake pop flavor, Replicates taste, Better flavor, Cooks well, Highly recommend. Some note: Nice white protein.",
+    "tags": [
+      {
+        "name": "Tastes like",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cake pop flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Replicates taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cooks well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice white protein",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Chemical taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:55.223Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 46759,
+  "last_updated": "2026-03-20T09:33:09.332Z",
+  "first_scraped": "2026-03-20T09:33:09.332Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small tablets, Very cheap product, Happy shopping, Good size, Build muscle, Nice package, Improved health, Heart health, Effective dose, Fast shipping.",
+    "tags": [
+      {
+        "name": "Small tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very cheap product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy shopping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Build muscle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:09.332Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39218,
+  "last_updated": "2026-03-20T10:03:50.698Z",
+  "first_scraped": "2026-03-20T10:03:50.698Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Promotes peaceful sleep, Relax and sleep, Good night's sleep, Fall asleep, Works wonders, Love blend, Deep sleep, Sleep remedy. Some note: Different question, Relaxing effect.",
+    "tags": [
+      {
+        "name": "Promotes peaceful sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relax and sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good night's sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fall asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Different question",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Relaxing effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:50.698Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

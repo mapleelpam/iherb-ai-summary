@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23943,
+  "last_updated": "2026-03-20T10:32:07.498Z",
+  "first_scraped": "2026-03-20T10:32:07.498Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to use, Perfect compliment, Protected design, Good choice, Scientific formula, Good digestion, More spunky, Balanced ph.",
+    "tags": [
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect compliment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protected design",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Scientific formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More spunky",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced ph",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Limited purchase",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Low CFU",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:07.498Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

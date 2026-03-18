@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11026,
+  "last_updated": "2026-03-20T10:02:58.428Z",
+  "first_scraped": "2026-03-20T10:02:58.428Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Unique composition, Easy to take, Works very well, Suppresses appetite, Metabolism support, Sugar cravings, Stay away, Blood sugar regulation, Excellent supplements. Some note: Long run.",
+    "tags": [
+      {
+        "name": "Unique composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works very well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suppresses appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Metabolism support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sugar cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stay away",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar regulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent supplements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long run",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:58.428Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

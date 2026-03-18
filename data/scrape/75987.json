@@ -1,0 +1,68 @@
+{
+  "iherb_id": 75987,
+  "last_updated": "2026-03-20T09:50:06.118Z",
+  "first_scraped": "2026-03-20T09:50:06.118Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very helpful, Happy with it, Life saver, Blood sugar, Easy swallow, Doctor's best, Slept well, Fast delivery. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Very helpful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doctor's best",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slept well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Insulin resistance",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:06.118Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15451,
+  "last_updated": "2026-03-20T10:28:19.704Z",
+  "first_scraped": "2026-03-20T10:28:19.704Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective solution, Easy to take, Life changing, Breathing relief, Lungs expanded, Good cleanse, Herbal formula, Powerful effects. Some note: Longer use, Intestinal changes.",
+    "tags": [
+      {
+        "name": "Effective solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Breathing relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lungs expanded",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herbal formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Longer use",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Intestinal changes",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:19.704Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

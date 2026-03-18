@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43352,
+  "last_updated": "2026-03-20T10:05:28.751Z",
+  "first_scraped": "2026-03-20T10:05:28.751Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stomach relief, Helps digestion, Digestive support, Good enzymes, Constipation relief, No side effects, There are benefits, Good ingredients.",
+    "tags": [
+      {
+        "name": "Stomach relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good enzymes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Constipation relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "There are benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low lipase",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Speeds up",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:28.751Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

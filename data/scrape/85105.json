@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85105,
+  "last_updated": "2026-03-20T09:22:29.700Z",
+  "first_scraped": "2026-03-20T09:22:29.700Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Higher recommended, Avoided colds, Improved digestion, Liver support, Effective defense, Clear viruses, Less inflammation. Some note: Empty stomach.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoided colds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective defense",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear viruses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Empty stomach",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:29.700Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

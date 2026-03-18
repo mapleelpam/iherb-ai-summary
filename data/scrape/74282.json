@@ -1,0 +1,68 @@
+{
+  "iherb_id": 74282,
+  "last_updated": "2026-03-20T09:34:49.024Z",
+  "first_scraped": "2026-03-20T09:34:49.024Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Yummy and big, Rapid absorption, Great supplement, Highly recommend, Easy mixing, Affordable option, Tastes nice, Premium blend. Some note: Clean ingredient.",
+    "tags": [
+      {
+        "name": "Yummy and big",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rapid absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mixing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Premium blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredient",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:49.024Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14422,
+  "last_updated": "2026-03-20T10:01:54.607Z",
+  "first_scraped": "2026-03-20T10:01:54.607Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Better skin, Easy to take, Water retention, Stomach noises, Works great, Liver support, Ibs-d symptoms.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Water retention",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach noises",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ibs-d symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dislike reductionist",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Uncomfortable taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:54.607Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

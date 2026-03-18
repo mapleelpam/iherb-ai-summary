@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101715,
+  "last_updated": "2026-03-20T09:44:03.613Z",
+  "first_scraped": "2026-03-20T09:44:03.613Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good additive, Highly recommend, Fine powder, Pure form, Boost immunity, Great addition, Love the value, Stronger than. Some note: Boosting antioxidants.",
+    "tags": [
+      {
+        "name": "Good additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fine powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger than",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High acidity",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Boosting antioxidants",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:03.613Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

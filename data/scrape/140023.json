@@ -1,0 +1,68 @@
+{
+  "iherb_id": 140023,
+  "last_updated": "2026-03-20T09:26:39.558Z",
+  "first_scraped": "2026-03-20T09:26:39.558Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Memory improved, Support brain, Works quickly, Mental clarity, Boosts focus, Nice packing, Reduce stress, Alert mind. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Memory improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support brain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alert mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not good",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:39.558Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

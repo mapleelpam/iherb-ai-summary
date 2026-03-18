@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104904,
+  "last_updated": "2026-03-20T10:16:22.139Z",
+  "first_scraped": "2026-03-20T10:16:22.139Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty alternative, Good taste, Easy to take, Essential vitamin, Love this, Tasty effect, Makes having, Convenient option, Halal and good. Some note: Daily intake.",
+    "tags": [
+      {
+        "name": "Tasty alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Makes having",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Halal and good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily intake",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:22.139Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

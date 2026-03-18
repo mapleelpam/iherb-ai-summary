@@ -1,0 +1,68 @@
+{
+  "iherb_id": 51878,
+  "last_updated": "2026-03-20T09:50:00.297Z",
+  "first_scraped": "2026-03-20T09:50:00.297Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good combination, Effective mix, Gives energy, Helpful supplement, Relieves aches, Easy to swallow, Fast shipment, Improved health.",
+    "tags": [
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gives energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves aches",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chemical concerns",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:00.297Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 98680,
+  "last_updated": "2026-03-20T10:09:13.626Z",
+  "first_scraped": "2026-03-20T10:09:13.626Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast acting, Immediate relief, Works properly, Taste good, Natural benefits, Highly recommend, Good package, Puts out fire. Some note: One pill.",
+    "tags": [
+      {
+        "name": "Fast acting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works properly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Puts out fire",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not enough alginate",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "One pill",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:13.626Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

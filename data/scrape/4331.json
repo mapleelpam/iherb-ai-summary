@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4331,
+  "last_updated": "2026-03-20T09:39:57.546Z",
+  "first_scraped": "2026-03-20T09:39:57.546Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stronger hair, Clean ingredients, Less chemicals, More energy, Energy boost, Improved vitality, Rejuvenation benefits, Herb benefits. Some note: Economical choice.",
+    "tags": [
+      {
+        "name": "Stronger hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less chemicals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rejuvenation benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herb benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Economical choice",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:57.546Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

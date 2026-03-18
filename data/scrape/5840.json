@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5840,
+  "last_updated": "2026-03-20T10:31:36.822Z",
+  "first_scraped": "2026-03-20T10:31:36.822Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Cheap and effective, Pain relief, No fillers, Easy to take, Reduced joint discomfort, Good for workouts, Reasonable pricing, Joint relief. Some note: Reduce consistently, Pricewise.",
+    "tags": [
+      {
+        "name": "Cheap and effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fillers",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced joint discomfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for workouts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable pricing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce consistently",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Pricewise",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:36.822Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

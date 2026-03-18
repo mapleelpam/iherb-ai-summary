@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9548,
+  "last_updated": "2026-03-20T10:30:28.632Z",
+  "first_scraped": "2026-03-20T10:30:28.632Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shopping, Stress aid, Trusted brand, Great herbal supplement, Boosts energy, Easy to use, Blood results, Liver detox. Some note: No effect, Very strong taste.",
+    "tags": [
+      {
+        "name": "Fast shopping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great herbal supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Very strong taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:30:28.632Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

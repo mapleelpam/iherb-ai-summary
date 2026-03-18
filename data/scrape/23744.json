@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23744,
+  "last_updated": "2026-03-20T09:34:20.242Z",
+  "first_scraped": "2026-03-20T09:34:20.242Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Game-changer for cognitive health, Excellent package, Reasonable price, Good memory, Brain health, Budget option, Improvement in mental clarity. Some note: High hope.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer for cognitive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Budget option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High hope",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Frustrated people",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:20.242Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

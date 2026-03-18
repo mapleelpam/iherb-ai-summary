@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114921,
+  "last_updated": "2026-03-20T10:23:55.308Z",
+  "first_scraped": "2026-03-20T10:23:55.308Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Taste good, Good aid, Deep sleep, Best thing, Body calming, Relaxed feeling, Good results, Positive impact.",
+    "tags": [
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best thing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body calming",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxed feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skeptical at first",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not good",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:55.308Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

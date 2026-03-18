@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84372,
+  "last_updated": "2026-03-20T09:27:30.039Z",
+  "first_scraped": "2026-03-20T09:27:30.039Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Simple formula, Boost immune, Good results, Effective against viruses, Recover quickly, Easy to swallow, Immune support, Natural antibiotic. Some note: Effective brand, No effect.",
+    "tags": [
+      {
+        "name": "Simple formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective against viruses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recover quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural antibiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:30.039Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

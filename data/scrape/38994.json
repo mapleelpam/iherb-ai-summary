@@ -1,0 +1,68 @@
+{
+  "iherb_id": 38994,
+  "last_updated": "2026-03-20T10:05:31.636Z",
+  "first_scraped": "2026-03-20T10:05:31.636Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Gut bacteria, Easy to take, Liver health support, Hormone balance, Good substitute, Great antioxidant, Positive changes, Reliable shipping.",
+    "tags": [
+      {
+        "name": "Gut bacteria",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver health support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormone balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good substitute",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive changes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticable effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Limited effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:31.636Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 121668,
+  "last_updated": "2026-03-20T10:32:38.061Z",
+  "first_scraped": "2026-03-20T10:32:38.061Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Pure dose, Heart health, Improves wellbeing, No fish taste, Good cholesterol increase, Easy to swallow, Tastes great, Potent supplement.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves wellbeing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fish taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good cholesterol increase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doesn't work",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:38.061Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

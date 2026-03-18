@@ -1,0 +1,68 @@
+{
+  "iherb_id": 87234,
+  "last_updated": "2026-03-20T10:29:06.602Z",
+  "first_scraped": "2026-03-20T10:29:06.602Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Filling cookie, Selected ingredients, Sweet combination, Best flavor, Yummy taste, Love brand, Protein cookie, Good cookie, Healthy snack.",
+    "tags": [
+      {
+        "name": "Filling cookie",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Selected ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protein cookie",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good cookie",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive size",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:29:06.602Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

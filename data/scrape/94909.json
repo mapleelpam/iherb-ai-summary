@@ -1,0 +1,68 @@
+{
+  "iherb_id": 94909,
+  "last_updated": "2026-03-20T09:29:46.741Z",
+  "first_scraped": "2026-03-20T09:29:46.741Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Feel better, IFOS certified, ADHD kids, Pure EPA, High potency, Good deal, No burping, Easy to swallow. Some note: More dreams.",
+    "tags": [
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "IFOS certified",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "ADHD kids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure EPA",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No burping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More dreams",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Difficult swallow",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:46.741Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

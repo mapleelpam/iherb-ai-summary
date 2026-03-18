@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9212,
+  "last_updated": "2026-03-20T10:20:12.073Z",
+  "first_scraped": "2026-03-20T10:20:12.073Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great sleep, Protective packaging, Enhances dreams, Helps calm, Very potent, Herb pharm, Great stuff, Effective brand.",
+    "tags": [
+      {
+        "name": "Great sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protective packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhances dreams",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps calm",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very potent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herb pharm",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adrenalin surges",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:12.073Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

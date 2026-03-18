@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117957,
+  "last_updated": "2026-03-20T10:00:24.291Z",
+  "first_scraped": "2026-03-20T10:00:24.291Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Vein elasticity, No harmful additions, Price reliable, Affordable option, Economical trial, Benefit health, Cost saving, Pain relief, Walking tour.",
+    "tags": [
+      {
+        "name": "Vein elasticity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No harmful additions",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Price reliable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economical trial",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cost saving",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Walking tour",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Made dizzy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:24.291Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

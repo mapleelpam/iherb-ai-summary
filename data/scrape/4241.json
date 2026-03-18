@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4241,
+  "last_updated": "2026-03-20T10:09:44.296Z",
+  "first_scraped": "2026-03-20T10:09:44.296Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No side effects, Enjoyable workout, Small capsules, Cell protection, Heavy metal scavenger, Cellular rejuvenation, Cellular support, Reduced sugar cravings. Some note: Expensive japanese.",
+    "tags": [
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enjoyable workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cell protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heavy metal scavenger",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cellular rejuvenation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cellular support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced sugar cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low quantity",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive japanese",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:44.296Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

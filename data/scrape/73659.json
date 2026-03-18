@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73659,
+  "last_updated": "2026-03-20T09:32:37.821Z",
+  "first_scraped": "2026-03-20T09:32:37.821Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Speedy delivery, High dose, More energy, Well packaged, Highly absorbable formulation, Feel energetic, Energy boost, Trusted brand, Heart health, Skin improvement.",
+    "tags": [
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly absorbable formulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:37.821Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

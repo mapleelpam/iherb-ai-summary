@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9999,
+  "last_updated": "2026-03-20T09:57:14.569Z",
+  "first_scraped": "2026-03-20T09:57:14.569Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good cleaning, Effective supplement, Prompt delivery, Fast shipment, Supporting immune, Noticeable improvement, Tastes great, Nice test.",
+    "tags": [
+      {
+        "name": "Good cleaning",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supporting immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice test",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small servings",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:14.569Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

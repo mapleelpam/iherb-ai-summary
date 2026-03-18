@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10177,
+  "last_updated": "2026-03-20T09:25:48.355Z",
+  "first_scraped": "2026-03-20T09:25:48.355Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Healthy product, Tablet form, The best, More energy, Nutrient dense, Tastes great, Clean taste, Skin and hair. Some note: Convenient addition.",
+    "tags": [
+      {
+        "name": "Healthy product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tablet form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "The best",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrient dense",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin and hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Poor lid",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Convenient addition",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:48.355Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

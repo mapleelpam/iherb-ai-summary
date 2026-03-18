@@ -1,0 +1,68 @@
+{
+  "iherb_id": 27527,
+  "last_updated": "2026-03-20T09:49:38.456Z",
+  "first_scraped": "2026-03-20T09:49:38.456Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Slow digesting, Rich flavor, Sustain muscles, Classic chocolate, Delicious taste, Absorption norms, Instant mix, Night time. Some note: Convenient packaging, Thick and creamy.",
+    "tags": [
+      {
+        "name": "Slow digesting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustain muscles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Classic chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorption norms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Instant mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Night time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Thick and creamy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:38.456Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

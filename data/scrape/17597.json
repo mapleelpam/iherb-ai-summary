@@ -1,0 +1,68 @@
+{
+  "iherb_id": 17597,
+  "last_updated": "2026-03-20T09:54:36.643Z",
+  "first_scraped": "2026-03-20T09:54:36.643Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Low molecular weight, Neurotoxicity, Cholesterol issues, Helps recover, Accurate description, Absorb toxins, Effective toxin-binding, Nice size capsules. Some note: Mold detox, Not distinct.",
+    "tags": [
+      {
+        "name": "Low molecular weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neurotoxicity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps recover",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Accurate description",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorb toxins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective toxin-binding",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice size capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mold detox",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not distinct",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:36.643Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

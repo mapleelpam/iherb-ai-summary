@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144256,
+  "last_updated": "2026-03-20T09:53:45.310Z",
+  "first_scraped": "2026-03-20T09:53:45.310Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Big difference, Stopped iron tablets, Helps homocystine, Muscle tone improvement, Acid reflux, Good results, Great help, Trusted brand. Some note: Digestive aid.",
+    "tags": [
+      {
+        "name": "Big difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped iron tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps homocystine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle tone improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acid reflux",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive aid",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Thick tablets",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:45.310Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80894,
+  "last_updated": "2026-03-20T09:39:26.420Z",
+  "first_scraped": "2026-03-20T09:39:26.420Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good probiotic, Good results, Helps digestion, Fast acting, Light on stomach, Easy to swallow, Great supplement, Good microbiome. Some note: Digestion maintenance.",
+    "tags": [
+      {
+        "name": "Good probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast acting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Light on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good microbiome",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Digestion maintenance",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:26.420Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

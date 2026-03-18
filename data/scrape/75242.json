@@ -1,0 +1,68 @@
+{
+  "iherb_id": 75242,
+  "last_updated": "2026-03-20T10:10:18.187Z",
+  "first_scraped": "2026-03-20T10:10:18.187Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mixes well, Supports digestion, Improved skin, Better feeling, Convenient for using, Quality gelatin, Benefit to health, Keto treats.",
+    "tags": [
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient for using",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality gelatin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit to health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keto treats",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clumpy texture",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hard to dissolve",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:18.187Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

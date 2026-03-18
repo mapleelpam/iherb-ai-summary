@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86164,
+  "last_updated": "2026-03-20T09:23:13.939Z",
+  "first_scraped": "2026-03-20T09:23:13.939Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy swallow, Eases eczema, Boosting energy, Large package, Female health, Blood improvement, Green capsules, Liver detox. Some note: Detoxification support.",
+    "tags": [
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eases eczema",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Female health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Green capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomachache",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Detoxification support",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:13.939Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

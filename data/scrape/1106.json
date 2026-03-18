@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1106,
+  "last_updated": "2026-03-20T09:28:11.868Z",
+  "first_scraped": "2026-03-20T09:28:11.868Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved digestion, Skin health, Detox body, Beneficial product, Hair growth, Helped arthritis, It works, Helped psoriasis. Some note: Nice amount of caps.",
+    "tags": [
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox body",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped arthritis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "It works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped psoriasis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable change",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Nice amount of caps",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:11.868Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

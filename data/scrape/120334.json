@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120334,
+  "last_updated": "2026-03-20T10:24:54.089Z",
+  "first_scraped": "2026-03-20T10:24:54.089Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Natural remedy, Significant improvement, Affordable option, Health improvement, Detox aid, Brand love, More energy. Some note: Hard to find.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Significant improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brand love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to find",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:54.089Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

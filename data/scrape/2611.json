@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2611,
+  "last_updated": "2026-03-20T09:24:45.788Z",
+  "first_scraped": "2026-03-20T09:24:45.788Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Nice package, Improvement concentration, Improves circulation, Small capsules, Immune resilience, Improves memory, Love love. Some note: Beneficial product, Effective supplement.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune resilience",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:45.788Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

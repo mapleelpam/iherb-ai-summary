@@ -1,0 +1,68 @@
+{
+  "iherb_id": 103003,
+  "last_updated": "2026-03-20T10:38:04.098Z",
+  "first_scraped": "2026-03-20T10:38:04.098Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Vegan d3, High potency, No side effects, Drastic improvement, Trust brand, Vegan product, Recommend product, Easy to take.",
+    "tags": [
+      {
+        "name": "Vegan d3",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Drastic improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Acid reflux",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:38:04.098Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

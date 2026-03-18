@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113992,
+  "last_updated": "2026-03-20T09:44:13.636Z",
+  "first_scraped": "2026-03-20T09:44:13.636Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Anxiety relief, Muscle pain relief, Overall effect, Good sleep, Fast shipping, Relaxing mind, Muscle relaxation, Constipation relief. Some note: Just ok, Helps sleep.",
+    "tags": [
+      {
+        "name": "Anxiety relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxing mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle relaxation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Constipation relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Just ok",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:13.636Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

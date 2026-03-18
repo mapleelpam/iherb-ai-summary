@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117766,
+  "last_updated": "2026-03-20T09:31:22.136Z",
+  "first_scraped": "2026-03-20T09:31:22.136Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Brain improvement, Interesting story, Memory improvement, Good benefits, Well packed, Leg pain relief, Recommended by, Budget option. Some note: Easy to take, First-time trying.",
+    "tags": [
+      {
+        "name": "Brain improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Interesting story",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Leg pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended by",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Budget option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "First-time trying",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:22.136Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

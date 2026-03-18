@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18624,
+  "last_updated": "2026-03-20T09:53:29.654Z",
+  "first_scraped": "2026-03-20T09:53:29.654Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Taste loved, Easy to consume, Easy way, Pleasant taste, Good dosage, Impact in days, Good taste, Kids love. Some note: Seasonal dosing.",
+    "tags": [
+      {
+        "name": "Taste loved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to consume",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impact in days",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Odd size",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Seasonal dosing",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:29.654Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

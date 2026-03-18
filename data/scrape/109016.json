@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109016,
+  "last_updated": "2026-03-20T10:00:38.893Z",
+  "first_scraped": "2026-03-20T10:00:38.893Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast absorption, No taste, Reasonable price, Skin improvement, Mixes well, Keep ordering, Great for skin, Stronger nails. Some note: Great benefits, Easy to use.",
+    "tags": [
+      {
+        "name": "Fast absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keep ordering",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:38.893Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

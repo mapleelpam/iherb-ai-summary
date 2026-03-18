@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69369,
+  "last_updated": "2026-03-20T10:09:22.635Z",
+  "first_scraped": "2026-03-20T10:09:22.635Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Solid pre workout, Fantastic flavor, Good taste, Works great, Fast shipping, Phenomenal focus, Five stars, Cheap products. Some note: Loved it.",
+    "tags": [
+      {
+        "name": "Solid pre workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Phenomenal focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Five stars",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheap products",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Artificial flavor",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Loved it",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:22.635Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

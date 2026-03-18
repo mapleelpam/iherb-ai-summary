@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114207,
+  "last_updated": "2026-03-20T10:23:22.331Z",
+  "first_scraped": "2026-03-20T10:23:22.331Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Daily routine, Good for circulation, Weight loss, Energy levels, Great blend, Blood normal, Improved health, Liver health, Effective mix, Fast dispatch.",
+    "tags": [
+      {
+        "name": "Daily routine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood normal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast dispatch",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:22.331Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

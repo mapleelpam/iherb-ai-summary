@@ -1,0 +1,68 @@
+{
+  "iherb_id": 83010,
+  "last_updated": "2026-03-20T10:26:37.558Z",
+  "first_scraped": "2026-03-20T10:26:37.558Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Quick response, Effective cognitive support, Convenient and cheaper, Clear mindset, Focused and motivated, Subtle impact, Energy boost, Immediate results. Some note: Staying level.",
+    "tags": [
+      {
+        "name": "Quick response",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective cognitive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient and cheaper",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear mindset",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Focused and motivated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Subtle impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive ingredients",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Staying level",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:37.558Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 100007,
+  "last_updated": "2026-03-20T10:04:54.858Z",
+  "first_scraped": "2026-03-20T10:04:54.858Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Visible improvement, Healthy option, Easy chew, Loved this, Short ingredient list, Good taste, Boost energy, Suitable for kids, High concentration. Some note: Boost immunity.",
+    "tags": [
+      {
+        "name": "Visible improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy chew",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loved this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Short ingredient list",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suitable for kids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:54.858Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

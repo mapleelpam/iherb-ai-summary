@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71866,
+  "last_updated": "2026-03-20T09:40:12.387Z",
+  "first_scraped": "2026-03-20T09:40:12.387Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Dissolves easily, Love the, Clean energy, Effective supplement, Works great, On time delivery, Safe to use, Improves focus. Some note: Nice package, Mixes well.",
+    "tags": [
+      {
+        "name": "Dissolves easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "On time delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:12.387Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

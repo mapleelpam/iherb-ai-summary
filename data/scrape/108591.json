@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108591,
+  "last_updated": "2026-03-20T10:21:40.034Z",
+  "first_scraped": "2026-03-20T10:21:40.034Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Noticeable boost, Strong formula, Satisfying fullness, High results, Phenomenal taste, Real benefits, Intense focus, Effective supplement. Some note: Tingling sensation, High caffeine.",
+    "tags": [
+      {
+        "name": "Noticeable boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfying fullness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Phenomenal taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intense focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tingling sensation",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High caffeine",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:40.034Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73769,
+  "last_updated": "2026-03-20T09:17:42.419Z",
+  "first_scraped": "2026-03-20T09:17:42.419Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Muscle cramps, More energy, Gentle stomach, High absorption rate, Improves sleep, Good option, No side effects, Energy boost. Some note: Relaxing muscles.",
+    "tags": [
+      {
+        "name": "Muscle cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High absorption rate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxing muscles",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Large tablets",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:42.419Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

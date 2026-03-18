@@ -1,0 +1,58 @@
+{
+  "iherb_id": 45957,
+  "last_updated": "2026-03-20T09:31:41.665Z",
+  "first_scraped": "2026-03-20T09:31:41.665Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fat burner, Boost metabolism, High energy, Energy boost, Weight loss support, Appetite suppressant. Some note: No change.",
+    "tags": [
+      {
+        "name": "Fat burner",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Appetite suppressant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleeping quality",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:41.665Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

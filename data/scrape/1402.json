@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1402,
+  "last_updated": "2026-03-20T09:44:17.575Z",
+  "first_scraped": "2026-03-20T09:44:17.575Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helped me, Skin health, Brain health, Pain relief, Reasonable price, Good antioxidant, Good improvement, Positive experience. Some note: Marvelous products, Gradual benefit.",
+    "tags": [
+      {
+        "name": "Helped me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive experience",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Marvelous products",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Gradual benefit",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:17.575Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

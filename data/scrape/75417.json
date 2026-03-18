@@ -1,0 +1,68 @@
+{
+  "iherb_id": 75417,
+  "last_updated": "2026-03-20T09:57:49.145Z",
+  "first_scraped": "2026-03-20T09:57:49.145Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast courier, Efficient product, Super taste boost, High benefit, Fast credibility, Fast results, Good taste, Affordable supplement. Some note: Different taste.",
+    "tags": [
+      {
+        "name": "Fast courier",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super taste boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast credibility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Different taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sweetener drawback",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:49.145Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

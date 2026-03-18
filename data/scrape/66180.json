@@ -1,0 +1,68 @@
+{
+  "iherb_id": 66180,
+  "last_updated": "2026-03-20T10:05:46.010Z",
+  "first_scraped": "2026-03-20T10:05:46.010Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice texture, Blocks appetite, Feel full, Appetite control, Good fiber, Fast shipping, Natural source, Love this. Some note: Mixed results.",
+    "tags": [
+      {
+        "name": "Nice texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blocks appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel full",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Appetite control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach upset",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Mixed results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:46.010Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

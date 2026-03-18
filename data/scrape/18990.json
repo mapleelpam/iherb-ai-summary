@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18990,
+  "last_updated": "2026-03-20T10:16:25.200Z",
+  "first_scraped": "2026-03-20T10:16:25.200Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Bloating relief, Cleans everything, Body absorb, Reasonable price, Sugar-free option, Love brand, Natural remedy, Effective supplement. Some note: No difference, Not sure.",
+    "tags": [
+      {
+        "name": "Bloating relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleans everything",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body absorb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sugar-free option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:25.200Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80994,
+  "last_updated": "2026-03-20T09:42:36.571Z",
+  "first_scraped": "2026-03-20T09:42:36.571Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less hairfall, Premium blend, Nail improvement, Thickened hair, Easy to swallow, Very happy, Hair growth, Ingredient list.",
+    "tags": [
+      {
+        "name": "Less hairfall",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Premium blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nail improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thickened hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ingredient list",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:36.571Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2679,
+  "last_updated": "2026-03-20T09:36:13.709Z",
+  "first_scraped": "2026-03-20T09:36:13.709Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reasonable price, Good addition, Easy swallow, Natural source, Eye inflammation, Good source, No after taste, Helps knee pain. Some note: Very satisfied.",
+    "tags": [
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No after taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps knee pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Synthetic vitamin",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:13.709Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

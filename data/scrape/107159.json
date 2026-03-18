@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107159,
+  "last_updated": "2026-03-20T09:40:10.297Z",
+  "first_scraped": "2026-03-20T09:40:10.297Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Silky hair, Convenient option, Citrus taste, Nice result, Smells good, Boost immunity, Tastes great, Amazing supplement, Good taste. Some note: Efficient package.",
+    "tags": [
+      {
+        "name": "Silky hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Citrus taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smells good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient package",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:10.297Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

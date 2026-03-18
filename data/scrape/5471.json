@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5471,
+  "last_updated": "2026-03-20T10:15:18.999Z",
+  "first_scraped": "2026-03-20T10:15:18.999Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Enhance immune, Gentler on stomach, Cold relief, Helped health, Leg cramps, Easy to use, Buffered vitamin C, Lymph draining, Maintains health. Some note: Mineral ascorbates.",
+    "tags": [
+      {
+        "name": "Enhance immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentler on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cold relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Leg cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buffered vitamin C",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lymph draining",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintains health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mineral ascorbates",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:18.999Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

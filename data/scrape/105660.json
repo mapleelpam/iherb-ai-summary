@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105660,
+  "last_updated": "2026-03-20T09:47:42.438Z",
+  "first_scraped": "2026-03-20T09:47:42.438Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy levels, Convenient purchase, High note, Boosts stamina, Taste good, Good antioxidant, Good combo, Helpful supplement. Some note: No improvement.",
+    "tags": [
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High note",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:42.438Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

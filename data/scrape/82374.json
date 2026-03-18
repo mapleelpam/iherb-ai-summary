@@ -1,0 +1,68 @@
+{
+  "iherb_id": 82374,
+  "last_updated": "2026-03-20T09:40:38.609Z",
+  "first_scraped": "2026-03-20T09:40:38.609Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Hair growth, Good taste, Health benefits, Good for health, Clearing skin, Smooth tasting, Growing like weeds. Some note: Excellent additive.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearing skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth tasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Growing like weeds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Plastic bottle",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:38.609Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

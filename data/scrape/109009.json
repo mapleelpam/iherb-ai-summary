@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109009,
+  "last_updated": "2026-03-20T10:09:42.401Z",
+  "first_scraped": "2026-03-20T10:09:42.401Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved digestion, Highly potent, Huge difference, Satisfied price, Overall digestion, Cheap option, Easy to swallow, Efficient product.",
+    "tags": [
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly potent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Huge difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheap option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Failed miserably",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not high",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:42.401Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

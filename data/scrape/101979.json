@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101979,
+  "last_updated": "2026-03-20T09:35:51.171Z",
+  "first_scraped": "2026-03-20T09:35:51.171Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural source, Trust dr. mercola, Multiple tocopherols, Menstrual cycle, Helps menstrual, Natural composition, Complete vitamin E, Skin benefits. Some note: Good ingredients, Skin improving.",
+    "tags": [
+      {
+        "name": "Natural source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust dr. mercola",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Multiple tocopherols",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Menstrual cycle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps menstrual",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete vitamin E",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Skin improving",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:51.171Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

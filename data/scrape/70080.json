@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70080,
+  "last_updated": "2026-03-20T10:08:50.230Z",
+  "first_scraped": "2026-03-20T10:08:50.230Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Cholesterol control, Lowered LDL, Brand works, Improved health, Better results, Cholesterol drop, Good combination, Cardiovascular support. Some note: No difference.",
+    "tags": [
+      {
+        "name": "Cholesterol control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowered LDL",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brand works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol drop",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Dosage variability",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:50.230Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

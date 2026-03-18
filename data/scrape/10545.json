@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10545,
+  "last_updated": "2026-03-20T10:43:04.441Z",
+  "first_scraped": "2026-03-20T10:43:04.441Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Proper ratio, Highly recommend, Bone health, Added nutrients, Worth the difference, Dissolves quickly, Nice balance, Prompt delivery.",
+    "tags": [
+      {
+        "name": "Proper ratio",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Added nutrients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth the difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No B vitamins",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:43:04.441Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

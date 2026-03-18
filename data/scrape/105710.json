@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105710,
+  "last_updated": "2026-03-20T09:19:20.876Z",
+  "first_scraped": "2026-03-20T09:19:20.876Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Excellent choice, Nice supplement, Good ingredients, Easy swallow, High potency, Daily energy, Daily support. Some note: Daily use, Yellow urine.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily use",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Yellow urine",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:20.876Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

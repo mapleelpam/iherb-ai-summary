@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8343,
+  "last_updated": "2026-03-20T09:32:56.687Z",
+  "first_scraped": "2026-03-20T09:32:56.687Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Visible results, Affordable option, Easier to take, Great experience, Weight loss, Good taste, Good energy, Easy consumption.",
+    "tags": [
+      {
+        "name": "Visible results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easier to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great experience",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy consumption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Improvement needed",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:56.687Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

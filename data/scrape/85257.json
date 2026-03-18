@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85257,
+  "last_updated": "2026-03-20T10:08:17.509Z",
+  "first_scraped": "2026-03-20T10:08:17.509Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural supplement, Works fine, Noticeable improvement, Natural ingredients, Effective aid, Good results, Longer lasting, Comfortable swallow.",
+    "tags": [
+      {
+        "name": "Natural supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Longer lasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comfortable swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Disappointed, awake",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Difficult to swallow",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:17.509Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

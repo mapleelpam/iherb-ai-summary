@@ -1,0 +1,68 @@
+{
+  "iherb_id": 480,
+  "last_updated": "2026-03-20T09:34:40.786Z",
+  "first_scraped": "2026-03-20T09:34:40.786Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Chalk paint, Convenient supplement, Good stuff, Calcium supplement, Bone health, DIY toothpaste, Smooth flavor. Some note: Increase calcium, Vitamin balance.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chalk paint",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calcium supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "DIY toothpaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase calcium",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Vitamin balance",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:40.786Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

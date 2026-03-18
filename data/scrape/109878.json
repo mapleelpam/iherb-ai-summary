@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109878,
+  "last_updated": "2026-03-20T09:34:46.095Z",
+  "first_scraped": "2026-03-20T09:34:46.095Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Gut support, Helps allergies, Food tolerance, Expensive but worth, Good result, Life saver, Improved gut, Effective enzymes. Some note: No harm.",
+    "tags": [
+      {
+        "name": "Gut support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps allergies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Food tolerance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but worth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective enzymes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No harm",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Non-vegan ingredients",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:46.095Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

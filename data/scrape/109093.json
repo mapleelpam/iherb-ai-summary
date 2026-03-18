@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109093,
+  "last_updated": "2026-03-20T09:18:28.809Z",
+  "first_scraped": "2026-03-20T09:18:28.809Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good antioxidant, First time, Liver detox, Effective detox, Skin lighter, Clear skin, Good results, Good ingredient. Some note: Brighter skin, Nice effects.",
+    "tags": [
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin lighter",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brighter skin",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nice effects",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:28.809Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

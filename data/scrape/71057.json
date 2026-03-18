@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71057,
+  "last_updated": "2026-03-20T09:37:14.946Z",
+  "first_scraped": "2026-03-20T09:37:14.946Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good substitute, No side effects, Mental alertness, Good results, Clean energy, Pushing harder, Extra energy, Game-changer. Some note: Effective replacement.",
+    "tags": [
+      {
+        "name": "Good substitute",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental alertness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pushing harder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective replacement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Useless energy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:14.946Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

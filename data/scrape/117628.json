@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117628,
+  "last_updated": "2026-03-20T09:37:45.871Z",
+  "first_scraped": "2026-03-20T09:37:45.871Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy booster, Helps colds, Gut health, Fast shipping, Immune support, Improves health, Boosting immune, Safe brand. Some note: Beneficial product, Quickly arrived.",
+    "tags": [
+      {
+        "name": "Energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps colds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Quickly arrived",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:45.871Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

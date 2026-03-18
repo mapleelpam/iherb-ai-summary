@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10560,
+  "last_updated": "2026-03-20T10:13:21.254Z",
+  "first_scraped": "2026-03-20T10:13:21.254Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Well known herb, Easy to swallow, Boost in energy, Vitality support, Super energy supplements, Convenient to incorporate, Like result, Energetic feel.",
+    "tags": [
+      {
+        "name": "Well known herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost in energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitality support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super energy supplements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient to incorporate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Like result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energetic feel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not natural",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not carrying",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:21.254Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

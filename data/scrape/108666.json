@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108666,
+  "last_updated": "2026-03-20T10:22:22.025Z",
+  "first_scraped": "2026-03-20T10:22:22.025Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immunity support, Tasty option, Great flavor, Easy to take, Highly recommend, Rich benefits, Good taste, Smells good, Size acceptable.",
+    "tags": [
+      {
+        "name": "Immunity support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smells good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Size acceptable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bit expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:22.025Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

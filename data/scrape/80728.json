@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80728,
+  "last_updated": "2026-03-20T10:07:16.266Z",
+  "first_scraped": "2026-03-20T10:07:16.266Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good purchase, Works best, Easy to take, Small bottle, More ius, Close the gap, Useful dosage, Fast absorption. Some note: D3 test, Blood check.",
+    "tags": [
+      {
+        "name": "Good purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works best",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More ius",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Close the gap",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Useful dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "D3 test",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Blood check",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:16.266Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

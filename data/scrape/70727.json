@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70727,
+  "last_updated": "2026-03-20T10:05:25.747Z",
+  "first_scraped": "2026-03-20T10:05:25.747Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune booster, Nice price, Good for health, Effective dosage, Top shelf, Good result, Small tablet size, Prompt shipping, Healthy lifestyle. Some note: Regular product.",
+    "tags": [
+      {
+        "name": "Immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top shelf",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small tablet size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy lifestyle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular product",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:25.747Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

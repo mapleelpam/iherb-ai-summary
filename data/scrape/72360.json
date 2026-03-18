@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72360,
+  "last_updated": "2026-03-20T10:22:17.003Z",
+  "first_scraped": "2026-03-20T10:22:17.003Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty apple pie, Tastes good, New favorite, High protein, Delicious protein bars, Chewy texture, Keeps me full, Fast shipping. Some note: Filling meal.",
+    "tags": [
+      {
+        "name": "Tasty apple pie",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "New favorite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious protein bars",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chewy texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps me full",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Filling meal",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:17.003Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

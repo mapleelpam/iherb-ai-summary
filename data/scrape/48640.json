@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48640,
+  "last_updated": "2026-03-20T10:02:56.345Z",
+  "first_scraped": "2026-03-20T10:02:56.345Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Memory improvement, Works fine, Highly recommend, Extended support, Brain supplement, Improved concentration, Trusted brand, Optimal size. Some note: Top pick, Fresh taste.",
+    "tags": [
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extended support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Optimal size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top pick",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Fresh taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:56.345Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

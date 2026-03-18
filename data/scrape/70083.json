@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70083,
+  "last_updated": "2026-03-20T10:16:52.388Z",
+  "first_scraped": "2026-03-20T10:16:52.388Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Well packaged, Liver support, Great option, Improved skin tone, Powerful antioxidant, Fast absorption, Works really good, Helps keep healthy, Long lasting. Some note: Strange smell.",
+    "tags": [
+      {
+        "name": "Well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved skin tone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works really good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps keep healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long lasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strange smell",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:52.388Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

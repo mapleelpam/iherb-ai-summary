@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22995,
+  "last_updated": "2026-03-20T10:22:50.690Z",
+  "first_scraped": "2026-03-20T10:22:50.690Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trust dragon herbs, Blood flow issues, Benefits, Energy boost, Powerful formulations, Platelet regulation, Cardiac health, Immune tonic.",
+    "tags": [
+      {
+        "name": "Trust dragon herbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood flow issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful formulations",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Platelet regulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiac health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune tonic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive product",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too large",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:50.690Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

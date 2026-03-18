@@ -1,0 +1,68 @@
+{
+  "iherb_id": 141400,
+  "last_updated": "2026-03-20T10:06:59.115Z",
+  "first_scraped": "2026-03-20T10:06:59.115Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Staple item, Found mine, Natural, non-gmo, Tasted like, Switched to cacao, Fall in love, Rich chocolate flavor, Cute recipe. Some note: Healthy option, Creamy frosting.",
+    "tags": [
+      {
+        "name": "Staple item",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Found mine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural, non-gmo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasted like",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Switched to cacao",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fall in love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich chocolate flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cute recipe",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy option",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Creamy frosting",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:59.115Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

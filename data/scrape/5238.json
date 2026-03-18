@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5238,
+  "last_updated": "2026-03-20T10:08:18.446Z",
+  "first_scraped": "2026-03-20T10:08:18.446Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost immunity, Fast shipping, Good buy, Easy to take, Maintain body health, Cold prevention, Excellent supplement, Noticeable difference.",
+    "tags": [
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain body health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cold prevention",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach ache",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Allergic intolerant",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:18.446Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

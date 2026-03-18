@@ -1,0 +1,68 @@
+{
+  "iherb_id": 129293,
+  "last_updated": "2026-03-20T09:37:37.783Z",
+  "first_scraped": "2026-03-20T09:37:37.783Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Easy to use, Small size, Good dosage, Improves sleep, Support sleep, Stay asleep, Natural remedy. Some note: No taste, Great benefits.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stay asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:37.783Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 152369,
+  "last_updated": "2026-03-20T10:18:47.396Z",
+  "first_scraped": "2026-03-20T10:18:47.396Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High protein powder, Clean ingredients, Smooth chocolate, Blends well, Delicious mix, Tastes good, Gluten free, Low carb.",
+    "tags": [
+      {
+        "name": "High protein powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blends well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gluten free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low carb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Artificial sweetener",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Taste terrible",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:47.396Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

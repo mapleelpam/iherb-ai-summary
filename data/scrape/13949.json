@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13949,
+  "last_updated": "2026-03-20T09:32:33.824Z",
+  "first_scraped": "2026-03-20T09:32:33.824Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tingling sensation, Easy to take, Improved endurance, Very budget, Fast shipping, Good benefits, Energy boost, Works like a charm. Some note: Competitively priced, Longer workouts.",
+    "tags": [
+      {
+        "name": "Tingling sensation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very budget",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works like a charm",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Competitively priced",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Longer workouts",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:33.824Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

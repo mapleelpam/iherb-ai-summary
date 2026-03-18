@@ -1,0 +1,68 @@
+{
+  "iherb_id": 134723,
+  "last_updated": "2026-03-20T10:26:33.469Z",
+  "first_scraped": "2026-03-20T10:26:33.469Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High protein, Tasty and convenient, No bloating, Nice packing, Smooth and sweet, Smooth texture, Effective purchase, Delicious flavor.",
+    "tags": [
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty and convenient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth and sweet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Horrible taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Oversweet flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:33.469Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

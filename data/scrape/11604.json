@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11604,
+  "last_updated": "2026-03-20T10:24:24.798Z",
+  "first_scraped": "2026-03-20T10:24:24.798Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Purple capsules, Healthy levels, Good improvement, Fast service, Brain function, Immune support, Deep cleans, Natural immunity, Reduce inflammation.",
+    "tags": [
+      {
+        "name": "Purple capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep cleans",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dry skin",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:24.798Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

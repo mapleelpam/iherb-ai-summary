@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77414,
+  "last_updated": "2026-03-20T09:26:55.532Z",
+  "first_scraped": "2026-03-20T09:26:55.532Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to mix, Good taste, Improves gut flora, Tastes great, Supports digestion, Helps constipation, Mild flavor, Weight control benefits. Some note: Good fiber source.",
+    "tags": [
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves gut flora",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight control benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes bad",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good fiber source",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:55.532Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

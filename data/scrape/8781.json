@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8781,
+  "last_updated": "2026-03-20T09:44:37.506Z",
+  "first_scraped": "2026-03-20T09:44:37.506Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice formula, Convenient package, Well balanced nutrition, Normal energy, Excellent experiences, Health factor, Trusted brand, Natural ingredients.",
+    "tags": [
+      {
+        "name": "Nice formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well balanced nutrition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent experiences",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health factor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not available",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive opinion",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:37.506Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

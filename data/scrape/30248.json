@@ -1,0 +1,68 @@
+{
+  "iherb_id": 30248,
+  "last_updated": "2026-03-20T10:29:33.433Z",
+  "first_scraped": "2026-03-20T10:29:33.433Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient and good, Prostate support, Plant source, Good absorption, Nice mix, Comprehensive formula, Blend of ingredients, Amazing results.",
+    "tags": [
+      {
+        "name": "Convenient and good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prostate support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comprehensive formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blend of ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Synthetic vitamin E",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Large tablets",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:29:33.433Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

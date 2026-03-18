@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1956,
+  "last_updated": "2026-03-20T09:37:34.650Z",
+  "first_scraped": "2026-03-20T09:37:34.650Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immediate results, Less dry eyes, Reduced blurriness, Fast shipping, Improve sleep, Relieve tired eyes, Value for money, Natural ingredients. Some note: Support eyes, Maintain vision.",
+    "tags": [
+      {
+        "name": "Immediate results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less dry eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced blurriness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieve tired eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support eyes",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Maintain vision",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:34.650Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

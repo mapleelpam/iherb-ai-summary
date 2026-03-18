@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78646,
+  "last_updated": "2026-03-20T10:04:46.640Z",
+  "first_scraped": "2026-03-20T10:04:46.640Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean ingredients, Improvement noted, No fishy taste, High potency, Brain health, High dose, High concentration, Improved focus, Very high DHA. Some note: Long term.",
+    "tags": [
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noted",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very high DHA",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long term",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:46.640Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

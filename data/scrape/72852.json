@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72852,
+  "last_updated": "2026-03-20T10:10:46.260Z",
+  "first_scraped": "2026-03-20T10:10:46.260Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Muscle recovery, Mixes easily, Muscle integrity, Works great, Add to coffee, Get stronger, Slowly improving, Travel size.",
+    "tags": [
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle integrity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Add to coffee",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Get stronger",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slowly improving",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Travel size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ineffective maintenance",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:46.260Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

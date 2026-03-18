@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1699,
+  "last_updated": "2026-03-20T10:11:09.443Z",
+  "first_scraped": "2026-03-20T10:11:09.443Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mood balance, Tolerable taste, Natural alternative, Helps moods, Noticeable difference, Control PMDD, Calming product, Anxiety levels. Some note: No noticeable taste.",
+    "tags": [
+      {
+        "name": "Mood balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tolerable taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps moods",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control PMDD",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:09.443Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

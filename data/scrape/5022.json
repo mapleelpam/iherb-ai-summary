@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5022,
+  "last_updated": "2026-03-20T09:33:17.175Z",
+  "first_scraped": "2026-03-20T09:33:17.175Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast delivery, Adaptogens support, More calm, Improved energy, Deep sleep, Balance cortisol, Fat loss, Easy to swallow. Some note: Not sure, Effective supplement.",
+    "tags": [
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adaptogens support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More calm",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balance cortisol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:17.175Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

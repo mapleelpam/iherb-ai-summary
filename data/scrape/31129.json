@@ -1,0 +1,68 @@
+{
+  "iherb_id": 31129,
+  "last_updated": "2026-03-20T10:01:31.261Z",
+  "first_scraped": "2026-03-20T10:01:31.261Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Yummy flavor, Natural energy, Superfood benefits, Convenient substitute, Strong taste, Mixes well, Tastes great, Healthy additive. Some note: Valuable asset.",
+    "tags": [
+      {
+        "name": "Yummy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superfood benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient substitute",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not satisfied",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Valuable asset",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:31.261Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

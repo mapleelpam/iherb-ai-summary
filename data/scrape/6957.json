@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6957,
+  "last_updated": "2026-03-20T10:16:05.286Z",
+  "first_scraped": "2026-03-20T10:16:05.286Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Purchase again, Full erection, Well received, More powerful, Original ingredients, Fertile help, Amazing contents, Overall health.",
+    "tags": [
+      {
+        "name": "Purchase again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Full erection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well received",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More powerful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Original ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fertile help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing contents",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive, no difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:05.286Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

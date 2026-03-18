@@ -1,0 +1,68 @@
+{
+  "iherb_id": 139754,
+  "last_updated": "2026-03-20T09:28:01.849Z",
+  "first_scraped": "2026-03-20T09:28:01.849Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good blend, Slow released, Thick and tasty, Improved skin, Improved gut, Super cool, Good probiotic, Helps UTI. Some note: Quick absorption.",
+    "tags": [
+      {
+        "name": "Good blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow released",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thick and tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super cool",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps UTI",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No help",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Quick absorption",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:01.849Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

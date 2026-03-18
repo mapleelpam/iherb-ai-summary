@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116495,
+  "last_updated": "2026-03-20T10:22:47.710Z",
+  "first_scraped": "2026-03-20T10:22:47.710Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps sleep, Feel difference, Deep sleep, Better sleep, Glowing skin, Helpful product, Insomnia improved, Muscle relaxation, Easy on stomach.",
+    "tags": [
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glowing skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Insomnia improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle relaxation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vivid dreams",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:47.710Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 79519,
+  "last_updated": "2026-03-20T10:22:04.510Z",
+  "first_scraped": "2026-03-20T10:22:04.510Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great energy, Healthy option, No sugar, Mixes easily, Trust mercola, Tastes good, Clean brand, Energy boost.",
+    "tags": [
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust mercola",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prop. 65 warning",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Skin rash",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:04.510Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

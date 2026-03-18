@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9632,
+  "last_updated": "2026-03-20T10:30:51.998Z",
+  "first_scraped": "2026-03-20T10:30:51.998Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clears head, Comfortable form, Easy to use, Boost mental health, Asthma relief, Improved concentration, Terrific folks, Highly recommend. Some note: Taste strong.",
+    "tags": [
+      {
+        "name": "Clears head",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comfortable form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost mental health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Asthma relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Terrific folks",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste strong",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No notable effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:30:51.998Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

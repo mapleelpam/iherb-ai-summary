@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116524,
+  "last_updated": "2026-03-20T10:10:32.270Z",
+  "first_scraped": "2026-03-20T10:10:32.270Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Cardiovascular support, Gradually increasing, Partial morning wood, Like it, Energy boost, Fast shipping, Safe ingredient, Improves BP. Some note: Blood pressure.",
+    "tags": [
+      {
+        "name": "Cardiovascular support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gradually increasing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Partial morning wood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Like it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves BP",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Size of tablet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:32.270Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

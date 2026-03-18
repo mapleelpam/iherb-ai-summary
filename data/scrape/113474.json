@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113474,
+  "last_updated": "2026-03-20T10:10:43.330Z",
+  "first_scraped": "2026-03-20T10:10:43.330Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Quick results, Restful sleep, Good taste, Tastes good, Delicious and useful, Life savers, Easy to administer, Helps kids. Some note: Night time, Cutting gummy.",
+    "tags": [
+      {
+        "name": "Quick results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restful sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious and useful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life savers",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to administer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps kids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Night time",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Cutting gummy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:43.330Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

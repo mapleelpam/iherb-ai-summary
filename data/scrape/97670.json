@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97670,
+  "last_updated": "2026-03-20T09:36:40.451Z",
+  "first_scraped": "2026-03-20T09:36:40.451Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice package, Easy to take, Bone strength, Skin improvement, Stronger nails, Favorite collagen, Bright skin, High ingredients. Some note: Beef liver supplement.",
+    "tags": [
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Favorite collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bright skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No visible results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Beef liver supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:40.451Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

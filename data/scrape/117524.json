@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117524,
+  "last_updated": "2026-03-20T09:22:06.116Z",
+  "first_scraped": "2026-03-20T09:22:06.116Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small size, Good for, Small pill, Super fast, Gluten-free option, Clearer eyesight, Positive impact, Eye health. Some note: Easy to swallow, Effective supplement.",
+    "tags": [
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small pill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gluten-free option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer eyesight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:06.116Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

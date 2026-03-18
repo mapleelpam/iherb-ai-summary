@@ -1,0 +1,68 @@
+{
+  "iherb_id": 99111,
+  "last_updated": "2026-03-20T09:25:41.705Z",
+  "first_scraped": "2026-03-20T09:25:41.705Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps sleep, Better value, Good taste, Tastes great, Fast shipping, Berry flavor, Easy to drink, Recommended. Some note: Very satisfied.",
+    "tags": [
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Berry flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Taste terrible",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:41.705Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118137,
+  "last_updated": "2026-03-20T10:24:46.001Z",
+  "first_scraped": "2026-03-20T10:24:46.001Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small pills, Easy to take, Price reasonable, Convenient capsule, Proven benefit, Easy swallow, Effective cardiovascular support, Good deal. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Small pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Price reasonable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Proven benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective cardiovascular support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:46.001Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

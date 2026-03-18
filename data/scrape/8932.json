@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8932,
+  "last_updated": "2026-03-20T10:29:03.531Z",
+  "first_scraped": "2026-03-20T10:29:03.531Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Belly fat reduction, Fat burning, Weight loss, Increased energy, Effective choice, Good ingredients, Feel great, High value, Energy boost.",
+    "tags": [
+      {
+        "name": "Belly fat reduction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat burning",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No result",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:29:03.531Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

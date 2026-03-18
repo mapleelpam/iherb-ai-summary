@@ -1,0 +1,68 @@
+{
+  "iherb_id": 140013,
+  "last_updated": "2026-03-20T09:48:25.038Z",
+  "first_scraped": "2026-03-20T09:48:25.038Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Bring back, Less aches, Joint support, Helped my stiff, Chemical balance, Continued use, Game-changer for joints, Small pills. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Bring back",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less aches",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped my stiff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chemical balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Continued use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer for joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not recommend",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:25.038Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

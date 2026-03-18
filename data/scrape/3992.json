@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3992,
+  "last_updated": "2026-03-20T09:27:23.160Z",
+  "first_scraped": "2026-03-20T09:27:23.160Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good vitamins, Fairly large tablets, Improved blood work, Real food, No stomach upset, Easy digestion, Improving health, Sustained energy. Some note: Whole food ingredients, Excellent dosage.",
+    "tags": [
+      {
+        "name": "Good vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fairly large tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved blood work",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real food",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No stomach upset",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustained energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Whole food ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Excellent dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:23.160Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

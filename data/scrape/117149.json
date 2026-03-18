@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117149,
+  "last_updated": "2026-03-20T09:42:29.512Z",
+  "first_scraped": "2026-03-20T09:42:29.512Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Water balance, Worth the money, Trustworthy supplement, Muscle cramps, Reduces cramping, Good benefits, Chunky tablet, High potency, Important to take.",
+    "tags": [
+      {
+        "name": "Water balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth the money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trustworthy supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces cramping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chunky tablet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Important to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low dosage",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:29.512Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

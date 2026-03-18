@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107203,
+  "last_updated": "2026-03-20T10:11:07.497Z",
+  "first_scraped": "2026-03-20T10:11:07.497Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Digestion benefit, Age 50+, High content, Good choice, Regular bowel, Delayed release, Loud but effective, Convenient once a day. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Digestion benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Age 50+",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular bowel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delayed release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loud but effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient once a day",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:07.497Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

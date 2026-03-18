@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7908,
+  "last_updated": "2026-03-20T09:30:38.465Z",
+  "first_scraped": "2026-03-20T09:30:38.465Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved energy, Tolerable taste, Best value, Affordable cost, Mild burps, Easy for kids, Fast shipping, Good taste. Some note: Concentrated amounts.",
+    "tags": [
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tolerable taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable cost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild burps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy for kids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Concentrated amounts",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strong flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:38.465Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

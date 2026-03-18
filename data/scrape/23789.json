@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23789,
+  "last_updated": "2026-03-20T09:59:59.027Z",
+  "first_scraped": "2026-03-20T09:59:59.027Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great energy, Natural caffeine boost, Delicious flavor, Energy boost, Buying bigger, Satisfied until, Natural energy, Improved gut health. Some note: Not bad, Not sweet.",
+    "tags": [
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural caffeine boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buying bigger",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied until",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not bad",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sweet",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:59.027Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

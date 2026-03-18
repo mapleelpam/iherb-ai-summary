@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97719,
+  "last_updated": "2026-03-20T10:08:33.686Z",
+  "first_scraped": "2026-03-20T10:08:33.686Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Satisfying taste, Tastes great, Super taste, Love this product, Loved flavor, Beef bone, Nice package, Chunky formula. Some note: Creamy texture.",
+    "tags": [
+      {
+        "name": "Satisfying taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loved flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beef bone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chunky formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to mix",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Creamy texture",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:33.686Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

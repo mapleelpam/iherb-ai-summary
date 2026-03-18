@@ -1,0 +1,63 @@
+{
+  "iherb_id": 36,
+  "last_updated": "2026-03-20T09:40:11.413Z",
+  "first_scraped": "2026-03-20T09:40:11.413Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Noticeable changes, Feminine body shape, Works fast, Safe ingredients, Enhance curves, Great results, Firmer breasts. Some note: Very fast delivery.",
+    "tags": [
+      {
+        "name": "Noticeable changes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feminine body shape",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhance curves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Firmer breasts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very fast delivery",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Big tablets",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:11.413Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

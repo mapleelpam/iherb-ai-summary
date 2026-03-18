@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106729,
+  "last_updated": "2026-03-20T10:15:26.781Z",
+  "first_scraped": "2026-03-20T10:15:26.781Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hope useful, Dietary supplement, Easy to use, Fit size, Highly recommend, Lasts long, Recommend, Convenient size. Some note: Health benefits, Good directions.",
+    "tags": [
+      {
+        "name": "Hope useful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dietary supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fit size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lasts long",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health benefits",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good directions",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:26.781Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5105,
+  "last_updated": "2026-03-20T09:52:08.269Z",
+  "first_scraped": "2026-03-20T09:52:08.269Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient and tasty, Easy to drink, Easy order process, Tastes delicious, Lasts long, Extra boost, Good tea, Unsweetened winner.",
+    "tags": [
+      {
+        "name": "Convenient and tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy order process",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lasts long",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good tea",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unsweetened winner",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not very good",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tasted bad",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:08.269Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

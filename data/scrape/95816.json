@@ -1,0 +1,68 @@
+{
+  "iherb_id": 95816,
+  "last_updated": "2026-03-20T10:13:02.650Z",
+  "first_scraped": "2026-03-20T10:13:02.650Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Taste is good, Explosive, Good power, Great pump, Good boost, Will buy more, Good scent, Great energy. Some note: Normal taste, Normal caffeine.",
+    "tags": [
+      {
+        "name": "Taste is good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Explosive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good power",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Will buy more",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Normal caffeine",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:02.650Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

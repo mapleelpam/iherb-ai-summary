@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1724,
+  "last_updated": "2026-03-20T09:49:33.679Z",
+  "first_scraped": "2026-03-20T09:49:33.679Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very satisfied, Convenient all-in-one, Fast recovery, Broad spectrum, Easy to take, Easy digestion, Hopeful improvement, Boost immune system. Some note: Energy boost.",
+    "tags": [
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient all-in-one",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Broad spectrum",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hopeful improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle twitches",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:33.679Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

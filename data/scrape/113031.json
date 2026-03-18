@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113031,
+  "last_updated": "2026-03-20T10:08:29.589Z",
+  "first_scraped": "2026-03-20T10:08:29.589Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to dissolve, Yummy taste, Easy mix, Skin friendly, Skin improvement, Effective choice, Strong bones, Quality supplements, Good price.",
+    "tags": [
+      {
+        "name": "Easy to dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality supplements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adult acne",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:29.589Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

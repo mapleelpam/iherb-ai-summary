@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7462,
+  "last_updated": "2026-03-20T10:15:59.243Z",
+  "first_scraped": "2026-03-20T10:15:59.243Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small size, Low dose, Good immune, Daily use, Easy swallow, Secure packaging, Suitable dosage, Early delivery, Vegan d3.",
+    "tags": [
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Secure packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suitable dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Early delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan d3",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not enough",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:59.243Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

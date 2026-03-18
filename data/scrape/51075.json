@@ -1,0 +1,68 @@
+{
+  "iherb_id": 51075,
+  "last_updated": "2026-03-20T09:40:13.408Z",
+  "first_scraped": "2026-03-20T09:40:13.408Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective choice, Convenient to take, Essential benefits, Good stamina, Reliable option, Highly recommend, Effective dosage, Optimal range. Some note: Good taste, Easy to use.",
+    "tags": [
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Optimal range",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:13.408Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

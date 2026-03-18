@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118251,
+  "last_updated": "2026-03-20T10:05:32.590Z",
+  "first_scraped": "2026-03-20T10:05:32.590Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Game-changer for me, Good taste, Works great, Improving skin, Higher energy, Proper dosage, Ingredients potent, Boost metabolism. Some note: No changes.",
+    "tags": [
+      {
+        "name": "Game-changer for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Proper dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ingredients potent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Label warning",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No changes",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:32.590Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

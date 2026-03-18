@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8132,
+  "last_updated": "2026-03-20T10:15:30.882Z",
+  "first_scraped": "2026-03-20T10:15:30.882Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Liquid form, Skin look amazing, Skin irritation, Benefit my cholesterol, Stable menstrual cycle, Support her, Great for women, Easy to use.",
+    "tags": [
+      {
+        "name": "Liquid form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin look amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin irritation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit my cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stable menstrual cycle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support her",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for women",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neurologically impaired",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tastes disgusting",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:30.882Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

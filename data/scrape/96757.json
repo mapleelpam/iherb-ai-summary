@@ -1,0 +1,68 @@
+{
+  "iherb_id": 96757,
+  "last_updated": "2026-03-20T09:43:46.410Z",
+  "first_scraped": "2026-03-20T09:43:46.410Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Neutral taste, Visible improvements, Best vegan collagen, Faster results, Joint health, Great option, Repeated orders, High nutrition.",
+    "tags": [
+      {
+        "name": "Neutral taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Visible improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best vegan collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Faster results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeated orders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High nutrition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Difficult dissolve",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:46.410Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

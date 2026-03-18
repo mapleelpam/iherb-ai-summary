@@ -1,0 +1,68 @@
+{
+  "iherb_id": 91613,
+  "last_updated": "2026-03-20T09:26:48.516Z",
+  "first_scraped": "2026-03-20T09:26:48.516Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved bloodwork, Effective supplement, Minty taste, Easy to use, Good taste, Good combination, Easy absorption, Immune system. Some note: Convenient bottle, Game-changer for health.",
+    "tags": [
+      {
+        "name": "Improved bloodwork",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Minty taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient bottle",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Game-changer for health",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:48.516Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22217,
+  "last_updated": "2026-03-20T10:01:00.462Z",
+  "first_scraped": "2026-03-20T10:01:00.462Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High potency, Tasty drink, Good energy, Convenient and tasty, Good mix, Hydration boost, Portable packets, Better flavor, Second best.",
+    "tags": [
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient and tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydration boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Portable packets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Second best",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:00.462Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

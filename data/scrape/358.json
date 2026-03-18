@@ -1,0 +1,68 @@
+{
+  "iherb_id": 358,
+  "last_updated": "2026-03-20T09:21:06.242Z",
+  "first_scraped": "2026-03-20T09:21:06.242Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Joint pain, Easy to use, Blood sugar, Weight loss, Good detox, Product as described, Good size, Easy to swallow. Some note: Improved stomach, No taste.",
+    "tags": [
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Product as described",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved stomach",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:06.242Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

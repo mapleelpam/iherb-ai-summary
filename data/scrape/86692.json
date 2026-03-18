@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86692,
+  "last_updated": "2026-03-20T10:24:31.657Z",
+  "first_scraped": "2026-03-20T10:24:31.657Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Extra energy, Caffeine free, Fast delivery, Natural ingredients, Nourishing ingredients, Subtle energy, Noticeable difference, Reliable supplement. Some note: No impact.",
+    "tags": [
+      {
+        "name": "Extra energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Caffeine free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nourishing ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Subtle energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No impact",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too stimulating",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:31.657Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

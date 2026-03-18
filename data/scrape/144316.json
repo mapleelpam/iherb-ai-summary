@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144316,
+  "last_updated": "2026-03-20T10:25:38.014Z",
+  "first_scraped": "2026-03-20T10:25:38.014Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Kidney support, Energy boost, Effective tonic, Good price, Kidney yin, Good energy, Adrenal support, Staying in shape.",
+    "tags": [
+      {
+        "name": "Kidney support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective tonic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kidney yin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adrenal support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Staying in shape",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tabletting additives",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Difficult to swallow",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:38.014Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

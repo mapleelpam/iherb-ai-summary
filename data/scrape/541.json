@@ -1,0 +1,68 @@
+{
+  "iherb_id": 541,
+  "last_updated": "2026-03-20T09:46:29.736Z",
+  "first_scraped": "2026-03-20T09:46:29.736Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful product, Natural ingredients, Vegan way, Pain relief, Trust NOW brand, Inflammation relief, Arthritis help, Natural relief. Some note: Works very well.",
+    "tags": [
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust NOW brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inflammation relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arthritis help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works very well",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High blood pressure",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:29.736Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

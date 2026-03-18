@@ -1,0 +1,68 @@
+{
+  "iherb_id": 50557,
+  "last_updated": "2026-03-20T10:11:26.648Z",
+  "first_scraped": "2026-03-20T10:11:26.648Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Clean ingredients, Vanilla flavor, Nice treat, Creamy taste, Healthy choice, Delivered quickly, All natural. Some note: Chai taste, Hunger beat.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vanilla flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice treat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Creamy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delivered quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "All natural",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chai taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hunger beat",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:26.648Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

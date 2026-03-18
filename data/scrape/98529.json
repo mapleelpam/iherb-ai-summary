@@ -1,0 +1,68 @@
+{
+  "iherb_id": 98529,
+  "last_updated": "2026-03-20T09:47:15.130Z",
+  "first_scraped": "2026-03-20T09:47:15.130Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin improvement, Hair stronger, Good taste, Well packed, Muscle strength, Pleasant flavor, Positive impact, Good ingredients. Some note: Supports health.",
+    "tags": [
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair stronger",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports health",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High carbs",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:15.130Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 76190,
+  "last_updated": "2026-03-20T10:16:27.084Z",
+  "first_scraped": "2026-03-20T10:16:27.084Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fabulous taste, Morning routine, Plant based, More option, Nice smell, Low sugar, Identical product, Delicious flavor. Some note: Clean ingredients.",
+    "tags": [
+      {
+        "name": "Fabulous taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning routine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Identical product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strange taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:27.084Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117779,
+  "last_updated": "2026-03-20T10:01:45.191Z",
+  "first_scraped": "2026-03-20T10:01:45.191Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Satisfied with, Boosted energy, Improving immune, Enhanced focus, Stabilize BP, Excited benefits, Great supplement, Immunity benefits. Some note: Mixed feelings.",
+    "tags": [
+      {
+        "name": "Satisfied with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stabilize BP",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excited benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Can cause issues",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Mixed feelings",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:45.191Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

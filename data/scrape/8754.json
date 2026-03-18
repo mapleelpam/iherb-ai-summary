@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8754,
+  "last_updated": "2026-03-20T09:51:55.500Z",
+  "first_scraped": "2026-03-20T09:51:55.500Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient energy, More energy, Energy levels, Not sweet, Less pain, Heart health, Energy booster, Good dosage.",
+    "tags": [
+      {
+        "name": "Convenient energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sweet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No benefit",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Started to mold",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:55.500Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

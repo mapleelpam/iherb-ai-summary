@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15267,
+  "last_updated": "2026-03-20T10:09:16.592Z",
+  "first_scraped": "2026-03-20T10:09:16.592Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good choices, Heart health, Memory fresh, Good buy, Support cell health, Highly commendable, Feel alive, Favourite choice. Some note: Okay, Neutral taste.",
+    "tags": [
+      {
+        "name": "Good choices",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory fresh",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support cell health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly commendable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel alive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Favourite choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Okay",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Neutral taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:16.592Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

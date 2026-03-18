@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118148,
+  "last_updated": "2026-03-20T10:10:53.262Z",
+  "first_scraped": "2026-03-20T10:10:53.262Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great addition, Pleasant taste, Visible effects, Easy-to-use fiber, Increased NK cells, Quality fiber, Good composition, Convenient packaging. Some note: Neutral taste.",
+    "tags": [
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Visible effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy-to-use fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased NK cells",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Lack of fiber",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:53.262Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

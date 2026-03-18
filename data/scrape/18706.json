@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18706,
+  "last_updated": "2026-03-20T09:20:33.013Z",
+  "first_scraped": "2026-03-20T09:20:33.013Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Balancing cortisol, Life changer, Increase energy, Ingredients good, Easy to swallow, Reduce stress, Support adrenals, Feel great. Some note: No difference.",
+    "tags": [
+      {
+        "name": "Balancing cortisol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ingredients good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support adrenals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:33.013Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

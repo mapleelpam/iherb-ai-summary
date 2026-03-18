@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1515,
+  "last_updated": "2026-03-20T10:08:03.683Z",
+  "first_scraped": "2026-03-20T10:08:03.683Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High level, Powerful remedy, Trusted brand, Great supplement, Improved sensitivity, Boost energy, Potent dose, Complete cs4.",
+    "tags": [
+      {
+        "name": "High level",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sensitivity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete cs4",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Disappointing compared",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:03.683Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

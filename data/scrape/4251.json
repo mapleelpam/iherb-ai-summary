@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4251,
+  "last_updated": "2026-03-20T09:19:56.359Z",
+  "first_scraped": "2026-03-20T09:19:56.359Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Best by far, Good purchase, Concentrated oil, Lowered cholesterol, Mood improvement, Effective formula, Heart health. Some note: High concentration, Effective supplement.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best by far",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Concentrated oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowered cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:56.359Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

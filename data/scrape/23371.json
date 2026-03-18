@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23371,
+  "last_updated": "2026-03-20T09:41:02.264Z",
+  "first_scraped": "2026-03-20T09:41:02.264Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mild painkiller, Little relief, Helpful choice, Joint relief, Effective relief, Improves thyroid, Amazing results, Improved health. Some note: Good ingredients, Helps digestion.",
+    "tags": [
+      {
+        "name": "Mild painkiller",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Little relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves thyroid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:02.264Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

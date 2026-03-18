@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39558,
+  "last_updated": "2026-03-20T09:46:56.317Z",
+  "first_scraped": "2026-03-20T09:46:56.317Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient size, Effective detox, Health improvement, Liquid elixir, Energy improvement, Immune support, Great improvement, Highly recommend.",
+    "tags": [
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liquid elixir",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox symptoms",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:56.317Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

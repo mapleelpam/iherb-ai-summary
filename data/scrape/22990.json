@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22990,
+  "last_updated": "2026-03-20T10:27:45.812Z",
+  "first_scraped": "2026-03-20T10:27:45.812Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Good vitamins, Easy to use, Complete ingredients, Informative video, Feel better, Stay healthy, All-in-one. Some note: Less intake.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Informative video",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stay healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "All-in-one",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too much",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Less intake",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:45.812Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

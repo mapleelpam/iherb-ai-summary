@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70468,
+  "last_updated": "2026-03-20T10:18:21.887Z",
+  "first_scraped": "2026-03-20T10:18:21.887Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Keeps healthy, Easy to swallow, Fast shipping, Helps greatly, Cleanest fish oil, Clean ingredients, Highly recommend, Easy on system, No aftertaste, Best on market.",
+    "tags": [
+      {
+        "name": "Keeps healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps greatly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleanest fish oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best on market",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:21.887Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

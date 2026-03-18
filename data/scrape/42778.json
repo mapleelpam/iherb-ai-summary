@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42778,
+  "last_updated": "2026-03-20T09:17:16.989Z",
+  "first_scraped": "2026-03-20T09:17:16.989Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works perfectly, Small size, Best form, Small capsules, Easy to swallow, Active form, Improved energy, High bioavailability. Some note: Helpful product, Convenient packaging.",
+    "tags": [
+      {
+        "name": "Works perfectly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Active form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High bioavailability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:16.989Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

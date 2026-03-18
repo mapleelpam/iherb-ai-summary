@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39641,
+  "last_updated": "2026-03-20T10:16:16.143Z",
+  "first_scraped": "2026-03-20T10:16:16.143Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Comfortable gut, Boosts kidney, Cranberry benefit, Easy to swallow, Powerful probiotics, Well received, Good deal, Urinary relief.",
+    "tags": [
+      {
+        "name": "Comfortable gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts kidney",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cranberry benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful probiotics",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well received",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Urinary relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach aches",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Heavy stomach",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:16.143Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

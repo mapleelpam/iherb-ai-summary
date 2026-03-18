@@ -1,0 +1,68 @@
+{
+  "iherb_id": 557,
+  "last_updated": "2026-03-20T09:37:17.949Z",
+  "first_scraped": "2026-03-20T09:37:17.949Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stress management, Feeling good, Boost energy, Effective supplement, Reduce risk, Mood stamina, Great adaptogen, Convenient value. Some note: Easy to swallow.",
+    "tags": [
+      {
+        "name": "Stress management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce risk",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great adaptogen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:17.949Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

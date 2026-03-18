@@ -1,0 +1,68 @@
+{
+  "iherb_id": 45190,
+  "last_updated": "2026-03-20T09:59:21.435Z",
+  "first_scraped": "2026-03-20T09:59:21.435Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Muscle growth, Mixes well, Blending suggestion, Flavor matters, Tasty flavor, Game changer, Unique concentration, Melted ice cream. Some note: Easy experience.",
+    "tags": [
+      {
+        "name": "Muscle growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blending suggestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flavor matters",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Melted ice cream",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy experience",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Mixability needs improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:21.435Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

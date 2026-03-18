@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18476,
+  "last_updated": "2026-03-20T09:18:20.065Z",
+  "first_scraped": "2026-03-20T09:18:20.065Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Better sleep, Small capsules, Boost immune, No side effects, Trusted brand, Perfect dose, Clean ingredients, Proven benefits. Some note: Excellent supplement, No noticeable benefits.",
+    "tags": [
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Proven benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No noticeable benefits",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:20.065Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

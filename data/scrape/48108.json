@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48108,
+  "last_updated": "2026-03-20T10:20:13.094Z",
+  "first_scraped": "2026-03-20T10:20:13.094Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mixes well, Amazing taste, Best products, Complete shop, Good energy, Weight gain, Great results, Refreshing zesty, Fast shipping, Extra boost.",
+    "tags": [
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best products",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete shop",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight gain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing zesty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra boost",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:13.094Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2014,
+  "last_updated": "2026-03-20T09:37:56.463Z",
+  "first_scraped": "2026-03-20T09:37:56.463Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune system, Boost immune, Worth a try, Feeling better, Blood pressure, Unbelievable speed, Easy to swallow, High dose. Some note: Great results.",
+    "tags": [
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth a try",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unbelievable speed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strong smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:56.463Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

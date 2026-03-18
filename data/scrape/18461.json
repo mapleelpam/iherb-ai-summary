@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18461,
+  "last_updated": "2026-03-20T09:37:05.218Z",
+  "first_scraped": "2026-03-20T09:37:05.218Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Skin health benefits, Trusted brand, Less stressed, Supports system, No flush, Impressed results, Supports health. Some note: Face protection, Excellent additive.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less stressed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No flush",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Face protection",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:05.218Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

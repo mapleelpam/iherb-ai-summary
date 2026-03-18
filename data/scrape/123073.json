@@ -1,0 +1,68 @@
+{
+  "iherb_id": 123073,
+  "last_updated": "2026-03-20T10:04:29.678Z",
+  "first_scraped": "2026-03-20T10:04:29.678Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Deep sleep, High potency, Helps sleep, Right dosage, Good ingredients, Works great, Supports mood, Handy size.",
+    "tags": [
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Right dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Handy size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Headache",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bitter caplet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:29.678Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

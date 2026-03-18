@@ -1,0 +1,68 @@
+{
+  "iherb_id": 56705,
+  "last_updated": "2026-03-20T10:16:40.515Z",
+  "first_scraped": "2026-03-20T10:16:40.515Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clear headed, Energy booster, Very aware, Improvements in mental clarity, Memory issues, Finest ingredients, Brain support, Improved memory.",
+    "tags": [
+      {
+        "name": "Clear headed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very aware",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvements in mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Finest ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach upset",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:40.515Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

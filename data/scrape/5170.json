@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5170,
+  "last_updated": "2026-03-20T09:23:41.688Z",
+  "first_scraped": "2026-03-20T09:23:41.688Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Alcohol-free, effective, Immune health, Natural antibiotic, Balances system, Candida remedy, Good taste, Boost immune, Easy to take. Some note: Healthy product, Gentle and easier.",
+    "tags": [
+      {
+        "name": "Alcohol-free, effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural antibiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balances system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Candida remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Gentle and easier",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:41.688Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

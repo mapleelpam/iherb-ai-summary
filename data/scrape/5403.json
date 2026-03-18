@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5403,
+  "last_updated": "2026-03-20T10:07:59.547Z",
+  "first_scraped": "2026-03-20T10:07:59.547Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Powerful supplement, Immune support, No aftertaste, Lowered cholesterol, Potent formula, Energy metabolism, Cardiovascular health, Enteric coated, Blood pressure. Some note: Reasonable price.",
+    "tags": [
+      {
+        "name": "Powerful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowered cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enteric coated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:59.547Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

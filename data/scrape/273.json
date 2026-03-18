@@ -1,0 +1,68 @@
+{
+  "iherb_id": 273,
+  "last_updated": "2026-03-20T09:24:58.289Z",
+  "first_scraped": "2026-03-20T09:24:58.289Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Positive change, Soy free, Lower cortisol, Sleep support, Mood improvement, Improved memory, Sharper recall, Effective choice. Some note: Mental clarity.",
+    "tags": [
+      {
+        "name": "Positive change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soy free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower cortisol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sharper recall",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental clarity",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Headache",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:58.289Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

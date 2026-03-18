@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1502,
+  "last_updated": "2026-03-20T10:14:47.048Z",
+  "first_scraped": "2026-03-20T10:14:47.048Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great combination, Powerful antioxidants, Healthy aging, Clearer skin, Fast shipping, Easy to swallow, Healthy glow, Great benefit. Some note: Mixed results.",
+    "tags": [
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidants",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy aging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy glow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rash breakouts",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Mixed results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:47.048Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

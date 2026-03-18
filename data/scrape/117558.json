@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117558,
+  "last_updated": "2026-03-20T09:29:51.606Z",
+  "first_scraped": "2026-03-20T09:29:51.606Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Packaging great, Weight loss, Potent dose, Recommended product, Fat burning, Reduces inflammation, Nice ingredient, Excellent supplement. Some note: Large tablet.",
+    "tags": [
+      {
+        "name": "Packaging great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat burning",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large tablet",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Dosage concern",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:51.606Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73825,
+  "last_updated": "2026-03-20T10:05:04.171Z",
+  "first_scraped": "2026-03-20T10:05:04.171Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty gummies, Tasty option, Best vegan, Easy way, Best item ever, Less support, Yummy and healthy, Good daily intakes. Some note: Natural food.",
+    "tags": [
+      {
+        "name": "Tasty gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best vegan",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best item ever",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy and healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good daily intakes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes bad",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Natural food",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:04.171Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

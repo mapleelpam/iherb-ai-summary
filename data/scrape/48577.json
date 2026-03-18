@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48577,
+  "last_updated": "2026-03-20T09:20:23.969Z",
+  "first_scraped": "2026-03-20T09:20:23.969Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Menstrual relief, Great purchase, Helps with PMS, Nice price, Easy swallow, Reliable brand, Game-changer, Unmatched company. Some note: Not sure, Value for money.",
+    "tags": [
+      {
+        "name": "Menstrual relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with PMS",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unmatched company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:23.969Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7485,
+  "last_updated": "2026-03-20T10:28:18.678Z",
+  "first_scraped": "2026-03-20T10:28:18.678Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective support, Loves it, Less anxious, Better website, Calming effect, Natural mood, Extended release, Life changer. Some note: No difference, Hard break.",
+    "tags": [
+      {
+        "name": "Effective support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loves it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less anxious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better website",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extended release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hard break",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:18.678Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

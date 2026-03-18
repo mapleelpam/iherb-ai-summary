@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120578,
+  "last_updated": "2026-03-20T09:28:57.387Z",
+  "first_scraped": "2026-03-20T09:28:57.387Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient option, Eye improvement, Vegetarian plus, Macula protection, Taste good, Easy to take, Acceptable flavor, Nice package. Some note: Skin benefits, Good ingredients.",
+    "tags": [
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegetarian plus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Macula protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acceptable flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:57.387Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

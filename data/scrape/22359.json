@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22359,
+  "last_updated": "2026-03-20T10:05:11.244Z",
+  "first_scraped": "2026-03-20T10:05:11.244Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Premium-grade roots, Hair growth, Positive surprise, Feeling amazing, Very satisfied, No grey sides, Stronger hair, Consistent energy. Some note: Hair color.",
+    "tags": [
+      {
+        "name": "Premium-grade roots",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive surprise",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No grey sides",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consistent energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Poor roots",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hair color",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:11.244Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

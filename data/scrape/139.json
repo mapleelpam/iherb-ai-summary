@@ -1,0 +1,68 @@
+{
+  "iherb_id": 139,
+  "last_updated": "2026-03-20T09:20:21.021Z",
+  "first_scraped": "2026-03-20T09:20:21.021Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good results, Good dosage, High potency, Effective option, Relieves dry eyes, High dose, Supports vision, Value for money. Some note: Helped a lot.",
+    "tags": [
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves dry eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped a lot",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Dry eyes",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:21.021Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

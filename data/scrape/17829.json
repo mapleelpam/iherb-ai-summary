@@ -1,0 +1,68 @@
+{
+  "iherb_id": 17829,
+  "last_updated": "2026-03-20T09:57:21.624Z",
+  "first_scraped": "2026-03-20T09:57:21.624Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good benefits, Consistent results, Skin types, Noticeable results, Improve immunity, Works as advertised, Unique combination, Good for hair.",
+    "tags": [
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consistent results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin types",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works as advertised",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped next day",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:21.624Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12875,
+  "last_updated": "2026-03-20T09:37:53.634Z",
+  "first_scraped": "2026-03-20T09:37:53.634Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Dosages are ok, Amazing results, Cheaper price, Helpful product, Waiting result, Natural blend, Improvement noticed, Multi supplement. Some note: No change.",
+    "tags": [
+      {
+        "name": "Dosages are ok",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheaper price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Waiting result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Multi supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:53.634Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

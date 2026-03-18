@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104169,
+  "last_updated": "2026-03-20T09:47:49.639Z",
+  "first_scraped": "2026-03-20T09:47:49.639Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Yummy flavor, Helps relax, Improved sleep, Easy to swallow, Taste good, Tasty and calming, Sufficient amount, Great choice, Good dosage. Some note: Calming effect.",
+    "tags": [
+      {
+        "name": "Yummy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps relax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty and calming",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sufficient amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:49.639Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1191,
+  "last_updated": "2026-03-20T10:04:57.975Z",
+  "first_scraped": "2026-03-20T10:04:57.975Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Strong ingredient composition, Prompt delivery, Mood regulator, Fast shipping, Anxiety problem, Calming effect, Helps relax, Calm mind.",
+    "tags": [
+      {
+        "name": "Strong ingredient composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood regulator",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety problem",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps relax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calm mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very disappointing",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:57.975Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

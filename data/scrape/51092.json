@@ -1,0 +1,68 @@
+{
+  "iherb_id": 51092,
+  "last_updated": "2026-03-20T10:20:33.992Z",
+  "first_scraped": "2026-03-20T10:20:33.992Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast dissolving, Fast results, Grate taste, High spirits, Improving mood, Vegan diet, Fresh product, Energy boost. Some note: Celiac complications.",
+    "tags": [
+      {
+        "name": "Fast dissolving",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Grate taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High spirits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chalky taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Celiac complications",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:33.992Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

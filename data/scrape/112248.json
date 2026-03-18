@@ -1,0 +1,68 @@
+{
+  "iherb_id": 112248,
+  "last_updated": "2026-03-20T09:51:43.521Z",
+  "first_scraped": "2026-03-20T09:51:43.521Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Brain health, Good ingredients, Immortality herbology, Positive impact, Deep sleep, Better sleep, Energy boost, Research support. Some note: Immunity maximize.",
+    "tags": [
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immortality herbology",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Research support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity maximize",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Severe gastritis",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:43.521Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

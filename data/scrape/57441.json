@@ -1,0 +1,68 @@
+{
+  "iherb_id": 57441,
+  "last_updated": "2026-03-20T10:13:47.151Z",
+  "first_scraped": "2026-03-20T10:13:47.151Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Support liver, Vegetarian option, More energy, Enhancing circulation, Detox support, Fight cancer, Lowered cholesterol, Nice mix. Some note: Liked ingredients.",
+    "tags": [
+      {
+        "name": "Support liver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegetarian option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhancing circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fight cancer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowered cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liked ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:47.151Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

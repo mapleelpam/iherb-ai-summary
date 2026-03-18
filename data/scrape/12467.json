@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12467,
+  "last_updated": "2026-03-20T10:01:03.510Z",
+  "first_scraped": "2026-03-20T10:01:03.510Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Bigger bottles, Ear pain relief, No flavor, Immune system, Natural antibiotic, Traditional product, Boost immune, Tried and true.",
+    "tags": [
+      {
+        "name": "Bigger bottles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ear pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural antibiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Traditional product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tried and true",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too strong",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:03.510Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

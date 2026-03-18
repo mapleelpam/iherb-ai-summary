@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85064,
+  "last_updated": "2026-03-20T09:52:21.244Z",
+  "first_scraped": "2026-03-20T09:52:21.244Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Taste good, Best-tasting protein, Effective supplement, Easy mix, Smooth texture, Gain muscle, Fast shipping, Mixes well. Some note: Love this protein.",
+    "tags": [
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best-tasting protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gain muscle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nauseated",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Love this protein",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:21.244Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

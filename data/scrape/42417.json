@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42417,
+  "last_updated": "2026-03-20T10:16:40.494Z",
+  "first_scraped": "2026-03-20T10:16:40.494Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast dissolve, Helps sleep, High dosage, Best melatonin, Suppress tumor, Effective dosage, Trusted manufacturer, Improve rest.",
+    "tags": [
+      {
+        "name": "Fast dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best melatonin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suppress tumor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted manufacturer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve rest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No help",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tiny size",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:40.494Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

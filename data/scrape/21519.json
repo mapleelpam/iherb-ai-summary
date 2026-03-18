@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21519,
+  "last_updated": "2026-03-20T10:34:18.465Z",
+  "first_scraped": "2026-03-20T10:34:18.465Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps maintain, Lower blood pressure, Shows improvement, Normalize elevates, Natural ingredients, Under control, Helpful for hypertension, Very potent. Some note: Essential ingredients, Normal taste.",
+    "tags": [
+      {
+        "name": "Helps maintain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shows improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normalize elevates",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Under control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful for hypertension",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very potent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Normal taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:34:18.465Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

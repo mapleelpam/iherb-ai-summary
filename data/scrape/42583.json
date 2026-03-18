@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42583,
+  "last_updated": "2026-03-20T10:18:34.898Z",
+  "first_scraped": "2026-03-20T10:18:34.898Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost focus, Brain functioning, Improved memory, Calming effect, Improved sleep, Trustworthy ingredients, Appreciate care, Concentration aid.",
+    "tags": [
+      {
+        "name": "Boost focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain functioning",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trustworthy ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Appreciate care",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Concentration aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very bitter",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Alcohol burn",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:34.898Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7330,
+  "last_updated": "2026-03-20T10:12:10.275Z",
+  "first_scraped": "2026-03-20T10:12:10.275Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Budget-friendly, allergen-free, Longest living, Good support, Less bloating, Affordable and works, Relieved from constipation, Yoghurt maker.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Budget-friendly, allergen-free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Longest living",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable and works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieved from constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yoghurt maker",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "QC doubtful",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Poor effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:10.275Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

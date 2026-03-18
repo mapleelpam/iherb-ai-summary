@@ -1,0 +1,68 @@
+{
+  "iherb_id": 126659,
+  "last_updated": "2026-03-20T10:13:25.179Z",
+  "first_scraped": "2026-03-20T10:13:25.179Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Anti-inflammatory properties, Better deal, Supports weight loss, No fishy taste, Highly recommend, Glass bottle, Best value. Some note: Takes a while.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Misleading labeling",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Takes a while",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:25.179Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

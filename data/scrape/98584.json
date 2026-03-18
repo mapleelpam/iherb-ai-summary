@@ -1,0 +1,68 @@
+{
+  "iherb_id": 98584,
+  "last_updated": "2026-03-20T09:18:58.782Z",
+  "first_scraped": "2026-03-20T09:18:58.782Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty lozenges, Improved energy, Easy to chew, Nice supplement, Boosting immunity, Good price, Kids love, Quick relief. Some note: Positive experience, Convenient packaging.",
+    "tags": [
+      {
+        "name": "Tasty lozenges",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to chew",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive experience",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:58.782Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

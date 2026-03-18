@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2801,
+  "last_updated": "2026-03-20T09:20:19.102Z",
+  "first_scraped": "2026-03-20T09:20:19.102Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lower cholesterol, Efficient company, Lemon taste, Helpful product, Joint health, Skin improvement, Pleasant flavor, Best taste. Some note: Just started.",
+    "tags": [
+      {
+        "name": "Lower cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lemon taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste and smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Just started",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:19.102Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

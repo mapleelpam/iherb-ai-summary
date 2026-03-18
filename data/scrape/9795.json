@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9795,
+  "last_updated": "2026-03-20T10:06:11.253Z",
+  "first_scraped": "2026-03-20T10:06:11.253Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Inflammation pain, Bigger bottle, Metal removal, Clear skin, Effective detox, Clearer head, Tastes great, Start low. Some note: Convenient size.",
+    "tags": [
+      {
+        "name": "Inflammation pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bigger bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Metal removal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer head",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Start low",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intense brain fog",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:11.253Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

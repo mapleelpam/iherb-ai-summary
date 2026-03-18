@@ -1,0 +1,68 @@
+{
+  "iherb_id": 124059,
+  "last_updated": "2026-03-20T10:21:32.100Z",
+  "first_scraped": "2026-03-20T10:21:32.100Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient size, Good taste, Handy option, Keeps full, Supports workout, High protein, Best taste, Decent price.",
+    "tags": [
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Handy option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps full",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Grainy texture",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Discredit factors",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:32.100Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

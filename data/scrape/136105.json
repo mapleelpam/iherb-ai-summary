@@ -1,0 +1,68 @@
+{
+  "iherb_id": 136105,
+  "last_updated": "2026-03-20T10:07:05.267Z",
+  "first_scraped": "2026-03-20T10:07:05.267Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good hydration, Energy boost, Feel energized, Keto support, Muscle cramps, Clean ingredients, Muscle support, Salty taste. Some note: Acquired taste.",
+    "tags": [
+      {
+        "name": "Good hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel energized",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keto support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Salty taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High magnesium",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Acquired taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:05.267Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

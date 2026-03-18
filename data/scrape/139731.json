@@ -1,0 +1,68 @@
+{
+  "iherb_id": 139731,
+  "last_updated": "2026-03-20T09:51:31.609Z",
+  "first_scraped": "2026-03-20T09:51:31.609Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Balanced energy, Supports adrenal, High potency, Vitamin blend, Works well, Great combination, Taste great. Some note: No difference.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports adrenal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Under-dosed for cortisol",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:31.609Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67333,
+  "last_updated": "2026-03-20T10:21:14.743Z",
+  "first_scraped": "2026-03-20T10:21:14.743Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this, Convenient choice, Good taste, Sweet taste, Best vegan protein, Tastes great, Cover bases, Natural flavor. Some note: Excellent protein.",
+    "tags": [
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best vegan protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cover bases",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent protein",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Powdery taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:14.743Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

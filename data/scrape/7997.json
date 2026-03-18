@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7997,
+  "last_updated": "2026-03-20T10:21:48.089Z",
+  "first_scraped": "2026-03-20T10:21:48.089Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective herb, Relaxing benefits, Alcohol-free, Pure and potent, Supportive and satisfying, Arrived quickly, Larger bottles, Mood booster.",
+    "tags": [
+      {
+        "name": "Effective herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxing benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alcohol-free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure and potent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supportive and satisfying",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arrived quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Larger bottles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:48.089Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

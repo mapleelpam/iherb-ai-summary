@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78090,
+  "last_updated": "2026-03-20T10:09:50.189Z",
+  "first_scraped": "2026-03-20T10:09:50.189Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves skin, Nice big package, Great source, Great energy, Cost effective product, Convenient choice, Easy mixing, Tasty and healthy.",
+    "tags": [
+      {
+        "name": "Improves skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice big package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cost effective product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mixing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty and healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difficult taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Metallic taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:50.189Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

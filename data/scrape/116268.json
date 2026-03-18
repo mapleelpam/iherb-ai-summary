@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116268,
+  "last_updated": "2026-03-20T09:46:32.808Z",
+  "first_scraped": "2026-03-20T09:46:32.808Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Benefit is good, Calms anxiety, Helps relaxation, Highly recommend, Fall asleep, Acceptable taste, Emotional balance, Affordable supplements. Some note: Effective package, Trust site.",
+    "tags": [
+      {
+        "name": "Benefit is good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calms anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps relaxation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fall asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acceptable taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Emotional balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable supplements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective package",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Trust site",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:32.808Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

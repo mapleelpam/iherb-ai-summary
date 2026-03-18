@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119518,
+  "last_updated": "2026-03-20T09:47:01.273Z",
+  "first_scraped": "2026-03-20T09:47:01.273Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Deep sleep, Improves health, Building block, Healthy product, Improves sleep, Quick relief, Highly recommend, Competitive price.",
+    "tags": [
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Building block",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Competitive price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Cheap fillers",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:01.273Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

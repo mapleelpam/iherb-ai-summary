@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7637,
+  "last_updated": "2026-03-20T09:23:03.030Z",
+  "first_scraped": "2026-03-20T09:23:03.030Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Good complex, Good balance, Fantastic supplement, Long expiration dates, Adequate price, Skin health, Good ingredients. Some note: Yellow urine, Not bad.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good complex",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long expiration dates",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adequate price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yellow urine",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not bad",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:03.030Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

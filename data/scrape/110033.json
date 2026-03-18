@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110033,
+  "last_updated": "2026-03-20T10:14:43.877Z",
+  "first_scraped": "2026-03-20T10:14:43.877Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Mental clarity, Carefully selected, Smells great, Fair go, Boosts energy, Improves mood, Sustained energy. Some note: Tastes citrus.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Carefully selected",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smells great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair go",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustained energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excessively sour",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tastes citrus",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:43.877Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

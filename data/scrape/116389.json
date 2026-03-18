@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116389,
+  "last_updated": "2026-03-20T09:58:05.891Z",
+  "first_scraped": "2026-03-20T09:58:05.891Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Super convenient, Highly recommend, Strong immune, Good taste, High dosage, Traveling ease, Boosts immunity, Vegan, gluten-free. Some note: Thick consistency.",
+    "tags": [
+      {
+        "name": "Super convenient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Traveling ease",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan, gluten-free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thick consistency",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not great",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:05.891Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

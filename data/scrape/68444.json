@@ -1,0 +1,68 @@
+{
+  "iherb_id": 68444,
+  "last_updated": "2026-03-20T09:50:04.158Z",
+  "first_scraped": "2026-03-20T09:50:04.158Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Good dosage, Affordable and well-packed, Healthy estrogen balance, Improved condition, Less breast pain, Balanced composition, Helping. Some note: No changes, Occasional use.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable and well-packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy estrogen balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved condition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less breast pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No changes",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Occasional use",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:04.158Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

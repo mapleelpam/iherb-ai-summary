@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6557,
+  "last_updated": "2026-03-20T09:57:29.387Z",
+  "first_scraped": "2026-03-20T09:57:29.387Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Detoxify naturally, Refreshing and great, Acid reflux, Refreshing drink, Reduced pain, Lemony flavor, Great moisturizer, Reduce radicals. Some note: Confusing selection.",
+    "tags": [
+      {
+        "name": "Detoxify naturally",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing and great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acid reflux",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lemony flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great moisturizer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce radicals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Confusing selection",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Tastes weird",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:29.387Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

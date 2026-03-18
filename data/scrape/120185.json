@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120185,
+  "last_updated": "2026-03-20T09:54:41.512Z",
+  "first_scraped": "2026-03-20T09:54:41.512Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Anytime use, Support metabolism, Based on, Healthy baby, Refresh benefit, Recovery support, Effective supplement.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anytime use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Based on",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy baby",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refresh benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recovery support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive supplements",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Low folic rate",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:41.512Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5688,
+  "last_updated": "2026-03-20T10:10:33.395Z",
+  "first_scraped": "2026-03-20T10:10:33.395Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energized, Boosted mood, Good formula, Tangy taste, High potency, Love this stuff, Good source, Absorb vitamins.",
+    "tags": [
+      {
+        "name": "More energized",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tangy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorb vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Waxy consistency",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not convinced",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:33.395Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

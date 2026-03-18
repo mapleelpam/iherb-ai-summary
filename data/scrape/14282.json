@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14282,
+  "last_updated": "2026-03-20T10:15:20.023Z",
+  "first_scraped": "2026-03-20T10:15:20.023Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Soothes cough, Strong benefit, Works great, Speedy recovery, Handy package, Fast action, Fantastic replacement. Some note: Trust gaia.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soothes cough",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Handy package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast action",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic replacement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong burn",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Trust gaia",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:20.023Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

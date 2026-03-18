@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105715,
+  "last_updated": "2026-03-20T09:43:28.387Z",
+  "first_scraped": "2026-03-20T09:43:28.387Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Recommend again, Good nutrition, Happy with, Flatter stomach, Good recovery, Good results, Exercise recovery, Feel better. Some note: Convenient size, Separate intake.",
+    "tags": [
+      {
+        "name": "Recommend again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good nutrition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flatter stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Exercise recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Separate intake",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:28.387Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

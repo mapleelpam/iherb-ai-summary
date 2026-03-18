@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116265,
+  "last_updated": "2026-03-20T09:59:52.829Z",
+  "first_scraped": "2026-03-20T09:59:52.829Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Efficient product, Boosts performance, So far, Increases vascularity, Better endurance, Potent option, Good boost, More energy.",
+    "tags": [
+      {
+        "name": "Efficient product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "So far",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increases vascularity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lack of clarity",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not recommended",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:52.829Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

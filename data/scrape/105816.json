@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105816,
+  "last_updated": "2026-03-20T10:24:38.723Z",
+  "first_scraped": "2026-03-20T10:24:38.723Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective mix, Love ancient nutrition, Helped digestion, Healing power, Reduced bloating, Support healing, Amazing benefit, High CFU. Some note: Every 2 days.",
+    "tags": [
+      {
+        "name": "Effective mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love ancient nutrition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healing power",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High CFU",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Constipated me",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Every 2 days",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:38.723Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

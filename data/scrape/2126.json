@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2126,
+  "last_updated": "2026-03-20T10:35:55.483Z",
+  "first_scraped": "2026-03-20T10:35:55.483Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Professional packaging, Energy boost, Iron supplement, Noticeable improvement, Great difference, No side-effects, Good ingredients, Replenishes levels. Some note: No blood test.",
+    "tags": [
+      {
+        "name": "Professional packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Iron supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side-effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Replenishes levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No blood test",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Constipating",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:35:55.483Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

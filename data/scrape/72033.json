@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72033,
+  "last_updated": "2026-03-20T09:22:31.695Z",
+  "first_scraped": "2026-03-20T09:22:31.695Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good combination, Youthful skin, Skin improvement, Easy to take, Joint support, Effective collagen, Less pain, Easy dose size.",
+    "tags": [
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Youthful skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dose size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No time",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Love this stuff",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:31.695Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

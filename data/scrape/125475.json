@@ -1,0 +1,68 @@
+{
+  "iherb_id": 125475,
+  "last_updated": "2026-03-20T10:13:12.428Z",
+  "first_scraped": "2026-03-20T10:13:12.428Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Effective supplement, High potency, Economical price, Thank you, Healing process, Effective brand, Boost of energy. Some note: Depends on frequency.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economical price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thank you",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healing process",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Huge capsules",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Depends on frequency",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:12.428Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

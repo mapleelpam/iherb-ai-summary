@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11089,
+  "last_updated": "2026-03-20T09:24:05.033Z",
+  "first_scraped": "2026-03-20T09:24:05.033Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good addition, Morning energy, Good taste, Good ingredients, Tastes much like, Tastes great, Great energy, Digestion improvement.",
+    "tags": [
+      {
+        "name": "Good addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes much like",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes bad",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Detox effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:05.033Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

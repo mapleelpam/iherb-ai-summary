@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2233,
+  "last_updated": "2026-03-20T09:50:06.166Z",
+  "first_scraped": "2026-03-20T09:50:06.166Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Cancer free, Speedy delivery, Good results, Powerhouse supplement, Palpable change, More energy, Natural remedy, Easy to take. Some note: Immune health, Feel better.",
+    "tags": [
+      {
+        "name": "Cancer free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerhouse supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Palpable change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune health",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:06.166Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

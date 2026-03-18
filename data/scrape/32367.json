@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32367,
+  "last_updated": "2026-03-20T10:05:26.804Z",
+  "first_scraped": "2026-03-20T10:05:26.804Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Detox liver, Liver health, Easy to swallow, Maximizes benefits, Clear benefits, Cheap enough, Fast shipping, Natural relief. Some note: Healthy bile.",
+    "tags": [
+      {
+        "name": "Detox liver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maximizes benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheap enough",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy bile",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Severe diarrhea",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:26.804Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

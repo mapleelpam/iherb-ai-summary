@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32464,
+  "last_updated": "2026-03-20T09:44:51.534Z",
+  "first_scraped": "2026-03-20T09:44:51.534Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Good results, Easy to swallow, High potency, Nice package, Joint pain, Natural benefits, Good concentration, Antioxidant benefits.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:51.534Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 66823,
+  "last_updated": "2026-03-20T10:05:08.118Z",
+  "first_scraped": "2026-03-20T10:05:08.118Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works great, Fresh smell, Effective energy, Thyroid imbalance, Boosts absorption, High potency, Cell health, Noticeable increase. Some note: Supports energy.",
+    "tags": [
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thyroid imbalance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cell health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable increase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports energy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:08.118Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

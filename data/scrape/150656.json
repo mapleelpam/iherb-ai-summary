@@ -1,0 +1,68 @@
+{
+  "iherb_id": 150656,
+  "last_updated": "2026-03-20T10:05:27.681Z",
+  "first_scraped": "2026-03-20T10:05:27.681Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Top choice, Good dosage, Noticeable effect, Supports prostate, Helpful product, Urinary support, Men benefit, Helps alot. Some note: Fast effect.",
+    "tags": [
+      {
+        "name": "Top choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports prostate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Urinary support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Men benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps alot",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No changes",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fast effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:27.681Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

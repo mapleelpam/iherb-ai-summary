@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114596,
+  "last_updated": "2026-03-20T10:06:26.704Z",
+  "first_scraped": "2026-03-20T10:06:26.704Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin improvement, Supportive brand, Healthy results, Gentle supplement, Complete blend, Best collagen, Love this brand, Fast shipping. Some note: Convenient capsules, Radiant skin.",
+    "tags": [
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supportive brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient capsules",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Radiant skin",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:26.704Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

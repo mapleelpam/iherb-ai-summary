@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4554,
+  "last_updated": "2026-03-20T09:20:29.073Z",
+  "first_scraped": "2026-03-20T09:20:29.073Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Thyroid support, Vital mineral, Good dosage, Good antioxidant, Metabolism and protection, Boost immunity, Works great, Good form. Some note: Effective supplement.",
+    "tags": [
+      {
+        "name": "Thyroid support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vital mineral",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Metabolism and protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strong smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:29.073Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

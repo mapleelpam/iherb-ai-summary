@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106922,
+  "last_updated": "2026-03-20T10:06:20.834Z",
+  "first_scraped": "2026-03-20T10:06:20.834Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps inflammation, Convenient packaging, Great addition, Joint health, Neurologist recommended, Anti-inflammatory benefits, Good consistancy, Effective supplement. Some note: High potency, Sensitive stomach.",
+    "tags": [
+      {
+        "name": "Helps inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neurologist recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good consistancy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sensitive stomach",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:20.834Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

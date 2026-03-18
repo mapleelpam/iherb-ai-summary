@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67931,
+  "last_updated": "2026-03-20T09:48:28.110Z",
+  "first_scraped": "2026-03-20T09:48:28.110Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Deeper sleep, Fall asleep, Settles sleep, Good taste, Helps sleep, Tastes great, Good ingredient, Kosher tablets. Some note: Perfect size, Easy to chew.",
+    "tags": [
+      {
+        "name": "Deeper sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fall asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Settles sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kosher tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy to chew",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:28.110Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

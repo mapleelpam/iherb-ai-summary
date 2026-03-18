@@ -1,0 +1,68 @@
+{
+  "iherb_id": 27248,
+  "last_updated": "2026-03-20T10:02:38.739Z",
+  "first_scraped": "2026-03-20T10:02:38.739Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Safe ingredient, Nice taste, Seeing results, Good progress, Unique packaging, Nice price, Amazing gains, Explosive result, Fast delivery.",
+    "tags": [
+      {
+        "name": "Safe ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seeing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good progress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing gains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Explosive result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not good",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:38.739Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

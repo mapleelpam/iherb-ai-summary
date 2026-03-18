@@ -1,0 +1,68 @@
+{
+  "iherb_id": 141034,
+  "last_updated": "2026-03-20T10:07:31.729Z",
+  "first_scraped": "2026-03-20T10:07:31.729Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immunity benefits, Good effects, Good stuff, Digestive health, Good dosage superfood, Preventative measure, Natural anti-inflammatory, Highly recommend.",
+    "tags": [
+      {
+        "name": "Immunity benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage superfood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventative measure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural anti-inflammatory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach discomfort",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Overhyped claims",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:31.729Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

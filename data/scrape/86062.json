@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86062,
+  "last_updated": "2026-03-20T10:03:13.480Z",
+  "first_scraped": "2026-03-20T10:03:13.480Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural ingredients, Amazing taste, High protein, Chocolate brownie, Nice ingredients, Love this, Very sweet, Good taste, Flexible usage.",
+    "tags": [
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chocolate brownie",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very sweet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flexible usage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weird taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:13.480Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

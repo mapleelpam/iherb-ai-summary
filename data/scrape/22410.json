@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22410,
+  "last_updated": "2026-03-20T10:06:25.748Z",
+  "first_scraped": "2026-03-20T10:06:25.748Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Good fats, Easy to swallow, Improvement impressive, Moistures eyes, Potent formula, Clearer vision, Relieves pressure. Some note: Eye health, Great for eyes.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good fats",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement impressive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moistures eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great for eyes",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:25.748Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

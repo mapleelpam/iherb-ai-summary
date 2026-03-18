@@ -1,0 +1,68 @@
+{
+  "iherb_id": 27505,
+  "last_updated": "2026-03-20T09:55:09.438Z",
+  "first_scraped": "2026-03-20T09:55:09.438Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Good dosage, Safe ingredients, High protein, Delicious shake, Chocolate mint, Good price, Good life.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious shake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chocolate mint",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good life",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive flavor",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Awkward flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:09.438Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

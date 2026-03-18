@@ -1,0 +1,68 @@
+{
+  "iherb_id": 68440,
+  "last_updated": "2026-03-20T09:21:39.882Z",
+  "first_scraped": "2026-03-20T09:21:39.882Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Heart health, Reputable brand, Reasonable pricing, No fishy aftertaste, Noticeable improvement, Highly recommend, Good start, Trusted company. Some note: Affordable omega.",
+    "tags": [
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reputable brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable pricing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good start",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable omega",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not correct",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:39.882Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

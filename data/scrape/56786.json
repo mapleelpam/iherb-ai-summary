@@ -1,0 +1,68 @@
+{
+  "iherb_id": 56786,
+  "last_updated": "2026-03-20T09:40:03.486Z",
+  "first_scraped": "2026-03-20T09:40:03.486Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Balancing hormones, Antioxidant benefits, Rich flavor, High energy, Good taste, Thyroid balance, Love this product, Feeling better. Some note: Large package.",
+    "tags": [
+      {
+        "name": "Balancing hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thyroid balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not pleasant",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Large package",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:03.486Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

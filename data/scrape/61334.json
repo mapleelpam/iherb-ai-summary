@@ -1,0 +1,68 @@
+{
+  "iherb_id": 61334,
+  "last_updated": "2026-03-20T09:22:02.159Z",
+  "first_scraped": "2026-03-20T09:22:02.159Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Liver detox, Repeat purchase, Effective for joints, Taken daily, Great results, Joint health, Hair growth. Some note: Muscle relief, Effective solution.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective for joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taken daily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle relief",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective solution",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:02.159Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

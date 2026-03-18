@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48101,
+  "last_updated": "2026-03-20T09:32:22.752Z",
+  "first_scraped": "2026-03-20T09:32:22.752Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Works nicely, Nice taste, More energy, Increased strength, Boosts power, Easy on stomach, High-quality creatine. Some note: Big grain, Improved recovery.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works nicely",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts power",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High-quality creatine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big grain",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Improved recovery",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:22.752Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

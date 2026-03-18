@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1725,
+  "last_updated": "2026-03-20T10:13:41.255Z",
+  "first_scraped": "2026-03-20T10:13:41.255Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Vegan, gluten-free, Keeps digestion intact, Less bloating, Reasonable price, Excellent package material, Plentiful capsules, Eczema sufferers, Boosted immune, Relieve stomach.",
+    "tags": [
+      {
+        "name": "Vegan, gluten-free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps digestion intact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent package material",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plentiful capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eczema sufferers",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieve stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:41.255Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

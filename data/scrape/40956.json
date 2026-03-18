@@ -1,0 +1,68 @@
+{
+  "iherb_id": 40956,
+  "last_updated": "2026-03-20T10:15:45.834Z",
+  "first_scraped": "2026-03-20T10:15:45.834Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easier to take, Small dose, Clean ingredients, Bio-availability helps, Easy to swallow, Manufacturing process, Reasonable size, Slide down easily.",
+    "tags": [
+      {
+        "name": "Easier to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bio-availability helps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Manufacturing process",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slide down easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Side effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Better value",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:45.834Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

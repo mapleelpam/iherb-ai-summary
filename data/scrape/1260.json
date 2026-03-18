@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1260,
+  "last_updated": "2026-03-20T10:10:13.223Z",
+  "first_scraped": "2026-03-20T10:10:13.223Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Works great, Fast dispatch, Received quickly, Normal function, Good benefits, Hormonal balance, Chronic fatigue.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast dispatch",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Received quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormonal balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chronic fatigue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to swallow",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fatigue issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:13.223Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

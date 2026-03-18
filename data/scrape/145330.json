@@ -1,0 +1,68 @@
+{
+  "iherb_id": 145330,
+  "last_updated": "2026-03-20T09:41:16.740Z",
+  "first_scraped": "2026-03-20T09:41:16.740Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Improves sleep, Mood uplifting, Noticeable effect, Good nice, Natural support, Enhancing emotional well-being, Worth the money.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood uplifting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhancing emotional well-being",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth the money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomachache",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Allergic reaction",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:16.740Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

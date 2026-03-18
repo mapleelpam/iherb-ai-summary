@@ -1,0 +1,68 @@
+{
+  "iherb_id": 17905,
+  "last_updated": "2026-03-20T10:20:44.022Z",
+  "first_scraped": "2026-03-20T10:20:44.022Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reduces pain, Natural way, Stay asleep, Easy swallow, Good taste, Helps gout, Fast shipment, Alternative option.",
+    "tags": [
+      {
+        "name": "Reduces pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stay asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps gout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alternative option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large pills",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:44.022Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

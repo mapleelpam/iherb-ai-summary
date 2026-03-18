@@ -1,0 +1,68 @@
+{
+  "iherb_id": 143,
+  "last_updated": "2026-03-20T09:52:30.691Z",
+  "first_scraped": "2026-03-20T09:52:30.691Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helped heart, Sustained release, Satisfied, Best value, Blood sugar, More energy, Good sign, Relieves neuropathy. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Helped heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustained release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sign",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves neuropathy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Difficult to find",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:30.691Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2108,
+  "last_updated": "2026-03-20T10:21:13.720Z",
+  "first_scraped": "2026-03-20T10:21:13.720Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune support, Comfortable packaging, Easy regimen, Great immune system, Cancer fighter, Boost immune, Highly recommend, Fast shipping. Some note: Just started, Research first.",
+    "tags": [
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comfortable packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy regimen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cancer fighter",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Just started",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Research first",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:13.720Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

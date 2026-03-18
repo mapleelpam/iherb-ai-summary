@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101993,
+  "last_updated": "2026-03-20T10:27:31.831Z",
+  "first_scraped": "2026-03-20T10:27:31.831Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Tasty option, Boosts health, Improves mood, Strong dose, Immune booster, Natural taste, Night itching relief, Christmas gift.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Night itching relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Christmas gift",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Palpitations stress",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:31.831Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

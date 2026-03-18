@@ -1,0 +1,68 @@
+{
+  "iherb_id": 62199,
+  "last_updated": "2026-03-20T09:21:58.829Z",
+  "first_scraped": "2026-03-20T09:21:58.829Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved sleep, Save money, Looks promising, Love using this, Significant improvement, More energy, Feel energetic, Effective choice. Some note: No difference.",
+    "tags": [
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Save money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Looks promising",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love using this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Significant improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not impressed",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:58.829Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

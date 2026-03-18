@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14200,
+  "last_updated": "2026-03-20T09:59:44.092Z",
+  "first_scraped": "2026-03-20T09:59:44.092Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin healing, Clear nails, Powerful extract, Natural ingredients, Skin infections, Clears skin, Pain relief, Oral health. Some note: Slow progress.",
+    "tags": [
+      {
+        "name": "Skin healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin infections",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clears skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Oral health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alcohol taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Slow progress",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:44.092Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

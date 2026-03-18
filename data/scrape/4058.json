@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4058,
+  "last_updated": "2026-03-20T09:49:11.424Z",
+  "first_scraped": "2026-03-20T09:49:11.424Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient dosage, Increased energy, Great supplement, Effective dose, Small capsules, Morning dose, Increased testosterone, Health effect. Some note: Clean ingredients, Muscle testing.",
+    "tags": [
+      {
+        "name": "Convenient dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased testosterone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Muscle testing",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:11.424Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

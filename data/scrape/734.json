@@ -1,0 +1,68 @@
+{
+  "iherb_id": 734,
+  "last_updated": "2026-03-20T09:39:48.729Z",
+  "first_scraped": "2026-03-20T09:39:48.729Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Antiviral properties, Less belching, Helps fight bacteria, Good benefit, High dose, Works great, Effective brand, Clear breathing.",
+    "tags": [
+      {
+        "name": "Antiviral properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less belching",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps fight bacteria",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear breathing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not as effective",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Wrong product",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:48.729Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

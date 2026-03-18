@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73768,
+  "last_updated": "2026-03-20T10:06:15.854Z",
+  "first_scraped": "2026-03-20T10:06:15.854Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Positive change, Good ingredients, Big help, Good formula, Order arrived, Energized detox, Big difference, Happy customer.",
+    "tags": [
+      {
+        "name": "Positive change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Order arrived",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energized detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy customer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not for me",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Large size",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:15.854Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

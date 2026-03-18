@@ -1,0 +1,68 @@
+{
+  "iherb_id": 54981,
+  "last_updated": "2026-03-20T09:57:22.971Z",
+  "first_scraped": "2026-03-20T09:57:22.971Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps allergies, Clear sinuses, Feel awesome, Vision improved, Fast shipping, Relieves irritation, Tastes good, Great supplement.",
+    "tags": [
+      {
+        "name": "Helps allergies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear sinuses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel awesome",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vision improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves irritation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear up",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Blurred vision",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:22.971Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

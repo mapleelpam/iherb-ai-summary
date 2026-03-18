@@ -1,0 +1,68 @@
+{
+  "iherb_id": 124116,
+  "last_updated": "2026-03-20T09:44:36.483Z",
+  "first_scraped": "2026-03-20T09:44:36.483Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Few attacks, Feel difference, Small size, Top value, Improved sleep, Highly recommend, Reduce inflammation, Good ingredients. Some note: Subtle effect.",
+    "tags": [
+      {
+        "name": "Few attacks",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscular difficulties",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Subtle effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:36.483Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

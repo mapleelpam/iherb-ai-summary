@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1676,
+  "last_updated": "2026-03-20T10:08:25.595Z",
+  "first_scraped": "2026-03-20T10:08:25.595Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good use, Quality supplement, Small dosage, Regular dose works, No side effects, Remarkable energy, Balances hormones, Reliable source. Some note: No taste.",
+    "tags": [
+      {
+        "name": "Good use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular dose works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Remarkable energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balances hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair loss",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:25.595Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

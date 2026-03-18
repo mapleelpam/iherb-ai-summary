@@ -1,0 +1,68 @@
+{
+  "iherb_id": 148661,
+  "last_updated": "2026-03-20T09:42:37.446Z",
+  "first_scraped": "2026-03-20T09:42:37.446Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune booster, Potent formula, Easy to swallow, Anti viral cocktail, Absorption assistance, High amount, Adjust dose, Lots of benefits. Some note: No noticeable flavour.",
+    "tags": [
+      {
+        "name": "Immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti viral cocktail",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorption assistance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adjust dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lots of benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable flavour",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Harder to absorb",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:37.446Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

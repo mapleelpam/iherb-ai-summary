@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14307,
+  "last_updated": "2026-03-20T10:04:12.055Z",
+  "first_scraped": "2026-03-20T10:04:12.055Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sweet taste, Balanced blend, Fish oil, Brain development, Highly recommend, Speech delay, Lemon flavor, Less dry eyes. Some note: Liquid form.",
+    "tags": [
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fish oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain development",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speech delay",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lemon flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less dry eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Liquid form",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:12.055Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

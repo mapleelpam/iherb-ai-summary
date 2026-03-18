@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8178,
+  "last_updated": "2026-03-20T10:20:07.109Z",
+  "first_scraped": "2026-03-20T10:20:07.109Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great improvement, Promotes wellness, Balancing hormones, Improving mood, Mood change, Avoiding herby dust, Easy swallow, Safe option.",
+    "tags": [
+      {
+        "name": "Great improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Promotes wellness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balancing hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoiding herby dust",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Less effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:07.109Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

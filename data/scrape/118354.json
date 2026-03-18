@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118354,
+  "last_updated": "2026-03-20T10:02:07.176Z",
+  "first_scraped": "2026-03-20T10:02:07.176Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful for immunity, Affordable supplement, Good garlic, High potency, Cost-effective supply, Respiratory health, No issues, No aroma.",
+    "tags": [
+      {
+        "name": "Helpful for immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good garlic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cost-effective supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Respiratory health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aroma",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better lids",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Miss nature",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:07.176Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

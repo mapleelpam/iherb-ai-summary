@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120022,
+  "last_updated": "2026-03-20T09:52:56.345Z",
+  "first_scraped": "2026-03-20T09:52:56.345Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Pure ingredients, Timely delivery, Tastes good, Improves digestion, Effective additive, Great benefit, Positive results. Some note: Tart flavor.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No weight loss",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tart flavor",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:56.345Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

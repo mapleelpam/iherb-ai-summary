@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97433,
+  "last_updated": "2026-03-20T09:47:56.469Z",
+  "first_scraped": "2026-03-20T09:47:56.469Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clear improvements, Helps memory, Easy to take, Boosting immunity, Energy boost, Convenient form, Rave reviews, Cognition boost. Some note: No major improvement, Working additive.",
+    "tags": [
+      {
+        "name": "Clear improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rave reviews",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cognition boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No major improvement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Working additive",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:56.469Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

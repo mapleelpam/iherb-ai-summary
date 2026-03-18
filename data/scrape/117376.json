@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117376,
+  "last_updated": "2026-03-20T10:04:28.718Z",
+  "first_scraped": "2026-03-20T10:04:28.718Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective hydration, Clean ingredients, Good benefits, Good taste, Hydrates well, Great supplement, Dissolves quick, Improved circulation.",
+    "tags": [
+      {
+        "name": "Effective hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydrates well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves quick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:28.718Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

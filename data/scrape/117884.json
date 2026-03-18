@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117884,
+  "last_updated": "2026-03-20T10:16:35.480Z",
+  "first_scraped": "2026-03-20T10:16:35.480Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good combo, Works great, More vitality, Skin improvement, No fishy, Heart health, Inflammation fighter, Good purchase. Some note: Cost-effective omega, Mixed results.",
+    "tags": [
+      {
+        "name": "Good combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inflammation fighter",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cost-effective omega",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Mixed results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:35.480Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

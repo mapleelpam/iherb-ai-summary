@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120299,
+  "last_updated": "2026-03-20T10:09:54.122Z",
+  "first_scraped": "2026-03-20T10:09:54.122Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Big size, Effective dosage, Organic supplements, Hair growth, Good package, Impressed results, Small improvement, Feel great. Some note: Same job.",
+    "tags": [
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic supplements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Same job",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Rancid smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:54.122Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

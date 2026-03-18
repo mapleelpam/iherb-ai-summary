@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114463,
+  "last_updated": "2026-03-20T10:03:23.725Z",
+  "first_scraped": "2026-03-20T10:03:23.725Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Life extension, Small pills, Noticeable improvement, Effective dose, Feel great, Small size, Stopped deterioration, Cell health.",
+    "tags": [
+      {
+        "name": "Life extension",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped deterioration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cell health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Difficult to get",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:23.725Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

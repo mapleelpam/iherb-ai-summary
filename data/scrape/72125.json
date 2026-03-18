@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72125,
+  "last_updated": "2026-03-20T10:02:53.415Z",
+  "first_scraped": "2026-03-20T10:02:53.415Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reliable source, Helpful option, Easy intake, Good taste, Muscle recovery, Convenient size, Energy boost, Tastes good. Some note: Natural stress relief, Yummy drink.",
+    "tags": [
+      {
+        "name": "Reliable source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy intake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural stress relief",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Yummy drink",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:53.415Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

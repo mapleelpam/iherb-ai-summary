@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2133,
+  "last_updated": "2026-03-20T09:52:59.383Z",
+  "first_scraped": "2026-03-20T09:52:59.383Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient supplement, Good sleep, Helps sleep, Deep rest, Value for money, Heart health, Relaxing effects, Highly bioavailable.",
+    "tags": [
+      {
+        "name": "Convenient supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep rest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxing effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly bioavailable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong soapy",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Disgusting taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:59.383Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

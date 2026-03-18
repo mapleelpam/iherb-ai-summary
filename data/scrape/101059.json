@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101059,
+  "last_updated": "2026-03-20T09:25:32.842Z",
+  "first_scraped": "2026-03-20T09:25:32.842Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural remedy, Effective brand, Low cost, Recurrent purchase, Immune support, Immune system, Blood type, Value for money. Some note: Cold tablets.",
+    "tags": [
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low cost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recurrent purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood type",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Cold tablets",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:32.842Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

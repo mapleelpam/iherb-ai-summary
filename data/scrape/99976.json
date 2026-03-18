@@ -1,0 +1,68 @@
+{
+  "iherb_id": 99976,
+  "last_updated": "2026-03-20T10:27:03.416Z",
+  "first_scraped": "2026-03-20T10:27:03.416Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helping, Decent size, Balances hormones, Boost in energy, Clean product, Father benefits, Quick recovery, Capsule form, Easy to swallow. Some note: More needed.",
+    "tags": [
+      {
+        "name": "Helping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balances hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost in energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Father benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Capsule form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More needed",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:03.416Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

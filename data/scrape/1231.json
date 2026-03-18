@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1231,
+  "last_updated": "2026-03-20T10:20:25.897Z",
+  "first_scraped": "2026-03-20T10:20:25.897Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reduce cholesterol, Joint pain improved, Obvious effect, Good results, Cardiovascular benefits, Good formula, Carb-free help, Natural solution, Easy swallow.",
+    "tags": [
+      {
+        "name": "Reduce cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Obvious effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Carb-free help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:25.897Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

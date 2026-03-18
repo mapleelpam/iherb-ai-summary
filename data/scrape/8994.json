@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8994,
+  "last_updated": "2026-03-20T10:35:04.999Z",
+  "first_scraped": "2026-03-20T10:35:04.999Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Calms nerves, Efficient dosage, Helpful blend, Deep sleep, Longer effect, Easy to take, More relaxed, Improves mood. Some note: Herbal remedy.",
+    "tags": [
+      {
+        "name": "Calms nerves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Longer effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More relaxed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herbal remedy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Spicy for me",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:35:04.999Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

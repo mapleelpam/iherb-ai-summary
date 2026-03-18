@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8810,
+  "last_updated": "2026-03-20T09:53:05.406Z",
+  "first_scraped": "2026-03-20T09:53:05.406Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this, Affordable option, Natural composition, Better urine flow, Prostate health, Positive affect, Male health, Balancing testosterone, Hair loss, Recommended dose.",
+    "tags": [
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better urine flow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prostate health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive affect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Male health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balancing testosterone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended dose",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:05.406Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

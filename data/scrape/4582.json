@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4582,
+  "last_updated": "2026-03-20T09:38:00.259Z",
+  "first_scraped": "2026-03-20T09:38:00.259Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High cholesterol, Long expired date, Sealed properly, Highly recommend, Blood circulation, Cardiovascular health, Great investment, Top ingredients. Some note: Fast results, Out of stock.",
+    "tags": [
+      {
+        "name": "High cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long expired date",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sealed properly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great investment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Out of stock",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:00.259Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

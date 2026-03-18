@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21160,
+  "last_updated": "2026-03-20T09:23:07.809Z",
+  "first_scraped": "2026-03-20T09:23:07.809Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reputable company, Easy absorption, Effective on migraines, Easy to take, Helps sleep, Muscle strength, Fast shipping, No stomach cramps. Some note: Trust company, Relax wonderfully.",
+    "tags": [
+      {
+        "name": "Reputable company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective on migraines",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No stomach cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust company",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Relax wonderfully",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:07.809Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

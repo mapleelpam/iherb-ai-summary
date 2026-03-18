@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39198,
+  "last_updated": "2026-03-20T09:50:16.959Z",
+  "first_scraped": "2026-03-20T09:50:16.959Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural ingredients, High energy levels, Whole food, Good deal, All natural, Love this product, Increased egg production, Good source. Some note: Cardiovascular support, Not sure.",
+    "tags": [
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Whole food",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "All natural",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased egg production",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular support",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:16.959Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

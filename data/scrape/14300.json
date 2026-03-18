@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14300,
+  "last_updated": "2026-03-20T10:35:19.029Z",
+  "first_scraped": "2026-03-20T10:35:19.029Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective ingredients, Good results, Good composition, Increases capacity, Decreased night-time, Reduces urgency, Improved kidney, Well thought out, Supports health.",
+    "tags": [
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increases capacity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decreased night-time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces urgency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved kidney",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well thought out",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive discomfort",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:35:19.029Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

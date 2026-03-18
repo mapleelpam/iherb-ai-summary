@@ -1,0 +1,68 @@
+{
+  "iherb_id": 16460,
+  "last_updated": "2026-03-20T10:20:01.113Z",
+  "first_scraped": "2026-03-20T10:20:01.113Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Balance trick, Menopause symptoms, Repeat orders, Energy boosting, Strong feeling, Hormone control, Morning shake, Thyroid improvement. Some note: First time.",
+    "tags": [
+      {
+        "name": "Balance trick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Menopause symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat orders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boosting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormone control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning shake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thyroid improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First time",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Itchy scalp",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:01.113Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

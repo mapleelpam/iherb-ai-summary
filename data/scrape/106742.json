@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106742,
+  "last_updated": "2026-03-20T10:02:44.068Z",
+  "first_scraped": "2026-03-20T10:02:44.068Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High dosage, Clean brand, Good immunity support, Sleep better, Quickly raise, Raises immunity, High value, Bone strength, Supports health. Some note: Cold winters.",
+    "tags": [
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good immunity support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quickly raise",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Raises immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cold winters",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:44.068Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

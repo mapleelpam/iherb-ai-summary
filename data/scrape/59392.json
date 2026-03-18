@@ -1,0 +1,68 @@
+{
+  "iherb_id": 59392,
+  "last_updated": "2026-03-20T09:53:11.248Z",
+  "first_scraped": "2026-03-20T09:53:11.248Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Organic powder, Adds flavor, Smooth consistency, Tasty and amazing, Good addition, Boost of energy, Tastes good, Nice smell. Some note: Good ingredients, Natural food coloring.",
+    "tags": [
+      {
+        "name": "Organic powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adds flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth consistency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty and amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Natural food coloring",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:11.248Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

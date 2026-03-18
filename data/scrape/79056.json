@@ -1,0 +1,68 @@
+{
+  "iherb_id": 79056,
+  "last_updated": "2026-03-20T10:00:43.833Z",
+  "first_scraped": "2026-03-20T10:00:43.833Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Noticeable nerve pain relief, Good results, Pain relief, Expensive but effective, Nerve support, Effective ingredients, Sleep better, Improves discomfort. Some note: Manageable condition.",
+    "tags": [
+      {
+        "name": "Noticeable nerve pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nerve support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves discomfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Manageable condition",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stomach discomfort",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:43.833Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

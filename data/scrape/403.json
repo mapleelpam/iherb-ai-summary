@@ -1,0 +1,68 @@
+{
+  "iherb_id": 403,
+  "last_updated": "2026-03-20T09:20:31.024Z",
+  "first_scraped": "2026-03-20T09:20:31.024Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Calm and relaxed, Nervous health, Best value, Reduce nightmares, Nice packing, Significant improvement, Boosted energy levels, Brain support. Some note: High dose, Affordable b-1.",
+    "tags": [
+      {
+        "name": "Calm and relaxed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nervous health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce nightmares",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Significant improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Affordable b-1",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:31.024Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

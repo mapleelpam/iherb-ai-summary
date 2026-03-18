@@ -1,0 +1,68 @@
+{
+  "iherb_id": 57587,
+  "last_updated": "2026-03-20T10:36:58.358Z",
+  "first_scraped": "2026-03-20T10:36:58.358Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great addition, Clean energy, High energy, Feel better, Delicious flavor, Beneficial ingredients, Green vibrance, Sustained energy. Some note: Measuring device.",
+    "tags": [
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Green vibrance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustained energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower price",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Measuring device",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:36:58.358Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

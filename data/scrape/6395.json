@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6395,
+  "last_updated": "2026-03-20T09:52:42.879Z",
+  "first_scraped": "2026-03-20T09:52:42.879Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective remedy, Calmed symptoms, Easy to swallow, Love this, Delivered quickly, Digestive relief, Life saver, Great for bloating. Some note: Good ingredients.",
+    "tags": [
+      {
+        "name": "Effective remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calmed symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delivered quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blacken stools",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:42.879Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

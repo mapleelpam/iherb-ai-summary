@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85041,
+  "last_updated": "2026-03-20T09:28:48.478Z",
+  "first_scraped": "2026-03-20T09:28:48.478Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works fast, Felt lighter, Clean colon, Effective cleanse, Detox product, Lots flushed out, Feeling great, Good scent.",
+    "tags": [
+      {
+        "name": "Works fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Felt lighter",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean colon",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lots flushed out",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not recommend",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:48.478Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15497,
+  "last_updated": "2026-03-20T10:23:19.264Z",
+  "first_scraped": "2026-03-20T10:23:19.264Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost immune, Alcohol-free protection, Easy to use, Keeps healthy, Works fast, Effective supplement, Fast shipping, Frequent dosing. Some note: Bottle size.",
+    "tags": [
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alcohol-free protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Frequent dosing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alcohol taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bottle size",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:19.264Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

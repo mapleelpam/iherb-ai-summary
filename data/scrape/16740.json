@@ -1,0 +1,68 @@
+{
+  "iherb_id": 16740,
+  "last_updated": "2026-03-20T10:07:28.862Z",
+  "first_scraped": "2026-03-20T10:07:28.862Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps bloating, Love this product, Feel improvement, Water retention, Excess water, Really helps, Feel better, Helps with constipation. Some note: Felt relief.",
+    "tags": [
+      {
+        "name": "Helps bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Water retention",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excess water",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Really helps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Felt relief",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Zero effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:28.862Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

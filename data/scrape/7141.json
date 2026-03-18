@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7141,
+  "last_updated": "2026-03-20T10:04:53.523Z",
+  "first_scraped": "2026-03-20T10:04:53.523Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fantastic results, Quite satisfied, Gut health, Natural solution, Effective cleanse, Energy boost, Fair pricing, Parasite cleanse. Some note: Taste strong.",
+    "tags": [
+      {
+        "name": "Fantastic results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quite satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair pricing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Parasite cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No benefits",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Taste strong",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:53.523Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

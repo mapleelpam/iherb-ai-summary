@@ -1,0 +1,68 @@
+{
+  "iherb_id": 125415,
+  "last_updated": "2026-03-20T09:45:09.443Z",
+  "first_scraped": "2026-03-20T09:45:09.443Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune support, High vitamin C, Hair improvement, Good ingredients, Good for health, Hair mask, Antioxidant boost, Satisfied purchase. Some note: Natural source.",
+    "tags": [
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High vitamin C",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair mask",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural source",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Contains lead",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:09.443Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69641,
+  "last_updated": "2026-03-20T09:26:37.643Z",
+  "first_scraped": "2026-03-20T09:26:37.643Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural ingredient, Complete ingredients, ADHD support, Investing in health, Easy to take, Easy to follow, Safe package, Good for heart. Some note: Glass packaging.",
+    "tags": [
+      {
+        "name": "Natural ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "ADHD support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Investing in health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to follow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass packaging",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Big capsules",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:37.643Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 19522,
+  "last_updated": "2026-03-20T09:47:22.062Z",
+  "first_scraped": "2026-03-20T09:47:22.062Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient package, Muscle growth, Energy boost, Strong composition, Pre-digested protein, Fresh energy, Fit size, Lots of energy.",
+    "tags": [
+      {
+        "name": "Convenient package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pre-digested protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fit size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lots of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Exceeding recommended",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not vegan",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:22.062Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

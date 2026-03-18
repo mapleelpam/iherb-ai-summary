@@ -1,0 +1,68 @@
+{
+  "iherb_id": 16023,
+  "last_updated": "2026-03-20T09:52:40.831Z",
+  "first_scraped": "2026-03-20T09:52:40.831Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good results, Cleansing effect, Improved condition, Effective detox, Good price, Easy to use, Fast results, Easy to swallow. Some note: No difference.",
+    "tags": [
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleansing effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved condition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Cheap ingredients",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:40.831Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

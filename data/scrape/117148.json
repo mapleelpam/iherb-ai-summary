@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117148,
+  "last_updated": "2026-03-20T09:23:27.864Z",
+  "first_scraped": "2026-03-20T09:23:27.864Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Important mineral, Wonderful, Lowering glucose, Excellent form, Reduce cravings, Easy to swallow, Nice ingredients. Some note: Great benefits.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Important mineral",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wonderful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowering glucose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:27.864Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

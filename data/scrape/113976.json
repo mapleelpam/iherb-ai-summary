@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113976,
+  "last_updated": "2026-03-20T10:33:07.348Z",
+  "first_scraped": "2026-03-20T10:33:07.348Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy taste, Great benefits, Will buy again, Clearer skin, Immune support, Healing power, Boost immunity, Relaxation benefits. Some note: Accurate measurement.",
+    "tags": [
+      {
+        "name": "Easy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Will buy again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healing power",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxation benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Accurate measurement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Earthy flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:33:07.348Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

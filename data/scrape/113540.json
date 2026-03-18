@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113540,
+  "last_updated": "2026-03-20T10:05:16.464Z",
+  "first_scraped": "2026-03-20T10:05:16.464Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Life changing, Skin improvement, Strong nails, Gorgeous packaging, Shiny hair, Dramatic change, Incredible results, Clear skin, Smaller tablets, Fast results.",
+    "tags": [
+      {
+        "name": "Life changing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gorgeous packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shiny hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dramatic change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Incredible results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smaller tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:16.464Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

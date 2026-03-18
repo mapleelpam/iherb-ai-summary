@@ -1,0 +1,68 @@
+{
+  "iherb_id": 128524,
+  "last_updated": "2026-03-20T09:32:39.658Z",
+  "first_scraped": "2026-03-20T09:32:39.658Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast delivery, Aging women, Easy to swallow, Satisfied, Significant improvements, Love this product, Raises testosterone, Very pleased. Some note: Very useful.",
+    "tags": [
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Aging women",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Significant improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Raises testosterone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very pleased",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very useful",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Price difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:39.658Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

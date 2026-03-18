@@ -1,0 +1,68 @@
+{
+  "iherb_id": 133579,
+  "last_updated": "2026-03-20T09:54:28.432Z",
+  "first_scraped": "2026-03-20T09:54:28.432Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great for, Great supplement, Muscle recovery, Value buy, Muscle mass, Works perfect, Clean product, Energy improvement, Good ingredients.",
+    "tags": [
+      {
+        "name": "Great for",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle mass",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works perfect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large capsules",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:28.432Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

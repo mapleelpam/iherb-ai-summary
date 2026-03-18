@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113176,
+  "last_updated": "2026-03-20T10:09:36.254Z",
+  "first_scraped": "2026-03-20T10:09:36.254Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High-quality amino acids, Effective solution, Easy to swallow, Good dosage, Muscle building, Better pump, Blood pressure, Increases nitric oxide. Some note: Big box, Big tablets.",
+    "tags": [
+      {
+        "name": "High-quality amino acids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle building",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increases nitric oxide",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big box",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Big tablets",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:36.254Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

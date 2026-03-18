@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69741,
+  "last_updated": "2026-03-20T09:21:46.547Z",
+  "first_scraped": "2026-03-20T09:21:46.547Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Versatile usage, Leg cramps, Balanced electrolytes, Effective supplement, Convenient form, Powder form, Potassium supplement, Easy to dissolve. Some note: Hydrating drink.",
+    "tags": [
+      {
+        "name": "Versatile usage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Leg cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced electrolytes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powder form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potassium supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydrating drink",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:46.547Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

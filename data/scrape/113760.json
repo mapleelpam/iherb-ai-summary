@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113760,
+  "last_updated": "2026-03-20T10:34:02.744Z",
+  "first_scraped": "2026-03-20T10:34:02.744Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective option, Easy to digest, Increase power, Two months, Unflavored powder, Cost-effective choice, Extra mile, Works as advertised. Some note: Update soon.",
+    "tags": [
+      {
+        "name": "Effective option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to digest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase power",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Two months",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unflavored powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cost-effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra mile",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works as advertised",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Update soon",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:34:02.744Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

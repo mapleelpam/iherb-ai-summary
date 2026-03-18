@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6848,
+  "last_updated": "2026-03-20T10:04:04.574Z",
+  "first_scraped": "2026-03-20T10:04:04.574Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pleasant taste, Boosts energy, Nicely packaged, Beneficial detoxification, Superfood, Light flavor, Fantastic taste, Liked the price, Liver support.",
+    "tags": [
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nicely packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial detoxification",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superfood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Light flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liked the price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Changed product",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:04.574Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

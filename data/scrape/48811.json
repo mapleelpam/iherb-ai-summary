@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48811,
+  "last_updated": "2026-03-20T09:42:39.543Z",
+  "first_scraped": "2026-03-20T09:42:39.543Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Relaxation support, Natural stress, Night shift, Great supplement, Good package, Calmer, Energy booster, Calm mind. Some note: Trusted brand.",
+    "tags": [
+      {
+        "name": "Relaxation support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Night shift",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calmer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calm mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not work",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:39.543Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

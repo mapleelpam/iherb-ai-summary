@@ -1,0 +1,68 @@
+{
+  "iherb_id": 95813,
+  "last_updated": "2026-03-20T10:02:51.464Z",
+  "first_scraped": "2026-03-20T10:02:51.464Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Amazing boost, Lots of energy, Delicious flavor, Pumped throughout, Trustful brand, Great pre-workout, Tastes strong, Explosive energy surge. Some note: Good taste.",
+    "tags": [
+      {
+        "name": "Amazing boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lots of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pumped throughout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trustful brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great pre-workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes strong",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Explosive energy surge",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Disappointing",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:51.464Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

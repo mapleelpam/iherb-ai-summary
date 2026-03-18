@@ -1,0 +1,68 @@
+{
+  "iherb_id": 125071,
+  "last_updated": "2026-03-20T10:04:41.749Z",
+  "first_scraped": "2026-03-20T10:04:41.749Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective ingredients, Easy digestion, Optimal support, Intestinal immunity, Works fine, Works as intended, Works better, Stronger confidence, Helpful product. Some note: Works sometimes.",
+    "tags": [
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Optimal support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intestinal immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works as intended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger confidence",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works sometimes",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:41.749Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

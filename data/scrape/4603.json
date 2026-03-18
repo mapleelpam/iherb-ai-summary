@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4603,
+  "last_updated": "2026-03-20T10:30:19.615Z",
+  "first_scraped": "2026-03-20T10:30:19.615Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Expensive but effective, Powerful wellness, Easy to take, Good dose, Effective brand, Good alternative, Preferred brand, Scar tissue.",
+    "tags": [
+      {
+        "name": "Expensive but effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful wellness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preferred brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Scar tissue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:30:19.615Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

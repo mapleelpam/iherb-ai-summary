@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1982,
+  "last_updated": "2026-03-20T10:09:15.525Z",
+  "first_scraped": "2026-03-20T10:09:15.525Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Seems good, Good dosage, Love the benefit, Gentle on stomach, Better absorption, Arrived quickly, Economical option, Effective supplement, Good results.",
+    "tags": [
+      {
+        "name": "Seems good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arrived quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economical option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mold allergy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:15.525Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

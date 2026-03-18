@@ -1,0 +1,68 @@
+{
+  "iherb_id": 25275,
+  "last_updated": "2026-03-20T10:20:39.108Z",
+  "first_scraped": "2026-03-20T10:20:39.108Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Eye health, Brighter eyes, Vision improved, Order again, Natural color, Improved night vision, Doctor recommended, Good vision. Some note: Pricey, interested, Need more time.",
+    "tags": [
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brighter eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vision improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Order again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural color",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved night vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doctor recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pricey, interested",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Need more time",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:39.108Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

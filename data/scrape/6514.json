@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6514,
+  "last_updated": "2026-03-20T09:59:24.720Z",
+  "first_scraped": "2026-03-20T09:59:24.720Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, More energy, Supporting immune, Good ingredients, Increased concentration, Effective brand, Potent extract, Cute design. Some note: Bittersweet taste.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supporting immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cute design",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach hurt",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bittersweet taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:24.720Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

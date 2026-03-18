@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81386,
+  "last_updated": "2026-03-20T10:03:33.397Z",
+  "first_scraped": "2026-03-20T10:03:33.397Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No side effect, Highly recommend, Good sleep, Easy to swallow, Natural ingredients, Appropriate size, Loving the results, Effective choice. Some note: Low dosage.",
+    "tags": [
+      {
+        "name": "No side effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Appropriate size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loving the results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weak effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Low dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:33.397Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

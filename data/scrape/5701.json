@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5701,
+  "last_updated": "2026-03-20T09:37:10.076Z",
+  "first_scraped": "2026-03-20T09:37:10.076Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves digestion, Strong and concentrated, Efficient service, Long lasting, Helpful UTI, Tastes good, Tangy and sweet, Refreshing drink. Some note: Long age.",
+    "tags": [
+      {
+        "name": "Improves digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong and concentrated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long lasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful UTI",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tangy and sweet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long age",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Plastic packaging",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:10.076Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22858,
+  "last_updated": "2026-03-20T09:41:42.506Z",
+  "first_scraped": "2026-03-20T09:41:42.506Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good combination, Increased energy, Good formulation, Favorite brand, Contains B vitamins, Works for us, Energy level, Stopped hair falling. Some note: Timed-release feature.",
+    "tags": [
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Favorite brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Contains B vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for us",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy level",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped hair falling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timed-release feature",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:42.506Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

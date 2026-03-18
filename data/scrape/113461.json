@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113461,
+  "last_updated": "2026-03-20T09:37:46.826Z",
+  "first_scraped": "2026-03-20T09:37:46.826Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Great flavor, Lovely gummy textures, Extra vitamin D, Good ingredients, Skin glowing, Tasty option, Taste good. Some note: Not sure, Helps sleep.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lovely gummy textures",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra vitamin D",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin glowing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:46.826Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

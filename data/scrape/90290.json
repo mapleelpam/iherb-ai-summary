@@ -1,0 +1,68 @@
+{
+  "iherb_id": 90290,
+  "last_updated": "2026-03-20T09:48:44.598Z",
+  "first_scraped": "2026-03-20T09:48:44.598Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Health benefits, Detox body, Easy to swallow, Good alternative, Easy to open, Stomach balance, Fast shipping, Good package. Some note: Metabolism boost, Love this product.",
+    "tags": [
+      {
+        "name": "Health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox body",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to open",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Metabolism boost",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:44.598Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

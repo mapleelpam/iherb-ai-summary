@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8541,
+  "last_updated": "2026-03-20T10:05:47.085Z",
+  "first_scraped": "2026-03-20T10:05:47.085Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Regulate period, Energy boost, Happy results, Hormonal balance, Improved strength, Reduces PMS, No pain, Blood circulation. Some note: High concentration, Strong smell.",
+    "tags": [
+      {
+        "name": "Regulate period",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormonal balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces PMS",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strong smell",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:47.085Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

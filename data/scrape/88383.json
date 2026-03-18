@@ -1,0 +1,68 @@
+{
+  "iherb_id": 88383,
+  "last_updated": "2026-03-20T09:47:27.180Z",
+  "first_scraped": "2026-03-20T09:47:27.180Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great flavor, Rich chocolate, Rich protein, Easy mix, Affordable price, Impressive, First purchase, Good ingredients. Some note: Yummy protein.",
+    "tags": [
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to mix",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Yummy protein",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:27.180Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

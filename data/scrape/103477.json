@@ -1,0 +1,68 @@
+{
+  "iherb_id": 103477,
+  "last_updated": "2026-03-20T10:03:45.633Z",
+  "first_scraped": "2026-03-20T10:03:45.633Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Love bee pollen, Access to, Natural ingredients, Good taste, Increase iron, Fit size, Yummy and tasty.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love bee pollen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Access to",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase iron",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fit size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy and tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pricey side",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bad flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:45.633Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

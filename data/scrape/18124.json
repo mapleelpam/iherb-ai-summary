@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18124,
+  "last_updated": "2026-03-20T09:53:33.566Z",
+  "first_scraped": "2026-03-20T09:53:33.566Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Control cholesterol, No statins, Great supplement, Helps manage, Normal cholesterol, Works great, Easy to take, Blood test. Some note: Lowers levels.",
+    "tags": [
+      {
+        "name": "Control cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No statins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps manage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood test",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowers levels",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:33.566Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

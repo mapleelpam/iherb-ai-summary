@@ -1,0 +1,68 @@
+{
+  "iherb_id": 95254,
+  "last_updated": "2026-03-20T10:17:40.621Z",
+  "first_scraped": "2026-03-20T10:17:40.621Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Prostate support, Good smell, Good improvement, Benefit system, Starting to see, Improves health, Reduces prostate problems, Relief feeling. Some note: Genuine items.",
+    "tags": [
+      {
+        "name": "Prostate support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Starting to see",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces prostate problems",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overdose vitamin b6",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Genuine items",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:40.621Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

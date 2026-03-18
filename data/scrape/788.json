@@ -1,0 +1,68 @@
+{
+  "iherb_id": 788,
+  "last_updated": "2026-03-20T09:33:54.502Z",
+  "first_scraped": "2026-03-20T09:33:54.502Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delightful experience, Gastric relief, Mild taste, Soothing sore throat, Helps fast, Soothing digestion, Calming GI function, Stomach issues. Some note: Lovely slippery.",
+    "tags": [
+      {
+        "name": "Delightful experience",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gastric relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soothing sore throat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soothing digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming GI function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Lovely slippery",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:54.502Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

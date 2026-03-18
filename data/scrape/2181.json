@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2181,
+  "last_updated": "2026-03-20T10:44:07.634Z",
+  "first_scraped": "2026-03-20T10:44:07.634Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful product, Relief found, No symptoms, Easy swallow, Feeling good, Happy man, Improving again, Less heartburn. Some note: Little relief.",
+    "tags": [
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief found",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy man",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less heartburn",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bitterly disappointed",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Little relief",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:44:07.634Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

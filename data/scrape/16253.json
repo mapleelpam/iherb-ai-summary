@@ -1,0 +1,68 @@
+{
+  "iherb_id": 16253,
+  "last_updated": "2026-03-20T09:25:06.115Z",
+  "first_scraped": "2026-03-20T09:25:06.115Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Relieves symptoms, Natural relief, Good smell, Helped me, Relieves hot flushes, Sleep better, Effective ingredient, Hot flashes.",
+    "tags": [
+      {
+        "name": "Relieves symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves hot flushes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hot flashes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Night sweats",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:06.115Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

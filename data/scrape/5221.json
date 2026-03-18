@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5221,
+  "last_updated": "2026-03-20T09:50:07.129Z",
+  "first_scraped": "2026-03-20T09:50:07.129Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for candida, Small size, Gut issues, Easy intake, Helping improvement, Natural antibiotic, Immune support, Effective supplement. Some note: Antibacterial benefits.",
+    "tags": [
+      {
+        "name": "Good for candida",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy intake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helping improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural antibiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach issues",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Antibacterial benefits",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:07.129Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

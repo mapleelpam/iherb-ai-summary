@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117052,
+  "last_updated": "2026-03-20T10:16:09.077Z",
+  "first_scraped": "2026-03-20T10:16:09.077Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost, Burn fat, Good advice, Lose weight, Increase productivity, Clean energy, Thankful item, Sustained boost. Some note: Not sure, Too early.",
+    "tags": [
+      {
+        "name": "Boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Burn fat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good advice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lose weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase productivity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thankful item",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustained boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too early",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:09.077Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 148986,
+  "last_updated": "2026-03-20T09:47:55.424Z",
+  "first_scraped": "2026-03-20T09:47:55.424Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improvement noticed, Highly recommend, Fast shipping, Korean ginseng, Happy, energized, Effective energy, Boost energy, More energetic. Some note: No energy boost, Selected ingredients.",
+    "tags": [
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Korean ginseng",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy, energized",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No energy boost",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Selected ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:55.424Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

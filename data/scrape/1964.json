@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1964,
+  "last_updated": "2026-03-20T09:57:48.209Z",
+  "first_scraped": "2026-03-20T09:57:48.209Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast absorption, Helpful throughout, Helps circulation, Convenient dosage, Easy to take, Good for skin, Natural option, Clean ingredients.",
+    "tags": [
+      {
+        "name": "Fast absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful throughout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not useful",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Love company",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:48.209Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

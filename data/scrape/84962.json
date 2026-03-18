@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84962,
+  "last_updated": "2026-03-20T10:23:36.514Z",
+  "first_scraped": "2026-03-20T10:23:36.514Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good combination, Wake up refreshed, Helps sleep, Fall asleep, Good package, Increase serotonin, Ordered frequently, Restful sleep.",
+    "tags": [
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wake up refreshed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fall asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase serotonin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ordered frequently",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restful sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:36.514Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15752,
+  "last_updated": "2026-03-20T09:52:38.783Z",
+  "first_scraped": "2026-03-20T09:52:38.783Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast results, Good package, Nice price, Amazing solution, Complete formula, Fast shipping, Easy way, Feel good. Some note: Antioxidant support, Number one brand.",
+    "tags": [
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant support",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Number one brand",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:38.783Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

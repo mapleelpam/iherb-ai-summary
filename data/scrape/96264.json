@@ -1,0 +1,68 @@
+{
+  "iherb_id": 96264,
+  "last_updated": "2026-03-20T09:22:54.202Z",
+  "first_scraped": "2026-03-20T09:22:54.202Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Dependable price, Easy swallow, Feel different, Calcium delivery, No side effect, Convenient supply, Helps absorb, Effective supplement. Some note: Improves absorption.",
+    "tags": [
+      {
+        "name": "Dependable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel different",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calcium delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps absorb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too many fillers",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Improves absorption",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:54.202Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

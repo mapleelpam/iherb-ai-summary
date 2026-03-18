@@ -1,0 +1,68 @@
+{
+  "iherb_id": 58649,
+  "last_updated": "2026-03-20T09:44:55.733Z",
+  "first_scraped": "2026-03-20T09:44:55.733Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for nerves, Easy to drink, Boosting athletic performance, Muscle pump supplements, Improved stamina, Excellent source, Boosts nitric oxide, Improved circulation. Some note: Tastes ok, Sour taste.",
+    "tags": [
+      {
+        "name": "Good for nerves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting athletic performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle pump supplements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts nitric oxide",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes ok",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sour taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:55.733Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

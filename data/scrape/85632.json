@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85632,
+  "last_updated": "2026-03-20T10:23:09.752Z",
+  "first_scraped": "2026-03-20T10:23:09.752Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Curbs appetite, Boosts metabolism, Continues daily, Great combo, Easy swallow, Energy boost, Easy dosage, Good results.",
+    "tags": [
+      {
+        "name": "Curbs appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Continues daily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:09.752Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

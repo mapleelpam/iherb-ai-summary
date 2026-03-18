@@ -1,0 +1,68 @@
+{
+  "iherb_id": 803,
+  "last_updated": "2026-03-20T09:21:31.355Z",
+  "first_scraped": "2026-03-20T09:21:31.355Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Positive results, Natural support, Top ingredients, Highly recommend, Works well, Hair growth, Great improvement, Improved health. Some note: Ok start, No noticeable changes.",
+    "tags": [
+      {
+        "name": "Positive results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ok start",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No noticeable changes",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:31.355Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

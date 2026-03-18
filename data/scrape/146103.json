@@ -1,0 +1,68 @@
+{
+  "iherb_id": 146103,
+  "last_updated": "2026-03-20T09:18:37.659Z",
+  "first_scraped": "2026-03-20T09:18:37.659Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast hair growth, Stronger nails, Well packaged, Nice benefits, Tasty gummies, Tasty vitamins, Nice purchase, Good taste. Some note: Helps a lot.",
+    "tags": [
+      {
+        "name": "Fast hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Artificial taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Helps a lot",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:37.659Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

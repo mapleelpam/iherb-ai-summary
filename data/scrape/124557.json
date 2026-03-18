@@ -1,0 +1,68 @@
+{
+  "iherb_id": 124557,
+  "last_updated": "2026-03-20T10:25:00.084Z",
+  "first_scraped": "2026-03-20T10:25:00.084Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Relief, Urinary improvement, Nice price, Reliable service, Efficient process, Great results, Accurate feedback, Prostate support.",
+    "tags": [
+      {
+        "name": "Relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Urinary improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient process",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Accurate feedback",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prostate support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Side effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:00.084Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

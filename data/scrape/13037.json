@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13037,
+  "last_updated": "2026-03-20T09:30:43.323Z",
+  "first_scraped": "2026-03-20T09:30:43.323Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Improved health, Feel great, Weight loss, Easy to swallow, Boosts immunity, Good results, More energy. Some note: Not much difference.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent drug",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not much difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:43.323Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

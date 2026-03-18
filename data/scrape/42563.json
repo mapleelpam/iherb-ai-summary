@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42563,
+  "last_updated": "2026-03-20T10:20:22.929Z",
+  "first_scraped": "2026-03-20T10:20:22.929Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Good package, Fresh product, Provides energy, Stable energy, Wholefood option, Quick shipment, Pregnancy support. Some note: Organic but expensive, Folic acid.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Provides energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stable energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wholefood option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pregnancy support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic but expensive",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Folic acid",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:22.929Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

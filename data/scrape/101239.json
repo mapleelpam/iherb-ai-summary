@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101239,
+  "last_updated": "2026-03-20T09:32:42.667Z",
+  "first_scraped": "2026-03-20T09:32:42.667Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good absorption, Max absorption, Easy to swallow, Immune health, Good taste, Purity assurance, Immune support, Better bioavailability. Some note: Great results, Not sure.",
+    "tags": [
+      {
+        "name": "Good absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Max absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Purity assurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better bioavailability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:42.667Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

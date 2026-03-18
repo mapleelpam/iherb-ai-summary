@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15158,
+  "last_updated": "2026-03-20T10:19:51.477Z",
+  "first_scraped": "2026-03-20T10:19:51.477Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sweet taste, Good taste, Fast dissolve, Boost in energy, Higher dose, Good work, Full benefit, Better sleep. Some note: Absorption issue.",
+    "tags": [
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost in energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good work",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Full benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorption issue",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sour taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:51.477Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

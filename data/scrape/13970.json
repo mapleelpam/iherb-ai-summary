@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13970,
+  "last_updated": "2026-03-20T10:25:13.233Z",
+  "first_scraped": "2026-03-20T10:25:13.233Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very satisfied, Improved skin, Easy to swallow, Helpful supplement, Vegetable gelatin, Eye health, Helps digestion, Ideal packaging.",
+    "tags": [
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegetable gelatin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ideal packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Misleading description",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not vegan",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:13.233Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

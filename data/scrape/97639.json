@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97639,
+  "last_updated": "2026-03-20T10:28:02.918Z",
+  "first_scraped": "2026-03-20T10:28:02.918Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Mild taste, Good results, Rich flavor, Great option, Zero taste, Energised blend, Love this.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Zero taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energised blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less than half",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Quarter full",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:02.918Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

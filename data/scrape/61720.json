@@ -1,0 +1,68 @@
+{
+  "iherb_id": 61720,
+  "last_updated": "2026-03-20T10:15:37.949Z",
+  "first_scraped": "2026-03-20T10:15:37.949Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small size, Better for me, Speedy service, Digestive support, Trusted brand, Works great, Easy to swallow, Great probiotic.",
+    "tags": [
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small pills",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Avoid certain strains",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:37.949Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

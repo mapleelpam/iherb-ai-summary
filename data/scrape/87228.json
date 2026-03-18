@@ -1,0 +1,68 @@
+{
+  "iherb_id": 87228,
+  "last_updated": "2026-03-20T10:30:29.658Z",
+  "first_scraped": "2026-03-20T10:30:29.658Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Life-changing results, Sustainable sourcing, Breast cancer, Delivery speed, Peace of mind, Boost immune, New superfood, Planet-friendly brand, Peak performance. Some note: Potent enough.",
+    "tags": [
+      {
+        "name": "Life-changing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustainable sourcing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Breast cancer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delivery speed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Peace of mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "New superfood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Planet-friendly brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Peak performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent enough",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:30:29.658Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

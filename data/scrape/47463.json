@@ -1,0 +1,68 @@
+{
+  "iherb_id": 47463,
+  "last_updated": "2026-03-20T09:44:55.733Z",
+  "first_scraped": "2026-03-20T09:44:55.733Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved nails, Skin tone improved, Superior ingredients, Skin hydration, Easy to swallow, Smooth start, Regular basis, Youthful complexion. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Improved nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin tone improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superior ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth start",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular basis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Youthful complexion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weak results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:55.733Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7597,
+  "last_updated": "2026-03-20T09:37:28.824Z",
+  "first_scraped": "2026-03-20T09:37:28.824Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective digestion, Soothes stomach, Improved health, Easy to swallow, Restful sleep, Boost energy, Digests oils, Potency guaranteed. Some note: Natural ingredients.",
+    "tags": [
+      {
+        "name": "Effective digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soothes stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restful sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digests oils",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potency guaranteed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:28.824Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

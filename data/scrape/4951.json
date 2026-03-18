@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4951,
+  "last_updated": "2026-03-20T10:02:53.416Z",
+  "first_scraped": "2026-03-20T10:02:53.416Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works awesome, Timely shipping, Belly fat, Great supplement, Great combination, Competitive pricing, Delicious blend, Beneficial effects. Some note: Love iherb, Delicious boost.",
+    "tags": [
+      {
+        "name": "Works awesome",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Belly fat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Competitive pricing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love iherb",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Delicious boost",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:53.416Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

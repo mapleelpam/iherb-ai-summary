@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9150,
+  "last_updated": "2026-03-20T10:37:22.131Z",
+  "first_scraped": "2026-03-20T10:37:22.131Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective dosage, Mental clarity, The best, Clear head, Fast shipping, Good luck, Life-saving formula, Incredible combination.",
+    "tags": [
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "The best",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear head",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good luck",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life-saving formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Incredible combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Waste of time",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Forget wife",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:37:22.131Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

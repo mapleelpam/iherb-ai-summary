@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43054,
+  "last_updated": "2026-03-20T09:37:56.471Z",
+  "first_scraped": "2026-03-20T09:37:56.471Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful product, Effective alternative, Popular choice, Natural calming, Calming effect, Easy to swallow, Same anti-anxiety, Good reduction. Some note: Relaxing sleep.",
+    "tags": [
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Popular choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural calming",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Same anti-anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good reduction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Relaxing sleep",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:56.471Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

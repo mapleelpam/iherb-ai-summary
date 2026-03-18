@@ -1,0 +1,68 @@
+{
+  "iherb_id": 62193,
+  "last_updated": "2026-03-20T10:00:31.191Z",
+  "first_scraped": "2026-03-20T10:00:31.191Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Good probiotics, Supporting microbiom, Good absorption, Supporting heart, Lower cholesterol, Heart health, Trusted brand. Some note: Potent ingredients, New product.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good probiotics",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supporting microbiom",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supporting heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "New product",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:31.191Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

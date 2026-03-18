@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102218,
+  "last_updated": "2026-03-20T10:03:00.420Z",
+  "first_scraped": "2026-03-20T10:03:00.420Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious chocolate, Amazing flavor, Full stomach, Happy princess, Tastes very good, Creamy texture, Satisfying taste, Good taste. Some note: Average taste.",
+    "tags": [
+      {
+        "name": "Delicious chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Full stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy princess",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes very good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Creamy texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfying taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Average taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:00.420Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

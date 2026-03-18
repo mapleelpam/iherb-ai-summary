@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80328,
+  "last_updated": "2026-03-20T10:07:04.390Z",
+  "first_scraped": "2026-03-20T10:07:04.390Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious bars, Good taste, Reasonable price, Tastes good, Delicious breakfast, Adequate quantity, Sweet taste, Less sweet.",
+    "tags": [
+      {
+        "name": "Delicious bars",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious breakfast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adequate quantity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less sweet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High carbs",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Difficult packaging",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:04.390Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

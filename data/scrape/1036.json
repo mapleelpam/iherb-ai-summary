@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1036,
+  "last_updated": "2026-03-20T10:05:47.084Z",
+  "first_scraped": "2026-03-20T10:05:47.084Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Usually good, Noticed a difference, Great supplement, Small size, Sublingual delivery, Migraine control, Increased energy, Great absorption.",
+    "tags": [
+      {
+        "name": "Usually good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticed a difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sublingual delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Migraine control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mint flavor",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Extreme nausea",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:47.084Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106641,
+  "last_updated": "2026-03-20T09:20:52.570Z",
+  "first_scraped": "2026-03-20T09:20:52.570Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Fast healing, Nice package, High concentration, Extra calcium, Superior absorption, Excellent magnesium, User-friendly website. Some note: Good nutritional.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra calcium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superior absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent magnesium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "User-friendly website",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big pill",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good nutritional",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:52.570Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

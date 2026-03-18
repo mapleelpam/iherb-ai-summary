@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32418,
+  "last_updated": "2026-03-20T09:55:26.956Z",
+  "first_scraped": "2026-03-20T09:55:26.956Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice smell, No fishy aftertaste, Good combination, Memory improves, Good price, Easy to take, Essential for, High omega 3, Vitamin D, Tangible effect.",
+    "tags": [
+      {
+        "name": "Nice smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential for",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High omega 3",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin D",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tangible effect",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:26.956Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

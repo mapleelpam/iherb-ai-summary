@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22425,
+  "last_updated": "2026-03-20T09:26:56.656Z",
+  "first_scraped": "2026-03-20T09:26:56.656Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Long term, Trusted brand, Notice changes, Effective option, Fast shipping, Knee pain, Absorption great, Essential minerals. Some note: Large tablets, Slow relief.",
+    "tags": [
+      {
+        "name": "Long term",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Notice changes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Knee pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorption great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential minerals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large tablets",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Slow relief",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:56.656Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80504,
+  "last_updated": "2026-03-20T10:32:43.070Z",
+  "first_scraped": "2026-03-20T10:32:43.070Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes amazing, Cardio strength, Great flavour, Refreshing flavor, Satisfied quantity, Super tasty, Affordable option, Hydration support, Good package.",
+    "tags": [
+      {
+        "name": "Tastes amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardio strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavour",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied quantity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydration support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not much mango",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:43.070Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

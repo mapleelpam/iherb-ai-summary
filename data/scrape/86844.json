@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86844,
+  "last_updated": "2026-03-20T09:41:33.596Z",
+  "first_scraped": "2026-03-20T09:41:33.596Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice supplement, Easily dissolves, Love this product, Improvement in skin, Good ingredients, Delicious powder, Good benefits, Tastes great.",
+    "tags": [
+      {
+        "name": "Nice supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easily dissolves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No proof",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:33.596Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

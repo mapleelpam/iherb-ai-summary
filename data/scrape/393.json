@@ -1,0 +1,68 @@
+{
+  "iherb_id": 393,
+  "last_updated": "2026-03-20T09:50:50.340Z",
+  "first_scraped": "2026-03-20T09:50:50.340Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to use, Joint health, Flexibility improvement, Convenient option, Highly recommend, Easy to dissolve, Stronger nails, Value for money. Some note: Clear ingredients, Prompt service.",
+    "tags": [
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flexibility improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Prompt service",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:50.340Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

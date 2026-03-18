@@ -1,0 +1,68 @@
+{
+  "iherb_id": 51295,
+  "last_updated": "2026-03-20T09:44:32.551Z",
+  "first_scraped": "2026-03-20T09:44:32.551Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great composition, More energetic, Efficient delivery, Affordable and well-packed, Complete ingredients, Easy to swallow, Essential minerals, Neutral taste. Some note: Body needs.",
+    "tags": [
+      {
+        "name": "Great composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable and well-packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential minerals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body needs",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Difficult to swallow",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:32.551Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

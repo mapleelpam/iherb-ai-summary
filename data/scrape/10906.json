@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10906,
+  "last_updated": "2026-03-20T09:51:55.500Z",
+  "first_scraped": "2026-03-20T09:51:55.500Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great omega, Easy to take, Effective vitamin d3, Rare combination, Nice price, Good for children, Inflammation relief, Effective supplement, No aftertaste.",
+    "tags": [
+      {
+        "name": "Great omega",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective vitamin d3",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rare combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for children",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inflammation relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smaller size",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:55.500Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

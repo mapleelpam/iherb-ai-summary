@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116297,
+  "last_updated": "2026-03-20T09:55:34.121Z",
+  "first_scraped": "2026-03-20T09:55:34.121Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Large package size, Great support, Increased energy, Supports stress, No complaints, Thyroid health, Helped regulate.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large package size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No complaints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thyroid health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped regulate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Foil seal",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Side effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:34.121Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

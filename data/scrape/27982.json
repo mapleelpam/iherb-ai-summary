@@ -1,0 +1,68 @@
+{
+  "iherb_id": 27982,
+  "last_updated": "2026-03-20T09:48:18.073Z",
+  "first_scraped": "2026-03-20T09:48:18.073Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Take with food, Beyond words, Immunity booster, Potent ingredient, Very happy, Natural antibiotic, Clean ingredient, Sounds promising. Some note: Incredible product, Natural remedy.",
+    "tags": [
+      {
+        "name": "Take with food",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beyond words",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural antibiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sounds promising",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Incredible product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:18.073Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 47303,
+  "last_updated": "2026-03-20T09:46:49.396Z",
+  "first_scraped": "2026-03-20T09:46:49.396Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient size, Effective brand, Best iron supplement, Easy to use, Gentle option, Quick results, Nice price, Boosted energy.",
+    "tags": [
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best iron supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Terrible taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Burns throat",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:49.396Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

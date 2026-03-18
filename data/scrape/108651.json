@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108651,
+  "last_updated": "2026-03-20T10:29:07.522Z",
+  "first_scraped": "2026-03-20T10:29:07.522Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps sleep, Fast dissolve, Stay asleep, Easy to take, Works better, Deep sleep, Effective dosage, Powerful antioxidant. Some note: Dry tablet.",
+    "tags": [
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stay asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Undesirable side effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Dry tablet",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:29:07.522Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

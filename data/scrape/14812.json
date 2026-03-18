@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14812,
+  "last_updated": "2026-03-20T09:30:54.224Z",
+  "first_scraped": "2026-03-20T09:30:54.224Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Joint pain, Strong teeth, Love product, High dose, Strong bones, Good form, Boost absorption, Crucial for. Some note: Natural form.",
+    "tags": [
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong teeth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Crucial for",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Side effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Natural form",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:54.224Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

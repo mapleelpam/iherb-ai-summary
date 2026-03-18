@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23256,
+  "last_updated": "2026-03-20T10:29:56.679Z",
+  "first_scraped": "2026-03-20T10:29:56.679Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Energizing, General wellbeing, Smooth energy, Balanced boost, Energy boost, No nanoparticulates, Quality improvement.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energizing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "General wellbeing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No nanoparticulates",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not potent",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No benefit",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:29:56.679Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

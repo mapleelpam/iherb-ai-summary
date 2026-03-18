@@ -1,0 +1,68 @@
+{
+  "iherb_id": 68952,
+  "last_updated": "2026-03-20T10:08:32.614Z",
+  "first_scraped": "2026-03-20T10:08:32.614Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective dosage, Pregnancy preparation, Liver support, Excellent additive, Highly recommend, Good antioxidant, Nerve support, Anti-inflammatory properties. Some note: Talk with professional.",
+    "tags": [
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pregnancy preparation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nerve support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Talk with professional",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:32.614Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

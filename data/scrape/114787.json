@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114787,
+  "last_updated": "2026-03-20T10:00:49.684Z",
+  "first_scraped": "2026-03-20T10:00:49.684Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Yummy flavor, Delicious snack, Vitamin boost, Tropical taste, So much, Authentic flavor, Fresh mango, Boost collagen. Some note: Guilt free dessert.",
+    "tags": [
+      {
+        "name": "Yummy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tropical taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "So much",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Authentic flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh mango",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chemical aftertaste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Guilt free dessert",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:49.684Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

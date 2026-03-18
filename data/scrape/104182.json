@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104182,
+  "last_updated": "2026-03-20T09:38:22.166Z",
+  "first_scraped": "2026-03-20T09:38:22.166Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost immunity, Easy chewable, Hair growth, Helps fidgeting, Fast shipping, Tastes great, Good form, Energy levels. Some note: Great option, Stick together.",
+    "tags": [
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy chewable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps fidgeting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great option",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stick together",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:22.166Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

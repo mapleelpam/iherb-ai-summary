@@ -1,0 +1,68 @@
+{
+  "iherb_id": 99634,
+  "last_updated": "2026-03-20T10:13:15.402Z",
+  "first_scraped": "2026-03-20T10:13:15.402Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural ingredients, Reduced stress, Subtle improvement, Fast acting, Best choice, Immediate benefits, Improves mood, Noticeable difference. Some note: More transparency.",
+    "tags": [
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Subtle improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast acting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Zero effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "More transparency",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:15.402Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

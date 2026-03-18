@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1827,
+  "last_updated": "2026-03-20T09:36:34.502Z",
+  "first_scraped": "2026-03-20T09:36:34.502Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works wonders, Kidney health, Blood pressure, Preventative measure, Good results, Large package, Blood tests, Immune support. Some note: Large capsules, Effective immunity.",
+    "tags": [
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kidney health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventative measure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood tests",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large capsules",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective immunity",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:34.502Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

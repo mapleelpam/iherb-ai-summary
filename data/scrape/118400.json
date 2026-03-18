@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118400,
+  "last_updated": "2026-03-20T09:35:20.871Z",
+  "first_scraped": "2026-03-20T09:35:20.871Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved energy, Ideal potency, Trusted brand, Easy to swallow, Effective remedy, Improved bone health, Essential staple, Love the brand. Some note: No results, Efficient delivery.",
+    "tags": [
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ideal potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential staple",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Efficient delivery",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:20.871Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

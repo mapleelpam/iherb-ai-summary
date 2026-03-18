@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1103,
+  "last_updated": "2026-03-20T09:31:13.474Z",
+  "first_scraped": "2026-03-20T09:31:13.474Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Natural ingredients, Lower glucose, Helps inflammation, Support sugar, Reduce appetite, Early results, Control blood sugar. Some note: Nice scent.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower glucose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Early results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice scent",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Disappointed",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:13.474Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

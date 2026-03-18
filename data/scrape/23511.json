@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23511,
+  "last_updated": "2026-03-20T10:03:09.236Z",
+  "first_scraped": "2026-03-20T10:03:09.236Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective b-12, Yummy flavor, Tasty value, Good vitamin, Helps with hairfall, Pleasant taste, Nail strength, Fast service. Some note: Nice smell, Suitable for vegans.",
+    "tags": [
+      {
+        "name": "Effective b-12",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with hairfall",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nail strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice smell",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Suitable for vegans",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:09.236Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2088,
+  "last_updated": "2026-03-20T10:10:41.332Z",
+  "first_scraped": "2026-03-20T10:10:41.332Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Full clinical dose, Liver support, Main staple, Easy to swallow, Feeling good, Slim me down, Lower cholesterol, Good energy. Some note: Remove ingredients.",
+    "tags": [
+      {
+        "name": "Full clinical dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Main staple",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slim me down",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Remove ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Digestion problems",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:41.332Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

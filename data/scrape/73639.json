@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73639,
+  "last_updated": "2026-03-20T09:51:56.524Z",
+  "first_scraped": "2026-03-20T09:51:56.524Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Balancing hormones, High quality, Instant energy, Delicious taste, Convenient package, Energy boost, Strongly recommended, Mood booster. Some note: Carcenogenic warning.",
+    "tags": [
+      {
+        "name": "Balancing hormones",
+        "classification": 0,
+        "count": 33
+      },
+      {
+        "name": "High quality",
+        "classification": 0,
+        "count": 25
+      },
+      {
+        "name": "Instant energy",
+        "classification": 0,
+        "count": 18
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 11
+      },
+      {
+        "name": "Convenient package",
+        "classification": 0,
+        "count": 11
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 10
+      },
+      {
+        "name": "Strongly recommended",
+        "classification": 0,
+        "count": 3
+      },
+      {
+        "name": "Mood booster",
+        "classification": 0,
+        "count": 1
+      },
+      {
+        "name": "Taste repulsive",
+        "classification": 2,
+        "count": 7
+      },
+      {
+        "name": "Carcenogenic warning",
+        "classification": 1,
+        "count": 4
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:56.524Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

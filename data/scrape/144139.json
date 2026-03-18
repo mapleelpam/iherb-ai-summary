@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144139,
+  "last_updated": "2026-03-20T10:07:42.642Z",
+  "first_scraped": "2026-03-20T10:07:42.642Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Super fast delivery, More energy, Great TMG, Best value, Less pain, Methylate support, Recommended experts, Seems energetic. Some note: Life multiple.",
+    "tags": [
+      {
+        "name": "Super fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great TMG",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Methylate support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended experts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seems energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life multiple",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Large tablet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:42.642Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

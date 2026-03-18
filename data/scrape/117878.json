@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117878,
+  "last_updated": "2026-03-20T10:02:22.957Z",
+  "first_scraped": "2026-03-20T10:02:22.957Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Positive difference, Plant-based source, Easy to take, Good for cholesterol, Heart health, Rich source, Good results, Long expiry, Helping eyes, Good ingredients.",
+    "tags": [
+      {
+        "name": "Positive difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant-based source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long expiry",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helping eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:22.957Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

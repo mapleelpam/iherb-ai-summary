@@ -1,0 +1,68 @@
+{
+  "iherb_id": 19155,
+  "last_updated": "2026-03-20T10:21:11.568Z",
+  "first_scraped": "2026-03-20T10:21:11.568Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Muscle building, Protein synthesis, Lean muscle, Improved strength, Blood sugar, Protein needs, Rapid weight loss, Increases muscle. Some note: No miracles.",
+    "tags": [
+      {
+        "name": "Muscle building",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protein synthesis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lean muscle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protein needs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rapid weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increases muscle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No miracles",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Side effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:11.568Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

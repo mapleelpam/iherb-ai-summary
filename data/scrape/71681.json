@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71681,
+  "last_updated": "2026-03-20T10:08:52.327Z",
+  "first_scraped": "2026-03-20T10:08:52.327Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good protein content, Convenient travel, Healthy ingredients, Tastes good, Smooth texture, Simple ingredients, Soft and filling, Vegan bar. Some note: Loved it.",
+    "tags": [
+      {
+        "name": "Good protein content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient travel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Simple ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soft and filling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan bar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loved it",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Taste bad",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:52.327Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

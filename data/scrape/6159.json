@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6159,
+  "last_updated": "2026-03-20T09:22:27.706Z",
+  "first_scraped": "2026-03-20T09:22:27.706Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increased energy, Boosted endurance, Works great, Good price, Lower blood sugar, Highly recommend, Improve potential, Good drug.",
+    "tags": [
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve potential",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good drug",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large pills",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:27.706Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

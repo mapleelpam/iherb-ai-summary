@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104895,
+  "last_updated": "2026-03-20T10:06:10.324Z",
+  "first_scraped": "2026-03-20T10:06:10.324Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy swallow, Takes about two, All in one, Fast shipping, Easy to take, Natural ingredients, Bone health support, Good skin.",
+    "tags": [
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Takes about two",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "All in one",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Weird taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:10.324Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

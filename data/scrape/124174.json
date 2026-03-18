@@ -1,0 +1,68 @@
+{
+  "iherb_id": 124174,
+  "last_updated": "2026-03-20T10:07:21.183Z",
+  "first_scraped": "2026-03-20T10:07:21.183Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good prize, Long-lasting benefits, Savory taste, Shocking result, Natural support, Worth investment, Beneficial deal, Easy to take.",
+    "tags": [
+      {
+        "name": "Good prize",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-lasting benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Savory taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shocking result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth investment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Lab grown",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:21.183Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

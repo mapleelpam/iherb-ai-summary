@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15658,
+  "last_updated": "2026-03-20T09:17:33.630Z",
+  "first_scraped": "2026-03-20T09:17:33.630Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good support, High absorption, Heart health, Easy to swallow, Increased energy, Worth to buy, Lower cholesterol, Energy boost. Some note: Very satisfied, Not sure.",
+    "tags": [
+      {
+        "name": "Good support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth to buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:33.630Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

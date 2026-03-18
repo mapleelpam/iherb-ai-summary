@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7692,
+  "last_updated": "2026-03-20T09:36:03.815Z",
+  "first_scraped": "2026-03-20T09:36:03.815Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Value for money, Helps digestion, Easy to take, Great benefits, Stack it, Convenient option, Good solution, Natural smell. Some note: Good ingredient, No major changes.",
+    "tags": [
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stack it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No major changes",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:03.815Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

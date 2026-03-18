@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3734,
+  "last_updated": "2026-03-20T10:16:25.200Z",
+  "first_scraped": "2026-03-20T10:16:25.200Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fair price, Night sweats reduced, Relief in symptoms, Timely orders, Great relief, Natural aid, Natural ingredients, Improvement noticed. Some note: Hot flashes.",
+    "tags": [
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Night sweats reduced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief in symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely orders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hot flashes",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Difficult to deal",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:25.200Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

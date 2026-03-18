@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113472,
+  "last_updated": "2026-03-20T10:00:38.878Z",
+  "first_scraped": "2026-03-20T10:00:38.878Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Soothing effect, Helps sleep, Boosts mood, Good ingredients, Relaxing product, Tropical flavor, Nice taste, Less anxious. Some note: Good smell, Powdery coating.",
+    "tags": [
+      {
+        "name": "Soothing effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxing product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tropical flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less anxious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good smell",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Powdery coating",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:38.878Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

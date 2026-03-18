@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114467,
+  "last_updated": "2026-03-20T10:04:13.033Z",
+  "first_scraped": "2026-03-20T10:04:13.033Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps sleep, Muscle cramping, Easy to swallow, Bone health, Very pleased, Suitable for me, Muscles ache, Absorbed well. Some note: Big pills.",
+    "tags": [
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle cramping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very pleased",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suitable for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscles ache",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorbed well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Big pills",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:13.033Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 131,
+  "last_updated": "2026-03-20T09:36:36.448Z",
+  "first_scraped": "2026-03-20T09:36:36.448Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Digestion issues, Balancing gut, More energy, Bone health, Fast shipping, Good results, Blood type, Intestinal health. Some note: Joint pain, Skin hydration.",
+    "tags": [
+      {
+        "name": "Digestion issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balancing gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood type",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intestinal health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Skin hydration",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:36.448Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

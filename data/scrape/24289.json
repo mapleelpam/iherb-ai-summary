@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24289,
+  "last_updated": "2026-03-20T09:25:36.733Z",
+  "first_scraped": "2026-03-20T09:25:36.733Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less bloating, Effective enzyme, Digestive health, Huge difference, Itchy belly, Best tolerate, Works amazing, Helps digestion. Some note: Digestion improved, Dairy support.",
+    "tags": [
+      {
+        "name": "Less bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective enzyme",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Huge difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Itchy belly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best tolerate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion improved",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Dairy support",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:36.733Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

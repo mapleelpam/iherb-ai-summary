@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9941,
+  "last_updated": "2026-03-20T09:31:53.618Z",
+  "first_scraped": "2026-03-20T09:31:53.618Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Back pain, Morning routine, Joint pain, Inflammation reduction, Boost immune, Pain relief, Good for digestion, Digestive support. Some note: Works as promised, Fast shipping.",
+    "tags": [
+      {
+        "name": "Back pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning routine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inflammation reduction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works as promised",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:53.618Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

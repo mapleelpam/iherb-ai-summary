@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105431,
+  "last_updated": "2026-03-20T09:46:59.328Z",
+  "first_scraped": "2026-03-20T09:46:59.328Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Cheap and effective, Effective softgel, Easy to take, Works great, Digestive aid, Good cleaner, Helpful supplement, Good binder. Some note: Great benefit.",
+    "tags": [
+      {
+        "name": "Cheap and effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective softgel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good cleaner",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good binder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefit",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not suitable",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:59.328Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

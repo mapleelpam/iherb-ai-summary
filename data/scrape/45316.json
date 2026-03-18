@@ -1,0 +1,68 @@
+{
+  "iherb_id": 45316,
+  "last_updated": "2026-03-20T09:27:37.148Z",
+  "first_scraped": "2026-03-20T09:27:37.148Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High protein, Satisfying option, Keeps full, Convenient and healthy, Tasty drink, Tastes great, Good alternative, Nutritious option. Some note: Well balanced, Grainy texture.",
+    "tags": [
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfying option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps full",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient and healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutritious option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well balanced",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Grainy texture",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:37.148Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

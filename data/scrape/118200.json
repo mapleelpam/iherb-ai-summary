@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118200,
+  "last_updated": "2026-03-20T10:05:16.464Z",
+  "first_scraped": "2026-03-20T10:05:16.464Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High dose, Calms nerves, Top value, Preventative help, Energy boost, Less tired, Blood sugar, Supports glucose, Less effects.",
+    "tags": [
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calms nerves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventative help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less tired",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports glucose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No relief",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:16.464Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

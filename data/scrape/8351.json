@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8351,
+  "last_updated": "2026-03-20T09:47:04.355Z",
+  "first_scraped": "2026-03-20T09:47:04.355Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immediate relief, Helps relax, Helps focus, Speedy delivery, Relaxed and focused, Optimistic attitude, Calming effects, Chewable form. Some note: Easy to chew, Effective supplement.",
+    "tags": [
+      {
+        "name": "Immediate relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps relax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxed and focused",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Optimistic attitude",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chewable form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to chew",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:04.355Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

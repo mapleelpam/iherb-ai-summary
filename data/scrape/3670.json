@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3670,
+  "last_updated": "2026-03-20T10:04:29.733Z",
+  "first_scraped": "2026-03-20T10:04:29.733Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good results, Relief constipation, Occasional use, Love this product, Internal clean up, Works fast, Supports digestion, Effective cleanse. Some note: Smart thing.",
+    "tags": [
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Occasional use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Internal clean up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smart thing",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too potent",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:29.733Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

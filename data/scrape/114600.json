@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114600,
+  "last_updated": "2026-03-20T10:01:06.418Z",
+  "first_scraped": "2026-03-20T10:01:06.418Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love these, Results seen, Easy to take, Stronger nails, Tasty option, Taste great, Skin benefits, Hair growth. Some note: Vegan ingredients, Shiny hair.",
+    "tags": [
+      {
+        "name": "Love these",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Results seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Shiny hair",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:06.418Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

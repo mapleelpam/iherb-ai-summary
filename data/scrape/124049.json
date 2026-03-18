@@ -1,0 +1,68 @@
+{
+  "iherb_id": 124049,
+  "last_updated": "2026-03-20T10:06:59.115Z",
+  "first_scraped": "2026-03-20T10:06:59.115Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Improves gut, Sweet smell, Great for IBS, Good benefits, Unique impact, Balances hormones, High hopes.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for IBS",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balances hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High hopes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No impact",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fever feeling",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:59.115Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

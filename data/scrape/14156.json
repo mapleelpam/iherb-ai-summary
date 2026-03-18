@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14156,
+  "last_updated": "2026-03-20T10:13:36.185Z",
+  "first_scraped": "2026-03-20T10:13:36.185Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Gentler detox, Clean blood, Sinus infection, Tastes nice, Mild taste, Pure herbs, Diligent and patient, Improved health. Some note: Large bottle.",
+    "tags": [
+      {
+        "name": "Gentler detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean blood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sinus infection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure herbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Diligent and patient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large bottle",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive capsules",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:36.185Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

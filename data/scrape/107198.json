@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107198,
+  "last_updated": "2026-03-20T09:51:00.992Z",
+  "first_scraped": "2026-03-20T09:51:00.992Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Fast shipping, Balanced B, Easy swallow, More energy, Good concoction, Healthy nerves, Mix into food. Some note: Like getting, Same job.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced B",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good concoction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy nerves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mix into food",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Like getting",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Same job",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:00.992Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

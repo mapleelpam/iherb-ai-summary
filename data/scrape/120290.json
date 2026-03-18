@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120290,
+  "last_updated": "2026-03-20T10:19:08.120Z",
+  "first_scraped": "2026-03-20T10:19:08.120Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Perfect for me, Small size, Tiny tablets, High absorption, Potency good, Vegan options, Good ingredients. Some note: Need calcium.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiny tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potency good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan options",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Need calcium",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Iron recommendation",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:08.120Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

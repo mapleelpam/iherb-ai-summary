@@ -1,0 +1,68 @@
+{
+  "iherb_id": 16440,
+  "last_updated": "2026-03-20T09:58:30.143Z",
+  "first_scraped": "2026-03-20T09:58:30.143Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Better than, So far, Product works, Relieve kidney stones, Improved symptoms, Stone free, Taste great, Good diuretic.",
+    "tags": [
+      {
+        "name": "Better than",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "So far",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Product works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieve kidney stones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stone free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good diuretic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not helped",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Pain returning",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:30.143Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

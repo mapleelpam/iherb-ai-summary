@@ -1,0 +1,68 @@
+{
+  "iherb_id": 50388,
+  "last_updated": "2026-03-20T10:03:43.679Z",
+  "first_scraped": "2026-03-20T10:03:43.679Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High protein, Delicious flavor, Gluten-free option, Smooth texture, Tasty, Good taste, Muscle development, Easy to digest. Some note: Taste OK.",
+    "tags": [
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gluten-free option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle development",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to digest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Won't buy",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Taste OK",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:43.679Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

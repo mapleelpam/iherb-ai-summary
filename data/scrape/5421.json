@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5421,
+  "last_updated": "2026-03-20T09:22:53.254Z",
+  "first_scraped": "2026-03-20T09:22:53.254Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Family size package, More energy, Improving health, Highly recommend, Muscle recovery, Complete source, Easy to swallow, Life different. Some note: No ill effects.",
+    "tags": [
+      {
+        "name": "Family size package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life different",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Contains milk",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No ill effects",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:53.254Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70548,
+  "last_updated": "2026-03-20T10:21:59.493Z",
+  "first_scraped": "2026-03-20T10:21:59.493Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helped a lot, Adjust dosing, Good results, Chewable tablets, Sleep well, Natural ingredients, Effective dose, Works quickly. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Helped a lot",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adjust dosing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chewable tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High sugar",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:59.493Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

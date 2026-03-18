@@ -1,0 +1,68 @@
+{
+  "iherb_id": 19029,
+  "last_updated": "2026-03-20T10:01:21.624Z",
+  "first_scraped": "2026-03-20T10:01:21.624Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost of energy, Taste OK, Memory improvement, Convenient bottles, Slight difference, Good ingredients, More energy, Nice price. Some note: Fit purpose.",
+    "tags": [
+      {
+        "name": "Boost of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste OK",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient bottles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slight difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fit purpose",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:21.624Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

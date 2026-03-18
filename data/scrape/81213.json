@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81213,
+  "last_updated": "2026-03-20T10:13:08.495Z",
+  "first_scraped": "2026-03-20T10:13:08.495Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Affordable vitamins, Easy and convenient, Bone health, Improvement noticed, Good dose, Quick dissolve, Good composition, Natural absorption. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Affordable vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy and convenient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Low levels",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:08.495Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

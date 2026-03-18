@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80884,
+  "last_updated": "2026-03-20T10:09:12.598Z",
+  "first_scraped": "2026-03-20T10:09:12.598Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Full of energy, Notice a difference, Clean energy boost, Clearer skin, Super tablets, Anti-inflammatory effects, Perfect for, Overall health.",
+    "tags": [
+      {
+        "name": "Full of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Notice a difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect for",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pricey side",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No reply",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:12.598Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

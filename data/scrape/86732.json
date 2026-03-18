@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86732,
+  "last_updated": "2026-03-20T09:35:59.986Z",
+  "first_scraped": "2026-03-20T09:35:59.986Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stronger nails, Great supplement, Improvements noticed, Strawberry flavor, Improves wellness, Radiant skin, Less hairfall, Tastes good.",
+    "tags": [
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvements noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strawberry flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves wellness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Radiant skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less hairfall",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:59.986Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

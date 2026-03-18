@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14492,
+  "last_updated": "2026-03-20T09:51:29.543Z",
+  "first_scraped": "2026-03-20T09:51:29.543Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great support, Effective formula, Balance and cleanse, Good effects, No nanoparticulates, Natural ingredients, Helps sugar, Break down proteins. Some note: Blood sugar.",
+    "tags": [
+      {
+        "name": "Great support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balance and cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No nanoparticulates",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Break down proteins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "More information",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:29.543Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

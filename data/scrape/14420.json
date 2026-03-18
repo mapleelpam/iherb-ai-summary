@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14420,
+  "last_updated": "2026-03-20T10:14:50.132Z",
+  "first_scraped": "2026-03-20T10:14:50.132Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stronger nails, Helpful product, Improvement noticed, Skin glow, Noticeable effect, Satisfied customers, Effective brand, One ingredient. Some note: Early rating.",
+    "tags": [
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin glow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied customers",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "One ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Early rating",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Made me barf",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:50.132Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3421,
+  "last_updated": "2026-03-20T09:47:17.147Z",
+  "first_scraped": "2026-03-20T09:47:17.147Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice taste, Strong immune, Ideal combination, Visceral fat, Energy sustained, Arthritis disappear, Good sleep, Highly recommend.",
+    "tags": [
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ideal combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Visceral fat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy sustained",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arthritis disappear",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Steroid injections",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:17.147Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

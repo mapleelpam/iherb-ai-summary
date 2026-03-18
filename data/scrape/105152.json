@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105152,
+  "last_updated": "2026-03-20T10:39:18.442Z",
+  "first_scraped": "2026-03-20T10:39:18.442Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great flavor, Blends well, Rare find, Zero bloating, Good option, Low calories, Gluten free, Good taste.",
+    "tags": [
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blends well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rare find",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Zero bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low calories",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gluten free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Poor dissolution",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:39:18.442Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 33056,
+  "last_updated": "2026-03-20T10:07:16.272Z",
+  "first_scraped": "2026-03-20T10:07:16.272Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less pain, Lower levels, High milligrams, Good dosage, Always repurchased, Good absorption, Absorbable magnesium, Fully complies. Some note: Satisfied purchase.",
+    "tags": [
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High milligrams",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Always repurchased",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorbable magnesium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fully complies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Satisfied purchase",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:16.272Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

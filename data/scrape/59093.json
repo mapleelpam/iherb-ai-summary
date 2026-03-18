@@ -1,0 +1,68 @@
+{
+  "iherb_id": 59093,
+  "last_updated": "2026-03-20T09:49:07.324Z",
+  "first_scraped": "2026-03-20T09:49:07.324Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Black pepper extract, Pain relief, Works great, Joint health, Great antioxidant, Prompt delivery, Reduces inflammation, Lowered glucose. Some note: Natural remedy.",
+    "tags": [
+      {
+        "name": "Black pepper extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowered glucose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difficult to swallow",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:07.324Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

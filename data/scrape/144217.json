@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144217,
+  "last_updated": "2026-03-20T10:02:18.145Z",
+  "first_scraped": "2026-03-20T10:02:18.145Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pain relief, Versatile composition, Knee pain, Improved mobility, Skin benefits, Wrinkle changes, Helping joints, More movement. Some note: Large pills, No difference.",
+    "tags": [
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Versatile composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Knee pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mobility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wrinkle changes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helping joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More movement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large pills",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:18.145Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

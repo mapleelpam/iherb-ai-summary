@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111046,
+  "last_updated": "2026-03-20T10:02:22.082Z",
+  "first_scraped": "2026-03-20T10:02:22.082Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Liver detox, Blood sugar regulation, No odour, Recovery support, Good benefit, Calmer breathing, Clean purification, Inflammation reduced, Inexpensive brand. Some note: Just in-case.",
+    "tags": [
+      {
+        "name": "Liver detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar regulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No odour",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recovery support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calmer breathing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean purification",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inflammation reduced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inexpensive brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Just in-case",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:22.082Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

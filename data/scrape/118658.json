@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118658,
+  "last_updated": "2026-03-20T10:01:55.659Z",
+  "first_scraped": "2026-03-20T10:01:55.659Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy absorption, Good results, Helpful relief, Trustworthy manufacturer, Digestive support, Balanced enzyme, Works great, Fast result. Some note: Reliable items.",
+    "tags": [
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trustworthy manufacturer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced enzyme",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Reliable items",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:55.659Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

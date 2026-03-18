@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116294,
+  "last_updated": "2026-03-20T10:03:48.503Z",
+  "first_scraped": "2026-03-20T10:03:48.503Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pre workout, Easily swallowed, Easy supplement, Digests well, Brain health, Budget price, Good for health, Convenient size.",
+    "tags": [
+      {
+        "name": "Pre workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easily swallowed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digests well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Budget price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive shipping",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Capsules are big",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:48.503Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39328,
+  "last_updated": "2026-03-20T09:22:38.607Z",
+  "first_scraped": "2026-03-20T09:22:38.607Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Boosts energy, More energetic, Good ingredients, Easy to swallow, Body health function, Energy and strength, Foundation supplement. Some note: Convenient way.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body health function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy and strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Foundation supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient way",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nauseous with food",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:38.607Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

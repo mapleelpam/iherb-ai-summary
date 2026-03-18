@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42189,
+  "last_updated": "2026-03-20T10:28:48.119Z",
+  "first_scraped": "2026-03-20T10:28:48.119Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful results, Boost immune, Stabilized blood sugar, Repeat buyer, Reduce sugar, Easy control, Convenient packaging, Essential benefit, Weight control.",
+    "tags": [
+      {
+        "name": "Helpful results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stabilized blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat buyer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Limited options",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:48.119Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

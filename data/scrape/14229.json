@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14229,
+  "last_updated": "2026-03-20T09:27:25.049Z",
+  "first_scraped": "2026-03-20T09:27:25.049Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good to take, Reduce grey hair, Highly recommend, Good balance, Effective copper, Effective supplement, Powerful mineral, Easy to swallow. Some note: Dietary supplementation.",
+    "tags": [
+      {
+        "name": "Good to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce grey hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective copper",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful mineral",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dietary supplementation",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:25.049Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

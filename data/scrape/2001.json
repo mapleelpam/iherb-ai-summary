@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2001,
+  "last_updated": "2026-03-20T09:52:22.171Z",
+  "first_scraped": "2026-03-20T09:52:22.171Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this brand, Easy to swallow, Detox support, Trust brand, Protective skin, Less tired, Improves health, Beneficial product. Some note: Good ingredient.",
+    "tags": [
+      {
+        "name": "Love this brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protective skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less tired",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Chemically sensitive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:22.171Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

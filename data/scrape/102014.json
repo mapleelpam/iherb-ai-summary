@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102014,
+  "last_updated": "2026-03-20T10:13:08.538Z",
+  "first_scraped": "2026-03-20T10:13:08.538Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works great, Reduce anxiety, Relaxing effect, Ayurvedic ingredients, Energetic and healthy, Organic ingredients, Good for stress, Powerful benefits. Some note: Strong smell.",
+    "tags": [
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxing effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ayurvedic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energetic and healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong smell",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:08.538Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

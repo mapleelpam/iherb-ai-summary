@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15848,
+  "last_updated": "2026-03-20T09:43:47.434Z",
+  "first_scraped": "2026-03-20T09:43:47.434Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Speedy delivery, Great energy booster, Love this, Prompt arrival, Best vegan b12, Highly recommend, Good energy, Real food. Some note: Love the raw, Extra burst.",
+    "tags": [
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt arrival",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best vegan b12",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real food",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the raw",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Extra burst",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:47.434Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

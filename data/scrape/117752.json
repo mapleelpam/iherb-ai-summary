@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117752,
+  "last_updated": "2026-03-20T09:48:12.735Z",
+  "first_scraped": "2026-03-20T09:48:12.735Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stomach health, Regular size, Fast shipping, Digestion support, Leaky gut, Sugar cravings, Boost immune, Maintain muscle. Some note: No difference, Backed by science.",
+    "tags": [
+      {
+        "name": "Stomach health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Leaky gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sugar cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain muscle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Backed by science",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:12.735Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

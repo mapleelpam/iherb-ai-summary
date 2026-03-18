@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97714,
+  "last_updated": "2026-03-20T10:29:29.454Z",
+  "first_scraped": "2026-03-20T10:29:29.454Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Refill packs, Clean ingredient, Good blend, Easy shopping, Helps joints, Great scent, Tastes great, Younger skin.",
+    "tags": [
+      {
+        "name": "Refill packs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy shopping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Younger skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Half full",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:29:29.454Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

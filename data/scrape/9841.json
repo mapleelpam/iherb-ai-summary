@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9841,
+  "last_updated": "2026-03-20T10:21:05.428Z",
+  "first_scraped": "2026-03-20T10:21:05.428Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lost weight, Positive difference, More energy, Skin balanced, Improvements happening, Weight balance, Better sleep, Highly recommend. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Lost weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin balanced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvements happening",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kelp first",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:05.428Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

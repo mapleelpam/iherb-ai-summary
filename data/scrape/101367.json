@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101367,
+  "last_updated": "2026-03-20T10:27:03.416Z",
+  "first_scraped": "2026-03-20T10:27:03.416Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious protein, Tasty powder, Recyclable package, Complete protein, Shiny hair, Lovely taste, Fruity flavor, Wonderful ingredients. Some note: Decent flavor.",
+    "tags": [
+      {
+        "name": "Delicious protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recyclable package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shiny hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lovely taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fruity flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wonderful ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent flavor",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Avoid stevia",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:03.416Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

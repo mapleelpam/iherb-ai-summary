@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21285,
+  "last_updated": "2026-03-20T10:31:30.681Z",
+  "first_scraped": "2026-03-20T10:31:30.681Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love the earthiness, Regular health, Good investment, Good for cooking, Powerful healing, Works wonders, Pure and unadulterated, Tasty and healthy.",
+    "tags": [
+      {
+        "name": "Love the earthiness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good investment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for cooking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure and unadulterated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty and healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nasty tasting",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Smell funky",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:30.681Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

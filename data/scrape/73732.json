@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73732,
+  "last_updated": "2026-03-20T09:44:31.602Z",
+  "first_scraped": "2026-03-20T09:44:31.602Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: I recommend it, Easy to swallow, Rich nutrient profile, Hair fall, Faster growth, Prostate health, Good for hormones, Love this. Some note: Trust site.",
+    "tags": [
+      {
+        "name": "I recommend it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich nutrient profile",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair fall",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Faster growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prostate health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not satisfied",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Trust site",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:31.602Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

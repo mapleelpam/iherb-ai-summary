@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10928,
+  "last_updated": "2026-03-20T09:27:27.229Z",
+  "first_scraped": "2026-03-20T09:27:27.229Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works fine, Easy on stomach, Fast shipping, Muscle relaxation, Deep sleep, Tasteless and effective, Less depressed, Absorb quickly. Some note: Helps sleep, Nice package.",
+    "tags": [
+      {
+        "name": "Works fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle relaxation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasteless and effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less depressed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorb quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:27.229Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

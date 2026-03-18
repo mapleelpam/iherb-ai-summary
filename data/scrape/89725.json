@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89725,
+  "last_updated": "2026-03-20T10:00:58.492Z",
+  "first_scraped": "2026-03-20T10:00:58.492Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosts energy, Economical option, Cardio improvement, Effective energy, Mixed into smoothie, Reasonable price, Energy support, Immune enhancer. Some note: Great benefits.",
+    "tags": [
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economical option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardio improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixed into smoothie",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune enhancer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:58.492Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

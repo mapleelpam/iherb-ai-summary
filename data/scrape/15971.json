@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15971,
+  "last_updated": "2026-03-20T10:38:13.009Z",
+  "first_scraped": "2026-03-20T10:38:13.009Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes great, Tasty snack, Gives energy, Easy on stomach, Good energy, Easy to chew, Ideal taste, Quickly absorbed.",
+    "tags": [
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gives energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to chew",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ideal taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quickly absorbed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difficult extraction",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Texture issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:38:13.009Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

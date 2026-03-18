@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114028,
+  "last_updated": "2026-03-20T09:19:31.521Z",
+  "first_scraped": "2026-03-20T09:19:31.521Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helped me, Great program, Easy to swallow, More energy, Fast-acting formula, Good time, Suppress appetite, Improved metabolism.",
+    "tags": [
+      {
+        "name": "Helped me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great program",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast-acting formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suppress appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Nausea",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:31.521Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

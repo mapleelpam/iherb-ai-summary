@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117544,
+  "last_updated": "2026-03-20T09:44:23.491Z",
+  "first_scraped": "2026-03-20T09:44:23.491Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Calming effect, Boost energy, Effective supplement, Reduce homocysteine, Works great, Easy to swallow, Good results, Convenient size. Some note: Not sure, Stick to dosage.",
+    "tags": [
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce homocysteine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stick to dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:23.491Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

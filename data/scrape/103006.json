@@ -1,0 +1,68 @@
+{
+  "iherb_id": 103006,
+  "last_updated": "2026-03-20T10:15:55.197Z",
+  "first_scraped": "2026-03-20T10:15:55.197Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helped symptoms, Vegan capsule, Best option, Convenient packaging, Soft skin, Regulating cycle, Natural vitamin, Improved health. Some note: Vegan dosage.",
+    "tags": [
+      {
+        "name": "Helped symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soft skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulating cycle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Missing capsules",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Vegan dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:55.197Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

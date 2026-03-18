@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3737,
+  "last_updated": "2026-03-20T10:15:09.988Z",
+  "first_scraped": "2026-03-20T10:15:09.988Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Focus and sharp, Natural ingredients, Good improvement, Clear mind, Mental calmness, Improved memory, Benefit taste, Perfect size dosage. Some note: Unknown time, Quick relief.",
+    "tags": [
+      {
+        "name": "Focus and sharp",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental calmness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect size dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unknown time",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Quick relief",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:09.988Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37328,
+  "last_updated": "2026-03-20T09:50:55.199Z",
+  "first_scraped": "2026-03-20T09:50:55.199Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No fillers, Liver detox support, Absorb silymarin, Natural way, Convenient size, Good choice, Easy to take, Great amount, Absorption benefits.",
+    "tags": [
+      {
+        "name": "No fillers",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver detox support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorb silymarin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorption benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High statin prescription",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:55.199Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 17675,
+  "last_updated": "2026-03-20T10:31:37.751Z",
+  "first_scraped": "2026-03-20T10:31:37.751Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Healed nicely, Good for skin, Speedy delivery, Effective supplement, Noticeable positive results, Immune booster, Life saver, Clears skin.",
+    "tags": [
+      {
+        "name": "Healed nicely",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable positive results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clears skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No noticeable change",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:37.751Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

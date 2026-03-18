@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77883,
+  "last_updated": "2026-03-20T09:43:42.312Z",
+  "first_scraped": "2026-03-20T09:43:42.312Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice supplement, High dosage, Happy with, Decent amount, Bone health, 5000 IU, Boost immunity, Natural ingredients, Good blend. Some note: Quality capsules.",
+    "tags": [
+      {
+        "name": "Nice supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "5000 IU",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality capsules",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:42.312Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

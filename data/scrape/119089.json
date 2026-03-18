@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119089,
+  "last_updated": "2026-03-20T09:35:59.987Z",
+  "first_scraped": "2026-03-20T09:35:59.987Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost energy, Comparable price, Rare ingredient, Improve fertility, Derived from natural sources, Small size, Fast ship, Cellular health, High absorbance. Some note: Affordable option.",
+    "tags": [
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comparable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rare ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve fertility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Derived from natural sources",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast ship",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cellular health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High absorbance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:59.987Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

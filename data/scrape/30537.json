@@ -1,0 +1,68 @@
+{
+  "iherb_id": 30537,
+  "last_updated": "2026-03-20T09:41:13.028Z",
+  "first_scraped": "2026-03-20T09:41:13.028Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High potent, Great energy, Big size, Loaded with essential, Good multivit, Rich nutrition, Sense of well-being, Best multi.",
+    "tags": [
+      {
+        "name": "High potent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loaded with essential",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good multivit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich nutrition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sense of well-being",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best multi",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Half price",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stopped taking",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:13.028Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

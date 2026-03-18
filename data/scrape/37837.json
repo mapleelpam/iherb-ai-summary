@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37837,
+  "last_updated": "2026-03-20T09:25:59.312Z",
+  "first_scraped": "2026-03-20T09:25:59.312Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Normal milky taste, Fast delivery, No aftertaste, Large bottle, Nice price, Honest review, Mixes well. Some note: Muscle support, Lean gains.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal milky taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Honest review",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle support",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Lean gains",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:59.312Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

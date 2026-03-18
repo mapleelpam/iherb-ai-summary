@@ -1,0 +1,68 @@
+{
+  "iherb_id": 143312,
+  "last_updated": "2026-03-20T09:45:15.376Z",
+  "first_scraped": "2026-03-20T09:45:15.376Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great boost, Delicious taste, Love this, Boost energy, Good size, Super energy, Powerful surge, Good pump. Some note: Efficient preworkout.",
+    "tags": [
+      {
+        "name": "Great boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful surge",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient preworkout",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Horrible taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:15.376Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

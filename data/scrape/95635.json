@@ -1,0 +1,68 @@
+{
+  "iherb_id": 95635,
+  "last_updated": "2026-03-20T10:22:21.003Z",
+  "first_scraped": "2026-03-20T10:22:21.003Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes good, Good taste, Great purchase, Not too sweet, Pure ingredients, Blends well, Nice chocolate, Simplicity appealing.",
+    "tags": [
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not too sweet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blends well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Simplicity appealing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not good",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not chocolate",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:21.003Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

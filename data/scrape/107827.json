@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107827,
+  "last_updated": "2026-03-20T09:57:42.283Z",
+  "first_scraped": "2026-03-20T09:57:42.283Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy consumption, Good taste, Boost energy, Noticeable improvement, Tastes good, Mixes easily, High nutritionally, Excellent effects, Delicious flavor, Natural pump.",
+    "tags": [
+      {
+        "name": "Easy consumption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High nutritionally",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural pump",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:42.283Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

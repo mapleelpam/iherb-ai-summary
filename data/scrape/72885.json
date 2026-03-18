@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72885,
+  "last_updated": "2026-03-20T09:35:23.777Z",
+  "first_scraped": "2026-03-20T09:35:23.777Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Game-changer for me, Easy to take, Good energy, Highly bioavailable, Cost-effective option, Safe supplements, Stronger teeth, Good ingrediant. Some note: Happy with my buy.",
+    "tags": [
+      {
+        "name": "Game-changer for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly bioavailable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cost-effective option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe supplements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger teeth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingrediant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with my buy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:23.777Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

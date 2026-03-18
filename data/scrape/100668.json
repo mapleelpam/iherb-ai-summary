@@ -1,0 +1,68 @@
+{
+  "iherb_id": 100668,
+  "last_updated": "2026-03-20T10:06:46.263Z",
+  "first_scraped": "2026-03-20T10:06:46.263Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice price, Love flavor, Highly recommend, Good addition, Works great, Great fiber, Very helpful, Tasty flavor. Some note: Easy drink, Nice probiotic.",
+    "tags": [
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very helpful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy drink",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nice probiotic",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:46.263Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

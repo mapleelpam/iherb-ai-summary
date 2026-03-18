@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22676,
+  "last_updated": "2026-03-20T10:10:48.247Z",
+  "first_scraped": "2026-03-20T10:10:48.247Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for health, Healthy snacks, Taste marvelous, Joint support, Knee relief, Absorption aid, Eye improvement, Antioxidant, reduce fat.",
+    "tags": [
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy snacks",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste marvelous",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Knee relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorption aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant, reduce fat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Red eyes",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:48.247Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81254,
+  "last_updated": "2026-03-20T10:11:53.478Z",
+  "first_scraped": "2026-03-20T10:11:53.478Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast meals, New products, Love orgain, Quality powder, Taste good, Carefully packed, Veggie bonus, Great source. Some note: Less sweet.",
+    "tags": [
+      {
+        "name": "Fast meals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "New products",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love orgain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Carefully packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Veggie bonus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less sweet",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:53.478Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

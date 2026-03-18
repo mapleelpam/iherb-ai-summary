@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105653,
+  "last_updated": "2026-03-20T09:47:33.110Z",
+  "first_scraped": "2026-03-20T09:47:33.110Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Protects liver, Higher dose, Heart health, Improves energy, Fast absorption, Fast shipping, Optimize gut. Some note: Good dosage.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protects liver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Optimize gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:33.110Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

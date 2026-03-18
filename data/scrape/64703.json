@@ -1,0 +1,68 @@
+{
+  "iherb_id": 64703,
+  "last_updated": "2026-03-20T10:25:56.855Z",
+  "first_scraped": "2026-03-20T10:25:56.855Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Vegan option, Easy to take, Vegan supplement, Natural origin, Nice package, No heavy metals, Value for money, Yumm and healthy.",
+    "tags": [
+      {
+        "name": "Vegan option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural origin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No heavy metals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yumm and healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Oily burps",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hip pains",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:56.855Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

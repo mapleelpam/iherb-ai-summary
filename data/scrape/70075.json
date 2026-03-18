@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70075,
+  "last_updated": "2026-03-20T09:52:02.433Z",
+  "first_scraped": "2026-03-20T09:52:02.433Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Easy to swallow, Works great, More energy, Great alternative, Feeling myself, High border, Energy boost. Some note: Lower dose.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling myself",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High border",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower dose",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Improvements yet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:02.433Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

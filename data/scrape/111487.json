@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111487,
+  "last_updated": "2026-03-20T09:40:43.524Z",
+  "first_scraped": "2026-03-20T09:40:43.524Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps digestive, Supports intestines, Tasty option, Less bloating, Quality supplement, Good price, Bowel health, Order again.",
+    "tags": [
+      {
+        "name": "Helps digestive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports intestines",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bowel health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Order again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not great",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Horrible taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:43.524Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

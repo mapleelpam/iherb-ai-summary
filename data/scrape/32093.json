@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32093,
+  "last_updated": "2026-03-20T09:22:17.577Z",
+  "first_scraped": "2026-03-20T09:22:17.577Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Odorless/taste-free, Good composition, Very nice, Good for scars, Hydrating, Good for dark circles, Skin benefits, Excellent additive. Some note: Easy to use.",
+    "tags": [
+      {
+        "name": "Odorless/taste-free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for scars",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydrating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for dark circles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Thick texture",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:17.577Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7083,
+  "last_updated": "2026-03-20T10:07:18.213Z",
+  "first_scraped": "2026-03-20T10:07:18.213Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Healthy levels, Good source, Better immunity, Easy to mix, Immune system, School year, Low cost, Good for colds. Some note: Expensive price.",
+    "tags": [
+      {
+        "name": "Healthy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "School year",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low cost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for colds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No logo",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive price",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:18.213Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

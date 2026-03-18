@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72684,
+  "last_updated": "2026-03-20T10:05:45.919Z",
+  "first_scraped": "2026-03-20T10:05:45.919Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Best probiotic, Helped digestion, Higher strength, Effective digestion, Fully corresponds, Acne treatment, Easy to swallow, Fast shipping.",
+    "tags": [
+      {
+        "name": "Best probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fully corresponds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acne treatment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not enough",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:45.919Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

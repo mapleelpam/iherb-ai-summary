@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14316,
+  "last_updated": "2026-03-20T10:14:56.067Z",
+  "first_scraped": "2026-03-20T10:14:56.067Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very satisfied, More energy, Potent formulation, Economical option, Enhance focus, Relax and calm, Helpful sleep, Convenient in use, Easily absorbed. Some note: Morning cortisol.",
+    "tags": [
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent formulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economical option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhance focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relax and calm",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient in use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easily absorbed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning cortisol",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:56.067Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

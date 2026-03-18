@@ -1,0 +1,68 @@
+{
+  "iherb_id": 45011,
+  "last_updated": "2026-03-20T10:13:37.212Z",
+  "first_scraped": "2026-03-20T10:13:37.212Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective ingredients, Extra left over, Fast relief, Affordable relief, Vegan capsules, Small livelihood, Sinus health, Nose health. Some note: Natural relief, Harder time.",
+    "tags": [
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra left over",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small livelihood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sinus health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nose health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural relief",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Harder time",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:37.212Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

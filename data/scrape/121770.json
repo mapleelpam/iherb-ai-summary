@@ -1,0 +1,68 @@
+{
+  "iherb_id": 121770,
+  "last_updated": "2026-03-20T10:21:53.038Z",
+  "first_scraped": "2026-03-20T10:21:53.038Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty chunks, Healthy drink, Great energy, Earthier taste, Life-changing, Best tasting, Best spirulina, This is a good. Some note: Taste acceptable.",
+    "tags": [
+      {
+        "name": "Tasty chunks",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Earthier taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life-changing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best tasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best spirulina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "This is a good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worst tasting",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Taste acceptable",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:53.038Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 65940,
+  "last_updated": "2026-03-20T10:27:24.512Z",
+  "first_scraped": "2026-03-20T10:27:24.512Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty and nice, Support testosterone, Increased confidence, No fatigue, Balanced diet, Well packed, Energetic boost, Increased stamina. Some note: Different formulas, Big tablets.",
+    "tags": [
+      {
+        "name": "Tasty and nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support testosterone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased confidence",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fatigue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energetic boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Different formulas",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Big tablets",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:24.512Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

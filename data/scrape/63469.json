@@ -1,0 +1,68 @@
+{
+  "iherb_id": 63469,
+  "last_updated": "2026-03-20T09:34:20.242Z",
+  "first_scraped": "2026-03-20T09:34:20.242Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great pump, Works fine, Good results, Improve blood flow, Excellent delivery, More energy, Heart health, Beneficial addition.",
+    "tags": [
+      {
+        "name": "Great pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve blood flow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hard taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:20.242Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

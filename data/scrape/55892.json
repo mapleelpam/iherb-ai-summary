@@ -1,0 +1,68 @@
+{
+  "iherb_id": 55892,
+  "last_updated": "2026-03-20T09:41:17.780Z",
+  "first_scraped": "2026-03-20T09:41:17.780Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosting energy, Good ingredients, Feeling happy, Increased alertness, Calming stress, Improved stamina, Fast shipping, Enhanced focus. Some note: No noticeable results, This product works.",
+    "tags": [
+      {
+        "name": "Boosting energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased alertness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "This product works",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:17.780Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

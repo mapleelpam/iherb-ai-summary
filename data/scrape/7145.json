@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7145,
+  "last_updated": "2026-03-20T09:43:36.569Z",
+  "first_scraped": "2026-03-20T09:43:36.569Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Trusted brand, Gentle and natural, Effective cleanse, Best price, Life changing, Excellent supplement, Regular bowel.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle and natural",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular bowel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antibiotics overuse",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Super queasy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:36.569Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

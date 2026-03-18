@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22926,
+  "last_updated": "2026-03-20T09:30:23.364Z",
+  "first_scraped": "2026-03-20T09:30:23.364Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Essential supplement, Small size, More energy, Well packed, Tiny pills, Trust brand, Decent flavors, Less depressed. Some note: Pure oil, Inexpensive option.",
+    "tags": [
+      {
+        "name": "Essential supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiny pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent flavors",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less depressed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure oil",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Inexpensive option",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:23.364Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

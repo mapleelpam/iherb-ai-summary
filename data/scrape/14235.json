@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14235,
+  "last_updated": "2026-03-20T09:57:59.115Z",
+  "first_scraped": "2026-03-20T09:57:59.115Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Herbal product, Boost dopamine, Parkinson relief, Best prices, Happy with, Natural ingredients, Improved mood, Increased focus. Some note: Dopamine support, Slow results.",
+    "tags": [
+      {
+        "name": "Herbal product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost dopamine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Parkinson relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best prices",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dopamine support",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Slow results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:59.115Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

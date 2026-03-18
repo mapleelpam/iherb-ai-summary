@@ -1,0 +1,68 @@
+{
+  "iherb_id": 146214,
+  "last_updated": "2026-03-20T09:41:26.735Z",
+  "first_scraped": "2026-03-20T09:41:26.735Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No aftertaste, Reasonable price, Boost immunity, US made, Good content, Improves intestinal system, Long-term results, Eye improvement, Daily detox.",
+    "tags": [
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "US made",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves intestinal system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-term results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to swallow",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:26.735Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

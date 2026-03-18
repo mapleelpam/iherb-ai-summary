@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114179,
+  "last_updated": "2026-03-20T10:01:47.074Z",
+  "first_scraped": "2026-03-20T10:01:47.074Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy routine, Efficiency, good combined, Competitive price, Effective supplement, Worth the price, Nice ingredient, Critical role, Convenient dosage. Some note: Immediate improvement, High dose.",
+    "tags": [
+      {
+        "name": "Easy routine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficiency, good combined",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Competitive price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth the price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Critical role",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate improvement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:47.074Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

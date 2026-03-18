@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3638,
+  "last_updated": "2026-03-20T10:13:09.559Z",
+  "first_scraped": "2026-03-20T10:13:09.559Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Amazing results, Faster hair growth, Taste is good, Easy to swallow, Reasonable price, Good stuff, Healthy hair, Stronger nails.",
+    "tags": [
+      {
+        "name": "Amazing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Faster hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste is good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too much",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:09.559Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

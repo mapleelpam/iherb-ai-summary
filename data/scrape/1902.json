@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1902,
+  "last_updated": "2026-03-20T09:25:51.328Z",
+  "first_scraped": "2026-03-20T09:25:51.328Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective formula, Complete formula, High potency, High energy, Great supplement, Value for money, Expensive but effective, Higher tablet count. Some note: Fast delivery, Big pills.",
+    "tags": [
+      {
+        "name": "Effective formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher tablet count",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Big pills",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:51.328Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

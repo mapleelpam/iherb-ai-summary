@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104478,
+  "last_updated": "2026-03-20T09:21:05.283Z",
+  "first_scraped": "2026-03-20T09:21:05.283Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Quality sleep, Fast delivery, Convenient packaging, Good taste, Works great, Excellent dosage, Taste great, Natural ingredients. Some note: Highly recommend.",
+    "tags": [
+      {
+        "name": "Quality sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant aftertaste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:05.283Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

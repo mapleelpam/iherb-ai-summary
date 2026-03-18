@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111008,
+  "last_updated": "2026-03-20T10:00:27.211Z",
+  "first_scraped": "2026-03-20T10:00:27.211Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Antioxidant effect, Boost energy levels, Mixed tocopherols, Great support, Good balance, Easy to swallow, Well controlled, High benefits, Hopeful feeling. Some note: Recommended product.",
+    "tags": [
+      {
+        "name": "Antioxidant effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixed tocopherols",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well controlled",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hopeful feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended product",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:27.211Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

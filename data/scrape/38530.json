@@ -1,0 +1,68 @@
+{
+  "iherb_id": 38530,
+  "last_updated": "2026-03-20T10:15:25.657Z",
+  "first_scraped": "2026-03-20T10:15:25.657Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Overall support, Fast results, Feel more balanced, Emotion control, Helps anxiety, Improves mood, Notice improvement, Feel relaxed, Spatial awareness. Some note: Small table.",
+    "tags": [
+      {
+        "name": "Overall support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel more balanced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Emotion control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Notice improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel relaxed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Spatial awareness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small table",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:25.657Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

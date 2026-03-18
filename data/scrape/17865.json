@@ -1,0 +1,68 @@
+{
+  "iherb_id": 17865,
+  "last_updated": "2026-03-20T09:46:50.419Z",
+  "first_scraped": "2026-03-20T09:46:50.419Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good package, Easy to use, Symptom relief, Natural ingredients, Really works, Clears congestion, Good stuff, Fast shipping.",
+    "tags": [
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Symptom relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Really works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clears congestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Questionable ingredients",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:50.419Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84061,
+  "last_updated": "2026-03-20T10:36:38.390Z",
+  "first_scraped": "2026-03-20T10:36:38.390Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Brain fog lifting, Attention boost, Improved focus, Limitless vibes, Great benefits, Enhanced concentration, Productivity boost, Fast shipping.",
+    "tags": [
+      {
+        "name": "Brain fog lifting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Attention boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Limitless vibes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Productivity boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Makes you sick",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Causes nausea",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:36:38.390Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

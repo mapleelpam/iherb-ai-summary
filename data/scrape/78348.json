@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78348,
+  "last_updated": "2026-03-20T09:53:54.352Z",
+  "first_scraped": "2026-03-20T09:53:54.352Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Refreshing drink, Clean energy, Muscle recovery, Intra-workout drink, Good taste, Effective blend, Cherry ingredient, Fast recovery. Some note: Amazing product, Fast shipping.",
+    "tags": [
+      {
+        "name": "Refreshing drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intra-workout drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cherry ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:54.352Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

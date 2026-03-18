@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86460,
+  "last_updated": "2026-03-20T10:05:08.133Z",
+  "first_scraped": "2026-03-20T10:05:08.133Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps focus, Brain support, Felt good, Highly recommend, Rich composition, Easy to swallow, Reasonable price, Balanced focus. Some note: Various supplements.",
+    "tags": [
+      {
+        "name": "Helps focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Felt good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dubious find",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Various supplements",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:08.133Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

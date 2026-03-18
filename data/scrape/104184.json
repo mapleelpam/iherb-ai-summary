@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104184,
+  "last_updated": "2026-03-20T09:57:00.344Z",
+  "first_scraped": "2026-03-20T09:57:00.344Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High IU, Delicious flavor, High absorption, Boost immunity, Easy consumption, Very like, Nice taste, Clean ingredients. Some note: Tastes like candy, Extra support.",
+    "tags": [
+      {
+        "name": "High IU",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy consumption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very like",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes like candy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Extra support",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:00.344Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

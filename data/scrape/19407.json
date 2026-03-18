@@ -1,0 +1,68 @@
+{
+  "iherb_id": 19407,
+  "last_updated": "2026-03-20T10:28:38.239Z",
+  "first_scraped": "2026-03-20T10:28:38.239Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Energy boost, Good price, More energy, Convenient pills, Happy gut, Nutrient dense, Good ingredients, Constipation relief.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrient dense",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Constipation relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Severe headache",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:38.239Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

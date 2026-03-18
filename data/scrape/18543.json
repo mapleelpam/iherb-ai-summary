@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18543,
+  "last_updated": "2026-03-20T09:22:55.158Z",
+  "first_scraped": "2026-03-20T09:22:55.158Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small capsules, Improved energy levels, Alleviated discomfort, Essential minerals, Good ingredients, Unique supplement, Game changer, Convenient way.",
+    "tags": [
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alleviated discomfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential minerals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too much boron",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:55.158Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

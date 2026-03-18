@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72081,
+  "last_updated": "2026-03-20T09:41:43.531Z",
+  "first_scraped": "2026-03-20T09:41:43.531Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hair loss, Prostate support, Love this, Good price, Beneficial effects, Boosts energy, Boosting iron levels, Worth a try. Some note: Easy to swallow.",
+    "tags": [
+      {
+        "name": "Hair loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prostate support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting iron levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth a try",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:43.531Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

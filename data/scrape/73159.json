@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73159,
+  "last_updated": "2026-03-20T09:50:22.805Z",
+  "first_scraped": "2026-03-20T09:50:22.805Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes good, Trust dr axe, Good collagen, Fast shipping, Healed gut, Improvement noticed, Dissolves easily, Good stuffs. Some note: Easy to mix.",
+    "tags": [
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust dr axe",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healed gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuffs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Easy to mix",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:22.805Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

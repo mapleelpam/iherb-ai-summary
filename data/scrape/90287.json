@@ -1,0 +1,68 @@
+{
+  "iherb_id": 90287,
+  "last_updated": "2026-03-20T09:22:41.434Z",
+  "first_scraped": "2026-03-20T09:22:41.434Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small capsules, Vision improvement, Vision support, Coconut oil, Game-changer for eyes, Competitive brand, Highly recommend, Eye health. Some note: Effective supplement.",
+    "tags": [
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vision improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vision support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Coconut oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer for eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Competitive brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not feeling",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:41.434Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1349,
+  "last_updated": "2026-03-20T10:05:38.886Z",
+  "first_scraped": "2026-03-20T10:05:38.886Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Excellent choice, Good amount, Maintains hair color, Increased energy, Gray hair, Skin health, Fast shipping, Good absorption.",
+    "tags": [
+      {
+        "name": "Excellent choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintains hair color",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gray hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slows cortisol clearance",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Side effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:38.886Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

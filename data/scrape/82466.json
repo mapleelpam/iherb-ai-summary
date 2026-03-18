@@ -1,0 +1,68 @@
+{
+  "iherb_id": 82466,
+  "last_updated": "2026-03-20T09:51:24.676Z",
+  "first_scraped": "2026-03-20T09:51:24.676Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Great supplement, High potency, Vitamin d3, Immune support, Regular buyer, Works better, Clean ingredients. Some note: Good choice.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin d3",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular buyer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sticky issue",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:24.676Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

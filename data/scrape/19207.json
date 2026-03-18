@@ -1,0 +1,68 @@
+{
+  "iherb_id": 19207,
+  "last_updated": "2026-03-20T10:16:45.374Z",
+  "first_scraped": "2026-03-20T10:16:45.374Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stomach relief, Highly recommend, Control yeast, Less bloating, Game-changer, Effective investment, Good mix, Cost competitive. Some note: Improving digestion, Needs refrigeration.",
+    "tags": [
+      {
+        "name": "Stomach relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control yeast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective investment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cost competitive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving digestion",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Needs refrigeration",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:45.374Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

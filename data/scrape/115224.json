@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115224,
+  "last_updated": "2026-03-20T10:19:58.196Z",
+  "first_scraped": "2026-03-20T10:19:58.196Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Blood sugar control, Convenient pills, Fair price, Low dosage, Energy boost, Clean air, Digestive system. Some note: Well packed, Good for health.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean air",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packed",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:58.196Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

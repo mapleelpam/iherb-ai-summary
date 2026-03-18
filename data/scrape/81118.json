@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81118,
+  "last_updated": "2026-03-20T09:37:11.049Z",
+  "first_scraped": "2026-03-20T09:37:11.049Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great flavor, Extra energy, Increases endurance, Energetic workout, Refreshing taste, Boosts energy, Nice taste, Explosive. Some note: Tingling sensation, Best taste.",
+    "tags": [
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increases endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energetic workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Explosive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tingling sensation",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Best taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:11.049Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

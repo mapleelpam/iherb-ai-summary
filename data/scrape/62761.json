@@ -1,0 +1,68 @@
+{
+  "iherb_id": 62761,
+  "last_updated": "2026-03-20T10:13:07.564Z",
+  "first_scraped": "2026-03-20T10:13:07.564Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reliable source, Reliable company, Burp-less, Easy to swallow, Manageable size, Careful packing, Silky fur, Beneficial correction.",
+    "tags": [
+      {
+        "name": "Reliable source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Burp-less",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Manageable size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Careful packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Silky fur",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial correction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fishy taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Uncomfortable swallow",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:07.564Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

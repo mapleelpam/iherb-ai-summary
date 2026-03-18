@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118142,
+  "last_updated": "2026-03-20T09:40:20.688Z",
+  "first_scraped": "2026-03-20T09:40:20.688Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Balance zinc, High bioavailability, Good taste, Gray hair, Fast shipping, Anemia relief, Chelated form, Easy to swallow. Some note: Trying mix forms, Nice complement.",
+    "tags": [
+      {
+        "name": "Balance zinc",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High bioavailability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gray hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anemia relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chelated form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trying mix forms",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nice complement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:20.688Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

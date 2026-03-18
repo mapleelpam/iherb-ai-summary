@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85536,
+  "last_updated": "2026-03-20T10:05:19.645Z",
+  "first_scraped": "2026-03-20T10:05:19.645Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Better sleep, Energy boost, No alcohol, Safe delivery, Ayurvedic benefits, Good ingredients, Stress management, Easy use.",
+    "tags": [
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No alcohol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ayurvedic benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Upset stomach",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Low mood",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:19.645Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

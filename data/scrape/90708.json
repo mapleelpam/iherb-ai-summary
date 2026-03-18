@@ -1,0 +1,68 @@
+{
+  "iherb_id": 90708,
+  "last_updated": "2026-03-20T10:13:05.578Z",
+  "first_scraped": "2026-03-20T10:13:05.578Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Taste apple, Very sweet, Tastes great, Wide range of benefits, Sugar free, Improved flavor, Tasty but addictive, Helps digestion. Some note: Will order again.",
+    "tags": [
+      {
+        "name": "Taste apple",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very sweet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wide range of benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sugar free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty but addictive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Will order again",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too sugary",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:05.578Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

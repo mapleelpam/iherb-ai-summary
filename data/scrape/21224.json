@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21224,
+  "last_updated": "2026-03-20T10:15:05.956Z",
+  "first_scraped": "2026-03-20T10:15:05.956Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps lower, Fast shipping, Clean source, High ingredient dosage, No fishy smell, Purity guaranteed, Daily dose, Reliable ingredients. Some note: No change.",
+    "tags": [
+      {
+        "name": "Helps lower",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High ingredient dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Purity guaranteed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smells bad",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:05.956Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

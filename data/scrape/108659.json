@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108659,
+  "last_updated": "2026-03-20T09:51:27.546Z",
+  "first_scraped": "2026-03-20T09:51:27.546Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy swallow, Supplements health, Specific brand, Good ingredients, Less headache, Energy boost, High dose, Easy to use. Some note: Skin relief, Liver detox.",
+    "tags": [
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supplements health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Specific brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less headache",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin relief",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Liver detox",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:27.546Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

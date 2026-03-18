@@ -1,0 +1,68 @@
+{
+  "iherb_id": 124130,
+  "last_updated": "2026-03-20T09:53:36.452Z",
+  "first_scraped": "2026-03-20T09:53:36.452Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Real results, Effective solution, Helped circulation, No adverse effect, Easy to swallow, Skin health, Extra gear, Helps concentration, Natural solution.",
+    "tags": [
+      {
+        "name": "Real results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No adverse effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra gear",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intestinal parasites",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:36.452Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

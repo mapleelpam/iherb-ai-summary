@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118640,
+  "last_updated": "2026-03-20T10:14:24.127Z",
+  "first_scraped": "2026-03-20T10:14:24.127Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice package, Energy boost, Effective ingredients, More energy, Love love, Ideal for endurance, Potent formula, Nice to have.",
+    "tags": [
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ideal for endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice to have",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Price decreases",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not needed",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:24.127Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

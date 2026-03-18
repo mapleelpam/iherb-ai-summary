@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37285,
+  "last_updated": "2026-03-20T09:47:12.160Z",
+  "first_scraped": "2026-03-20T09:47:12.160Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Digestive health, Healthy addition, Improves digestion, Regular bowel, Memory support, Weight control, Improved energy, Detox value.",
+    "tags": [
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular bowel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big pill",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:12.160Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

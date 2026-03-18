@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84978,
+  "last_updated": "2026-03-20T09:23:16.908Z",
+  "first_scraped": "2026-03-20T09:23:16.908Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less cramps, Menstrual relief, Balances hormones, Easy to swallow, Highly recommend, Menopausal symptoms, Skin health, No after taste. Some note: Third party tested, Great benefits.",
+    "tags": [
+      {
+        "name": "Less cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Menstrual relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balances hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Menopausal symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No after taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Third party tested",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:16.908Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

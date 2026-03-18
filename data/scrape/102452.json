@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102452,
+  "last_updated": "2026-03-20T09:26:03.318Z",
+  "first_scraped": "2026-03-20T09:26:03.318Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Extra goodness, More energy, Loaded with nutrients, Organic multi, Excellent packing, Trusted brand, Energy improvement, Daily multi-vitamin. Some note: Energy boost.",
+    "tags": [
+      {
+        "name": "Extra goodness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loaded with nutrients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic multi",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily multi-vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Chemical stuff",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:03.318Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

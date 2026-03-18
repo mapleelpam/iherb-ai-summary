@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5671,
+  "last_updated": "2026-03-20T09:40:38.609Z",
+  "first_scraped": "2026-03-20T09:40:38.609Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient way, Tastes good, Easy-to-swallow liquid, Good taste, Boost in immune system, More energy, Fast absorption, Swift delivery. Some note: Excellent job.",
+    "tags": [
+      {
+        "name": "Convenient way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy-to-swallow liquid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost in immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Swift delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent job",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sour taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:38.609Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

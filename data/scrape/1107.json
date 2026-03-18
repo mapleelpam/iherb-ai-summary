@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1107,
+  "last_updated": "2026-03-20T09:30:24.324Z",
+  "first_scraped": "2026-03-20T09:30:24.324Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increased energy, Strengthening hair, Anti-aging properties, Supports vitality, Thickens hair, Less grey, Energy boost, Nice ingredients. Some note: No result yet.",
+    "tags": [
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strengthening hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-aging properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thickens hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less grey",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No visible result",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No result yet",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:24.324Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24041,
+  "last_updated": "2026-03-20T09:46:38.472Z",
+  "first_scraped": "2026-03-20T09:46:38.472Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: All in one, Best choice, Effective iron, Low iron, Maintains energy, Effective supplement, More energetic, Nice complex. Some note: Neutral taste.",
+    "tags": [
+      {
+        "name": "All in one",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective iron",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low iron",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintains energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice complex",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nausea issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:38.472Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

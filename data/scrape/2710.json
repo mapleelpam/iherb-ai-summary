@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2710,
+  "last_updated": "2026-03-20T09:32:34.875Z",
+  "first_scraped": "2026-03-20T09:32:34.875Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lowered BP, Blood pressure, Effective relief, Positive effects, Good composition, Small size pill, Easy to use, Works wonders. Some note: Natural ingredients, Helps with BP.",
+    "tags": [
+      {
+        "name": "Lowered BP",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size pill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helps with BP",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:34.875Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

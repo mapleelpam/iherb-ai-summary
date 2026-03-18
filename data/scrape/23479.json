@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23479,
+  "last_updated": "2026-03-20T09:55:48.631Z",
+  "first_scraped": "2026-03-20T09:55:48.631Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Good for skin, Organic grapes, Good ingredients, Worth the money, Easy to take, Inflammation relief, High dosage. Some note: Free radicals.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic grapes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth the money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inflammation relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality declined",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Free radicals",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:48.631Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

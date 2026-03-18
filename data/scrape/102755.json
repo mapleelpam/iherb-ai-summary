@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102755,
+  "last_updated": "2026-03-20T10:33:47.787Z",
+  "first_scraped": "2026-03-20T10:33:47.787Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Prevent utis, Does the job, Helping so far, Preventative measure, Effective ingredients, Regulate frequency, Expensive but effective, Flush bacteria.",
+    "tags": [
+      {
+        "name": "Prevent utis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Does the job",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helping so far",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventative measure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate frequency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flush bacteria",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:33:47.787Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

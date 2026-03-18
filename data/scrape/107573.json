@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107573,
+  "last_updated": "2026-03-20T10:18:56.192Z",
+  "first_scraped": "2026-03-20T10:18:56.192Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Anti-inflammatory relief, Joint pain improvement, Affordable option, Improved mobility, Muscle ache, No problems, Convenient solution, Joint health. Some note: Not tried yet.",
+    "tags": [
+      {
+        "name": "Anti-inflammatory relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mobility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle ache",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No problems",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Didn't work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not tried yet",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:56.192Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

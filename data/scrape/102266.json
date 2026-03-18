@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102266,
+  "last_updated": "2026-03-20T10:07:07.217Z",
+  "first_scraped": "2026-03-20T10:07:07.217Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love the product, Easy to mix, Energy production, Good for sleep, Tastes good, Nice flavor, Convenient packaging, Timely deliveries. Some note: Longer handle.",
+    "tags": [
+      {
+        "name": "Love the product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy production",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely deliveries",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ingredient source",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Longer handle",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:07.217Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

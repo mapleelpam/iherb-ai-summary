@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3749,
+  "last_updated": "2026-03-20T09:50:56.161Z",
+  "first_scraped": "2026-03-20T09:50:56.161Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Prostate protected, Improving infection, Interrupting addiction, Effective supplement, Fast shipping, Prevents kidney stones, Marked improvement, Natural product. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Prostate protected",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving infection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Interrupting addiction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prevents kidney stones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Marked improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hot flashes",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:56.161Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

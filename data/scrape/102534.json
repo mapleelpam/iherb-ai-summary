@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102534,
+  "last_updated": "2026-03-20T10:23:03.590Z",
+  "first_scraped": "2026-03-20T10:23:03.590Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Strong formula, Increased focus, Immune support, Memory boost, Mixed capsules, Mental clarity, Easy to use.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixed capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not beneficial",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Low energy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:03.590Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

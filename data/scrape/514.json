@@ -1,0 +1,68 @@
+{
+  "iherb_id": 514,
+  "last_updated": "2026-03-20T09:33:58.382Z",
+  "first_scraped": "2026-03-20T09:33:58.382Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy addition, Fine powder, Good detox, Excellent additive, Nutrient-dense food, Iron iodine boost, Increased energy, Highly energising. Some note: Good taste.",
+    "tags": [
+      {
+        "name": "Easy addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fine powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrient-dense food",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Iron iodine boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly energising",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Violently ill",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:58.382Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

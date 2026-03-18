@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71698,
+  "last_updated": "2026-03-20T09:28:16.798Z",
+  "first_scraped": "2026-03-20T09:28:16.798Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective brand, Daily health, Improved focus, Reasonable size, Decent price, Capsules helped, Easy to swallow, Boosting b-vitamins.",
+    "tags": [
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Capsules helped",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting b-vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heartburn issue",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Color change",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:16.798Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

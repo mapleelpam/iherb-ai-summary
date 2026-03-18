@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11467,
+  "last_updated": "2026-03-20T10:13:46.123Z",
+  "first_scraped": "2026-03-20T10:13:46.123Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Prevent illness, High concentration, Trust gaia, Cold relief, Immune modulation, Fast recovery, Quality supplement, Boost immunity. Some note: Daily maintenance, Decrease inflammation.",
+    "tags": [
+      {
+        "name": "Prevent illness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust gaia",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cold relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune modulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily maintenance",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Decrease inflammation",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:46.123Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13603,
+  "last_updated": "2026-03-20T09:25:17.034Z",
+  "first_scraped": "2026-03-20T09:25:17.034Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works like charm, Fast shipping, Highly recommend, Sore throat relief, Pure and powerful, Helpful relief, Natural remedy, Sinus relief. Some note: Breath freshener.",
+    "tags": [
+      {
+        "name": "Works like charm",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sore throat relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure and powerful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sinus relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Breath freshener",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:17.034Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

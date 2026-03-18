@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9476,
+  "last_updated": "2026-03-20T10:01:07.406Z",
+  "first_scraped": "2026-03-20T10:01:07.406Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this protein, Vanilla flavor, Natural flavor, Good taste, Best whey protein, Smells wonderful, Mixes easily, Muscle growth.",
+    "tags": [
+      {
+        "name": "Love this protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vanilla flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best whey protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smells wonderful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very thin",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not pleased",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:07.406Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

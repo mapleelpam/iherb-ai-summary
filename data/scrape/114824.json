@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114824,
+  "last_updated": "2026-03-20T09:43:43.283Z",
+  "first_scraped": "2026-03-20T09:43:43.283Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Improved conditions, Powerful antioxidant, Very fast, Flexible dosing, Cheap option, Anti-aging benefits, Distinctive smell. Some note: Sour taste.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved conditions",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flexible dosing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheap option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-aging benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Distinctive smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach upset",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sour taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:43.283Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12289,
+  "last_updated": "2026-03-20T10:15:20.023Z",
+  "first_scraped": "2026-03-20T10:15:20.023Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Digestion benefits, Natural supplement, Energy metabolism, Fast shipping, Reduced hair loss, Skin clarity, Clean ingredients, Stronger nails. Some note: Hair growth, Size optimal.",
+    "tags": [
+      {
+        "name": "Digestion benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced hair loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Size optimal",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:20.023Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

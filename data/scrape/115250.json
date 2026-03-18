@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115250,
+  "last_updated": "2026-03-20T10:01:36.310Z",
+  "first_scraped": "2026-03-20T10:01:36.310Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean ingredients, Impressed with, Helps pain, Fair price, Happy with, Control blood glucose, Sugar level, Full of flavor. Some note: Copy green giant.",
+    "tags": [
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control blood glucose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sugar level",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Full of flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Poor packaging",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Copy green giant",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:36.310Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67058,
+  "last_updated": "2026-03-20T09:23:30.836Z",
+  "first_scraped": "2026-03-20T09:23:30.836Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Healthy product, Improved blood, Biologically active, Well packed, Easy to swallow, Feel better, Boost energy, Efficient size. Some note: Bioavailable blend, High potency.",
+    "tags": [
+      {
+        "name": "Healthy product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved blood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Biologically active",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioavailable blend",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:30.836Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

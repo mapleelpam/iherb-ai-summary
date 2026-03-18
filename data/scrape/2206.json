@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2206,
+  "last_updated": "2026-03-20T10:10:03.711Z",
+  "first_scraped": "2026-03-20T10:10:03.711Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Easy swallow, Less depressed, Night sweats reduced, Repeat purchase, Effective combo, Dosage working, Life saver. Some note: Calmer days.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less depressed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Night sweats reduced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dosage working",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calmer days",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Emotional mess",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:03.711Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

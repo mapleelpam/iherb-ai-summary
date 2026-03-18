@@ -1,0 +1,68 @@
+{
+  "iherb_id": 136101,
+  "last_updated": "2026-03-20T10:01:53.612Z",
+  "first_scraped": "2026-03-20T10:01:53.612Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Regular bowel movements, Highly recommend, Stronger hair, Improved health, Mineral supplement, Easy swallow, Complete minerals. Some note: Type matters, Fantastic way.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular bowel movements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mineral supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete minerals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Type matters",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Fantastic way",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:53.612Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

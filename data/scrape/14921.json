@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14921,
+  "last_updated": "2026-03-20T10:22:20.072Z",
+  "first_scraped": "2026-03-20T10:22:20.072Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious chocolate flavor, Good ingredient, Fast shipping, Tastes good, Tasty dessert, Mild taste, Highly recommend, Surprised and pleased. Some note: Average taste.",
+    "tags": [
+      {
+        "name": "Delicious chocolate flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty dessert",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Surprised and pleased",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unsweetened version",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Average taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:20.072Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

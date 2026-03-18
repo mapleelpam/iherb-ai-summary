@@ -1,0 +1,68 @@
+{
+  "iherb_id": 82622,
+  "last_updated": "2026-03-20T09:31:10.549Z",
+  "first_scraped": "2026-03-20T09:31:10.549Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works great, Gets the job done, Noticeable results, Yummy collagen, Tastes good, Effective supplement, Higher potency, Love the flavor. Some note: Good additive.",
+    "tags": [
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gets the job done",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good additive",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Side effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:10.549Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

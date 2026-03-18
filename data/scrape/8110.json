@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8110,
+  "last_updated": "2026-03-20T09:48:11.711Z",
+  "first_scraped": "2026-03-20T09:48:11.711Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Liver detox, Good blend, Good response, Bitter compounds, Natural supplement, Cheap and effective, Body balance, Reasonably priced supplement.",
+    "tags": [
+      {
+        "name": "Liver detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good response",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bitter compounds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheap and effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonably priced supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:11.711Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

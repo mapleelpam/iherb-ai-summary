@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86422,
+  "last_updated": "2026-03-20T09:34:15.347Z",
+  "first_scraped": "2026-03-20T09:34:15.347Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this product, Vegcaps, easy, Slow release, Good gentle, No stomach upset, Well tolerated, Immune support, Non-acidic formula. Some note: Aid healing, High potency.",
+    "tags": [
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegcaps, easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good gentle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No stomach upset",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well tolerated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Non-acidic formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Aid healing",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:15.347Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

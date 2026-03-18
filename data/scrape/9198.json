@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9198,
+  "last_updated": "2026-03-20T10:24:10.770Z",
+  "first_scraped": "2026-03-20T10:24:10.770Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Eliminating parasites, Natural remedy, Effective supplement, Gets job done, Clean ingredients, Parasite support, Full moon, Kick is nice.",
+    "tags": [
+      {
+        "name": "Eliminating parasites",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gets job done",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Parasite support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Full moon",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kick is nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Unappealing flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:10.770Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

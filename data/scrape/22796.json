@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22796,
+  "last_updated": "2026-03-20T09:44:15.597Z",
+  "first_scraped": "2026-03-20T09:44:15.597Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved energy, Easy supplement, Heart health, Alert and clear, Love brand, Synergy between, Fast shipping, Small size. Some note: Not tested.",
+    "tags": [
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alert and clear",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Synergy between",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow aging",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not tested",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:15.597Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

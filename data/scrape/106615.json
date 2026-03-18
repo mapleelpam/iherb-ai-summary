@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106615,
+  "last_updated": "2026-03-20T10:10:16.200Z",
+  "first_scraped": "2026-03-20T10:10:16.200Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Digestive improvement, Effective probiotic, Availability not problem, Easy to swallow, Gas relief, Great bacterial composition, Good strains, Crispatus helveticus. Some note: Medium price.",
+    "tags": [
+      {
+        "name": "Digestive improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Availability not problem",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gas relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great bacterial composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good strains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Crispatus helveticus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very strong",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Medium price",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:16.200Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5343,
+  "last_updated": "2026-03-20T09:22:36.614Z",
+  "first_scraped": "2026-03-20T09:22:36.614Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small capsule, Clear skin, Clearer vision, Good ingredient, Healthy vision, Skin health, High dosage, Immune system. Some note: Nice price.",
+    "tags": [
+      {
+        "name": "Small capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach upset",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:36.614Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

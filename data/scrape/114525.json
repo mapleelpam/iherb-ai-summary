@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114525,
+  "last_updated": "2026-03-20T10:07:10.332Z",
+  "first_scraped": "2026-03-20T10:07:10.332Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Enhanced effect, Highly potent, Tastes great, Immune health, Improved immunity, Allergy improvement, Boosts health, Essential supplement, Clean ingredients.",
+    "tags": [
+      {
+        "name": "Enhanced effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly potent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergy improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Poor packaging",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:10.332Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

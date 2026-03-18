@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2165,
+  "last_updated": "2026-03-20T10:03:15.389Z",
+  "first_scraped": "2026-03-20T10:03:15.389Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works great, Eases discomfort, Easy to chew, Works everytime, Digestive relief, Good taste, Relieves acid reflux, Fast response. Some note: Taste OK.",
+    "tags": [
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eases discomfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to chew",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works everytime",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves acid reflux",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast response",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not good",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Taste OK",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:15.389Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

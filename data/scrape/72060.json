@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72060,
+  "last_updated": "2026-03-20T09:48:24.012Z",
+  "first_scraped": "2026-03-20T09:48:24.012Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Longer endurance, Easy to swallow, Satisfied, Convenient option, More energy, Faster recovery, Great boost, Effective packaging.",
+    "tags": [
+      {
+        "name": "Longer endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Faster recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doesn't work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not potent",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:24.012Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

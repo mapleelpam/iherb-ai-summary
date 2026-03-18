@@ -1,0 +1,68 @@
+{
+  "iherb_id": 25995,
+  "last_updated": "2026-03-20T10:24:36.676Z",
+  "first_scraped": "2026-03-20T10:24:36.676Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy addition, Very good supplement, Low dosage, Essential minerals, Long-lasting benefits, Happy order, Basic supplement, Convenient liquid.",
+    "tags": [
+      {
+        "name": "Easy addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very good supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential minerals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-lasting benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Basic supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient liquid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:36.676Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

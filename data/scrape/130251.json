@@ -1,0 +1,68 @@
+{
+  "iherb_id": 130251,
+  "last_updated": "2026-03-20T09:47:13.150Z",
+  "first_scraped": "2026-03-20T09:47:13.150Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increased endurance, Boost in mood, Fan of, Running support, Enhanced vitality, Energy boost, Works great, Healthy lifestyle. Some note: Subtle changes.",
+    "tags": [
+      {
+        "name": "Increased endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost in mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fan of",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Running support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy lifestyle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Subtle changes",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Trouble sleeping",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:13.150Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5575,
+  "last_updated": "2026-03-20T10:25:13.233Z",
+  "first_scraped": "2026-03-20T10:25:13.233Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Health benefits, Boosting immune system, Well-packaged, High potency, Fresh smell, Brain fog, Improved memory, Powerful antioxidant. Some note: Busy day.",
+    "tags": [
+      {
+        "name": "Health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well-packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain fog",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Busy day",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Carbohydrate cravings",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:13.233Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18791,
+  "last_updated": "2026-03-20T09:18:40.532Z",
+  "first_scraped": "2026-03-20T09:18:40.532Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less tired, Energy booster, More energy, Reliable and it works, Trusted brand, Easy to swallow, High percentages, Helps feel better. Some note: Balanced energy.",
+    "tags": [
+      {
+        "name": "Less tired",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable and it works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High percentages",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Balanced energy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:40.532Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89966,
+  "last_updated": "2026-03-20T09:48:36.655Z",
+  "first_scraped": "2026-03-20T09:48:36.655Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mild detox, Daily detox, High potency, Easy swallow, Higher dose, Good dosage, Brand new, Great results. Some note: 1h between foods.",
+    "tags": [
+      {
+        "name": "Mild detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brand new",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chemical smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "1h between foods",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:36.655Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

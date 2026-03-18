@@ -1,0 +1,68 @@
+{
+  "iherb_id": 151800,
+  "last_updated": "2026-03-20T10:22:49.581Z",
+  "first_scraped": "2026-03-20T10:22:49.581Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Vanilla taste, Mixes well, Easy to digest, Creamy texture, Vanilla base, Taste good, French vanilla, Vegan, gluten-free.",
+    "tags": [
+      {
+        "name": "Vanilla taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to digest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Creamy texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vanilla base",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "French vanilla",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan, gluten-free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stevia overpowering",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High calorie",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:49.581Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9102,
+  "last_updated": "2026-03-20T10:11:10.468Z",
+  "first_scraped": "2026-03-20T10:11:10.468Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clear skin, Body support, Great support, Gut health, More energy, Energy support, No more cold, Good cleanse. Some note: Love brand.",
+    "tags": [
+      {
+        "name": "Clear skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No more cold",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love brand",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Difficult to remember",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:10.468Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 103279,
+  "last_updated": "2026-03-20T09:22:30.719Z",
+  "first_scraped": "2026-03-20T09:22:30.719Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredient, Convenient capsules, Weight loss, Good digestion, Less heartburn, Clearer skin, Great way, Good benefits. Some note: Convenient option.",
+    "tags": [
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less heartburn",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not enough dose",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:30.719Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

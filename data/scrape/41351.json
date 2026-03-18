@@ -1,0 +1,68 @@
+{
+  "iherb_id": 41351,
+  "last_updated": "2026-03-20T09:18:48.368Z",
+  "first_scraped": "2026-03-20T09:18:48.368Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Trusted brand, Boosts energy, Nice changes, Good for health, Impressed with, Good energy, Fat burn. Some note: Good ingredients.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice changes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat burn",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No result",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:48.368Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

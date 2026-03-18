@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67601,
+  "last_updated": "2026-03-20T10:02:33.997Z",
+  "first_scraped": "2026-03-20T10:02:33.997Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Amazing protein shake, Milk preference, Easy mixing, Delicious taste, Nice price, Good for recovery, 0 carb, Lactose free, Received on time.",
+    "tags": [
+      {
+        "name": "Amazing protein shake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Milk preference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mixing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "0 carb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lactose free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Received on time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:33.997Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

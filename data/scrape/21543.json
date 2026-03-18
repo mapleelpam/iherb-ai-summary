@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21543,
+  "last_updated": "2026-03-20T10:32:49.110Z",
+  "first_scraped": "2026-03-20T10:32:49.110Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for immunity, Gut health, Improved blood work, Best garlic supplement, More energetic, Sunspot removal, Functional medicine, Effective supplement.",
+    "tags": [
+      {
+        "name": "Good for immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved blood work",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best garlic supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sunspot removal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Functional medicine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:49.110Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

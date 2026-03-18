@@ -1,0 +1,68 @@
+{
+  "iherb_id": 406,
+  "last_updated": "2026-03-20T09:37:38.800Z",
+  "first_scraped": "2026-03-20T09:37:38.800Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast relief, Fast shipping, Effective supplement, Avoid colds, No side effects, Healthy immune, Immune support, Increased immunity, Cholesterol support, Fair price.",
+    "tags": [
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid colds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:38.800Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

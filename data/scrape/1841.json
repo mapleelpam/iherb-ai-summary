@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1841,
+  "last_updated": "2026-03-20T09:22:44.449Z",
+  "first_scraped": "2026-03-20T09:22:44.449Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Antibacterial properties, Easy to swallow, Love this supplement, Parasite cleansing, Life changing, Pure ingredients, Anti-candida solution, Reliable addition. Some note: Not bad.",
+    "tags": [
+      {
+        "name": "Antibacterial properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Parasite cleansing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-candida solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not bad",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:44.449Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

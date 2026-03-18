@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8693,
+  "last_updated": "2026-03-20T09:22:59.001Z",
+  "first_scraped": "2026-03-20T09:22:59.001Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very satisfied, Good source, Highly recommend, Big size packages, Glass package, Grateful found, Helps sleep, Bone health. Some note: Allergic to, Essential calcium.",
+    "tags": [
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size packages",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Grateful found",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergic to",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Essential calcium",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:59.001Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

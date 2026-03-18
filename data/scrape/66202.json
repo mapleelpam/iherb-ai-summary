@@ -1,0 +1,68 @@
+{
+  "iherb_id": 66202,
+  "last_updated": "2026-03-20T09:19:30.512Z",
+  "first_scraped": "2026-03-20T09:19:30.512Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Flavorless and odorless, Metabolism support, Organic MCT oil, High potency, Extended fasting, Tasty oil, Energy boost, Good for keto. Some note: Easy squeeze bottle.",
+    "tags": [
+      {
+        "name": "Flavorless and odorless",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Metabolism support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic MCT oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extended fasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for keto",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No changes",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Easy squeeze bottle",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:30.512Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24413,
+  "last_updated": "2026-03-20T10:10:57.156Z",
+  "first_scraped": "2026-03-20T10:10:57.156Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Best choice, Healthy digestion, Price, convenience, Drink water, Budget priced, Easy way, Good ingredient, Sugar control. Some note: Extra fiber.",
+    "tags": [
+      {
+        "name": "Best choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Price, convenience",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Drink water",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Budget priced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sugar control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra fiber",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Allergic reactions",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:57.156Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115172,
+  "last_updated": "2026-03-20T10:08:59.404Z",
+  "first_scraped": "2026-03-20T10:08:59.404Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy dose size, Effective supplement, Gentle on, Electrolyte support, Clean ingredients, Fast shipping, Clash prevention, No taste. Some note: Separate copper.",
+    "tags": [
+      {
+        "name": "Easy dose size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle on",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Electrolyte support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clash prevention",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Separate copper",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Out of pocket",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:59.404Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

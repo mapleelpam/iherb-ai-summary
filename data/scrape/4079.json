@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4079,
+  "last_updated": "2026-03-20T09:55:28.916Z",
+  "first_scraped": "2026-03-20T09:55:28.916Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost immune, Safe organic, Easy to take, Digestive support, Good package, Good results, Immune system, Reduced antibodies, Natural ingredients. Some note: No idea.",
+    "tags": [
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe organic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced antibodies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No idea",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:28.916Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

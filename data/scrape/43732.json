@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43732,
+  "last_updated": "2026-03-20T09:31:52.588Z",
+  "first_scraped": "2026-03-20T09:31:52.588Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great for kids, Good choice, Nice taste, Good price, Great orange taste, Good ingredient, Increase energy, Boost stamina. Some note: High vit c.",
+    "tags": [
+      {
+        "name": "Great for kids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great orange taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High vit c",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Oxidizes rapidly",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:52.588Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72907,
+  "last_updated": "2026-03-20T10:21:50.029Z",
+  "first_scraped": "2026-03-20T10:21:50.029Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious taste, Good mixability, Just right, Good energy, Great addition, Unique flavor, Boost energy, Smooth boost.",
+    "tags": [
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good mixability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Just right",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Least favorite",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:50.029Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

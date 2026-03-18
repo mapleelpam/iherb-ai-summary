@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14811,
+  "last_updated": "2026-03-20T10:31:14.213Z",
+  "first_scraped": "2026-03-20T10:31:14.213Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mental focus, Good focus, Easy to consume, Beneficial effect, Safe & free, Brain health, Enhancing memory, Boost concentration. Some note: Not impactful.",
+    "tags": [
+      {
+        "name": "Mental focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to consume",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe & free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhancing memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive, mushrooms",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not impactful",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:14.213Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

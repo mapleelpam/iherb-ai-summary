@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8109,
+  "last_updated": "2026-03-20T10:10:37.389Z",
+  "first_scraped": "2026-03-20T10:10:37.389Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good result, Better eyesight, Vision boost, High potency, Stopped watery, Recommend purchase, Essential protection, Higher dosage, Worth purchasing. Some note: Limited effect.",
+    "tags": [
+      {
+        "name": "Good result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better eyesight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vision boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped watery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth purchasing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Limited effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:37.389Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

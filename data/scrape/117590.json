@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117590,
+  "last_updated": "2026-03-20T10:09:40.147Z",
+  "first_scraped": "2026-03-20T10:09:40.147Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reduces stress, Natural ingredient, Boosts immunity, Body support, Natural stress relief, Clean ingredients, Optimal benefits, Calming relief. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Reduces stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural stress relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Optimal benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adds fatigue",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:40.147Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

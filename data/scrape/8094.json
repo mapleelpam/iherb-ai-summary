@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8094,
+  "last_updated": "2026-03-20T10:09:05.437Z",
+  "first_scraped": "2026-03-20T10:09:05.437Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves circulation, Amazing results, Works great, Quick results, Noticeable difference, Immune support, Leg improvement, Natural ingredient.",
+    "tags": [
+      {
+        "name": "Improves circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Leg improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Low dosage",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:05.437Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

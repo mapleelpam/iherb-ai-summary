@@ -1,0 +1,68 @@
+{
+  "iherb_id": 125088,
+  "last_updated": "2026-03-20T09:40:06.392Z",
+  "first_scraped": "2026-03-20T09:40:06.392Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Neuro improvements, Energy benefits, Antioxidant benefits, Brain support, Economical package, Overall health, Big size, Healthy option, Cost-effective option, Pure ingredients.",
+    "tags": [
+      {
+        "name": "Neuro improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economical package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cost-effective option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:06.392Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

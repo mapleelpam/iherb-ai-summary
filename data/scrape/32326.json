@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32326,
+  "last_updated": "2026-03-20T10:14:08.253Z",
+  "first_scraped": "2026-03-20T10:14:08.253Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fit for swallow, Shows results, Prolongs erection, General health, Significant improvement, Works as intended, Easy to take, Helps testosterone. Some note: Increase performance.",
+    "tags": [
+      {
+        "name": "Fit for swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shows results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prolongs erection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "General health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Significant improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works as intended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps testosterone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase performance",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Little benefit",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:08.253Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

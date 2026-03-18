@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86510,
+  "last_updated": "2026-03-20T09:43:37.505Z",
+  "first_scraped": "2026-03-20T09:43:37.505Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small capsules, Routine health, Helps bones, Improved absorption, Life changing, Boost immune, Amazing results, High bioavailability. Some note: Waiting results.",
+    "tags": [
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Routine health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High bioavailability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Waiting results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Pricey",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:37.505Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

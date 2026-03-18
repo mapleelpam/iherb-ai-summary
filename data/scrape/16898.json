@@ -1,0 +1,68 @@
+{
+  "iherb_id": 16898,
+  "last_updated": "2026-03-20T09:41:12.999Z",
+  "first_scraped": "2026-03-20T09:41:12.999Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective blend, No fishy taste, Improved cholesterol, Value for money, Works very well, Best omega, Complete ingredients, Clean ingredients. Some note: Top choice, Good package.",
+    "tags": [
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works very well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best omega",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top choice",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:12.999Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

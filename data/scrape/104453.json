@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104453,
+  "last_updated": "2026-03-20T10:01:44.265Z",
+  "first_scraped": "2026-03-20T10:01:44.265Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Brain health, Real difference, Healthy diet, Persevere with, Effective mushroom, Increased focus, Absorption better, Satisfied, recommend. Some note: Neutral taste, Subtle changes.",
+    "tags": [
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Persevere with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective mushroom",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorption better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied, recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Subtle changes",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:44.265Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

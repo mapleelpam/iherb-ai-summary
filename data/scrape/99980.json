@@ -1,0 +1,68 @@
+{
+  "iherb_id": 99980,
+  "last_updated": "2026-03-20T09:51:57.455Z",
+  "first_scraped": "2026-03-20T09:51:57.455Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Deep sleep, No taste, Youthful appearance, Nice package, Fast shipping, Good for sleep, Liver health, Effective supplement. Some note: White hair.",
+    "tags": [
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Youthful appearance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "White hair",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:57.455Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

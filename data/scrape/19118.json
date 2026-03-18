@@ -1,0 +1,68 @@
+{
+  "iherb_id": 19118,
+  "last_updated": "2026-03-20T09:59:30.872Z",
+  "first_scraped": "2026-03-20T09:59:30.872Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Gentle alternative, Easy to take, Boosting immune, Real food, Pure and strong, Combat depression, Food based, Balanced source, Natural ingredients, Recuperation time.",
+    "tags": [
+      {
+        "name": "Gentle alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real food",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure and strong",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Combat depression",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Food based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recuperation time",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:30.872Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

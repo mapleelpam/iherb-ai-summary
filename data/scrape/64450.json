@@ -1,0 +1,68 @@
+{
+  "iherb_id": 64450,
+  "last_updated": "2026-03-20T10:11:49.482Z",
+  "first_scraped": "2026-03-20T10:11:49.482Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Support gut, Effective fiber, Natural ingredients, Travel-friendly option, Digestion support, Works like a charm, Alleviating constipation, Good taste.",
+    "tags": [
+      {
+        "name": "Support gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Travel-friendly option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works like a charm",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alleviating constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bloated and crampy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:49.482Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

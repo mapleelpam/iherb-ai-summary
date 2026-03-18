@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117754,
+  "last_updated": "2026-03-20T10:09:58.273Z",
+  "first_scraped": "2026-03-20T10:09:58.273Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, No iron, Less iron good, Buy again, Small size, Vegetarian friendly, Covers bases, Overall health. Some note: Decent size, Basic multivitamin.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No iron",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less iron good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buy again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegetarian friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Covers bases",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Basic multivitamin",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:58.273Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

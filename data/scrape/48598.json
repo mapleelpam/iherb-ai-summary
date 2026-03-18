@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48598,
+  "last_updated": "2026-03-20T10:18:34.898Z",
+  "first_scraped": "2026-03-20T10:18:34.898Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Cholesterol control, Lower LDL, Worked great, Satisfactory effects, Lower readings, Prompt delivery, Moderate success.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower LDL",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worked great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfactory effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower readings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moderate success",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High cholesterol",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Poor taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:34.898Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

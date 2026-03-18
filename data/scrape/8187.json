@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8187,
+  "last_updated": "2026-03-20T10:24:03.293Z",
+  "first_scraped": "2026-03-20T10:24:03.293Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Relieve cramps, PMS relief, Balancing help, Best price, Labor help, Balance improvement, Good taste. Some note: Post pregnancy, Recommend label.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieve cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "PMS relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balancing help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Labor help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balance improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Post pregnancy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Recommend label",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:03.293Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

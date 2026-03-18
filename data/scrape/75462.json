@@ -1,0 +1,68 @@
+{
+  "iherb_id": 75462,
+  "last_updated": "2026-03-20T10:29:05.580Z",
+  "first_scraped": "2026-03-20T10:29:05.580Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Superb pre-workout, Works amazing, Love this product, Must have, Refreshing kick, Good response, Extra energy, Big package.",
+    "tags": [
+      {
+        "name": "Superb pre-workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Must have",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing kick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good response",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too much caffeine",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:29:05.580Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

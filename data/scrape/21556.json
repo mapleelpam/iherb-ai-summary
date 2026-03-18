@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21556,
+  "last_updated": "2026-03-20T10:05:17.490Z",
+  "first_scraped": "2026-03-20T10:05:17.490Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes great, Noticeable boost, Fruity flavor, Superfood blend, Diverse microbiome, Fast shipping, Lost weight, Rare superfoods, Top stuff. Some note: Protein shake.",
+    "tags": [
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fruity flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superfood blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Diverse microbiome",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lost weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rare superfoods",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protein shake",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:17.490Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

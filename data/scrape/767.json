@@ -1,0 +1,68 @@
+{
+  "iherb_id": 767,
+  "last_updated": "2026-03-20T09:23:22.847Z",
+  "first_scraped": "2026-03-20T09:23:22.847Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Fast delivery, Thyroid support, Gets rid, Excellent choice, Positive effects, Thyroid function, Maintaining health. Some note: Great package.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thyroid support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gets rid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thyroid function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintaining health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great package",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not worth",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:22.847Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 26013,
+  "last_updated": "2026-03-20T09:36:45.656Z",
+  "first_scraped": "2026-03-20T09:36:45.656Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean ingredients, Trusted brand, Immune system, Tasteless, Good in liquid form, Good mix, Boost immune, Improved antioxidant protection. Some note: Bioavailable source, Pure formula.",
+    "tags": [
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasteless",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good in liquid form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved antioxidant protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioavailable source",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Pure formula",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:45.656Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

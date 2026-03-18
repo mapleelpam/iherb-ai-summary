@@ -1,0 +1,68 @@
+{
+  "iherb_id": 56504,
+  "last_updated": "2026-03-20T09:43:06.679Z",
+  "first_scraped": "2026-03-20T09:43:06.679Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Super support, Travel essential, Effective silver, Works for, More energy, Ear infection, Grateful recommendation, Wiped out.",
+    "tags": [
+      {
+        "name": "Super support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Travel essential",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective silver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ear infection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Grateful recommendation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wiped out",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not recommended",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive, expired",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:06.679Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

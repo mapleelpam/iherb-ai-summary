@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72080,
+  "last_updated": "2026-03-20T09:27:44.835Z",
+  "first_scraped": "2026-03-20T09:27:44.835Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural remedy, Improvement in mood, Relaxation aid, Good scent, Deep sleep, Helps sleep, Mild effect, Easy to swallow. Some note: Convenient capsules, Not sure.",
+    "tags": [
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxation aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient capsules",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:44.835Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

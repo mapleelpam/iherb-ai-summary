@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1359,
+  "last_updated": "2026-03-20T10:15:08.963Z",
+  "first_scraped": "2026-03-20T10:15:08.963Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Very impressed, Effective dosage, Valuable ingredient, Benefit on workouts, Mood support, Good results, Mental clarity.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very impressed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Valuable ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit on workouts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Outrageous prices",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Light headache",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:08.963Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

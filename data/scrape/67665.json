@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67665,
+  "last_updated": "2026-03-20T09:31:06.663Z",
+  "first_scraped": "2026-03-20T09:31:06.663Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, More energetic, Weight loss, Increases strength, Overall pleased, Ingredients fine, Tastes good, Boost energy. Some note: Received in good condition, Moderate effects.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increases strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall pleased",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ingredients fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Received in good condition",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Moderate effects",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:06.663Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

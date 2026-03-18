@@ -1,0 +1,68 @@
+{
+  "iherb_id": 610,
+  "last_updated": "2026-03-20T09:23:47.535Z",
+  "first_scraped": "2026-03-20T09:23:47.535Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Blood sugar, Testosterone production, Good for health, Increasing testosterone, Increase milk, Boost energy, High benefits. Some note: Selected ingredients.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Testosterone production",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increasing testosterone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase milk",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body odor",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Selected ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:47.535Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18244,
+  "last_updated": "2026-03-20T10:11:31.154Z",
+  "first_scraped": "2026-03-20T10:11:31.154Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great benefits, Easy to swallow, Good concentration, Improvement skin immunity, Overall health, Pure neem, Detox cleanse, Acne improvement. Some note: Support immune health.",
+    "tags": [
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement skin immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure neem",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acne improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support immune health",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Digestive issues",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:31.154Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

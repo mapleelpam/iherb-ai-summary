@@ -1,0 +1,68 @@
+{
+  "iherb_id": 488,
+  "last_updated": "2026-03-20T09:41:25.714Z",
+  "first_scraped": "2026-03-20T09:41:25.714Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Muscle health, High LDL, Heart health, Value for money, More energy, Good antioxidant, Easy to swallow. Some note: Not sure, Cardio supplements.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High LDL",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Cardio supplements",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:25.714Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

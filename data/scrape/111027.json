@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111027,
+  "last_updated": "2026-03-20T10:08:58.366Z",
+  "first_scraped": "2026-03-20T10:08:58.366Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Quick recovery, Well packaged, Clean formulas, Valuable pills, Stopped chest infection, No foul smell, Boosting immune system, Boosting energy, Great combination.",
+    "tags": [
+      {
+        "name": "Quick recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean formulas",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Valuable pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped chest infection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No foul smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:58.366Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

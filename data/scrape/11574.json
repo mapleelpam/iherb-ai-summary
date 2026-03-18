@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11574,
+  "last_updated": "2026-03-20T09:21:37.993Z",
+  "first_scraped": "2026-03-20T09:21:37.993Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Quality supplement, Easy swallow, Improvement noticed, Good dosage, One tablet, Strong nails, Good ingredients, Helpful for mom. Some note: Worth to try.",
+    "tags": [
+      {
+        "name": "Quality supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "One tablet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful for mom",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth to try",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hard to swallow",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:37.993Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

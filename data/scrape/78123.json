@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78123,
+  "last_updated": "2026-03-20T10:15:26.781Z",
+  "first_scraped": "2026-03-20T10:15:26.781Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Intestinal health, Quality probiotic, Nice packing, No upset stomach, Very fast delivery, Relieves constipation, Rare strains, Fast relief. Some note: No side effects, No results.",
+    "tags": [
+      {
+        "name": "Intestinal health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No upset stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rare strains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:26.781Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

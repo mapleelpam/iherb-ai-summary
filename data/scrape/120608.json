@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120608,
+  "last_updated": "2026-03-20T10:07:10.331Z",
+  "first_scraped": "2026-03-20T10:07:10.331Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious taste, Lightweight bar, High protein, Peanut butter, Convenient snack, Tasty bars, Decadent chocolate, Certified kosher.",
+    "tags": [
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lightweight bar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Peanut butter",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty bars",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decadent chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Certified kosher",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not filling",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Dry texture",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:10.331Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23158,
+  "last_updated": "2026-03-20T09:21:13.725Z",
+  "first_scraped": "2026-03-20T09:21:13.725Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin improvement, Stronger nails, Long-lasting bottle, Detox aluminum, Joints feel better, Easy to use, Supports hair, Energy levels. Some note: Not sure, No improvement.",
+    "tags": [
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-lasting bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox aluminum",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joints feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:13.725Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43765,
+  "last_updated": "2026-03-20T09:47:58.445Z",
+  "first_scraped": "2026-03-20T09:47:58.445Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Affordable pricing, Packaging good, Good antioxidant, Effective skin, Overall health, Perfect size, Improvement in skin. Some note: Helpful supplement, Old age.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable pricing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Packaging good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Old age",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:58.445Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

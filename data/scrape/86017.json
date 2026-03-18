@@ -1,0 +1,63 @@
+{
+  "iherb_id": 86017,
+  "last_updated": "2026-03-20T09:50:32.422Z",
+  "first_scraped": "2026-03-20T09:50:32.422Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved rest, Effective sleep, Fast sleep, Helps sleep, Life changer, Love the product, Very helpful. Some note: Easy to use, Love the smell.",
+    "tags": [
+      {
+        "name": "Improved rest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very helpful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Love the smell",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:32.422Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

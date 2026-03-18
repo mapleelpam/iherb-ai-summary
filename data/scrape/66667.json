@@ -1,0 +1,68 @@
+{
+  "iherb_id": 66667,
+  "last_updated": "2026-03-20T10:09:38.201Z",
+  "first_scraped": "2026-03-20T10:09:38.201Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Smooth blend, High protein, Great benefits, Rich chocolate flavour, No bloating, Good results, Effective repair, Favorite option. Some note: Thick consistency.",
+    "tags": [
+      {
+        "name": "Smooth blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich chocolate flavour",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective repair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Favorite option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not great",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Thick consistency",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:38.201Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116320,
+  "last_updated": "2026-03-20T09:53:30.583Z",
+  "first_scraped": "2026-03-20T09:53:30.583Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Vision improvement, Fast shipping, Trusted brands, Sustainable choices, Small tablets, Convenient package, Eye health, Eye strain reduction, Strong macula. Some note: Eye floaters.",
+    "tags": [
+      {
+        "name": "Vision improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brands",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustainable choices",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye strain reduction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong macula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye floaters",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:30.583Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104753,
+  "last_updated": "2026-03-20T10:17:26.558Z",
+  "first_scraped": "2026-03-20T10:17:26.558Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clears congestion, Lung health, Clears phlegm, Highly recommend, Instant relief, Improved endurance, Breathing better, Improvement in allergies. Some note: Expensive brand.",
+    "tags": [
+      {
+        "name": "Clears congestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lung health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clears phlegm",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Instant relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Breathing better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in allergies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not organic",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive brand",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:26.558Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

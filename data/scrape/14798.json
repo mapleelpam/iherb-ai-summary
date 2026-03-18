@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14798,
+  "last_updated": "2026-03-20T09:26:52.557Z",
+  "first_scraped": "2026-03-20T09:26:52.557Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Nutty flavor, Good source, Skin allergy, High omega 3, Affordable option, Mild taste, Good health. Some note: Fresh product.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin allergy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High omega 3",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:52.557Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

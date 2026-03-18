@@ -1,0 +1,68 @@
+{
+  "iherb_id": 36784,
+  "last_updated": "2026-03-20T09:37:23.850Z",
+  "first_scraped": "2026-03-20T09:37:23.850Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No side effects, Good for sleeping, Fast shipping, Mixes easily, Reasonable price, Neutral taste, No flavor, Kosher taste. Some note: Energy production, Economical option.",
+    "tags": [
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for sleeping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kosher taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy production",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Economical option",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:23.850Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

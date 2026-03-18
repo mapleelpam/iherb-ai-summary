@@ -1,0 +1,68 @@
+{
+  "iherb_id": 52805,
+  "last_updated": "2026-03-20T10:12:30.255Z",
+  "first_scraped": "2026-03-20T10:12:30.255Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Energy boost, Impressive benefits, Increased strength, Useful, helpful, Best formula, Losing weight, Muscle gain. Some note: Multiple health issues.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressive benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Useful, helpful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Losing weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle gain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Multiple health issues",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Minimal improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:30.255Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

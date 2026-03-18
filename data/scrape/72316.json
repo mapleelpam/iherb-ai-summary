@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72316,
+  "last_updated": "2026-03-20T09:29:50.589Z",
+  "first_scraped": "2026-03-20T09:29:50.589Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Good combo, Amazing results, Muscle recovery, More energy, Improved circulation, Visible veins, Very satisfied. Some note: Plant-based formula, Excellent l-citruline.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Visible veins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant-based formula",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Excellent l-citruline",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:50.589Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

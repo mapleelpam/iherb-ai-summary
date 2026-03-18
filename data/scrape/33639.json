@@ -1,0 +1,68 @@
+{
+  "iherb_id": 33639,
+  "last_updated": "2026-03-20T09:28:06.953Z",
+  "first_scraped": "2026-03-20T09:28:06.953Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful support, Easy to swallow, Surprising results, Energy level, Clearer focus, Trusted brand, Recommended product, Good set.",
+    "tags": [
+      {
+        "name": "Helpful support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Surprising results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy level",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good set",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight gain",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Low protein",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:06.953Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

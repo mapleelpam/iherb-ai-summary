@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23900,
+  "last_updated": "2026-03-20T10:47:05.292Z",
+  "first_scraped": "2026-03-20T10:47:05.292Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Good vitamin, Helps with PMDD, Balancing hormones, Emotional balance, Feeling much better, Fast service, Best price.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with PMDD",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balancing hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Emotional balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling much better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No urge",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Loose stools",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:47:05.292Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

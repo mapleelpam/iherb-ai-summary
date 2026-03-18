@@ -1,0 +1,68 @@
+{
+  "iherb_id": 82693,
+  "last_updated": "2026-03-20T09:19:42.380Z",
+  "first_scraped": "2026-03-20T09:19:42.380Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Healthy snack, Boosting energy, Nutrient-rich, Digestive improvement, Affordable option, Hot cocoa, Delicious taste, Tasty cacao. Some note: Bitter taste, Tasty and healthy.",
+    "tags": [
+      {
+        "name": "Healthy snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrient-rich",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hot cocoa",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty cacao",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Tasty and healthy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:42.380Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118481,
+  "last_updated": "2026-03-20T10:01:15.420Z",
+  "first_scraped": "2026-03-20T10:01:15.420Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy on the gut, Digestive health, Improvements seen, Comfortable feel, Microbiome balance, Affordable option, IBS forever, Effective supplement.",
+    "tags": [
+      {
+        "name": "Easy on the gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvements seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comfortable feel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Microbiome balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "IBS forever",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Switching back",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Constipation issues",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:15.420Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

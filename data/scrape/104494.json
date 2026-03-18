@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104494,
+  "last_updated": "2026-03-20T10:10:13.223Z",
+  "first_scraped": "2026-03-20T10:10:13.223Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increases mood, Benefit is good, Calm feeling, Good results, Improvement seen, Helps focus, Feel relaxed, Clean ingredients.",
+    "tags": [
+      {
+        "name": "Increases mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit is good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calm feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel relaxed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Didn't work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Waste of money",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:13.223Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

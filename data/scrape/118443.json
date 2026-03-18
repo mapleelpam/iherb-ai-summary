@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118443,
+  "last_updated": "2026-03-20T09:49:48.235Z",
+  "first_scraped": "2026-03-20T09:49:48.235Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Health benefits, Nice formula, Helps control, Great supplement, Convenient dosing, Fast shipping, Dark capsules, Blood sugar.",
+    "tags": [
+      {
+        "name": "Health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dosing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dark capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste preference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Filler issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:48.235Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

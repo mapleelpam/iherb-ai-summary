@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108486,
+  "last_updated": "2026-03-20T09:57:53.149Z",
+  "first_scraped": "2026-03-20T09:57:53.149Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Like cinnamon, Delicious taste, Plum-like taste, Antioxidant benefits, Great color, Tasty and energizing, Buy again, Good for.",
+    "tags": [
+      {
+        "name": "Like cinnamon",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plum-like taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great color",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty and energizing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buy again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Damp texture",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:53.149Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

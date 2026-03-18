@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108588,
+  "last_updated": "2026-03-20T10:34:10.119Z",
+  "first_scraped": "2026-03-20T10:34:10.119Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High energy, Superb taste, Morning routine, Energy boost, Game-changer, Great composition, Effective blend, No caffeine, Solid benefit. Some note: Large dosage.",
+    "tags": [
+      {
+        "name": "High energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superb taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning routine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No caffeine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Solid benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:34:10.119Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

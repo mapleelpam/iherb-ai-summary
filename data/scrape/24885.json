@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24885,
+  "last_updated": "2026-03-20T09:39:24.371Z",
+  "first_scraped": "2026-03-20T09:39:24.371Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty protein, Easy dissolve, no bloating, Nice taste, Easily dissolves, Great blend, Impressive nutritional profile, Best flavor, Balanced taste. Some note: Value for money.",
+    "tags": [
+      {
+        "name": "Tasty protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dissolve, no bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easily dissolves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressive nutritional profile",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:24.371Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67039,
+  "last_updated": "2026-03-20T09:53:07.287Z",
+  "first_scraped": "2026-03-20T09:53:07.287Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Improved circulation, Well packed, Protect arteries, Good composition, Expensive but effective, Value health, Excellent formula. Some note: Flawless transaction, Good dosage.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protect arteries",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flawless transaction",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:07.287Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

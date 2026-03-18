@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1730,
+  "last_updated": "2026-03-20T10:00:53.478Z",
+  "first_scraped": "2026-03-20T10:00:53.478Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love brand, Helps detox, Extra energy boost, Game-changer, Liver detox, Respiratory health, Full recommendation, Improved immunity. Some note: Large capsule.",
+    "tags": [
+      {
+        "name": "Love brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Respiratory health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Full recommendation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large capsule",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:53.478Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

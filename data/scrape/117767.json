@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117767,
+  "last_updated": "2026-03-20T10:00:57.492Z",
+  "first_scraped": "2026-03-20T10:00:57.492Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Eye health, Small size, Good vision, Trusted brand, Reduce eye strain, Less pain, Good ingredients. Some note: Needs time, Proactive supplement.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce eye strain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Needs time",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Proactive supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:57.492Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

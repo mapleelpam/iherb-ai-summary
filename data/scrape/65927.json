@@ -1,0 +1,68 @@
+{
+  "iherb_id": 65927,
+  "last_updated": "2026-03-20T10:15:41.936Z",
+  "first_scraped": "2026-03-20T10:15:41.936Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Good choice, Great energy, Potent formula, Great feeling, Really works, Packaging perfect, Big size. Some note: Same ingredients, Strange taste.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Really works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Packaging perfect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Same ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strange taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:41.936Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

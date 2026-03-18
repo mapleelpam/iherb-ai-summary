@@ -1,0 +1,68 @@
+{
+  "iherb_id": 140227,
+  "last_updated": "2026-03-20T09:43:30.440Z",
+  "first_scraped": "2026-03-20T09:43:30.440Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Value for money, Helps lose weight, Belt notches, Highly recommend, Fast shipping, Fat burner, Higher dosage, Helps manage. Some note: Dosage was okey.",
+    "tags": [
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps lose weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Belt notches",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat burner",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps manage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not for me",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Dosage was okey",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:30.440Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

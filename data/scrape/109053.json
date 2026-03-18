@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109053,
+  "last_updated": "2026-03-20T09:59:06.872Z",
+  "first_scraped": "2026-03-20T09:59:06.872Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Bone health, Small container, Love love love, Easy to swallow, Benefit cardiovascular, Artery health, Small size, Packaging perfect. Some note: Surprised at size, Heart issue.",
+    "tags": [
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small container",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love love love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit cardiovascular",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Artery health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Packaging perfect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Surprised at size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Heart issue",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:06.872Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

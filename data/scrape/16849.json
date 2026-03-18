@@ -1,0 +1,68 @@
+{
+  "iherb_id": 16849,
+  "last_updated": "2026-03-20T09:44:38.534Z",
+  "first_scraped": "2026-03-20T09:44:38.534Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Strawberry flavor, Preventative solution, Fresh taste, Easy to take, Children liked, Big bottle, Relieves constipation, Tasty liquid. Some note: Relaxed muscles.",
+    "tags": [
+      {
+        "name": "Strawberry flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventative solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Children liked",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty liquid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Relaxed muscles",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:38.534Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

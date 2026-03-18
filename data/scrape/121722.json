@@ -1,0 +1,68 @@
+{
+  "iherb_id": 121722,
+  "last_updated": "2026-03-20T09:57:17.668Z",
+  "first_scraped": "2026-03-20T09:57:17.668Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High potency, Improvement seen, Natural type, Effective supplement, Good replacement, Hair coming back, Good results, Stronger nails. Some note: Hormone shifts.",
+    "tags": [
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural type",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good replacement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair coming back",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair loss",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hormone shifts",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:17.668Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

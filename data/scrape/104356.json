@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104356,
+  "last_updated": "2026-03-20T10:24:38.723Z",
+  "first_scraped": "2026-03-20T10:24:38.723Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost immunity, Joint improvement, Affordable option, Competitive price, Effective supplement, Immune health, Good ingredients, Easy to swallow. Some note: Average results.",
+    "tags": [
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Competitive price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Average results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too many capsules",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:38.723Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

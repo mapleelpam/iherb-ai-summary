@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11501,
+  "last_updated": "2026-03-20T10:01:48.185Z",
+  "first_scraped": "2026-03-20T10:01:48.185Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural alternative, Positive impact, Reasonable price, Easy swallow, Bottle size, Lower blood pressure, Stopped medication, Reduces levels. Some note: High five.",
+    "tags": [
+      {
+        "name": "Natural alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bottle size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped medication",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High five",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Side effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:48.185Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

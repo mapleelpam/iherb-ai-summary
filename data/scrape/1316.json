@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1316,
+  "last_updated": "2026-03-20T10:36:36.342Z",
+  "first_scraped": "2026-03-20T10:36:36.342Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Relieves pain, Highly recommend, Easy consumption, Best supplement, Reduces stiffness, Works great, Effective blend, Less swelling.",
+    "tags": [
+      {
+        "name": "Relieves pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy consumption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces stiffness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less swelling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Large tablets",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:36:36.342Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

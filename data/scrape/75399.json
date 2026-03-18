@@ -1,0 +1,68 @@
+{
+  "iherb_id": 75399,
+  "last_updated": "2026-03-20T10:13:34.144Z",
+  "first_scraped": "2026-03-20T10:13:34.144Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Support energy, Liver cleanse, Gallstone relief, Stomach digestion, Easy swallow, Digestive health, Gall bladder, Better sleep.",
+    "tags": [
+      {
+        "name": "Support energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gallstone relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gall bladder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Nasty ingredients",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:34.144Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

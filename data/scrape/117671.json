@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117671,
+  "last_updated": "2026-03-20T09:31:07.539Z",
+  "first_scraped": "2026-03-20T09:31:07.539Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Mood improvement, Natural support, Effective herb, Manageable stress, High in active, Positive benefit, Vitamin D supply.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Manageable stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High in active",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin D supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No mood change",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sticks throat",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:07.539Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

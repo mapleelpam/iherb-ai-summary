@@ -1,0 +1,68 @@
+{
+  "iherb_id": 41348,
+  "last_updated": "2026-03-20T09:22:25.820Z",
+  "first_scraped": "2026-03-20T09:22:25.820Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Supports cardiovascular, Positive impact, Skin looks better, Anti-inflammatory properties, High potency, Good alternative, Boosted energy, Great antioxidant. Some note: Not convinced.",
+    "tags": [
+      {
+        "name": "Supports cardiovascular",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin looks better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not convinced",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Brown color",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:25.820Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

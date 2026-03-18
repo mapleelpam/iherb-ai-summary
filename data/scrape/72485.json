@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72485,
+  "last_updated": "2026-03-20T10:09:45.266Z",
+  "first_scraped": "2026-03-20T10:09:45.266Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Green better, Clean taste, Tastes good, Sweet taste, No texture, Best vegan protein, Pure protein, Simple ingredients.",
+    "tags": [
+      {
+        "name": "Green better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best vegan protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Simple ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chalky flavor",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Missing profile",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:45.266Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

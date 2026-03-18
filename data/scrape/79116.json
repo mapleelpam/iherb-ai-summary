@@ -1,0 +1,68 @@
+{
+  "iherb_id": 79116,
+  "last_updated": "2026-03-20T10:17:48.612Z",
+  "first_scraped": "2026-03-20T10:17:48.612Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Easy to take, Delicious option, Tasty flavor, Good taste, Doctor recommended, Suitable size, Fascinated gummies.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doctor recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suitable size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fascinated gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "GI issues",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too strong",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:48.612Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "iherb_id": 79836,
+  "last_updated": "2026-03-20T09:32:27.923Z",
+  "first_scraped": "2026-03-20T09:32:27.923Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trusted brand, Effective sleep, Powerful duo, Fast sleep, Bigger dosage, Easy to swallow, Fall asleep. Some note: Restful nights, Helps sleep.",
+    "tags": [
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful duo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bigger dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fall asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restful nights",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:27.923Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

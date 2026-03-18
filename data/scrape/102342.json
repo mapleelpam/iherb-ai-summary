@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102342,
+  "last_updated": "2026-03-20T09:23:31.831Z",
+  "first_scraped": "2026-03-20T09:23:31.831Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good purchase, Boost immune, Non acidic, Gentle option, Improved health, Stomach friendly, Great form, Affordable. Some note: Local store, Good for immunity.",
+    "tags": [
+      {
+        "name": "Good purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Non acidic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Local store",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good for immunity",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:31.831Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

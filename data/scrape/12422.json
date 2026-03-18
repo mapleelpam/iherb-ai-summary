@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12422,
+  "last_updated": "2026-03-20T09:23:36.772Z",
+  "first_scraped": "2026-03-20T09:23:36.772Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved circulation, Made a difference, Minimize spider veins, Leg heaviness reduced, Affordable and well-packed, Relieved hemorrhoids, Significant reduction, High content. Some note: Long time, Not much effect.",
+    "tags": [
+      {
+        "name": "Improved circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Made a difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Minimize spider veins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Leg heaviness reduced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable and well-packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieved hemorrhoids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Significant reduction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long time",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not much effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:36.772Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 699,
+  "last_updated": "2026-03-20T09:25:49.286Z",
+  "first_scraped": "2026-03-20T09:25:49.286Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient softgel, Impressive dosage, Good composition, Great tan, Powerful antioxidant, Eye health, High benefit, Boosting immune. Some note: Trust brand, Effective option.",
+    "tags": [
+      {
+        "name": "Convenient softgel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressive dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great tan",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective option",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:49.286Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

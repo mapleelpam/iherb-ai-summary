@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12528,
+  "last_updated": "2026-03-20T10:14:28.005Z",
+  "first_scraped": "2026-03-20T10:14:28.005Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hair growth, Stronger nails, Vegan capsules, Clean ingredients, Supports health, Fast shipping, Whole foods, Fuller hair. Some note: Can't remember.",
+    "tags": [
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Whole foods",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fuller hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acne breakouts",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Can't remember",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:28.005Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

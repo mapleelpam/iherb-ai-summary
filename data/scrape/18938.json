@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18938,
+  "last_updated": "2026-03-20T09:37:59.381Z",
+  "first_scraped": "2026-03-20T09:37:59.381Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No cold sores, Quick results, Good antiviral, Easy swallow, Helps greatly, Great composition, Clearing skin, Boost immune.",
+    "tags": [
+      {
+        "name": "No cold sores",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antiviral",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps greatly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearing skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Angry skin",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tablet color",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:59.381Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

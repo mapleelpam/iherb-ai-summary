@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116587,
+  "last_updated": "2026-03-20T09:20:39.010Z",
+  "first_scraped": "2026-03-20T09:20:39.010Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No fishy aftertaste, Great supplement, Healthy heart, Easy tolerate, Good stuff, Improved mood, Heavy metals removed, Brain health. Some note: Easy to digest.",
+    "tags": [
+      {
+        "name": "No fishy aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy tolerate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heavy metals removed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to swallow",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Easy to digest",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:39.010Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

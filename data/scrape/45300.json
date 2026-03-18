@@ -1,0 +1,68 @@
+{
+  "iherb_id": 45300,
+  "last_updated": "2026-03-20T10:11:24.599Z",
+  "first_scraped": "2026-03-20T10:11:24.599Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves focus, Natural ingredients, Improvement seen, Improves eyesight, Surprisingly worked, Lift in mood, Organic brand, Organic, appropriate size, Easy swallow, Similar product.",
+    "tags": [
+      {
+        "name": "Improves focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves eyesight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Surprisingly worked",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lift in mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic, appropriate size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Similar product",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:24.599Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

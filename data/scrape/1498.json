@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1498,
+  "last_updated": "2026-03-20T10:04:16.973Z",
+  "first_scraped": "2026-03-20T10:04:16.973Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural ingredients, Good for emergencies, Relieves quickly, Stable choice, Soothes throat, Effective spray, Throat comfort, Worth it, Helpful for smokers, Soothing relief.",
+    "tags": [
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for emergencies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stable choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soothes throat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective spray",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Throat comfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful for smokers",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soothing relief",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:16.973Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

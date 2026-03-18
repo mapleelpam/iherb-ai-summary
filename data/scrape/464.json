@@ -1,0 +1,68 @@
+{
+  "iherb_id": 464,
+  "last_updated": "2026-03-20T09:46:37.518Z",
+  "first_scraped": "2026-03-20T09:46:37.518Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good combination, Absorption improved, Rate of recovery, Easy to swallow, Sleep aid, Super product, Speed up metabolism, Prompt delivery, Good amount. Some note: New product.",
+    "tags": [
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorption improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rate of recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speed up metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "New product",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:37.518Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

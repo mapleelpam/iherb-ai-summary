@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117883,
+  "last_updated": "2026-03-20T10:11:04.526Z",
+  "first_scraped": "2026-03-20T10:11:04.526Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Heart health support, Less dry skin, Hormone balance, Thicker hair, Painless period, High potency, Minimal smell, Hair growth, Doctor approved, Symptom improvement.",
+    "tags": [
+      {
+        "name": "Heart health support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less dry skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormone balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thicker hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Painless period",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Minimal smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doctor approved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Symptom improvement",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:04.526Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

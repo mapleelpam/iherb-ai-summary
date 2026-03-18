@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14209,
+  "last_updated": "2026-03-20T09:29:49.652Z",
+  "first_scraped": "2026-03-20T09:29:49.652Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective brand, No side effects, Good vitamin, Good price, Good scent, Great choice, Blood flow, Easy to swallow.",
+    "tags": [
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood flow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sex life",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Memory issues",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:49.652Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

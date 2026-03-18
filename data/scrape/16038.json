@@ -1,0 +1,68 @@
+{
+  "iherb_id": 16038,
+  "last_updated": "2026-03-20T10:14:04.350Z",
+  "first_scraped": "2026-03-20T10:14:04.350Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No aftertaste, Joint relief, Cholesterol management, Easy to take, Highly recommend, Reasonable prices, Heart health, Stomach relief, Delayed release.",
+    "tags": [
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable prices",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delayed release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Exceeded PCB limits",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:04.350Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

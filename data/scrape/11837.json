@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11837,
+  "last_updated": "2026-03-20T10:28:56.366Z",
+  "first_scraped": "2026-03-20T10:28:56.366Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune booster, Reliable extract, Helped with inflammation, Fast ship, Very strong taste, Anti bacteria, Smells great, Natural defenses.",
+    "tags": [
+      {
+        "name": "Immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped with inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast ship",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very strong taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti bacteria",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smells great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural defenses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes awful",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Alcohol content",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:56.366Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101190,
+  "last_updated": "2026-03-20T09:27:39.025Z",
+  "first_scraped": "2026-03-20T09:27:39.025Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Revitalized feeling, Helps mom, Good complex, Easy to swallow, Complete formula, No side effects, Impressive results. Some note: More options, Good choice.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Revitalized feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps mom",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good complex",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressive results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More options",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:39.025Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

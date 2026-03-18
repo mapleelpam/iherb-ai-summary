@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2547,
+  "last_updated": "2026-03-20T09:29:45.768Z",
+  "first_scraped": "2026-03-20T09:29:45.768Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Economy pack, Trusted brand, Immune system, Capsule size, Fast results, Sulphur issue, Less inflammation, Tinnitus relief. Some note: Neutral impression, Easy to swallow.",
+    "tags": [
+      {
+        "name": "Economy pack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Capsule size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sulphur issue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tinnitus relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral impression",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:45.768Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

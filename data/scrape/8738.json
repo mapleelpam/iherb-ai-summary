@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8738,
+  "last_updated": "2026-03-20T09:18:10.165Z",
+  "first_scraped": "2026-03-20T09:18:10.165Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fall asleep, Helps sleep, Good ingredient, Effective dosage, Good results, Sleeps longer, Easy swallow, Moderately sleepy. Some note: Sleep supplement, Easy sleep.",
+    "tags": [
+      {
+        "name": "Fall asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleeps longer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moderately sleepy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy sleep",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:10.165Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 19565,
+  "last_updated": "2026-03-20T09:55:01.554Z",
+  "first_scraped": "2026-03-20T09:55:01.554Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stronger hair, Good vitamin, New growth, Hair growth, Fair price, Safe choice, Doctor approval, Blood sugar. Some note: Minor results.",
+    "tags": [
+      {
+        "name": "Stronger hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "New growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doctor approval",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin reaction",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Minor results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:01.554Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

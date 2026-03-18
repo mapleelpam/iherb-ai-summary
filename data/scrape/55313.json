@@ -1,0 +1,68 @@
+{
+  "iherb_id": 55313,
+  "last_updated": "2026-03-20T10:09:45.266Z",
+  "first_scraped": "2026-03-20T10:09:45.266Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Best garlic supplement, Boosting energy, Health improvement, Good ingredients, Digestion support, USA grown, Good substitute, Easy to take. Some note: Nicely pack, Not very pungent.",
+    "tags": [
+      {
+        "name": "Best garlic supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "USA grown",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good substitute",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nicely pack",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not very pungent",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:45.266Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 52557,
+  "last_updated": "2026-03-20T09:57:14.620Z",
+  "first_scraped": "2026-03-20T09:57:14.620Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Alleviated pain, Kidney stones, Amazing supplement, Liver tune-up, Works great, Positive experience, Trusted brand, Highly recommend. Some note: Still testing.",
+    "tags": [
+      {
+        "name": "Alleviated pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kidney stones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver tune-up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive experience",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Leg cramps",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Still testing",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:14.620Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

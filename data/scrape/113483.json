@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113483,
+  "last_updated": "2026-03-20T10:26:39.521Z",
+  "first_scraped": "2026-03-20T10:26:39.521Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trusted company, Highly satisfied, Rediscover strength, Fast acting, Actually work, Blood circulation, Easy to swallow, Big pills. Some note: High dosage.",
+    "tags": [
+      {
+        "name": "Trusted company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rediscover strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast acting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Actually work",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Increased heart rate",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:39.521Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1831,
+  "last_updated": "2026-03-20T09:45:20.716Z",
+  "first_scraped": "2026-03-20T09:45:20.716Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Large quantity, Works great, Natural solution, Easy swallow, Detox source, Love the product, Fast shipping, Natural laxative.",
+    "tags": [
+      {
+        "name": "Large quantity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural laxative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low potency",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:20.716Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

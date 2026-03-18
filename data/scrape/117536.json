@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117536,
+  "last_updated": "2026-03-20T09:37:19.806Z",
+  "first_scraped": "2026-03-20T09:37:19.806Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Noticed improvement, Subtle improvement, Improves sleep, Feel happier, Helps uplift mood, Easy to swallow, Balancing effect, Helps relax. Some note: Effective supplement.",
+    "tags": [
+      {
+        "name": "Noticed improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Subtle improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel happier",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps uplift mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balancing effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps relax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Photosensitivity reactions",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:19.806Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

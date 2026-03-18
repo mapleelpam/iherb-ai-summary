@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113460,
+  "last_updated": "2026-03-20T09:32:45.741Z",
+  "first_scraped": "2026-03-20T09:32:45.741Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Yummy flavor, Yummy gummies, Taste good, Skin soft, Delicious vegan, Convenient option, Stronger nails, Supports hair health. Some note: Easy to use, Hair looks healthier.",
+    "tags": [
+      {
+        "name": "Yummy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin soft",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious vegan",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports hair health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hair looks healthier",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:45.741Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

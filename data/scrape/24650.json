@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24650,
+  "last_updated": "2026-03-20T10:08:46.137Z",
+  "first_scraped": "2026-03-20T10:08:46.137Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast acting, Pleasant taste, Long-term use, Sleep aid, Easy to take, Trusted brand, Prompt service, Fast sleep. Some note: Orange flavor.",
+    "tags": [
+      {
+        "name": "Fast acting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-term use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Orange flavor",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:46.137Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

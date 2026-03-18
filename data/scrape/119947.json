@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119947,
+  "last_updated": "2026-03-20T10:26:58.305Z",
+  "first_scraped": "2026-03-20T10:26:58.305Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Hair growth, Helpful product, Prostate health, Urinary function, Clean product, Improvement noticed, Relaxed stomach, Hair support formula, Testosterone boost.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prostate health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Urinary function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxed stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair support formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Testosterone boost",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:58.305Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

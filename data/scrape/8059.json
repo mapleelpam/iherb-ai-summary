@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8059,
+  "last_updated": "2026-03-20T10:12:05.209Z",
+  "first_scraped": "2026-03-20T10:12:05.209Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Allergy relief, Pain relief, Works for me, Helped me, Ammonia levels, Super concentrated, Pure ingredients, Hair growth, Premium ingredients.",
+    "tags": [
+      {
+        "name": "Allergy relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ammonia levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super concentrated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Premium ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Minimal improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:05.209Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

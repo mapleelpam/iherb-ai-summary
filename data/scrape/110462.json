@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110462,
+  "last_updated": "2026-03-20T09:31:01.187Z",
+  "first_scraped": "2026-03-20T09:31:01.187Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pleasant taste, Fast shipping, Efficient way, Healthy joints, Easy to consume, Value purchase, Sweet aftertaste, Boost in energy. Some note: Love the combination, Strong taste.",
+    "tags": [
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to consume",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost in energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the combination",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:01.187Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

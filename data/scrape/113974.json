@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113974,
+  "last_updated": "2026-03-20T10:22:06.471Z",
+  "first_scraped": "2026-03-20T10:22:06.471Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less tired, Clean energy, Affordable option, Taste acceptable, Pure ingredients, Immune support, Real deal, Good sleep. Some note: No added.",
+    "tags": [
+      {
+        "name": "Less tired",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste acceptable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No added",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Very bitter",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:06.471Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

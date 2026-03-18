@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111041,
+  "last_updated": "2026-03-20T10:00:01.992Z",
+  "first_scraped": "2026-03-20T10:00:01.992Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious flavor, Works well, High potency, Good price, Good dose, Well-utilized form, Increase energy, Good taste. Some note: Out of stock, Satisfied user.",
+    "tags": [
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well-utilized form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Out of stock",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Satisfied user",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:01.992Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

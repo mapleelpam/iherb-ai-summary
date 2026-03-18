@@ -1,0 +1,68 @@
+{
+  "iherb_id": 133580,
+  "last_updated": "2026-03-20T09:52:58.443Z",
+  "first_scraped": "2026-03-20T09:52:58.443Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trusted brand, Great supplement, Bone health, Good ingredients, Comparable size, Comprehensive nutrition, Vital vitamins, Improved appetite, Good energy, Immune support.",
+    "tags": [
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comparable size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comprehensive nutrition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vital vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:58.443Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 79933,
+  "last_updated": "2026-03-20T09:41:17.768Z",
+  "first_scraped": "2026-03-20T09:41:17.768Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lemony flavor, High effect, Recommended by doctor, High dose, Skin improvement, No fishy, Satisfied, Energy boost. Some note: High potency.",
+    "tags": [
+      {
+        "name": "Lemony flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended by doctor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Packaging issue",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:17.768Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

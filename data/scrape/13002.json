@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13002,
+  "last_updated": "2026-03-20T09:40:23.599Z",
+  "first_scraped": "2026-03-20T09:40:23.599Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reduce gas, Fast shipping, Less swelling, Varicose veins improvement, Affordable, recommended, Visible results, Easy to swallow, Relieves pain.",
+    "tags": [
+      {
+        "name": "Reduce gas",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less swelling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Varicose veins improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable, recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Visible results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not noticed",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not getting worse",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:23.599Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

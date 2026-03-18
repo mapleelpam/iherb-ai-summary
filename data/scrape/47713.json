@@ -1,0 +1,68 @@
+{
+  "iherb_id": 47713,
+  "last_updated": "2026-03-20T10:21:44.079Z",
+  "first_scraped": "2026-03-20T10:21:44.079Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Helped a lot, Stronger nails, Relieved arthritis, Anti-inflammatory effect, Increases concentration, Clean ingredients, Helps back pain. Some note: Proper dose.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped a lot",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieved arthritis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increases concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps back pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Proper dose",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:44.079Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

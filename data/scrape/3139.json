@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3139,
+  "last_updated": "2026-03-20T10:05:51.074Z",
+  "first_scraped": "2026-03-20T10:05:51.074Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nutrient dense, Improved energy, Love this, Feel great, Green powder, Impressive array, Convenient boost, Great stuff. Some note: Taste is.",
+    "tags": [
+      {
+        "name": "Nutrient dense",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Green powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressive array",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Little pricey",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Taste is",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:51.074Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110043,
+  "last_updated": "2026-03-20T10:32:45.025Z",
+  "first_scraped": "2026-03-20T10:32:45.025Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient aid, Helps relax, Good results, Improves sleep, Organic passionflower, Enhances rest, Nice dreams, Accumulating effect. Some note: Waiting for it.",
+    "tags": [
+      {
+        "name": "Convenient aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps relax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic passionflower",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhances rest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice dreams",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Accumulating effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not much",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Waiting for it",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:45.025Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24077,
+  "last_updated": "2026-03-20T10:34:28.957Z",
+  "first_scraped": "2026-03-20T10:34:28.957Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved sleep, Inflammation blocker, Joint pain control, Less inflammation, Gout relief, Fast shipping, Acceptable level, Knee pain.",
+    "tags": [
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inflammation blocker",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gout relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acceptable level",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Knee pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decreased consistency",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Country origin",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:34:28.957Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

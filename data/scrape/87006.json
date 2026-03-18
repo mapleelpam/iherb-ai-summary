@@ -1,0 +1,68 @@
+{
+  "iherb_id": 87006,
+  "last_updated": "2026-03-20T09:34:51.934Z",
+  "first_scraped": "2026-03-20T09:34:51.934Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fantastic recovery, More energy, Effective blend, Restful nights, Sleep improvement, Very suitable price, Convenient size, Nice ingredients. Some note: Excellent additive, Enhanced rest.",
+    "tags": [
+      {
+        "name": "Fantastic recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restful nights",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very suitable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Enhanced rest",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:51.934Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

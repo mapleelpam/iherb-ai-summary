@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105923,
+  "last_updated": "2026-03-20T09:53:49.427Z",
+  "first_scraped": "2026-03-20T09:53:49.427Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Fantastic supplement, High dosage, Detox support, Easy to use, Test results, Fast shipping, High concentration. Some note: Small pill.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Test results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yellow nails",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Small pill",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:49.427Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

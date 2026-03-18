@@ -1,0 +1,68 @@
+{
+  "iherb_id": 130976,
+  "last_updated": "2026-03-20T10:27:10.379Z",
+  "first_scraped": "2026-03-20T10:27:10.379Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Beautiful, soothing, Significant improvement, Better sleep, Relaxing effect, Tumor shrunk, Game changer, Calm mind, Anxiety relief. Some note: Mild effect.",
+    "tags": [
+      {
+        "name": "Beautiful, soothing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Significant improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxing effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tumor shrunk",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calm mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Mild effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:10.379Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

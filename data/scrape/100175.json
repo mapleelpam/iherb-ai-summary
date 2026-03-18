@@ -1,0 +1,68 @@
+{
+  "iherb_id": 100175,
+  "last_updated": "2026-03-20T10:13:11.558Z",
+  "first_scraped": "2026-03-20T10:13:11.558Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost immunity, Kids love, Soft and tangy, Sleep support, Tasty supplement, Feel good, Delivered quickly, Good sleep, Clear acne. Some note: Works perfect.",
+    "tags": [
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soft and tangy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delivered quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear acne",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works perfect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:11.558Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

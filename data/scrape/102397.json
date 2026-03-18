@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102397,
+  "last_updated": "2026-03-20T09:18:35.634Z",
+  "first_scraped": "2026-03-20T09:18:35.634Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to use, A very good, Non-acidic, gentle, Buffered gold C, Improved mood, Gentle on stomach, Boosting immunity, Convenient option. Some note: Great vitamin C, Dissolves easily.",
+    "tags": [
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "A very good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Non-acidic, gentle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buffered gold C",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great vitamin C",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Dissolves easily",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:35.634Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113065,
+  "last_updated": "2026-03-20T09:47:07.299Z",
+  "first_scraped": "2026-03-20T09:47:07.299Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this, Headache relief, Fast shipping, Yummiest taste, Nice flavor, Tasty & nice, Multi vitamins, Biotin composition. Some note: Fast growth.",
+    "tags": [
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Headache relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummiest taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty & nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Multi vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Biotin composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast growth",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Thinning hair",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:07.299Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

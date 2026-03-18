@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15852,
+  "last_updated": "2026-03-20T09:21:03.333Z",
+  "first_scraped": "2026-03-20T09:21:03.333Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Natural vitamins, High energy, Raw and natural, Good vitamin, Highly recommend, Good ingredients, Improved mood. Some note: Low dose.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Raw and natural",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inconsistent quality",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Low dose",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:03.333Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

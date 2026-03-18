@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2075,
+  "last_updated": "2026-03-20T09:50:46.358Z",
+  "first_scraped": "2026-03-20T09:50:46.358Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Natural laxative, Works wonder, Easy to swallow, Highly recommend, Helps go, Gentler on, Convenient packaging.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural laxative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps go",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentler on",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not strong",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:46.358Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

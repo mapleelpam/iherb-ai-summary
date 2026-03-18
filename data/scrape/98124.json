@@ -1,0 +1,68 @@
+{
+  "iherb_id": 98124,
+  "last_updated": "2026-03-20T10:20:36.122Z",
+  "first_scraped": "2026-03-20T10:20:36.122Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Caffeine buzz, Stevia taste, Not too sweet, Essential vegan, Good taste, No crash, Tastes amazing, Clean energy. Some note: Boost of energy.",
+    "tags": [
+      {
+        "name": "Caffeine buzz",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stevia taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not too sweet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential vegan",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No crash",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost of energy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Artificial sweetener",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:36.122Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

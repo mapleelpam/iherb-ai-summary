@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116590,
+  "last_updated": "2026-03-20T09:23:21.772Z",
+  "first_scraped": "2026-03-20T09:23:21.772Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Good results, Helps with sleep, Convenient size, Easy to swallow, Quality sleep, Value for money, Effective medication. Some note: Good night.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective medication",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good night",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Weak results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:21.772Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

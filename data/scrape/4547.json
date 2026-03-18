@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4547,
+  "last_updated": "2026-03-20T09:52:31.661Z",
+  "first_scraped": "2026-03-20T09:52:31.661Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Eye supplement, Clean ingredients, Improved health, Stopped degeneration, Less tired, Works great, Smells okay, Support vision. Some note: Decent performance.",
+    "tags": [
+      {
+        "name": "Eye supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped degeneration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less tired",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smells okay",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent performance",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:31.661Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

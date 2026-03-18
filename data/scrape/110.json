@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110,
+  "last_updated": "2026-03-20T09:22:37.574Z",
+  "first_scraped": "2026-03-20T09:22:37.574Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Take with food, Ideal dosages, Effective supplement, Methylated b-12, Trusted manufacturer, Broad spectrum, Great for stress, Good balance. Some note: Niacin flush.",
+    "tags": [
+      {
+        "name": "Take with food",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ideal dosages",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Methylated b-12",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted manufacturer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Broad spectrum",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Niacin flush",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Upset stomach",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:37.574Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

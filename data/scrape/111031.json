@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111031,
+  "last_updated": "2026-03-20T10:07:30.816Z",
+  "first_scraped": "2026-03-20T10:07:30.816Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Best price, Powerful antioxidant, Fast shipping, High potency, More energy, Good choice, Anti-aging effects, Skin improvement. Some note: Brown capsules.",
+    "tags": [
+      {
+        "name": "Best price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-aging effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brown capsules",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:30.816Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

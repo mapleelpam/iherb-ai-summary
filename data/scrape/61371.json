@@ -1,0 +1,68 @@
+{
+  "iherb_id": 61371,
+  "last_updated": "2026-03-20T10:15:03.030Z",
+  "first_scraped": "2026-03-20T10:15:03.030Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Bio-available form, Affordable option, Real fish oil, Easy to swallow, Effective omega-3, Initial gladness, High dosage, No taste, potent, Increased dha/epa.",
+    "tags": [
+      {
+        "name": "Bio-available form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real fish oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective omega-3",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Initial gladness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste, potent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased dha/epa",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big pills",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:03.030Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

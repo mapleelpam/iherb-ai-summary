@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10682,
+  "last_updated": "2026-03-20T09:43:24.172Z",
+  "first_scraped": "2026-03-20T09:43:24.172Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice price, Calming stress, Good addition, Helps a lot, Rejuvenating alertness, Better sleep, Happy with, Aching muscles. Some note: No major difference, Wonderful.",
+    "tags": [
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps a lot",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rejuvenating alertness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Aching muscles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No major difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Wonderful",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:24.172Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

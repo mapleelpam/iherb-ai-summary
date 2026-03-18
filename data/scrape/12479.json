@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12479,
+  "last_updated": "2026-03-20T10:11:30.129Z",
+  "first_scraped": "2026-03-20T10:11:30.129Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Heart palpitations, Heart health, Easy digestion, Natural supplement, Beneficial effect, Powerful herb, Good for heart, Maintain health.",
+    "tags": [
+      {
+        "name": "Heart palpitations",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Water retention",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive supplement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:30.129Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

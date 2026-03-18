@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86956,
+  "last_updated": "2026-03-20T09:24:21.623Z",
+  "first_scraped": "2026-03-20T09:24:21.623Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No b12, Easy to swallow, Improved energy levels, Boosting metabolism, Energy boost, Good choice, Natural ingredients, Helping me. Some note: High energy, Depends on goals.",
+    "tags": [
+      {
+        "name": "No b12",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helping me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High energy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Depends on goals",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:21.623Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

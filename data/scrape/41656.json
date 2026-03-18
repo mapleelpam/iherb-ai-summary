@@ -1,0 +1,68 @@
+{
+  "iherb_id": 41656,
+  "last_updated": "2026-03-20T10:10:04.672Z",
+  "first_scraped": "2026-03-20T10:10:04.672Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stops tummy aches, Assisted digestion, Life changer, Helps digestion, Effective brand, No bloating, Reduce symptom, Works wonders. Some note: Swelling gone.",
+    "tags": [
+      {
+        "name": "Stops tummy aches",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Assisted digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce symptom",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Swelling gone",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Dosage unclear",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:04.672Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

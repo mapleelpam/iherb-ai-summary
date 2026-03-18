@@ -1,0 +1,68 @@
+{
+  "iherb_id": 47812,
+  "last_updated": "2026-03-20T09:50:08.152Z",
+  "first_scraped": "2026-03-20T09:50:08.152Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mental focus, Improved focus, Satisfied customer, Mood enhancement, Positive mood, Tanning benefits, Good energy, Works well. Some note: Long term, Fast delivery.",
+    "tags": [
+      {
+        "name": "Mental focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied customer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood enhancement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tanning benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long term",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:08.152Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

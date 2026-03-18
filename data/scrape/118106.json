@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118106,
+  "last_updated": "2026-03-20T10:00:11.722Z",
+  "first_scraped": "2026-03-20T10:00:11.722Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good antioxidant, Affordable pricing, Value for money, Skin friendly, Skin health, Budget option, Good alternative, High potency. Some note: Belly course.",
+    "tags": [
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable pricing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Budget option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Belly course",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:11.722Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

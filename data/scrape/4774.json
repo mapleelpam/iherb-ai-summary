@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4774,
+  "last_updated": "2026-03-20T09:55:42.781Z",
+  "first_scraped": "2026-03-20T09:55:42.781Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty and healthy, Skin condition, Great alternative, Fresh taste, Plant based, Skin glow, Boosted energy, Love the. Some note: Essential fats, Tasty oil.",
+    "tags": [
+      {
+        "name": "Tasty and healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin condition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin glow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential fats",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Tasty oil",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:42.781Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

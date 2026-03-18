@@ -1,0 +1,68 @@
+{
+  "iherb_id": 139756,
+  "last_updated": "2026-03-20T10:49:56.709Z",
+  "first_scraped": "2026-03-20T10:49:56.709Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipment, Enhance absorption, High-potency vitamin, Easy on stomach, Trusted brand, Excellent blend, Like it, Well-packed. Some note: Help digestion.",
+    "tags": [
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhance absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High-potency vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Like it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well-packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Help digestion",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not right",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:49:56.709Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

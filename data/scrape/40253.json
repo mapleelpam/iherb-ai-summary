@@ -1,0 +1,68 @@
+{
+  "iherb_id": 40253,
+  "last_updated": "2026-03-20T10:08:26.627Z",
+  "first_scraped": "2026-03-20T10:08:26.627Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No complaints, Easy capsules, First bottle, No additives, Western herb, Recommended, Blood pressure, Heart health.",
+    "tags": [
+      {
+        "name": "No complaints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No additives",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Western herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Uncomfortable heart palpitations",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Chemical exposure",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:26.627Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 128014,
+  "last_updated": "2026-03-20T09:28:07.821Z",
+  "first_scraped": "2026-03-20T09:28:07.821Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helped digestion, Good bowel movements, Improved energy, Slight improvement, Detox liver, Milk thistle, Daily routine, Normal levels. Some note: Natural ingredients, Benefit listed.",
+    "tags": [
+      {
+        "name": "Helped digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good bowel movements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slight improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox liver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Milk thistle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily routine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Benefit listed",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:07.821Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

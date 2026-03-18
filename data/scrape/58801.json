@@ -1,0 +1,68 @@
+{
+  "iherb_id": 58801,
+  "last_updated": "2026-03-20T10:02:59.452Z",
+  "first_scraped": "2026-03-20T10:02:59.452Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Powerful antioxidant, Good for chelation, Increases energy, Heavy metal support, Works everywhere, Life changing, Easy to swallow, Finally happened. Some note: Unique feature.",
+    "tags": [
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for chelation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increases energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heavy metal support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works everywhere",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Finally happened",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Unique feature",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:59.452Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

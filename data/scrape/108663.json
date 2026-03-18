@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108663,
+  "last_updated": "2026-03-20T10:26:31.575Z",
+  "first_scraped": "2026-03-20T10:26:31.575Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Comfortable swallow, Order soon, Speedy arrival, Muscle relaxation, Good ingredients, Skin improvement, Good magnesium, Digestion support. Some note: Fairly good, Big soft gels.",
+    "tags": [
+      {
+        "name": "Comfortable swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Order soon",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy arrival",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle relaxation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good magnesium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fairly good",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Big soft gels",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:31.575Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

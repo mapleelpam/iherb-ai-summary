@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117533,
+  "last_updated": "2026-03-20T09:31:55.452Z",
+  "first_scraped": "2026-03-20T09:31:55.452Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Blood circulation, Good for brain, Cognitive function, Good for, Essential supplement, Brain function enhancer, Easy to swallow. Some note: Helpful product, Works perfectly.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for brain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cognitive function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain function enhancer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Works perfectly",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:55.452Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

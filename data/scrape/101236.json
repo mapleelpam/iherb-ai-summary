@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101236,
+  "last_updated": "2026-03-20T09:24:39.659Z",
+  "first_scraped": "2026-03-20T09:24:39.659Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helped stomach, Good feeling, Fast shipping, Easy dosage, Natural solution, Life saver, Skin glowing, Digestion improvement. Some note: Clean ingredients, No difference.",
+    "tags": [
+      {
+        "name": "Helped stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin glowing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:39.659Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

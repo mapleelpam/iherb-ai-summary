@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104646,
+  "last_updated": "2026-03-20T10:01:28.432Z",
+  "first_scraped": "2026-03-20T10:01:28.432Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy booster, Good alternative, Best market, Lower blood pressure, Brighter color, Worth the money, Convenient powder, Stays fresh. Some note: Tastes like beet, Morning boost.",
+    "tags": [
+      {
+        "name": "Energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best market",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brighter color",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth the money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stays fresh",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes like beet",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Morning boost",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:28.432Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

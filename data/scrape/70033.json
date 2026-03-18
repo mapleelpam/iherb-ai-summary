@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70033,
+  "last_updated": "2026-03-20T09:27:46.834Z",
+  "first_scraped": "2026-03-20T09:27:46.834Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Bowel support, Improved digestion, Reduced heartburn, Easy to swallow, Maintaining healthy, Natural approach, Soothing stomach. Some note: Effective brand, Very helpful.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bowel support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced heartburn",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintaining healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural approach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soothing stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Very helpful",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:46.834Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

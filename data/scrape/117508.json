@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117508,
+  "last_updated": "2026-03-20T09:57:37.260Z",
+  "first_scraped": "2026-03-20T09:57:37.260Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Supports thyroid, Helps immune, Improved health, Good dose, High concentration, Liposomal form, No artificial colors, Small capsules. Some note: Easy to take, Happy to find.",
+    "tags": [
+      {
+        "name": "Supports thyroid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liposomal form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No artificial colors",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Happy to find",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:37.260Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

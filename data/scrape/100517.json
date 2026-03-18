@@ -1,0 +1,68 @@
+{
+  "iherb_id": 100517,
+  "last_updated": "2026-03-20T10:18:51.230Z",
+  "first_scraped": "2026-03-20T10:18:51.230Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Time to reorder, No taste, Digestive health, Convenient use, All-natural ingredients, Go to fiber, Easy mix. Some note: Mixing instructions.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Time to reorder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "All-natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Go to fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixing instructions",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Different taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:51.230Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

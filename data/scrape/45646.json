@@ -1,0 +1,68 @@
+{
+  "iherb_id": 45646,
+  "last_updated": "2026-03-20T10:26:30.443Z",
+  "first_scraped": "2026-03-20T10:26:30.443Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Unique smell, Protect cells, Feel good, Everyday go-to, Love brand, Organic ingredients, Best products, More energized, Convenient option, Mix of vegetables.",
+    "tags": [
+      {
+        "name": "Unique smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protect cells",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Everyday go-to",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best products",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energized",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mix of vegetables",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:30.443Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

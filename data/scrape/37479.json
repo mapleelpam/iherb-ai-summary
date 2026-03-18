@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37479,
+  "last_updated": "2026-03-20T10:29:39.479Z",
+  "first_scraped": "2026-03-20T10:29:39.479Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful product, Powerful herbs, Digestion support, Love this product, Cold pressed, Tastes good, Reliable site, Efficient bowels.",
+    "tags": [
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful herbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cold pressed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable site",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient bowels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes terrible",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sluggish digestion",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:29:39.479Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71440,
+  "last_updated": "2026-03-20T10:11:02.171Z",
+  "first_scraped": "2026-03-20T10:11:02.171Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good probiotic, Maintaining health, Added cranberries, Regularity support, Stomach support, Interesting formula, Beneficial benefits, Avoid utis. Some note: Trying brands.",
+    "tags": [
+      {
+        "name": "Good probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintaining health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Added cranberries",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regularity support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Interesting formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid utis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Trying brands",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:02.171Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

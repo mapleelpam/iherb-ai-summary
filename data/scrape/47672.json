@@ -1,0 +1,68 @@
+{
+  "iherb_id": 47672,
+  "last_updated": "2026-03-20T10:09:06.312Z",
+  "first_scraped": "2026-03-20T10:09:06.312Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Effective supplement, Improved performance, Enhanced response, Heightened energy, Effective ingredients, Energy release, Viagra alternative.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced response",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heightened energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Viagra alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Headache and pain",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stuffy nose",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:06.312Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

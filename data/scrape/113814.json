@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113814,
+  "last_updated": "2026-03-20T10:19:07.096Z",
+  "first_scraped": "2026-03-20T10:19:07.096Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fair price, Taste good, Slow progress, Easy chew, Safe packaging, Helps sleep, Sleep well, Good energy. Some note: Just ok.",
+    "tags": [
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow progress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy chew",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Just ok",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:07.096Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

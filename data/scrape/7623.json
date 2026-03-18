@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7623,
+  "last_updated": "2026-03-20T10:03:55.616Z",
+  "first_scraped": "2026-03-20T10:03:55.616Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improvement of joints, Great composition, Nice combination, Good experiment, Natural ingredients, Helps sleep, Gentle on stomach, Desirable size. Some note: Ok price, Ok taste.",
+    "tags": [
+      {
+        "name": "Improvement of joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good experiment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Desirable size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ok price",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Ok taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:55.616Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

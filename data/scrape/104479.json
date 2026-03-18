@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104479,
+  "last_updated": "2026-03-20T09:29:23.855Z",
+  "first_scraped": "2026-03-20T09:29:23.855Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Works well, Effective dosage, Energy boost, Maintain testosterone, Muscle growth, Good ingredients, Boost strength. Some note: Well-packed product.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain testosterone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well-packed product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not obvious",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:23.855Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

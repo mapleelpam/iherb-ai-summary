@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1337,
+  "last_updated": "2026-03-20T10:04:01.522Z",
+  "first_scraped": "2026-03-20T10:04:01.522Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great sleep, Very happy, Keeps dreaming, Timed release, Good fix, Deeper rest, Long-lasting supply, Value for money. Some note: Good dosage.",
+    "tags": [
+      {
+        "name": "Great sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps dreaming",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timed release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good fix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deeper rest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-lasting supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:01.522Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

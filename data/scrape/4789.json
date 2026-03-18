@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4789,
+  "last_updated": "2026-03-20T09:21:43.574Z",
+  "first_scraped": "2026-03-20T09:21:43.574Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin refreshed, Working wonders, Easy intake, Great detox, Works wonderfully, Feeling lighter, Easy to drink, Smooth tasting. Some note: Convenient method.",
+    "tags": [
+      {
+        "name": "Skin refreshed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Working wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy intake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonderfully",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling lighter",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth tasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Convenient method",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:43.574Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

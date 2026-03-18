@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102060,
+  "last_updated": "2026-03-20T09:43:03.503Z",
+  "first_scraped": "2026-03-20T09:43:03.503Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sweet and covered, Iron absorption, Not bad, More than, Tasty flavor, Nice taste, Easy to take, Iron supplement.",
+    "tags": [
+      {
+        "name": "Sweet and covered",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Iron absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not bad",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More than",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Iron supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Lack of flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:03.503Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

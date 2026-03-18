@@ -1,0 +1,68 @@
+{
+  "iherb_id": 52817,
+  "last_updated": "2026-03-20T09:38:04.181Z",
+  "first_scraped": "2026-03-20T09:38:04.181Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easily digested, Energy boost, Good for menopause, Great vitamin, Feeling better, Gentle on stomach, Best complex, Trusted brand.",
+    "tags": [
+      {
+        "name": "Easily digested",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for menopause",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best complex",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Broken tablets",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:04.181Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

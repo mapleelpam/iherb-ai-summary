@@ -1,0 +1,68 @@
+{
+  "iherb_id": 38047,
+  "last_updated": "2026-03-20T09:28:34.498Z",
+  "first_scraped": "2026-03-20T09:28:34.498Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this, Boost immunity, Easy to swallow, Gentle on stomach, Good ingredients, Reasonable price, Non-gmo source, Good vitamin C. Some note: Yellowish color, Recommended brand.",
+    "tags": [
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Non-gmo source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamin C",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yellowish color",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Recommended brand",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:34.498Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

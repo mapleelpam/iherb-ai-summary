@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73076,
+  "last_updated": "2026-03-20T10:31:23.408Z",
+  "first_scraped": "2026-03-20T10:31:23.408Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes good, Delicious greens, Subtle flavor, Clean ingredients, Balanced and energetic, Harmonic taste, Excellent composition, Blends well.",
+    "tags": [
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious greens",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Subtle flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced and energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Harmonic taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blends well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive, tasty",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Resealable issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:23.408Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

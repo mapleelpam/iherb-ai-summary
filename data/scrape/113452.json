@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113452,
+  "last_updated": "2026-03-20T10:03:51.777Z",
+  "first_scraped": "2026-03-20T10:03:51.777Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost energy, Good ingredients, Easy to take, High potency, Improve fertility, Decent boost, Good for mineral, Organic ingredients. Some note: No taste, Rice powder.",
+    "tags": [
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve fertility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for mineral",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Rice powder",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:51.777Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115870,
+  "last_updated": "2026-03-20T10:02:47.266Z",
+  "first_scraped": "2026-03-20T10:02:47.266Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes great, Easy to take, Helpful option, Highly recommend, Good taste, Speedy delivery, Tasty option, Effective option. Some note: High benefits, Deep sleep.",
+    "tags": [
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefits",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:47.266Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

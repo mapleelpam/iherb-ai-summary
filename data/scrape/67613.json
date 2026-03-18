@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67613,
+  "last_updated": "2026-03-20T10:04:18.863Z",
+  "first_scraped": "2026-03-20T10:04:18.863Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Amazing taste, Fits well, Low cholesterol, Acceptable flavor, Versatile and delicious, Secure delivery, Healthy ingredients, Light on stomach.",
+    "tags": [
+      {
+        "name": "Amazing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fits well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acceptable flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Versatile and delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Secure delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Light on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Little pricey",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expiration date",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:18.863Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

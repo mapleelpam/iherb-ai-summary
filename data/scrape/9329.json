@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9329,
+  "last_updated": "2026-03-20T09:55:13.403Z",
+  "first_scraped": "2026-03-20T09:55:13.403Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, More focused, Reliable source, Enhanced concentration, Helpful product, Improved vision, Memory improvement, Fast delivery, Good ingredients.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More focused",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:13.403Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

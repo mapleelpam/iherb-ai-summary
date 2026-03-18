@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114585,
+  "last_updated": "2026-03-20T10:00:43.816Z",
+  "first_scraped": "2026-03-20T10:00:43.816Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean ingredients, Great benefits, Organic ingredients, Loads of energy, Improves focus, Great addition, Benefit for body, Hormone regulation. Some note: Easy to swallow, Fair taste.",
+    "tags": [
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loads of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit for body",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormone regulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Fair taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:43.816Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97687,
+  "last_updated": "2026-03-20T10:04:52.372Z",
+  "first_scraped": "2026-03-20T10:04:52.372Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Packaging good, Good results, Plumper skin, Skin improvement, Hydration benefits, Promotes tissue repair, Value for money, Impressed thus far.",
+    "tags": [
+      {
+        "name": "Packaging good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plumper skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydration benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Promotes tissue repair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed thus far",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped taking",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive serum",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:52.372Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

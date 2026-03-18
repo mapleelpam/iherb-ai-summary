@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2575,
+  "last_updated": "2026-03-20T09:35:19.849Z",
+  "first_scraped": "2026-03-20T09:35:19.849Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Important supplement, Best absorbed, Quick results, Improved complexion, Skin health, Easy to swallow, Beneficial vitamin, More energy. Some note: Potent antioxidant.",
+    "tags": [
+      {
+        "name": "Important supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best absorbed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved complexion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent antioxidant",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Limited results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:19.849Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

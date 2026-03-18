@@ -1,0 +1,68 @@
+{
+  "iherb_id": 98307,
+  "last_updated": "2026-03-20T09:31:33.854Z",
+  "first_scraped": "2026-03-20T09:31:33.854Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good electrolyte, Hydration drink, Replenishes fluids, Good taste, Reasonable price, Tropical flavor, Economical choice, Value for money. Some note: Refreshing flavor.",
+    "tags": [
+      {
+        "name": "Good electrolyte",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydration drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Replenishes fluids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tropical flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economical choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing flavor",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too much electrolytes",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:33.854Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

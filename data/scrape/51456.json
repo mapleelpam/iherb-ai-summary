@@ -1,0 +1,68 @@
+{
+  "iherb_id": 51456,
+  "last_updated": "2026-03-20T10:00:01.019Z",
+  "first_scraped": "2026-03-20T10:00:01.019Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Iron-free, Energy boost, Good amount, Mini tablet, Bioavailable, More energy, Best vitamin, High potency.",
+    "tags": [
+      {
+        "name": "Iron-free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mini tablet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioavailable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too potent",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stomach issues",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:01.019Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

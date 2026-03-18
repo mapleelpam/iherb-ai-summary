@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102318,
+  "last_updated": "2026-03-20T09:29:07.196Z",
+  "first_scraped": "2026-03-20T09:29:07.196Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good blend, Increased vitality, Enhanced stamina, Good for health, Easy swallow, Good for stress, Fast delivery, Works great. Some note: High potency, Effective supplement.",
+    "tags": [
+      {
+        "name": "Good blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:07.196Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1104,
+  "last_updated": "2026-03-20T09:37:41.770Z",
+  "first_scraped": "2026-03-20T09:37:41.770Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice taste, Improved concentration, Fast shipping, Helped migraines, Helped autism, Small capsules, Boost immune, Boosting brain function. Some note: Highly recommend, Noticing difference.",
+    "tags": [
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped migraines",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped autism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting brain function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Noticing difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:41.770Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

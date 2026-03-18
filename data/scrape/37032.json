@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37032,
+  "last_updated": "2026-03-20T10:36:15.454Z",
+  "first_scraped": "2026-03-20T10:36:15.454Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural ingredients, Brand new, No fishy smell, Eco-friendly approach, Eye health, Improves mood, Vegan option, Reordering soon.",
+    "tags": [
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brand new",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eco-friendly approach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reordering soon",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Poor ingredients",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Reduce smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:36:15.454Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

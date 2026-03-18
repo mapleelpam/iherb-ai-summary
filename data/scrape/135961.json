@@ -1,0 +1,68 @@
+{
+  "iherb_id": 135961,
+  "last_updated": "2026-03-20T09:35:33.671Z",
+  "first_scraped": "2026-03-20T09:35:33.671Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stronger joints, Effective joint support, Good combo, Efficace product, Less pain, Suitable for all, Easier intake, Worth the money. Some note: Good for bones, No difference.",
+    "tags": [
+      {
+        "name": "Stronger joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficace product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suitable for all",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easier intake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth the money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for bones",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:33.671Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

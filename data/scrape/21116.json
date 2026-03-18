@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21116,
+  "last_updated": "2026-03-20T09:43:58.582Z",
+  "first_scraped": "2026-03-20T09:43:58.582Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Efficient product, Oat bath, Fast delivery, Detox aid, Good results, Keto baking, Certified organic, Great dosage. Some note: Helps digestion, Love this.",
+    "tags": [
+      {
+        "name": "Efficient product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Oat bath",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keto baking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Certified organic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:58.582Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

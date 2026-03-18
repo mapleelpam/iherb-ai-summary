@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109876,
+  "last_updated": "2026-03-20T10:04:35.917Z",
+  "first_scraped": "2026-03-20T10:04:35.917Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immunity booster, Fast shipping, Brand loyal, Effective zinc, Immune system, Easy dose size, Good taste, Works as intended. Some note: Strong flavor.",
+    "tags": [
+      {
+        "name": "Immunity booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brand loyal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective zinc",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dose size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works as intended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Strong flavor",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:35.917Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15760,
+  "last_updated": "2026-03-20T10:10:48.247Z",
+  "first_scraped": "2026-03-20T10:10:48.247Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty way, Buy again, Like candy, Allergen free, Extra energy, Normal level, No niacin flush, Fast shipping, Tastes so good.",
+    "tags": [
+      {
+        "name": "Tasty way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buy again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Like candy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergen free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal level",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No niacin flush",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes so good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergic reactions",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:48.247Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

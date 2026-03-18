@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14060,
+  "last_updated": "2026-03-20T09:21:44.612Z",
+  "first_scraped": "2026-03-20T09:21:44.612Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved mood, Inexpensive too, Odorless oil, Good ingredient, Energy boost, Convenient dosage, Easy to use, Convenient form. Some note: Control dosage, Good for health.",
+    "tags": [
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inexpensive too",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Odorless oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control dosage",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:44.612Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

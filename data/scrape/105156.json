@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105156,
+  "last_updated": "2026-03-20T10:40:34.832Z",
+  "first_scraped": "2026-03-20T10:40:34.832Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Amazing macros, Good taste, Creamier taste, Amazing flavor, Highly recommend, Solid ingredients, Tastes great, Peanut butter taste.",
+    "tags": [
+      {
+        "name": "Amazing macros",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Creamier taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Solid ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Peanut butter taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Terrible taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Clumps easily",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:40:34.832Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

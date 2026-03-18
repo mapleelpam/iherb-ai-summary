@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14313,
+  "last_updated": "2026-03-20T10:05:52.380Z",
+  "first_scraped": "2026-03-20T10:05:52.380Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Wonderful addition, Sweet & tart, Delicious alternative, Candy substitute, Love this, Taste great, Good taste, Heart health.",
+    "tags": [
+      {
+        "name": "Wonderful addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet & tart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Candy substitute",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasteless",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sour taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:52.380Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

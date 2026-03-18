@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120576,
+  "last_updated": "2026-03-20T09:21:45.543Z",
+  "first_scraped": "2026-03-20T09:21:45.543Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Strawberry flavor, Tasty gummies, High quality, Energy improvement, Easy consumption, Energy boost, Good taste, Fast delivery. Some note: Soft texture, Low sugar.",
+    "tags": [
+      {
+        "name": "Strawberry flavor",
+        "classification": 0,
+        "count": 110
+      },
+      {
+        "name": "Tasty gummies",
+        "classification": 0,
+        "count": 98
+      },
+      {
+        "name": "High quality",
+        "classification": 0,
+        "count": 90
+      },
+      {
+        "name": "Energy improvement",
+        "classification": 0,
+        "count": 89
+      },
+      {
+        "name": "Easy consumption",
+        "classification": 0,
+        "count": 77
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 53
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 40
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 31
+      },
+      {
+        "name": "Soft texture",
+        "classification": 1,
+        "count": 53
+      },
+      {
+        "name": "Low sugar",
+        "classification": 1,
+        "count": 47
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:45.543Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 76994,
+  "last_updated": "2026-03-20T09:50:32.422Z",
+  "first_scraped": "2026-03-20T09:50:32.422Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less pain, Immunity support, Good for joints, Effective vitamin D, Improved health, Keeps you asleep, Stronger nails, Size easy. Some note: Large meal, No taste.",
+    "tags": [
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective vitamin D",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps you asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Size easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large meal",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:32.422Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2158,
+  "last_updated": "2026-03-20T09:52:49.525Z",
+  "first_scraped": "2026-03-20T09:52:49.525Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good price, Calm and steady, Energy boost, Energy levels, Balanced cortisol, Must have, Noticeable difference, Helpful support.",
+    "tags": [
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calm and steady",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced cortisol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Must have",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nervousness",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Made me sick",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:49.525Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

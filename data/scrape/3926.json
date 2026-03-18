@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3926,
+  "last_updated": "2026-03-20T09:36:42.582Z",
+  "first_scraped": "2026-03-20T09:36:42.582Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High blood pressure, Immunity support, Fish oil, Energy increase, Ingredient good, Heart health, Regulating blood pressure, Convenient size. Some note: Easy to take.",
+    "tags": [
+      {
+        "name": "High blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fish oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy increase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ingredient good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulating blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:42.582Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

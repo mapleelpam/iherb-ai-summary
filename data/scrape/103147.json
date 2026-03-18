@@ -1,0 +1,68 @@
+{
+  "iherb_id": 103147,
+  "last_updated": "2026-03-20T10:01:24.579Z",
+  "first_scraped": "2026-03-20T10:01:24.579Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immediate effects, Bone density, Seems working, Help increase, Clear skin, Digestive issues, Build bone, Helps me.",
+    "tags": [
+      {
+        "name": "Immediate effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone density",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seems working",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Help increase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Build bone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergic reactions",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not worth",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:24.579Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

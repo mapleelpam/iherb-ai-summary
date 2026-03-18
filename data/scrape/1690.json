@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1690,
+  "last_updated": "2026-03-20T10:16:44.402Z",
+  "first_scraped": "2026-03-20T10:16:44.402Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Good response, Liver health, Improved fertility, Empty stomach, Hormone balancing, Original product, Fast shipping. Some note: Small effect.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good response",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved fertility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Empty stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormone balancing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Original product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small effect",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Side effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:44.402Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

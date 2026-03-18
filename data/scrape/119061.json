@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119061,
+  "last_updated": "2026-03-20T09:47:38.445Z",
+  "first_scraped": "2026-03-20T09:47:38.445Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Chocolatey and delicious, Low carbs, Amazing taste, Clean ingredients, High protein, Favorite cake, Best protein cookies, Protein bars. Some note: Tasty cookies.",
+    "tags": [
+      {
+        "name": "Chocolatey and delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low carbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Favorite cake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best protein cookies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protein bars",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty cookies",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Average taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:38.445Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

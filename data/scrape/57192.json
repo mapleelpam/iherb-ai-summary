@@ -1,0 +1,68 @@
+{
+  "iherb_id": 57192,
+  "last_updated": "2026-03-20T10:02:57.404Z",
+  "first_scraped": "2026-03-20T10:02:57.404Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Gut health, Fast shipping, Value for money, Keeps regular, Helpful product, Softens bowels, Bowel regularity, Great buyer, Relief rapid.",
+    "tags": [
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps regular",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Softens bowels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bowel regularity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great buyer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief rapid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:57.404Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

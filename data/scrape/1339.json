@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1339,
+  "last_updated": "2026-03-20T10:21:05.626Z",
+  "first_scraped": "2026-03-20T10:21:05.626Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy administration, Love this, Fall asleep, Helps tremendously, Works great, Good taste, Grandkids well, Lower blood pressure.",
+    "tags": [
+      {
+        "name": "Easy administration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fall asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps tremendously",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Grandkids well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Disagrees with",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Inconsistent dosing",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:05.626Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

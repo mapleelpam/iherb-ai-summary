@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1685,
+  "last_updated": "2026-03-20T10:09:52.128Z",
+  "first_scraped": "2026-03-20T10:09:52.128Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lessens pain, Easy to swallow, Helpful relief, Natural pain, Served well, Healthy joints, Effective vitamins, Great results.",
+    "tags": [
+      {
+        "name": "Lessens pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Served well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain returns",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Doesn't work",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:52.128Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

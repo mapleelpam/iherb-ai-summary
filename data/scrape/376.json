@@ -1,0 +1,68 @@
+{
+  "iherb_id": 376,
+  "last_updated": "2026-03-20T09:28:28.512Z",
+  "first_scraped": "2026-03-20T09:28:28.512Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Healing gut, Natural taste, Tastes good, Detoxes body, Boosted immune system, Concentrated form, Moisturizing face, Stomach relief. Some note: Pleased with.",
+    "tags": [
+      {
+        "name": "Healing gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detoxes body",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Concentrated form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moisturizing face",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleased with",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Tastes bad",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:28.512Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

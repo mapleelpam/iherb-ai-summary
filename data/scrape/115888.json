@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115888,
+  "last_updated": "2026-03-20T10:03:56.637Z",
+  "first_scraped": "2026-03-20T10:03:56.637Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved skin, Unflavored powder, Stronger nails, Easy to use, Liposomal delivery, Mixes well, Helps joints, Dissolves easily. Some note: No taste.",
+    "tags": [
+      {
+        "name": "Improved skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unflavored powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liposomal delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awful smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:56.637Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

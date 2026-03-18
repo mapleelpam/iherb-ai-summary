@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116298,
+  "last_updated": "2026-03-20T09:45:04.640Z",
+  "first_scraped": "2026-03-20T09:45:04.640Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient container, Relief benefits, Highly recommend, Easy to swallow, Fast shipping, Prostate health, Small size, Preventive use. Some note: Support signal, Optimal dose.",
+    "tags": [
+      {
+        "name": "Convenient container",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prostate health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventive use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support signal",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Optimal dose",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:04.640Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 64486,
+  "last_updated": "2026-03-20T09:19:41.422Z",
+  "first_scraped": "2026-03-20T09:19:41.422Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Life saver, Fantastic recovery, Enhanced well-being, Good probiotic, 1 billion CFU, Got rid, Establish good bacteria, Easy to swallow.",
+    "tags": [
+      {
+        "name": "Life saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced well-being",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "1 billion CFU",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Got rid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Establish good bacteria",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not my favorite",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:41.422Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

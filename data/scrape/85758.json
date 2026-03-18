@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85758,
+  "last_updated": "2026-03-20T09:20:52.570Z",
+  "first_scraped": "2026-03-20T09:20:52.570Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Affordable option, Cheap and contains, Good combination, Easy to consume, Absorption benefits, Small tablet, Value for money, Strengthens bones. Some note: Value purchase, Good ingredient.",
+    "tags": [
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheap and contains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to consume",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorption benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small tablet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strengthens bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value purchase",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:52.570Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

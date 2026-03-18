@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23956,
+  "last_updated": "2026-03-20T09:21:11.671Z",
+  "first_scraped": "2026-03-20T09:21:11.671Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great for kids, Good dosage, Works great, Takes 30 minutes, Natural way, Effective ingredients, Restful sleep, Fast dissolve. Some note: Helps sleep.",
+    "tags": [
+      {
+        "name": "Great for kids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Takes 30 minutes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restful sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Best sleeping aid",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:11.671Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117697,
+  "last_updated": "2026-03-20T09:38:13.249Z",
+  "first_scraped": "2026-03-20T09:38:13.249Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Potent dose, Old dog, Blood sugar, Tiny capsules, Active form, Small size, Good ingredients. Some note: Hard to tell.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Old dog",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiny capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Active form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to tell",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Vitamin b6 toxicity",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:13.249Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

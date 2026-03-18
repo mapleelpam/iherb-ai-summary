@@ -1,0 +1,68 @@
+{
+  "iherb_id": 38946,
+  "last_updated": "2026-03-20T10:24:36.676Z",
+  "first_scraped": "2026-03-20T10:24:36.676Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Customers love, Depleted feet, Small stone passed, Stabilize kidney, Good composition, Supports kidney, Good results, Improved urine flow. Some note: Dividing intake.",
+    "tags": [
+      {
+        "name": "Customers love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Depleted feet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small stone passed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stabilize kidney",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports kidney",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved urine flow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Dividing intake",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:36.676Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42053,
+  "last_updated": "2026-03-20T09:17:52.871Z",
+  "first_scraped": "2026-03-20T09:17:52.871Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works great, Supports health, Immune support, Fights colds, Solid choice, Good addition, Easy to swallow, Natural source, Stronger immunity. Some note: Natural antibiotic.",
+    "tags": [
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fights colds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Solid choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural antibiotic",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:52.871Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101650,
+  "last_updated": "2026-03-20T09:37:09.143Z",
+  "first_scraped": "2026-03-20T09:37:09.143Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Boosting stamina, Fast shipping, Improved circulation, High benefit, Excellent additive, Beneficial supplement, Less tired. Some note: Heart health, No noticeable effects.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less tired",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No noticeable effects",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:09.143Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

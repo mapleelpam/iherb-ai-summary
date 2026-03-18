@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2643,
+  "last_updated": "2026-03-20T09:34:59.572Z",
+  "first_scraped": "2026-03-20T09:34:59.572Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High potency, Boosting immunity, Blood pressure control, Overall health, Feeling better, Easy to swallow, Powerful antioxidant, Effective brand. Some note: Immunity enhancer, Antimicrobial protection.",
+    "tags": [
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity enhancer",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Antimicrobial protection",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:59.572Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

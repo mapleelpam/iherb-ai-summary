@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73604,
+  "last_updated": "2026-03-20T10:08:06.751Z",
+  "first_scraped": "2026-03-20T10:08:06.751Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Normal iron levels, Organic and vegan, Fast shipping, Effective iron, Nature plus, No side effects, Hair improvement. Some note: Natural source.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal iron levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic and vegan",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective iron",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nature plus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural source",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:06.751Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

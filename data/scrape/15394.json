@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15394,
+  "last_updated": "2026-03-20T09:51:07.928Z",
+  "first_scraped": "2026-03-20T09:51:07.928Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective for utis, Better than, Urinary health, Good ingredients, Feel better, Relieve swelling, Convenient delivery, Good result. Some note: Works for bladder.",
+    "tags": [
+      {
+        "name": "Effective for utis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better than",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Urinary health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieve swelling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for bladder",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Less trips",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:07.928Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

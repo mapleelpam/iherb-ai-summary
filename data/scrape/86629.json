@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86629,
+  "last_updated": "2026-03-20T10:09:33.284Z",
+  "first_scraped": "2026-03-20T10:09:33.284Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean taste, Mild taste, Plant based, Organic peas, Simple ingredient, Large sized bag, Mixes okay, Vegetarian diet. Some note: Baking dish.",
+    "tags": [
+      {
+        "name": "Clean taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic peas",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Simple ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large sized bag",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes okay",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegetarian diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High salt",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Baking dish",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:33.284Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

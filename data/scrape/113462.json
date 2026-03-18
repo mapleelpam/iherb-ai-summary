@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113462,
+  "last_updated": "2026-03-20T09:41:45.533Z",
+  "first_scraped": "2026-03-20T09:41:45.533Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to use, Convenient packaging, Tasty gummies, Stronger nails, Fresh skin, Brighter hair, Fantastic ingredients, Beautiful vitamin. Some note: Very nice.",
+    "tags": [
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brighter hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beautiful vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very nice",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not good",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:45.533Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

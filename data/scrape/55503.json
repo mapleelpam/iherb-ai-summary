@@ -1,0 +1,68 @@
+{
+  "iherb_id": 55503,
+  "last_updated": "2026-03-20T10:09:06.315Z",
+  "first_scraped": "2026-03-20T10:09:06.315Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective ingredients, One really works, Balanced nutrients, Improving formulas, Good health, Skin improvement, Boost intake, Turmeric blend.",
+    "tags": [
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "One really works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced nutrients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving formulas",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost intake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Turmeric blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not noticed improvements",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:06.315Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

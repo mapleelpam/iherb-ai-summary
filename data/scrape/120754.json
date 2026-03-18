@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120754,
+  "last_updated": "2026-03-20T09:31:11.420Z",
+  "first_scraped": "2026-03-20T09:31:11.420Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Love product, Joint pain, Taste ok, Highly recommend, Dissolves easily, Smooth texture, Visible results. Some note: Nice taste, Subtle effects.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste ok",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Visible results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Subtle effects",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:11.420Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

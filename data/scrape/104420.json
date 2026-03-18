@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104420,
+  "last_updated": "2026-03-20T10:14:27.189Z",
+  "first_scraped": "2026-03-20T10:14:27.189Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Wood quality ACV, Convenient option, Easy dosage, Not maintained, Tasty fruit, Digestion improvement, Boosting immune, Helps digestion. Some note: Organic ingredients.",
+    "tags": [
+      {
+        "name": "Wood quality ACV",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not maintained",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty fruit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not suitable",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:27.189Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

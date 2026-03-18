@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13474,
+  "last_updated": "2026-03-20T09:49:34.707Z",
+  "first_scraped": "2026-03-20T09:49:34.707Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes great, Boosts energy, Good taste, Chocolate flavor, Muscle growth, Tasty option, Easy mixing, Quality supplement. Some note: Rich flavor.",
+    "tags": [
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chocolate flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mixing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich flavor",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Doubt purchases",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:34.707Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

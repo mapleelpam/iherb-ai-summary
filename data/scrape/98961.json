@@ -1,0 +1,68 @@
+{
+  "iherb_id": 98961,
+  "last_updated": "2026-03-20T10:17:49.635Z",
+  "first_scraped": "2026-03-20T10:17:49.635Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energetic support, Antioxidant powerhouse, Pure ingredient, Original taste, Quick energy, Nutritional support, Good taste, Key role.",
+    "tags": [
+      {
+        "name": "Energetic support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant powerhouse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Original taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutritional support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Key role",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive price",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sourish taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:49.635Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

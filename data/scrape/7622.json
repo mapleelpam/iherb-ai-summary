@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7622,
+  "last_updated": "2026-03-20T10:00:46.728Z",
+  "first_scraped": "2026-03-20T10:00:46.728Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: IBS problem, Digestion benefit, Good bacteria, Original product, Helped me, Supports stomach, Intestinal health, Fast shipping. Some note: Dosage issue.",
+    "tags": [
+      {
+        "name": "IBS problem",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good bacteria",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Original product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intestinal health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No impact",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Dosage issue",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:46.728Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

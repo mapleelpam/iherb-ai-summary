@@ -1,0 +1,68 @@
+{
+  "iherb_id": 82692,
+  "last_updated": "2026-03-20T09:32:23.767Z",
+  "first_scraped": "2026-03-20T09:32:23.767Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Vibrant color, Quality powder, Healthy benefits, Easy to use, Improved stamina, Nutrient-rich superfood, Taste good, Mixes well. Some note: Red pigment.",
+    "tags": [
+      {
+        "name": "Vibrant color",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrient-rich superfood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Red pigment",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:23.767Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

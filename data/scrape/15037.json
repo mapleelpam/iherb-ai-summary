@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15037,
+  "last_updated": "2026-03-20T09:56:57.473Z",
+  "first_scraped": "2026-03-20T09:56:57.473Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Digests gluten, Good taste, Life saver, Positive effects, Avoids bloating, Pain-free living, Highly recommend, Buy again. Some note: Digestive aid.",
+    "tags": [
+      {
+        "name": "Digests gluten",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoids bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain-free living",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buy again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive aid",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Upset stomach",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:56:57.473Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

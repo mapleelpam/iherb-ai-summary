@@ -1,0 +1,68 @@
+{
+  "iherb_id": 16700,
+  "last_updated": "2026-03-20T09:55:43.762Z",
+  "first_scraped": "2026-03-20T09:55:43.762Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural antibiotic, Pure and efficient, Healing quickly, Amazing results, Rapid response, Reasonable price, Immune support, Happy with.",
+    "tags": [
+      {
+        "name": "Natural antibiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure and efficient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healing quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rapid response",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big let down",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stopped ordering",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:43.762Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13439,
+  "last_updated": "2026-03-20T09:34:26.087Z",
+  "first_scraped": "2026-03-20T09:34:26.087Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps digestion, Best found, Powerful probiotics, Clearing up, Established company, Best product ever, Small size, Optimal health.",
+    "tags": [
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best found",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful probiotics",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearing up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Established company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best product ever",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Optimal health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not pleased",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Disappointed",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:26.087Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

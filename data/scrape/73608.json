@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73608,
+  "last_updated": "2026-03-20T09:17:43.265Z",
+  "first_scraped": "2026-03-20T09:17:43.265Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast-acting iron, Easy dose, More energy, Increased levels, Gentle on stomach, Iron benefits, Easy to swallow, Gentle iron. Some note: Excellent additive, Good composition.",
+    "tags": [
+      {
+        "name": "Fast-acting iron",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Iron benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle iron",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:43.265Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

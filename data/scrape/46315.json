@@ -1,0 +1,68 @@
+{
+  "iherb_id": 46315,
+  "last_updated": "2026-03-20T10:16:12.050Z",
+  "first_scraped": "2026-03-20T10:16:12.050Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increase bone density, Easy absorption, Strong bones, Life saver, Balances calcium, Big bottle, Recommended dosing, Good news.",
+    "tags": [
+      {
+        "name": "Increase bone density",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balances calcium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended dosing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good news",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher price",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Generous amounts",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:12.050Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

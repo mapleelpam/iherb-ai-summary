@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85070,
+  "last_updated": "2026-03-20T09:58:58.046Z",
+  "first_scraped": "2026-03-20T09:58:58.046Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Double chocolate, Tastes good, Most tasty, High protein, Long-lasting freshness, Delicious flavour, Tasty protein, Fast delivery.",
+    "tags": [
+      {
+        "name": "Double chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Most tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-lasting freshness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavour",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Massive letdown",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:58.046Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

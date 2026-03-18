@@ -1,0 +1,68 @@
+{
+  "iherb_id": 695,
+  "last_updated": "2026-03-20T09:50:04.158Z",
+  "first_scraped": "2026-03-20T09:50:04.158Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective laxative, Teeth remineralization, Helps tremendously, Cheap and effective, DIY cream, Love the brand, Good clean out, Great for constipation. Some note: Less toxic ingredients, Happy with.",
+    "tags": [
+      {
+        "name": "Effective laxative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Teeth remineralization",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps tremendously",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheap and effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "DIY cream",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good clean out",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less toxic ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:04.158Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

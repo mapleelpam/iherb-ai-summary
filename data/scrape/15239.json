@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15239,
+  "last_updated": "2026-03-20T09:30:59.182Z",
+  "first_scraped": "2026-03-20T09:30:59.182Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small capsules, Boost immunity, Fast regeneration, Boosted organs, Highly recommend, Energy levels, Skin stabilise, Affordable. Some note: Pricey label, High dose.",
+    "tags": [
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast regeneration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted organs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin stabilise",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pricey label",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:59.182Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

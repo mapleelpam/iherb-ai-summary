@@ -1,0 +1,68 @@
+{
+  "iherb_id": 82072,
+  "last_updated": "2026-03-20T10:25:51.941Z",
+  "first_scraped": "2026-03-20T10:25:51.941Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Refrigerated reminder, Well absorbed, Improved digestion, Reputable company, Gut health, Candida control, Vegetarian-friendly, Less violent. Some note: Research compound.",
+    "tags": [
+      {
+        "name": "Refrigerated reminder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well absorbed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reputable company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Candida control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegetarian-friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less violent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive pyrotechnics",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Research compound",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:51.941Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

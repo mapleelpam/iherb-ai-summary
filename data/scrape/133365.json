@@ -1,0 +1,68 @@
+{
+  "iherb_id": 133365,
+  "last_updated": "2026-03-20T09:58:25.199Z",
+  "first_scraped": "2026-03-20T09:58:25.199Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved memory, Small improvements, Improved sleep, Clearer mentality, Convenient supply, Heart health, Good option, Tasty brand. Some note: Too early.",
+    "tags": [
+      {
+        "name": "Improved memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer mentality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too early",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:25.199Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

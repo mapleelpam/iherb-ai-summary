@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113511,
+  "last_updated": "2026-03-20T09:53:10.322Z",
+  "first_scraped": "2026-03-20T09:53:10.322Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good price, Easy to ingest, Reduces appetite, Nice package, Effective ingredients, Controls appetite, Not expensive, Less cravings. Some note: Small portions.",
+    "tags": [
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to ingest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Controls appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not expensive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small portions",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Average benefit",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:10.322Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

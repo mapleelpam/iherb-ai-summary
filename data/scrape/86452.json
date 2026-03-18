@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86452,
+  "last_updated": "2026-03-20T09:26:50.492Z",
+  "first_scraped": "2026-03-20T09:26:50.492Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small size, Allergy relief, High bioavailability, Vegetarian-friendly, Powerful antioxidant, Reduce inflammation, Helps immunity, Immune boost. Some note: No noticeable.",
+    "tags": [
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergy relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High bioavailability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegetarian-friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Rare side effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:50.492Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

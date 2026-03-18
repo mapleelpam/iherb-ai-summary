@@ -1,0 +1,68 @@
+{
+  "iherb_id": 88639,
+  "last_updated": "2026-03-20T10:31:46.959Z",
+  "first_scraped": "2026-03-20T10:31:46.959Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Supports bladder, Small size, Little better, Quick delivery, Life saver, Better alternative, Helps control, Control frequency.",
+    "tags": [
+      {
+        "name": "Supports bladder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Little better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control frequency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not worked",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Pain pelvic",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:46.959Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

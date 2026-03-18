@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71700,
+  "last_updated": "2026-03-20T09:55:04.499Z",
+  "first_scraped": "2026-03-20T09:55:04.499Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lower blood pressure, Good price, Extra strength, Helped immensely, Easy dose size, Improved blood circulation, Old remedy, Heart health.",
+    "tags": [
+      {
+        "name": "Lower blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped immensely",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dose size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved blood circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Old remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High BP",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:04.499Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

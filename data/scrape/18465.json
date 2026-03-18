@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18465,
+  "last_updated": "2026-03-20T09:52:55.474Z",
+  "first_scraped": "2026-03-20T09:52:55.474Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trusted brand, Pure ingredients, Super packed, Love the ingredients, Low dosage, High bioavailability, More energy, Easy to swallow. Some note: Effective vitamins, A lot of pills.",
+    "tags": [
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High bioavailability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective vitamins",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "A lot of pills",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:55.474Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

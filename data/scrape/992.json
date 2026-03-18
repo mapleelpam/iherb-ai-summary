@@ -1,0 +1,68 @@
+{
+  "iherb_id": 992,
+  "last_updated": "2026-03-20T09:37:32.759Z",
+  "first_scraped": "2026-03-20T09:37:32.759Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Enhance benefits, Easy to swallow, Effective source, Improved digestion, Boost effects, Increase absorption, Fast delivery, Quality supplement. Some note: Tasty tablets.",
+    "tags": [
+      {
+        "name": "Enhance benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty tablets",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Well packaged",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:32.759Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

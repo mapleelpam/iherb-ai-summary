@@ -1,0 +1,68 @@
+{
+  "iherb_id": 26014,
+  "last_updated": "2026-03-20T09:24:19.716Z",
+  "first_scraped": "2026-03-20T09:24:19.716Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Best silica, Nice package, Aluminum detox, Easy consumption, Good results, Convenient dosage, Neutral taste, Good ingredients.",
+    "tags": [
+      {
+        "name": "Best silica",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Aluminum detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy consumption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low bioavailability",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bad accident",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:19.716Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

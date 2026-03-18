@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1356,
+  "last_updated": "2026-03-20T10:09:10.654Z",
+  "first_scraped": "2026-03-20T10:09:10.654Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High potency, Improved general fitness, Natural ingredients, Good price, Convenient way, Good expiration, Easy to swallow, Fast shipping, Emergency use.",
+    "tags": [
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved general fitness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good expiration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Emergency use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild stomach cramps",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:10.654Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

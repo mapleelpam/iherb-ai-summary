@@ -1,0 +1,68 @@
+{
+  "iherb_id": 53242,
+  "last_updated": "2026-03-20T10:06:32.661Z",
+  "first_scraped": "2026-03-20T10:06:32.661Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Balanced formula, Tastes delicious, No bloating, Muscle strength, Affordable, nutritious, Creamy flavor, Clean ingredients, Good taste. Some note: Best flavor.",
+    "tags": [
+      {
+        "name": "Balanced formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable, nutritious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Creamy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Best flavor",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:32.661Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

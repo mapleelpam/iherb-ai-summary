@@ -1,0 +1,68 @@
+{
+  "iherb_id": 103328,
+  "last_updated": "2026-03-20T10:01:25.448Z",
+  "first_scraped": "2026-03-20T10:01:25.448Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Customize dosage, Easy to use, Good ingredients, Kids love, Thank you, Hint of lemon, Immune boost, Better form. Some note: Not noticeable.",
+    "tags": [
+      {
+        "name": "Customize dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thank you",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hint of lemon",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not noticeable",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:25.448Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

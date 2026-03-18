@@ -1,0 +1,68 @@
+{
+  "iherb_id": 82722,
+  "last_updated": "2026-03-20T09:49:58.389Z",
+  "first_scraped": "2026-03-20T09:49:58.389Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Loves them, Delicious flavor, Taste OK, Chewy texture, Great cookies, Low net carbs, Yummy but sweet, Selected ingredients.",
+    "tags": [
+      {
+        "name": "Loves them",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste OK",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chewy texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great cookies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low net carbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy but sweet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Selected ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Odd flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:58.389Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

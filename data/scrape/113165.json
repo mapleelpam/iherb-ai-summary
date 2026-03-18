@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113165,
+  "last_updated": "2026-03-20T10:28:50.219Z",
+  "first_scraped": "2026-03-20T10:28:50.219Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes good, Nice impact, Highly recommend, Energy boost, Clear ingredients, Healthy vitamins, Convenient size, Love goli. Some note: Big size.",
+    "tags": [
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love goli",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Overpriced",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:50.219Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 678,
+  "last_updated": "2026-03-20T09:22:05.078Z",
+  "first_scraped": "2026-03-20T09:22:05.078Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great for PCOS, Good for fertility, Regulate menstrual cycle, Fast shipping, Inexpensive option, Weight loss, Helps sleep, No taste. Some note: Calms nerves.",
+    "tags": [
+      {
+        "name": "Great for PCOS",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for fertility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate menstrual cycle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inexpensive option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Calms nerves",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:05.078Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

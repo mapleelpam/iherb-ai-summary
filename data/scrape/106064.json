@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106064,
+  "last_updated": "2026-03-20T10:10:07.002Z",
+  "first_scraped": "2026-03-20T10:10:07.002Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reasonable price, Feel good, Elite varieties, Body energy, Enjoy flavor, Good ingredients, Skin problems, Hormone balance. Some note: Caution advised, Great supplement.",
+    "tags": [
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Elite varieties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enjoy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin problems",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormone balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Caution advised",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:07.002Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

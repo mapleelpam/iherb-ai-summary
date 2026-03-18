@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1315,
+  "last_updated": "2026-03-20T09:54:58.557Z",
+  "first_scraped": "2026-03-20T09:54:58.557Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Restful night sleep, Good results, Helps sleep, Good dosage, Full nights, Sleep well, Easy sleep, Natural solution. Some note: Half tablet.",
+    "tags": [
+      {
+        "name": "Restful night sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Full nights",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Half tablet",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not strong enough",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:58.557Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108315,
+  "last_updated": "2026-03-20T10:12:18.260Z",
+  "first_scraped": "2026-03-20T10:12:18.260Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Nice flavor, Easy to use, Very wonderful, Repeat orders, Love the, Convenient size, Tastes good, Pandemic support.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very wonderful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat orders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pandemic support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not tasty",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:18.260Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

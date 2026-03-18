@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7494,
+  "last_updated": "2026-03-20T09:43:56.144Z",
+  "first_scraped": "2026-03-20T09:43:56.144Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great dose, No nausea, Feel better, Tiny hearts, Boost immunity, Energy support, Strong benefits, Methyl form. Some note: Safe ingredients, Small size.",
+    "tags": [
+      {
+        "name": "Great dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No nausea",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiny hearts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Methyl form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:56.144Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

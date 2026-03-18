@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13059,
+  "last_updated": "2026-03-20T10:23:12.706Z",
+  "first_scraped": "2026-03-20T10:23:12.706Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reasonable price, Small capsules, Helps lower cortisol, Hormonal regulation, Calming effect, Menopause relief, Lightens mood, Reduce stress. Some note: PCOS help.",
+    "tags": [
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps lower cortisol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormonal regulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Menopause relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lightens mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "PCOS help",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:12.706Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

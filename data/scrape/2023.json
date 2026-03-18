@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2023,
+  "last_updated": "2026-03-20T10:06:30.705Z",
+  "first_scraped": "2026-03-20T10:06:30.705Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin clearer, Digestion help, Clean and soft, Skin health, Natural ingredients, Started working, Easy to swallow, Great benefit. Some note: Not noticed changes.",
+    "tags": [
+      {
+        "name": "Skin clearer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean and soft",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Started working",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not noticed changes",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:30.705Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

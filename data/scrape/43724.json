@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43724,
+  "last_updated": "2026-03-20T09:18:34.651Z",
+  "first_scraped": "2026-03-20T09:18:34.651Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy swallow, Value for money, Small dose, Skin health, Energy boost, Big improvement, General health, Improves health. Some note: Love iherb, Works required.",
+    "tags": [
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "General health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love iherb",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Works required",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:34.651Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97684,
+  "last_updated": "2026-03-20T09:50:03.168Z",
+  "first_scraped": "2026-03-20T09:50:03.168Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Eye boost, Overall good mood, Better eyesight, Natural ingredients, Boost carotenoids, Easy swallow, Eye health, More energy. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Eye boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall good mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better eyesight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost carotenoids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not happy",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:03.168Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

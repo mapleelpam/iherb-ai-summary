@@ -1,0 +1,68 @@
+{
+  "iherb_id": 282,
+  "last_updated": "2026-03-20T09:29:59.637Z",
+  "first_scraped": "2026-03-20T09:29:59.637Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good dosage, Good ingredients, Superb, works, Calm and centered, Sleep aid, Small capsules, Effective brand, Calming effect. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superb, works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calm and centered",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not recommended",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:59.637Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

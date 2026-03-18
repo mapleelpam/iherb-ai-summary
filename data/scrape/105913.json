@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105913,
+  "last_updated": "2026-03-20T10:20:30.812Z",
+  "first_scraped": "2026-03-20T10:20:30.812Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less anxiety, Skin benefits, Improved focus, Quality vitamin, Good deal, Increases energy, Normal range, Boost memory. Some note: Be cautious.",
+    "tags": [
+      {
+        "name": "Less anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increases energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal range",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Be cautious",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too large",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:30.812Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104052,
+  "last_updated": "2026-03-20T09:44:02.627Z",
+  "first_scraped": "2026-03-20T09:44:02.627Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Noticeable difference, Trusted brand, Easy to swallow, Love these, Scientific formula, Affordable option, Increased energy, Good job. Some note: Mixed results.",
+    "tags": [
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love these",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Scientific formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good job",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fishy aftertaste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Mixed results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:02.627Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

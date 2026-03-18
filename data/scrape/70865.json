@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70865,
+  "last_updated": "2026-03-20T09:48:55.626Z",
+  "first_scraped": "2026-03-20T09:48:55.626Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Smell better, Nice packing, Fast effects, Store purchase, Love this product, Joint support, Easy to take, Anti-inflammatory product. Some note: Ok product.",
+    "tags": [
+      {
+        "name": "Smell better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Store purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ok product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No benefit",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:55.626Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

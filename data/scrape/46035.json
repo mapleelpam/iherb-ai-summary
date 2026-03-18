@@ -1,0 +1,68 @@
+{
+  "iherb_id": 46035,
+  "last_updated": "2026-03-20T10:09:21.660Z",
+  "first_scraped": "2026-03-20T10:09:21.660Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this product, Absorption support, Boosted immunity, Organic blend, Good results, Beneficial addition, Easy to take, Black oily liquid, No taste.",
+    "tags": [
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorption support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Black oily liquid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love garden",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:21.660Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 83019,
+  "last_updated": "2026-03-20T09:49:32.754Z",
+  "first_scraped": "2026-03-20T09:49:32.754Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved breathing, Helps sometimes, Clears congestion, Easy to take, Beneficial support, Helped so much, Works great, Boosted health.",
+    "tags": [
+      {
+        "name": "Improved breathing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sometimes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clears congestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped so much",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:32.754Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

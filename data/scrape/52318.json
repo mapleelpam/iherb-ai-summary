@@ -1,0 +1,68 @@
+{
+  "iherb_id": 52318,
+  "last_updated": "2026-03-20T10:02:28.936Z",
+  "first_scraped": "2026-03-20T10:02:28.936Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pain relief, Good ingredient, Easy to swallow, Kidney stones, Convenient option, Love this product, Better health, Natural form.",
+    "tags": [
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kidney stones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sensitive teeth",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not much",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:28.936Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

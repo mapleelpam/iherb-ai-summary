@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144218,
+  "last_updated": "2026-03-20T09:36:15.641Z",
+  "first_scraped": "2026-03-20T09:36:15.641Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Memory enhancer, Brain function, Helps with concentration, Improved focus, Great choice, Natural energy boost, Skin improvements, Sharp thinking. Some note: Improve brain health.",
+    "tags": [
+      {
+        "name": "Memory enhancer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sharp thinking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve brain health",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Deeply depressed",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:15.641Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

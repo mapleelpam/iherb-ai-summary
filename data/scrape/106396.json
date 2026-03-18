@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106396,
+  "last_updated": "2026-03-20T10:23:03.561Z",
+  "first_scraped": "2026-03-20T10:23:03.561Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty treats, Taste very good, Easy to take, Give energy, Control blood pressure, Yummy, Beneficial supplement, Lowered inflammation.",
+    "tags": [
+      {
+        "name": "Tasty treats",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste very good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Give energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowered inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overpriced",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sweet texture",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:03.561Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

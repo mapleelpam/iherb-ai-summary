@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24063,
+  "last_updated": "2026-03-20T09:48:05.684Z",
+  "first_scraped": "2026-03-20T09:48:05.684Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for allergies, 500mg better, Nasal relief, Value for money, Antioxidant effects, Color differentiation, Quality nutrient, Natural relief. Some note: Seems good.",
+    "tags": [
+      {
+        "name": "Good for allergies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "500mg better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nasal relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Color differentiation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality nutrient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seems good",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Gut motility",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:05.684Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

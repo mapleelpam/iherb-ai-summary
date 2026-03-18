@@ -1,0 +1,68 @@
+{
+  "iherb_id": 969,
+  "last_updated": "2026-03-20T09:33:25.992Z",
+  "first_scraped": "2026-03-20T09:33:25.992Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Anti-inflammatory supplement, Relief with IBS, Clear nose, Back pain, Arthritis pain, Reduces inflammation, Strong recommendation, Effective supplement. Some note: Value for money, Trust brand.",
+    "tags": [
+      {
+        "name": "Anti-inflammatory supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief with IBS",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear nose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Back pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arthritis pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong recommendation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:25.992Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

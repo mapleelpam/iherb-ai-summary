@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1430,
+  "last_updated": "2026-03-20T10:27:45.860Z",
+  "first_scraped": "2026-03-20T10:27:45.860Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Calms anxiety, Tablet form, Effective ingredient, Fast relief, Relaxation aid, Sleep well, Helps sleep. Some note: Caffeine balance.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calms anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tablet form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxation aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Caffeine balance",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:45.860Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

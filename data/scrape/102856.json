@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102856,
+  "last_updated": "2026-03-20T09:51:42.565Z",
+  "first_scraped": "2026-03-20T09:51:42.565Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes great, No weird aftertaste, Super yummy, Real taste, Well packed, Best taste, Chocolatey oats, Blends well.",
+    "tags": [
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No weird aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super yummy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chocolatey oats",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blends well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Purchase limit",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:42.565Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

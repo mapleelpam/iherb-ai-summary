@@ -1,0 +1,68 @@
+{
+  "iherb_id": 112335,
+  "last_updated": "2026-03-20T10:03:10.594Z",
+  "first_scraped": "2026-03-20T10:03:10.594Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Anxiety relief, Competitive price, Liver support, Dry mucose, Mental health benefits, Highly recommend, Improved sleep, Immune support, Fast shipping. Some note: Large tablets.",
+    "tags": [
+      {
+        "name": "Anxiety relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Competitive price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dry mucose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large tablets",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:10.594Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

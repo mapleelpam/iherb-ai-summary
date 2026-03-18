@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104819,
+  "last_updated": "2026-03-20T10:06:40.957Z",
+  "first_scraped": "2026-03-20T10:06:40.957Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Taste great, Good composition, Sweet fix, Super delicious, Tasty snack, Milder effect, Crunchy taste, Sweet flavor.",
+    "tags": [
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet fix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Milder effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Crunchy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bloating, uneasy",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "IBS discomfort",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:40.957Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

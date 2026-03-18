@@ -1,0 +1,68 @@
+{
+  "iherb_id": 66170,
+  "last_updated": "2026-03-20T09:29:31.889Z",
+  "first_scraped": "2026-03-20T09:29:31.889Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hormone balance, Detox support, Solid brand, Helped with stress, Liver detox, Stubborn belly fat, Feel lighter, Improvement observed. Some note: Convenient packaging.",
+    "tags": [
+      {
+        "name": "Hormone balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Solid brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped with stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stubborn belly fat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel lighter",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement observed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sleep issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:31.889Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

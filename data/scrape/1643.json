@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1643,
+  "last_updated": "2026-03-20T10:00:18.147Z",
+  "first_scraped": "2026-03-20T10:00:18.147Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Amazing difference, Happy with, Long-lasting results, Improves health, Trustworthy option, Good vitamin, Good combination, Recommended by many. Some note: Effective energy, No side effects.",
+    "tags": [
+      {
+        "name": "Amazing difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-lasting results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trustworthy option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended by many",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective energy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:18.147Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

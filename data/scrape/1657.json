@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1657,
+  "last_updated": "2026-03-20T09:28:58.354Z",
+  "first_scraped": "2026-03-20T09:28:58.354Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved digestion, Acid reflux, Digestive aid, Decent size, Easy to swallow, Cost-effective choice, Increased capacity, Great help. Some note: Effective supplement.",
+    "tags": [
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acid reflux",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cost-effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased capacity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:58.354Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

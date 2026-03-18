@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115890,
+  "last_updated": "2026-03-20T10:01:57.559Z",
+  "first_scraped": "2026-03-20T10:01:57.559Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy mix, Improved energy, Complete packaging, Convenient powder, Good ingredients, Delicious recipe, Youthful appearance, Easy dissolve. Some note: Facial tightening, Nails growth.",
+    "tags": [
+      {
+        "name": "Easy mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious recipe",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Youthful appearance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Facial tightening",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nails growth",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:57.559Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

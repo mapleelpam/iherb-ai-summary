@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13275,
+  "last_updated": "2026-03-20T09:54:51.622Z",
+  "first_scraped": "2026-03-20T09:54:51.622Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good stuff, Boost immune, Easy swallow, High potency, Easy to digest, Good ingredients, Wholefood vitamin, Natural vitamin C.",
+    "tags": [
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to digest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wholefood vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural vitamin C",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No capsules",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:51.622Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

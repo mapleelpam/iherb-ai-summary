@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43725,
+  "last_updated": "2026-03-20T09:19:15.945Z",
+  "first_scraped": "2026-03-20T09:19:15.945Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy swallow, Good package, Essential health, Tiny tablets, Heart health, Easy to order, Pregnancy preparation, Good results. Some note: Affordable cost, Helps energy.",
+    "tags": [
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiny tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pregnancy preparation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable cost",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helps energy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:15.945Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

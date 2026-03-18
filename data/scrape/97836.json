@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97836,
+  "last_updated": "2026-03-20T09:53:56.402Z",
+  "first_scraped": "2026-03-20T09:53:56.402Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stim free, Natural boost, Easy to dissolve, Good good, Great no2 booster, Increased energy, Great energy, Convenient option. Some note: Improves workout, Easy to use.",
+    "tags": [
+      {
+        "name": "Stim free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great no2 booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves workout",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:56.402Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

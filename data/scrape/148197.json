@@ -1,0 +1,68 @@
+{
+  "iherb_id": 148197,
+  "last_updated": "2026-03-20T09:46:26.768Z",
+  "first_scraped": "2026-03-20T09:46:26.768Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to use, Hopeful start, Fine powder, Premium product, Clean product, Good fertilizer, Healthy gummies, Great addition. Some note: Keto-friendly option.",
+    "tags": [
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hopeful start",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fine powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Premium product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good fertilizer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keto-friendly option",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Delivered on time",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:26.768Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

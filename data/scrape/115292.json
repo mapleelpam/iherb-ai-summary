@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115292,
+  "last_updated": "2026-03-20T10:22:39.734Z",
+  "first_scraped": "2026-03-20T10:22:39.734Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes delicious, Post-workout recovery, Chocolate flavor, Good taste, Effective recovery, Affordable option, Easy dissolve, Lite coco. Some note: Less sweet.",
+    "tags": [
+      {
+        "name": "Tastes delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Post-workout recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chocolate flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lite coco",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not for me",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Less sweet",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:39.734Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1465,
+  "last_updated": "2026-03-20T10:12:48.880Z",
+  "first_scraped": "2026-03-20T10:12:48.880Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Value for money, Convenient packaging, Natural hormone, Energy booster, Improvement in hormone, Improved sleep, Low hormones, No problems. Some note: Efficient delivery.",
+    "tags": [
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural hormone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in hormone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No problems",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient delivery",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too powerful",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:48.880Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

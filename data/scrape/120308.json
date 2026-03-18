@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120308,
+  "last_updated": "2026-03-20T09:46:50.420Z",
+  "first_scraped": "2026-03-20T09:46:50.420Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Value for money, More protein, Simple ingredient, Looks nice, Neutral base, Easy to mix, Thickening capacity, Pure protein. Some note: Simple flavorless protein.",
+    "tags": [
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Simple ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Looks nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral base",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thickening capacity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weird taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Simple flavorless protein",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:50.420Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

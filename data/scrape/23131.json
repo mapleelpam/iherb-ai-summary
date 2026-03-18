@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23131,
+  "last_updated": "2026-03-20T10:27:22.257Z",
+  "first_scraped": "2026-03-20T10:27:22.257Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosted energy, Good for body heat, Recharge batteries, Long term effects, Clean ingredients, Energy rebound, Calming effect, Great tonic.",
+    "tags": [
+      {
+        "name": "Boosted energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for body heat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recharge batteries",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long term effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy rebound",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great tonic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No impact",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sleepy most times",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:22.257Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

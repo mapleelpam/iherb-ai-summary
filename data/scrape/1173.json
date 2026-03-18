@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1173,
+  "last_updated": "2026-03-20T10:19:24.933Z",
+  "first_scraped": "2026-03-20T10:19:24.933Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High dosage, Affordable option, Noticeable changes, Effective supplement, Support overall, Body benefits, Convenient and cost effective, Love this, Healthy option, Joint pain.",
+    "tags": [
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable changes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support overall",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient and cost effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:24.933Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

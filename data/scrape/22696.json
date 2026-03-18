@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22696,
+  "last_updated": "2026-03-20T10:04:23.827Z",
+  "first_scraped": "2026-03-20T10:04:23.827Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps sleep, Good night sleep, Muscle recovery, Love this, Arthritis relief, Relief from gout, Fast shipping, Hand pain.",
+    "tags": [
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good night sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arthritis relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief from gout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hand pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes weird",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Weird look",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:23.827Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

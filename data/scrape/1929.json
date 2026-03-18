@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1929,
+  "last_updated": "2026-03-20T09:51:32.491Z",
+  "first_scraped": "2026-03-20T09:51:32.491Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increased stamina, Premium ingredients, Gentle and effective, Good additive, More comfortable, Good deals, Noticibly warmer, Great blend. Some note: Body temperature, Refreshing and recharged.",
+    "tags": [
+      {
+        "name": "Increased stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Premium ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle and effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More comfortable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good deals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticibly warmer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body temperature",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Refreshing and recharged",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:32.491Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

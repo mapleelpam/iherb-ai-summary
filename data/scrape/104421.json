@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104421,
+  "last_updated": "2026-03-20T10:25:10.267Z",
+  "first_scraped": "2026-03-20T10:25:10.267Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved gut health, Soft and squishy, Nice flavor, Easy to chew, Sticky texture, Apple cider, Weight loss, Consistent stool, Gentle taste.",
+    "tags": [
+      {
+        "name": "Improved gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soft and squishy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to chew",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sticky texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Apple cider",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consistent stool",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High sugar",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:10.267Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

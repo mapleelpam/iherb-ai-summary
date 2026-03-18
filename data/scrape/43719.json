@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43719,
+  "last_updated": "2026-03-20T10:08:04.702Z",
+  "first_scraped": "2026-03-20T10:08:04.702Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Happy with, Fast shipping, Made in USA, Vitamin compensates, Enhance metabolism, Small tablets, Very lovely, Healthy nervous system.",
+    "tags": [
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Made in USA",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin compensates",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhance metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very lovely",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy nervous system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too much calcium",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Poor sleep",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:04.702Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

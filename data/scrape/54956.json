@@ -1,0 +1,68 @@
+{
+  "iherb_id": 54956,
+  "last_updated": "2026-03-20T10:17:30.586Z",
+  "first_scraped": "2026-03-20T10:17:30.586Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy on, Instant relief, Clear skin, Relieve infections, Parasite inhibitor, Strong cleanse, Good composition, Potent stuff. Some note: Dairy intake.",
+    "tags": [
+      {
+        "name": "Easy on",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Instant relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieve infections",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Parasite inhibitor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dairy intake",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stunts growth",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:30.586Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

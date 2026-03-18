@@ -1,0 +1,68 @@
+{
+  "iherb_id": 90332,
+  "last_updated": "2026-03-20T09:30:10.602Z",
+  "first_scraped": "2026-03-20T09:30:10.602Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Yummy addition, Healthy alternative, Nice smell, Great topping, Chocolate flavor, Delicious, Nice package size, Delicious with yogurt. Some note: Divine product.",
+    "tags": [
+      {
+        "name": "Yummy addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great topping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chocolate flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious with yogurt",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Divine product",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:10.602Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

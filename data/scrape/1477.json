@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1477,
+  "last_updated": "2026-03-20T10:02:15.249Z",
+  "first_scraped": "2026-03-20T10:02:15.249Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy absorption, Stable energy, Control blood glucose, Excellent before workout, Blood sugar, Hair tests, Insulin effects, Weight loss.",
+    "tags": [
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stable energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control blood glucose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent before workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair tests",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Insulin effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lack of appetite",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Running nose",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:15.249Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107896,
+  "last_updated": "2026-03-20T09:52:23.201Z",
+  "first_scraped": "2026-03-20T09:52:23.201Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved gum health, Quality supplement, Less bleeding, Highly recommend, Effective ingredients, Less sensitivity, Noticeable results, Worth it. Some note: Overall health.",
+    "tags": [
+      {
+        "name": "Improved gum health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bleeding",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less sensitivity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:23.201Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

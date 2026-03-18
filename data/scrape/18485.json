@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18485,
+  "last_updated": "2026-03-20T10:02:26.894Z",
+  "first_scraped": "2026-03-20T10:02:26.894Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Game changer, Speedy delivery, Impressed delivery, Lower blood pressure, Heart health, High value, Improved BP, Wound healing.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved BP",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wound healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant side effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:26.894Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

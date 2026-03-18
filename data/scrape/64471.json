@@ -1,0 +1,68 @@
+{
+  "iherb_id": 64471,
+  "last_updated": "2026-03-20T10:10:25.321Z",
+  "first_scraped": "2026-03-20T10:10:25.321Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good maintenance, Trust brand, Healing result, Helped me, Settle stomach, Improved digestion, Great probiotic, Easy to take.",
+    "tags": [
+      {
+        "name": "Good maintenance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healing result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Settle stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Plastic bottles",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:25.321Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

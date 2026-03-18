@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1757,
+  "last_updated": "2026-03-20T09:33:41.660Z",
+  "first_scraped": "2026-03-20T09:33:41.660Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good source, Thyroid support, Easy to swallow, Antioxidant boost, Hair nails, Recommend highly, Small size, Convenient dosage. Some note: Immune support, Stability uncompromised.",
+    "tags": [
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thyroid support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend highly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stability uncompromised",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:41.660Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

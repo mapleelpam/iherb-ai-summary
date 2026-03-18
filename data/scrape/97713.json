@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97713,
+  "last_updated": "2026-03-20T10:20:02.141Z",
+  "first_scraped": "2026-03-20T10:20:02.141Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin glows, Highly recommend, Good taste, Refreshing drink, Restoring gut, Works as intended, Unique taste, Good sized package. Some note: Digestive health.",
+    "tags": [
+      {
+        "name": "Skin glows",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restoring gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works as intended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sized package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:02.141Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

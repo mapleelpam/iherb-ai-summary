@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10591,
+  "last_updated": "2026-03-20T10:11:15.587Z",
+  "first_scraped": "2026-03-20T10:11:15.587Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good energy, Anti-inflammatory properties, Works great, Helpful supplement, Calming effect, Love gaia, Easy to swallow, Love brand. Some note: Not noticeable.",
+    "tags": [
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love gaia",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not noticeable",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not cheap",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:15.587Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

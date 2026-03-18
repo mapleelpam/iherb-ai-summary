@@ -1,0 +1,68 @@
+{
+  "iherb_id": 88369,
+  "last_updated": "2026-03-20T09:52:38.783Z",
+  "first_scraped": "2026-03-20T09:52:38.783Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good digestion, Good ingredients, Looks good, Organic, wild-crafted, Good dosage, Balance hormones, Increase blood pressure, Easy to take. Some note: Relief supplement, Good feeling.",
+    "tags": [
+      {
+        "name": "Good digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Looks good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic, wild-crafted",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balance hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good feeling",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:38.783Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

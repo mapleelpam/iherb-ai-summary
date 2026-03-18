@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5210,
+  "last_updated": "2026-03-20T09:59:24.720Z",
+  "first_scraped": "2026-03-20T09:59:24.720Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean ingredients, Helps cough, Helping, Gentle on the gut, Great addition, Respiratory health, Breathing better, Heal gut. Some note: Pleasant taste.",
+    "tags": [
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps cough",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle on the gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Respiratory health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Breathing better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heal gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Alcohol content",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:24.720Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

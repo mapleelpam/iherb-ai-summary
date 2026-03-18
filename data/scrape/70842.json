@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70842,
+  "last_updated": "2026-03-20T09:34:13.533Z",
+  "first_scraped": "2026-03-20T09:34:13.533Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Better form, More energy, Powerful antioxidant, Skin brighter, Good ingredient, Clean ingredients, High price, Good for detoxing.",
+    "tags": [
+      {
+        "name": "Better form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin brighter",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for detoxing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowest spectrum",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No noticeable improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:13.533Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

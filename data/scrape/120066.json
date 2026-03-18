@@ -1,0 +1,63 @@
+{
+  "iherb_id": 120066,
+  "last_updated": "2026-03-20T09:18:47.340Z",
+  "first_scraped": "2026-03-20T09:18:47.340Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective combo, Good sleep, Very good ingredient, Easy to swallow, Convenient pill, Essential nutrients, Increased energy. Some note: Economical price, Great way.",
+    "tags": [
+      {
+        "name": "Effective combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient pill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential nutrients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economical price",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great way",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:47.340Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

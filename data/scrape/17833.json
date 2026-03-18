@@ -1,0 +1,68 @@
+{
+  "iherb_id": 17833,
+  "last_updated": "2026-03-20T09:42:40.567Z",
+  "first_scraped": "2026-03-20T09:42:40.567Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost health, Easy way, Clean ingredients, Nutrition boost, Vegan option, Delicious taste, Tasty superfood, Fast shipping.",
+    "tags": [
+      {
+        "name": "Boost health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrition boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty superfood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not great",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Severe nausea",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:40.567Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

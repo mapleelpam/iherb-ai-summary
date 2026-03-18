@@ -1,0 +1,68 @@
+{
+  "iherb_id": 103763,
+  "last_updated": "2026-03-20T10:15:15.935Z",
+  "first_scraped": "2026-03-20T10:15:15.935Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipment, Great supplement, Tasteless capsules, Good results, Easy to take, Good probiotic, High potency, More energy.",
+    "tags": [
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasteless capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love product",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Wish smaller",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:15.935Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

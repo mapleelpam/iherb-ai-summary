@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80554,
+  "last_updated": "2026-03-20T09:41:38.429Z",
+  "first_scraped": "2026-03-20T09:41:38.429Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty and easy, Fresh & quick, Tasty vitamins, Speedy shipping, Immunity booster, Good taste, Berry flavor, Doing job.",
+    "tags": [
+      {
+        "name": "Tasty and easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh & quick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Berry flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doing job",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stopped taking",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:38.429Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

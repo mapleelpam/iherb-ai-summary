@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3701,
+  "last_updated": "2026-03-20T10:17:52.452Z",
+  "first_scraped": "2026-03-20T10:17:52.452Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural ingredients, Easy to swallow, Improved HDL, Support heart, Herbal combo, Great supplement, Very satisfied, Feel good, Life changer, Heart muscle.",
+    "tags": [
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved HDL",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herbal combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart muscle",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:52.452Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

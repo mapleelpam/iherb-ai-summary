@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107121,
+  "last_updated": "2026-03-20T09:41:16.830Z",
+  "first_scraped": "2026-03-20T09:41:16.830Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural source, Superfood supplement, Energy boost, Clean ingredients, Tastes great, Fast delivery, Large packet, Calm and energetic. Some note: Good taste.",
+    "tags": [
+      {
+        "name": "Natural source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superfood supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large packet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calm and energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:16.830Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

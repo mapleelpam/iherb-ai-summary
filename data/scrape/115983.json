@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115983,
+  "last_updated": "2026-03-20T10:04:40.682Z",
+  "first_scraped": "2026-03-20T10:04:40.682Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosted energy, No bad taste, Bone health, Great supplement, Immunity boost, Organic d3, Triple support, Serves purpose. Some note: Effective packaging, Not sure.",
+    "tags": [
+      {
+        "name": "Boosted energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No bad taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic d3",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Triple support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Serves purpose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective packaging",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:40.682Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

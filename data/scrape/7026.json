@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7026,
+  "last_updated": "2026-03-20T09:45:19.692Z",
+  "first_scraped": "2026-03-20T09:45:19.692Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural protein, Lowest prices, Natural chocolate, Low calories, Fast shipping, Clean and yummy, No added sugar, Good price. Some note: Disappointed with taste.",
+    "tags": [
+      {
+        "name": "Natural protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowest prices",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low calories",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean and yummy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No added sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Disappointed with taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant aftertaste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:19.692Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

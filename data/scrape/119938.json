@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119938,
+  "last_updated": "2026-03-20T10:26:10.269Z",
+  "first_scraped": "2026-03-20T10:26:10.269Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy levels, Tasty gummies, Clean ingredients, Sweet flavor, Well-rounded formulation, Plant-based, non-gmo, Effective energy, More energetic, Yummy treat, Fresh package.",
+    "tags": [
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well-rounded formulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant-based, non-gmo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy treat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh package",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:10.269Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72624,
+  "last_updated": "2026-03-20T09:25:43.609Z",
+  "first_scraped": "2026-03-20T09:25:43.609Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective alternative, Good size, Potent brand, Very nice, MTHF energy, Easy to swallow, Nice price, Good addition. Some note: Very satisfied, The best.",
+    "tags": [
+      {
+        "name": "Effective alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "MTHF energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "The best",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:43.609Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

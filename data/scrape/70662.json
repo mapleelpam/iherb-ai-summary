@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70662,
+  "last_updated": "2026-03-20T10:06:48.260Z",
+  "first_scraped": "2026-03-20T10:06:48.260Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good choice, Fast shipping, Energy recovery, No aftertaste, Clear oil, Good alternative, Quick arrival, Love this product.",
+    "tags": [
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick arrival",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fishy taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Disgusting burp",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:48.260Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

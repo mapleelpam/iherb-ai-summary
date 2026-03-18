@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14529,
+  "last_updated": "2026-03-20T10:29:32.409Z",
+  "first_scraped": "2026-03-20T10:29:32.409Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love allimax, Powerful natural, Effective relief, Less horrible, Immobilized germ, Easy to administer, Highly recommend, Gut health. Some note: Digestion issues.",
+    "tags": [
+      {
+        "name": "Love allimax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful natural",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less horrible",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immobilized germ",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to administer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion issues",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not powerful",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:29:32.409Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

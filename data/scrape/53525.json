@@ -1,0 +1,68 @@
+{
+  "iherb_id": 53525,
+  "last_updated": "2026-03-20T09:54:55.520Z",
+  "first_scraped": "2026-03-20T09:54:55.520Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: DIY chocolate, Trust site, Simple ingredients, Rich aroma, Discounts frequent, Easy to use, Super snack, Nice price. Some note: Raw and pure.",
+    "tags": [
+      {
+        "name": "DIY chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust site",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Simple ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich aroma",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Discounts frequent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very sour",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Raw and pure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:55.520Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

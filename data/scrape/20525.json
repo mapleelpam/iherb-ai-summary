@@ -1,0 +1,68 @@
+{
+  "iherb_id": 20525,
+  "last_updated": "2026-03-20T10:27:08.434Z",
+  "first_scraped": "2026-03-20T10:27:08.434Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Ideal product, Itchiness gone, Detoxification benefits, Deep sleep, Works good, Supportive supplement, Helps well.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ideal product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Itchiness gone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detoxification benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supportive supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Contains lead",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:08.434Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

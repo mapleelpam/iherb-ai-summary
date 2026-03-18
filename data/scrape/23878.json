@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23878,
+  "last_updated": "2026-03-20T10:36:57.334Z",
+  "first_scraped": "2026-03-20T10:36:57.334Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient pill, Eye care, Healthy antioxidants, Better potency, Ligament support, Boost energy, Feel good, Vitality boost. Some note: Hot delivery.",
+    "tags": [
+      {
+        "name": "Convenient pill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye care",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy antioxidants",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ligament support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitality boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too strong",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hot delivery",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:36:57.334Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

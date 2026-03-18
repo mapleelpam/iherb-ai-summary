@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115914,
+  "last_updated": "2026-03-20T10:08:47.201Z",
+  "first_scraped": "2026-03-20T10:08:47.201Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Amazing results, Fat burning, Carb control, Less bloating, Fast dispatch, Control appetite, Easy to understand, Full longer. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Amazing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat burning",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Carb control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast dispatch",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to understand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Full longer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:47.201Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

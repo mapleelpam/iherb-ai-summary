@@ -1,0 +1,68 @@
+{
+  "iherb_id": 121641,
+  "last_updated": "2026-03-20T10:16:29.348Z",
+  "first_scraped": "2026-03-20T10:16:29.348Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy travel, Enhanced absorption, Happy with, Better bioavailability, Raise protein, Less recovery time, Fair price, Quick recovery. Some note: No oil, Smaller packaging.",
+    "tags": [
+      {
+        "name": "Easy travel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better bioavailability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Raise protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less recovery time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No oil",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Smaller packaging",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:29.348Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

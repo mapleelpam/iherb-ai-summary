@@ -1,0 +1,68 @@
+{
+  "iherb_id": 64381,
+  "last_updated": "2026-03-20T09:29:38.747Z",
+  "first_scraped": "2026-03-20T09:29:38.747Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sleep quality, Better sleep, Top supplement, Fast shipping, Good ingredients, Effective remedy, Highly recommend, Economical package. Some note: Love solgar.",
+    "tags": [
+      {
+        "name": "Sleep quality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economical package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love solgar",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Titanium dioxide",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:38.747Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

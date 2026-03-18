@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117733,
+  "last_updated": "2026-03-20T09:41:44.458Z",
+  "first_scraped": "2026-03-20T09:41:44.458Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fall asleep quickly, Fast reaction, Good dosage, Easy to swallow, Helps sleep, Control mg, Low dose, Sleep support. Some note: Reduce doses.",
+    "tags": [
+      {
+        "name": "Fall asleep quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast reaction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control mg",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doesn't work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Reduce doses",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:44.458Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

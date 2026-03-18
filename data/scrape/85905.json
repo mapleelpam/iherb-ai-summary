@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85905,
+  "last_updated": "2026-03-20T10:19:19.026Z",
+  "first_scraped": "2026-03-20T10:19:19.026Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less bloated, Digestive support, Best enzyme, Clean ingredients, Safe during pregnancy, Huge difference, Food intolerance, Helped a lot. Some note: Shrink fibroids.",
+    "tags": [
+      {
+        "name": "Less bloated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best enzyme",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe during pregnancy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Huge difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Food intolerance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped a lot",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Disappointed",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Shrink fibroids",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:19.026Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

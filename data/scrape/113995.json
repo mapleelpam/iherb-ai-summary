@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113995,
+  "last_updated": "2026-03-20T09:29:56.385Z",
+  "first_scraped": "2026-03-20T09:29:56.385Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good absorption, Right amount d3, Good combination, Bone health, Improves mood, Great help, Satisfied with, Good dose. Some note: D3 deficiency, Good for bones.",
+    "tags": [
+      {
+        "name": "Good absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Right amount d3",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "D3 deficiency",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good for bones",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:56.385Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

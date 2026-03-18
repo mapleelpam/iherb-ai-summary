@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84255,
+  "last_updated": "2026-03-20T10:22:05.536Z",
+  "first_scraped": "2026-03-20T10:22:05.536Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to dissolve, Beneficial for joints, Tastes good, Smooth and tasty, Dessert for breakfast, Supporting bone, Nice price, Long handle.",
+    "tags": [
+      {
+        "name": "Easy to dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial for joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth and tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dessert for breakfast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supporting bone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long handle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Insulin spike",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:05.536Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

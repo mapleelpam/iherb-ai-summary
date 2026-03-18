@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5629,
+  "last_updated": "2026-03-20T09:30:53.198Z",
+  "first_scraped": "2026-03-20T09:30:53.198Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trusted brand, Best coq10, Energetic again, Essential part, Easy to swallow, Helps tolerate, Recommended!, More energy. Some note: High potency.",
+    "tags": [
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best coq10",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energetic again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential part",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps tolerate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended!",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:53.198Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

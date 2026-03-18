@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97623,
+  "last_updated": "2026-03-20T09:50:38.461Z",
+  "first_scraped": "2026-03-20T09:50:38.461Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Calm mood, Muscle recovery, Berry flavor, Easy to use, Calming effect, Clear-headed and relaxed, Good sleep, Delightful taste.",
+    "tags": [
+      {
+        "name": "Calm mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Berry flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear-headed and relaxed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delightful taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:38.461Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

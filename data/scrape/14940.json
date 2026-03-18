@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14940,
+  "last_updated": "2026-03-20T09:43:04.566Z",
+  "first_scraped": "2026-03-20T09:43:04.566Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good circulation, Swelling improvement, Significant relief, Easy to swallow, Positive effects, Support veins, Leg improvement, Reduces inflammation. Some note: Not much.",
+    "tags": [
+      {
+        "name": "Good circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Swelling improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Significant relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support veins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Leg improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid sedentary",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not much",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:04.566Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

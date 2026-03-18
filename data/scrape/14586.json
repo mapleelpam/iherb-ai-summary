@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14586,
+  "last_updated": "2026-03-20T10:03:50.753Z",
+  "first_scraped": "2026-03-20T10:03:50.753Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Amazing benefits, Soothing throat, Boost immunity, Clears sores, Active responder, Fast relief, Works fast.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soothing throat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clears sores",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Active responder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste is bad",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stopped selling",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:50.753Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

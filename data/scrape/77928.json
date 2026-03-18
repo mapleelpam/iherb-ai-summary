@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77928,
+  "last_updated": "2026-03-20T09:44:54.710Z",
+  "first_scraped": "2026-03-20T09:44:54.710Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clears congestion, Works wonders, Helped alot, Expensive but worth, Improved lung function, High effect, Clear lungs, Helps breathe. Some note: Stopped coughing, Helpful during.",
+    "tags": [
+      {
+        "name": "Clears congestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped alot",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but worth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved lung function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear lungs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps breathe",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped coughing",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helpful during",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:54.710Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

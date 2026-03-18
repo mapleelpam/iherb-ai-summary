@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116356,
+  "last_updated": "2026-03-20T10:06:11.260Z",
+  "first_scraped": "2026-03-20T10:06:11.260Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy swallow, Helps inflammation, Improvement in mobility, Good mix, Triple combo, Antioxidant support, Cherry taste, No after-taste. Some note: Nice combo.",
+    "tags": [
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in mobility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Triple combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cherry taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No after-taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Nice combo",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:11.260Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

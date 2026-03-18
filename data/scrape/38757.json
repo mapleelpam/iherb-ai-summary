@@ -1,0 +1,68 @@
+{
+  "iherb_id": 38757,
+  "last_updated": "2026-03-20T10:01:49.313Z",
+  "first_scraped": "2026-03-20T10:01:49.313Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this, Lower blood pressure, Mental functioning, Powerful product, Good source, Energy boost, Affordable option, Natural ingredient. Some note: Fast shipping.",
+    "tags": [
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental functioning",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Toxic concerns",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:49.313Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

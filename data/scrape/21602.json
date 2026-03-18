@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21602,
+  "last_updated": "2026-03-20T10:19:34.594Z",
+  "first_scraped": "2026-03-20T10:19:34.594Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Excellent herb, Energy boost, Improved focus, Balancing energy, Good for memory, Uplifting effect, Focus enhancement, Nice and original.",
+    "tags": [
+      {
+        "name": "Excellent herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balancing energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Uplifting effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Focus enhancement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice and original",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worst product",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not strong",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:34.594Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

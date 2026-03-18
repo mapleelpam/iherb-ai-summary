@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102553,
+  "last_updated": "2026-03-20T09:27:19.185Z",
+  "first_scraped": "2026-03-20T09:27:19.185Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Essential for health, Immune support, Immune system, Boost immune, Antioxidant support, Good price, Repair tissue, Size is medium. Some note: Easy to swallow, Effective ingredient.",
+    "tags": [
+      {
+        "name": "Essential for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repair tissue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Size is medium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredient",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:19.185Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

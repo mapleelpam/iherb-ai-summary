@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8,
+  "last_updated": "2026-03-20T09:27:03.516Z",
+  "first_scraped": "2026-03-20T09:27:03.516Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves sleep, Easy to swallow, Good ingredients, Helpful sleep, Fast shipping, Improved mood, Mood support, Natural boost.",
+    "tags": [
+      {
+        "name": "Improves sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel nauseous",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:03.516Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

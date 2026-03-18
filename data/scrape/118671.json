@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118671,
+  "last_updated": "2026-03-20T10:13:59.175Z",
+  "first_scraped": "2026-03-20T10:13:59.175Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective brand, Rare product, Noticeable results, Palatable taste, Significant improvement, Looks good, Managing pain, Restore balance. Some note: No results, Short time.",
+    "tags": [
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rare product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Palatable taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Significant improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Looks good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Managing pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restore balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Short time",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:59.175Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7690,
+  "last_updated": "2026-03-20T09:22:13.525Z",
+  "first_scraped": "2026-03-20T09:22:13.525Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Thyroid support, Effective detox, Excellent source, Easy to swallow, Natural source, Effective supplement, Natural composition, Good ingredients. Some note: Benefit seen, Thyroid function.",
+    "tags": [
+      {
+        "name": "Thyroid support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit seen",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Thyroid function",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:13.525Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

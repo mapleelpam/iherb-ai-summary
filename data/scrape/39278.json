@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39278,
+  "last_updated": "2026-03-20T09:45:25.224Z",
+  "first_scraped": "2026-03-20T09:45:25.224Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works great, Good concentration, Highly recommend, Boost immunity, No aftertaste, Easy to take, Nice taste, Great work. Some note: Safe and nutritious.",
+    "tags": [
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great work",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe and nutritious",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Different type",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:25.224Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

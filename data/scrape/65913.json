@@ -1,0 +1,68 @@
+{
+  "iherb_id": 65913,
+  "last_updated": "2026-03-20T10:24:43.744Z",
+  "first_scraped": "2026-03-20T10:24:43.744Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increase in energy, Safe ingredients, Easy to swallow, Effective energy, More than expected, Metabolism boost, Great energy, Increased performance.",
+    "tags": [
+      {
+        "name": "Increase in energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More than expected",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Metabolism boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Watch caffeine intake",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Dirty tactic",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:43.744Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

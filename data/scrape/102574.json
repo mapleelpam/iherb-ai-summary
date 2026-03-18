@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102574,
+  "last_updated": "2026-03-20T10:13:39.262Z",
+  "first_scraped": "2026-03-20T10:13:39.262Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Taste good, Good ingredients, Bulk and hold, Check this gem, Great addition, Drink water, Start small, Good choice, Improves digestion.",
+    "tags": [
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bulk and hold",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Check this gem",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Drink water",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Start small",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:39.262Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

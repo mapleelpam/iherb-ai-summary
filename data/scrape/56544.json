@@ -1,0 +1,68 @@
+{
+  "iherb_id": 56544,
+  "last_updated": "2026-03-20T09:48:40.601Z",
+  "first_scraped": "2026-03-20T09:48:40.601Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good mood, Working product, Generous supply, Cost-effective brand, Best CLA, Worth the money, Love this, Helps control. Some note: Beneficial size.",
+    "tags": [
+      {
+        "name": "Good mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Working product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Generous supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cost-effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best CLA",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth the money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Weight gain",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:40.601Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

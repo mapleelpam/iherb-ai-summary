@@ -1,0 +1,68 @@
+{
+  "iherb_id": 79953,
+  "last_updated": "2026-03-20T09:49:23.248Z",
+  "first_scraped": "2026-03-20T09:49:23.248Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good combination, Effective blend, Lowered blood pressure, Excellent supplement, Blood flow, Improving health, Fitness benefits, Lowered ammonia levels, Enhance performance.",
+    "tags": [
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowered blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood flow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fitness benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowered ammonia levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhance performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:23.248Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

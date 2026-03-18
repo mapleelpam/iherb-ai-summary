@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97389,
+  "last_updated": "2026-03-20T09:25:00.228Z",
+  "first_scraped": "2026-03-20T09:25:00.228Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ratio, Easy to swallow, Enhanced focus, Great benefit, Energy boost, Good combination, Affordable option, Good antioxidant. Some note: Life saver, Brain support.",
+    "tags": [
+      {
+        "name": "Good ratio",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life saver",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Brain support",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:00.228Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69764,
+  "last_updated": "2026-03-20T10:03:00.385Z",
+  "first_scraped": "2026-03-20T10:03:00.385Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lower cholesterol, Lowered levels, Blood test, Good combination, Safer bet, Good tool, Follow-up appointment, Timely delivery. Some note: Garlic taste.",
+    "tags": [
+      {
+        "name": "Lower cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowered levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood test",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safer bet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good tool",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Follow-up appointment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Garlic taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Elevated levels",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:00.385Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

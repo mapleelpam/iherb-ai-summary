@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18251,
+  "last_updated": "2026-03-20T09:25:41.705Z",
+  "first_scraped": "2026-03-20T09:25:41.705Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great results, High potency, One capsule, Clean ingredients, Maintain health, Good vitamin mens, Fast delivery, Best one. Some note: Probiotics ingredients.",
+    "tags": [
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "One capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamin mens",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best one",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nauseous on empty stomach",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Probiotics ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:41.705Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

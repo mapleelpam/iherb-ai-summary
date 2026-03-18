@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115483,
+  "last_updated": "2026-03-20T10:23:41.284Z",
+  "first_scraped": "2026-03-20T10:23:41.284Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Amazing focus, Natural stress management, Convenient packaging, Relaxation, sleep, Nice package, Anxiety control, Calm focus, Deep sleep, Higher dosage. Some note: Potent formula.",
+    "tags": [
+      {
+        "name": "Amazing focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural stress management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxation, sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calm focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent formula",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:41.284Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

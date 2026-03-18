@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77584,
+  "last_updated": "2026-03-20T10:05:42.063Z",
+  "first_scraped": "2026-03-20T10:05:42.063Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Joint support, Fast shipping, Arthritis pain, Decreases inflammation, Works great, Improved health, Pain relief, Age recommendation, Anti-inflammatory support, Low inflammation.",
+    "tags": [
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arthritis pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decreases inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Age recommendation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low inflammation",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:42.063Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

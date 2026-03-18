@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7693,
+  "last_updated": "2026-03-20T10:30:27.609Z",
+  "first_scraped": "2026-03-20T10:30:27.609Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful product, Brand name, Highly recommend, Potent antibiotic, Budget friendly, Regulate asthma, Helped tremendously, Lung improvement. Some note: No difference.",
+    "tags": [
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brand name",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent antibiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Budget friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate asthma",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped tremendously",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lung improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:30:27.609Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

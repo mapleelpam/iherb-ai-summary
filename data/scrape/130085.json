@@ -1,0 +1,68 @@
+{
+  "iherb_id": 130085,
+  "last_updated": "2026-03-20T11:13:34.659Z",
+  "first_scraped": "2026-03-20T11:13:34.659Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Blends well, Easy to take, By far the best, Feel effects, Climate pledge, High antioxidant, Digestive health, Convenient option. Some note: After lunch, Green smoothie.",
+    "tags": [
+      {
+        "name": "Blends well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "By far the best",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Climate pledge",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "After lunch",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Green smoothie",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T11:13:34.659Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

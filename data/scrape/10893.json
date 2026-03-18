@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10893,
+  "last_updated": "2026-03-20T10:10:10.252Z",
+  "first_scraped": "2026-03-20T10:10:10.252Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Vegetarian product, Smooth tablets, Vegan glucosamine, Significant improvement, Decent alternative, Excellent vegan, Reduced knee pain, Helped me. Some note: Joint health.",
+    "tags": [
+      {
+        "name": "Vegetarian product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan glucosamine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Significant improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent vegan",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced knee pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Turmeric content",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:10.252Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

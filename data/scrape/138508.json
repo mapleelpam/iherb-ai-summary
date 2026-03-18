@@ -1,0 +1,68 @@
+{
+  "iherb_id": 138508,
+  "last_updated": "2026-03-20T09:21:10.732Z",
+  "first_scraped": "2026-03-20T09:21:10.732Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good dosage, Nice price, Great ingredients, Joint pain, Improved cognition, Positive difference, Good health, Complete ingredients. Some note: Effective supplement.",
+    "tags": [
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved cognition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:10.732Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

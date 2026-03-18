@@ -1,0 +1,68 @@
+{
+  "iherb_id": 57809,
+  "last_updated": "2026-03-20T10:24:42.718Z",
+  "first_scraped": "2026-03-20T10:24:42.718Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Few months, Improving tremendously, Expensive but worth, Annoying, great, Easy to take, Boosted my system, Limes gone, Ticks protection, Protection against ticks.",
+    "tags": [
+      {
+        "name": "Few months",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving tremendously",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but worth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Annoying, great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted my system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Limes gone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ticks protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protection against ticks",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to find",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:42.718Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

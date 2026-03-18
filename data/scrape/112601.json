@@ -1,0 +1,68 @@
+{
+  "iherb_id": 112601,
+  "last_updated": "2026-03-20T09:48:12.674Z",
+  "first_scraped": "2026-03-20T09:48:12.674Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improvement in vision, Macular health, Eye health, Less tired eyes, Fast results, Herbal extracts, Easy to swallow, Interesting combination.",
+    "tags": [
+      {
+        "name": "Improvement in vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Macular health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less tired eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herbal extracts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Interesting combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No changes",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Inconvenient tablets",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:12.674Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

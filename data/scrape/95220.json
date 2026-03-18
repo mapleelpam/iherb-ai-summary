@@ -1,0 +1,68 @@
+{
+  "iherb_id": 95220,
+  "last_updated": "2026-03-20T09:50:09.178Z",
+  "first_scraped": "2026-03-20T09:50:09.178Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective choice, Fast shipping, Good results, Shiner, thicker, Hair thicker, Easy to swallow, Good ingredients, High-potency biotin. Some note: Trusted company, Green urine.",
+    "tags": [
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shiner, thicker",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair thicker",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High-potency biotin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted company",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Green urine",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:09.178Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

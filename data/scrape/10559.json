@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10559,
+  "last_updated": "2026-03-20T10:25:55.872Z",
+  "first_scraped": "2026-03-20T10:25:55.872Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Top ingredients, Digestion improvement, Highly recommend, Good probiotic, Convenient option, Good balance, Relieve constipation. Some note: Minor improvements.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieve constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cold chain",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Minor improvements",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:55.872Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

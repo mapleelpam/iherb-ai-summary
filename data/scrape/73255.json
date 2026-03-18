@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73255,
+  "last_updated": "2026-03-20T10:08:57.351Z",
+  "first_scraped": "2026-03-20T10:08:57.351Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Tastes good, Not sweet, Solid choice, Worth to buy, Plant based, Clean ingredients, Mild flavor.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sweet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Solid choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth to buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not the best",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:57.351Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

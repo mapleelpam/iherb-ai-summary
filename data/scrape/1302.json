@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1302,
+  "last_updated": "2026-03-20T10:39:02.775Z",
+  "first_scraped": "2026-03-20T10:39:02.775Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective sleep helper, Prompt delivery, Works great, Pleasant flavor, Peaceful slumberland, Restful sleep, Fast absorption, Tastes good. Some note: Mixed results, Just OK.",
+    "tags": [
+      {
+        "name": "Effective sleep helper",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Peaceful slumberland",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restful sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixed results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Just OK",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:39:02.775Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

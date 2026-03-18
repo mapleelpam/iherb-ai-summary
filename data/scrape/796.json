@@ -1,0 +1,68 @@
+{
+  "iherb_id": 796,
+  "last_updated": "2026-03-20T09:23:16.913Z",
+  "first_scraped": "2026-03-20T09:23:16.913Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Throat pain, Acid reflux, Improvement digestion, Soothing stomach, Soothing effects, Relief stomach, Wonderful herb, Easy to take. Some note: Easy swallow.",
+    "tags": [
+      {
+        "name": "Throat pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acid reflux",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soothing stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soothing effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wonderful herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:16.913Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

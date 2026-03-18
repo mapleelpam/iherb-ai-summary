@@ -1,0 +1,68 @@
+{
+  "iherb_id": 56650,
+  "last_updated": "2026-03-20T09:52:00.375Z",
+  "first_scraped": "2026-03-20T09:52:00.375Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Noticeable fat loss, Effective supplement, Fat burner, Great energy, Digestion aid, Nice boost, Hunger reduction, Effective thermogenic. Some note: Takes time.",
+    "tags": [
+      {
+        "name": "Noticeable fat loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat burner",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hunger reduction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective thermogenic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Takes time",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:00.375Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

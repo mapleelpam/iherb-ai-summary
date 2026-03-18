@@ -1,0 +1,68 @@
+{
+  "iherb_id": 141705,
+  "last_updated": "2026-03-20T09:25:22.806Z",
+  "first_scraped": "2026-03-20T09:25:22.806Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Quality supplement, Good ingredient, Great pump, Improved endurance, Energy booster, Reduces fatigue, Solid energy, High dosage. Some note: Super citrulline malate.",
+    "tags": [
+      {
+        "name": "Quality supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces fatigue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Solid energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super citrulline malate",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sour taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:22.806Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

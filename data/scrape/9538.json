@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9538,
+  "last_updated": "2026-03-20T10:37:10.236Z",
+  "first_scraped": "2026-03-20T10:37:10.236Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Regulate hormonal changes, Highly recommend, Helps menopause, Sleep well, Restore female organs, Hot flashes, Natural route, Heat problem.",
+    "tags": [
+      {
+        "name": "Regulate hormonal changes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps menopause",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restore female organs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hot flashes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural route",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heat problem",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Burning sensation",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stop hc",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:37:10.236Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 148507,
+  "last_updated": "2026-03-20T09:51:44.489Z",
+  "first_scraped": "2026-03-20T09:51:44.489Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increased hydration, Dry eyes, Eye health benefits, Good results, Great supplement, Less breakouts, Fast shipping, Scent is great. Some note: Easy to swallow.",
+    "tags": [
+      {
+        "name": "Increased hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dry eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less breakouts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Scent is great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too concentrated",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:44.489Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

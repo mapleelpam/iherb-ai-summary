@@ -1,0 +1,68 @@
+{
+  "iherb_id": 20870,
+  "last_updated": "2026-03-20T09:47:07.299Z",
+  "first_scraped": "2026-03-20T09:47:07.299Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Supply energy, Maintain health, Natural ingredients, Is working, More energy, Easy to swallow, Trust natural factors, Complete multivitamin. Some note: Well balanced.",
+    "tags": [
+      {
+        "name": "Supply energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Is working",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust natural factors",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well balanced",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hair and nails",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:07.299Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 38862,
+  "last_updated": "2026-03-20T10:08:31.638Z",
+  "first_scraped": "2026-03-20T10:08:31.638Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sleep patterns, Manageable size, Muscle growth, Natural remedy, Switch off brain, Alternative to melatonin, Good rest, Gradually helping. Some note: Takes time.",
+    "tags": [
+      {
+        "name": "Sleep patterns",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Manageable size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Switch off brain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alternative to melatonin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good rest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gradually helping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Takes time",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not repurchase",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:31.638Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

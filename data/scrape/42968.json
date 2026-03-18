@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42968,
+  "last_updated": "2026-03-20T10:22:42.807Z",
+  "first_scraped": "2026-03-20T10:22:42.807Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves sleep, Glass bottle, Calming effects, Potent, Nice herbal supplement, Speedy delivery, Works wonders, Relaxing sleep.",
+    "tags": [
+      {
+        "name": "Improves sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice herbal supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxing sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No impact",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:42.807Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

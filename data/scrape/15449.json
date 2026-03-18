@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15449,
+  "last_updated": "2026-03-20T09:47:24.109Z",
+  "first_scraped": "2026-03-20T09:47:24.109Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great mix, Great effect, Natural approach, Reduces allergy, Works fine, Feel better, Trust solgar, High potency. Some note: Worth buying.",
+    "tags": [
+      {
+        "name": "Great mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural approach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces allergy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust solgar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth buying",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:24.109Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

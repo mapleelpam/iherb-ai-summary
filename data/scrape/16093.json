@@ -1,0 +1,68 @@
+{
+  "iherb_id": 16093,
+  "last_updated": "2026-03-20T09:20:47.719Z",
+  "first_scraped": "2026-03-20T09:20:47.719Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Value for money, Age defying, More energy, Strong antioxidant, Impressive effect, No more hives, Effective anti-aging, Heart protection. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Age defying",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressive effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No more hives",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective anti-aging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sharp edges",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:47.719Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

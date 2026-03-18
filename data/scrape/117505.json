@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117505,
+  "last_updated": "2026-03-20T10:25:03.302Z",
+  "first_scraped": "2026-03-20T10:25:03.302Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps energy levels, Easy to swallow, Clean ingredients, Great way, Love grass-fed, Immune support, High iron, Trusted source.",
+    "tags": [
+      {
+        "name": "Helps energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love grass-fed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High iron",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High fat",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Packaging size",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:03.302Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

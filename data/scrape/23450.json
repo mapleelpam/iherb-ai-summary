@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23450,
+  "last_updated": "2026-03-20T10:10:04.627Z",
+  "first_scraped": "2026-03-20T10:10:04.627Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very happy, Good for men, Herbal support, Consistent support, Family favorite, More energy, Fair price, Convenient way.",
+    "tags": [
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for men",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herbal support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consistent support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Family favorite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheap synthetic",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Pretty pricey",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:04.627Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

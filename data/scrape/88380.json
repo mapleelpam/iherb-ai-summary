@@ -1,0 +1,68 @@
+{
+  "iherb_id": 88380,
+  "last_updated": "2026-03-20T10:16:08.203Z",
+  "first_scraped": "2026-03-20T10:16:08.203Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good energy, Easy dissolve, Delicious flavors, Amazing pre workout, Intense focus, Insane pumps, Favorite one, Peak performance, Extra water, Tasty item.",
+    "tags": [
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavors",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing pre workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intense focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Insane pumps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Favorite one",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Peak performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra water",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty item",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:08.203Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 31729,
+  "last_updated": "2026-03-20T09:53:01.339Z",
+  "first_scraped": "2026-03-20T09:53:01.339Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Strong bones, Slow release, Daily calcium, Trusted product, Good results, Works while, Reputable manufacturer, Reasonable price. Some note: Fantastic ingredients.",
+    "tags": [
+      {
+        "name": "Strong bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily calcium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works while",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reputable manufacturer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Harsh on digestion",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:01.339Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

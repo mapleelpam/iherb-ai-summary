@@ -1,0 +1,68 @@
+{
+  "iherb_id": 40783,
+  "last_updated": "2026-03-20T09:40:02.413Z",
+  "first_scraped": "2026-03-20T09:40:02.413Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works great, Decrease in pain, Joint soreness, Excellent additive, Love this brand, Worthwhile investment, Inflammation control, Reduces inflammation. Some note: Mild impact.",
+    "tags": [
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decrease in pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint soreness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worthwhile investment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inflammation control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild impact",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Changed formula",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:02.413Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

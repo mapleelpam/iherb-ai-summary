@@ -1,0 +1,68 @@
+{
+  "iherb_id": 83180,
+  "last_updated": "2026-03-20T09:40:18.746Z",
+  "first_scraped": "2026-03-20T09:40:18.746Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Glass bottle, Digestion improved, Enhance well-being, Taste good, Immune booster, Healthy oil, Hair growth, High potency. Some note: Helps immune.",
+    "tags": [
+      {
+        "name": "Glass bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhance well-being",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps immune",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stay away",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:18.746Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

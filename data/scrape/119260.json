@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119260,
+  "last_updated": "2026-03-20T10:41:45.695Z",
+  "first_scraped": "2026-03-20T10:41:45.695Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this, No UTI issues, Helped me, Full herb, Bladder health, Effective supplement, Convenient capsules, Easy to take, Surprised me. Some note: Average dosage.",
+    "tags": [
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No UTI issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Full herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bladder health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Surprised me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Average dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:41:45.695Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

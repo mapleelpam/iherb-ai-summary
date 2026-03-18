@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116598,
+  "last_updated": "2026-03-20T09:16:01.881Z",
+  "first_scraped": "2026-03-20T09:16:01.881Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Strong immunity, Easy to swallow, Effective supplement, Excellent additive, Boosting immune, Energy boost, Good size, Measured dosage. Some note: Beneficial product, Best value.",
+    "tags": [
+      {
+        "name": "Strong immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Measured dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Best value",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:16:01.881Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

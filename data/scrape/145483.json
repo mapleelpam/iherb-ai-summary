@@ -1,0 +1,68 @@
+{
+  "iherb_id": 145483,
+  "last_updated": "2026-03-20T10:14:12.334Z",
+  "first_scraped": "2026-03-20T10:14:12.334Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural benefits, Clean ingredients, Family favorite, Nutrient-rich, Fast acting, Best taste, Convenient solution, Improved well-being. Some note: Easy to use.",
+    "tags": [
+      {
+        "name": "Natural benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Family favorite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrient-rich",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast acting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved well-being",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lacking nutrients",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:12.334Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

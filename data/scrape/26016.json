@@ -1,0 +1,68 @@
+{
+  "iherb_id": 26016,
+  "last_updated": "2026-03-20T09:22:48.343Z",
+  "first_scraped": "2026-03-20T09:22:48.343Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Highly recommend, Improved immunity, Good support, Liquid concentrate, Easy absorption, Improvement noticed, Helps combat colds. Some note: Good for kids, Convenient dropper.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liquid concentrate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps combat colds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for kids",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Convenient dropper",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:48.343Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

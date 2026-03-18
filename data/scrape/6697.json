@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6697,
+  "last_updated": "2026-03-20T10:15:30.882Z",
+  "first_scraped": "2026-03-20T10:15:30.882Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pleasant capsules, Wonderful combo, Low cost, Fight off, Fast shipping, Antibacterial benefits, Flavorless powder, Lightning speed. Some note: Nothing improved, Highly recommend.",
+    "tags": [
+      {
+        "name": "Pleasant capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wonderful combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low cost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fight off",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antibacterial benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flavorless powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lightning speed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nothing improved",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:30.882Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

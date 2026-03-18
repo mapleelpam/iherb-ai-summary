@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42442,
+  "last_updated": "2026-03-20T10:01:04.534Z",
+  "first_scraped": "2026-03-20T10:01:04.534Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly absorbable, Early intervention, Improved vision, Convenient to use, Eye health, Easy to swallow, Helpful product, Fast shipping. Some note: Eye injection.",
+    "tags": [
+      {
+        "name": "Highly absorbable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Early intervention",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye injection",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Mixed studies",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:04.534Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

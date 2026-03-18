@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144254,
+  "last_updated": "2026-03-20T09:38:49.652Z",
+  "first_scraped": "2026-03-20T09:38:49.652Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stomach relief, Gut healing, Good form, Helped with, Huge difference, Easy to swallow, Seems good, Less heartburns. Some note: Sensitive stomach.",
+    "tags": [
+      {
+        "name": "Stomach relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Huge difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seems good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less heartburns",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sensitive stomach",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Allergies worsened",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:49.652Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

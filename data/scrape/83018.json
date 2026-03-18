@@ -1,0 +1,68 @@
+{
+  "iherb_id": 83018,
+  "last_updated": "2026-03-20T10:35:39.202Z",
+  "first_scraped": "2026-03-20T10:35:39.202Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Cry stopped, Occasional relief, Alternative option, Helps mood swings, Fast shipping, Works better, Symptoms decreasing, Good combination.",
+    "tags": [
+      {
+        "name": "Cry stopped",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Occasional relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alternative option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps mood swings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Symptoms decreasing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weird bad feelings",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:35:39.202Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1812,
+  "last_updated": "2026-03-20T09:38:59.749Z",
+  "first_scraped": "2026-03-20T09:38:59.749Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good complex, Good balance, Muscle relaxation, Sleep aid, Best calcium blend, Trusted brand, Value purchase, Easy to swallow. Some note: Lovely packaging.",
+    "tags": [
+      {
+        "name": "Good complex",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle relaxation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best calcium blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lovely packaging",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:59.749Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

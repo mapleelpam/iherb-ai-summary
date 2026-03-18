@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104739,
+  "last_updated": "2026-03-20T10:21:55.089Z",
+  "first_scraped": "2026-03-20T10:21:55.089Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved mood, Balancing hormones, Pleasant smell, Feeling at ease, Lovely blend, Regulating cycles, Organic supplement, Very happy. Some note: Some improvement.",
+    "tags": [
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balancing hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling at ease",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lovely blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulating cycles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Some improvement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Feel worse",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:55.089Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

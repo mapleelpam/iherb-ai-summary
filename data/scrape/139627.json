@@ -1,0 +1,68 @@
+{
+  "iherb_id": 139627,
+  "last_updated": "2026-03-20T10:23:39.338Z",
+  "first_scraped": "2026-03-20T10:23:39.338Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Weight control, Energy levels, Game-changer, Feel better, Good result, Great experience, Energy improvement, Peace of mind. Some note: Doctor consultation.",
+    "tags": [
+      {
+        "name": "Weight control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great experience",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Peace of mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doctor consultation",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Headaches, nausea",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:39.338Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9017,
+  "last_updated": "2026-03-20T09:33:22.091Z",
+  "first_scraped": "2026-03-20T09:33:22.091Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice package, More energetic, Good taste, Tastes great, Pleasant taste, Convenient format, Energy levels, Prompt delivery. Some note: Stomach pain, Minimum purchase.",
+    "tags": [
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient format",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach pain",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Minimum purchase",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:22.091Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

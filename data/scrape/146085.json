@@ -1,0 +1,68 @@
+{
+  "iherb_id": 146085,
+  "last_updated": "2026-03-20T09:51:40.517Z",
+  "first_scraped": "2026-03-20T09:51:40.517Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy levels, Fast shipping, Tasty way, Feel better, Value priced, Sweet flavor, Tasty gummies, Easy to take. Some note: Good chew, Easy swallow.",
+    "tags": [
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value priced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good chew",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:40.517Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

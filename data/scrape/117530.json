@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117530,
+  "last_updated": "2026-03-20T09:28:40.548Z",
+  "first_scraped": "2026-03-20T09:28:40.548Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trusted brand, More energy, Good health, Easy to swallow, Preventative measure, Supports cardiovascular, Lower cholesterol, Avoid statins. Some note: Cholesterol supplement, Nice package.",
+    "tags": [
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventative measure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports cardiovascular",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid statins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:40.548Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

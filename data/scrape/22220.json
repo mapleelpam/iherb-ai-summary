@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22220,
+  "last_updated": "2026-03-20T10:11:31.154Z",
+  "first_scraped": "2026-03-20T10:11:31.154Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love the flavor, Hydrated and balanced, Vitamin C absorption, Clean ingredients, Raspberry taste, Low sugar, Wonderful hydration, Great energy.",
+    "tags": [
+      {
+        "name": "Love the flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydrated and balanced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin C absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Raspberry taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wonderful hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overpowering flavor",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not the greatest",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:31.154Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

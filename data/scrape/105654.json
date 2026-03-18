@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105654,
+  "last_updated": "2026-03-20T09:53:28.699Z",
+  "first_scraped": "2026-03-20T09:53:28.699Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Helpful brand, Prophylactic purposes, Clean ingredients, Reasonable price, Convenient package, Reduced bloating, Great results. Some note: Small size.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prophylactic purposes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Comparable price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:28.699Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

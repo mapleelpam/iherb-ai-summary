@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118391,
+  "last_updated": "2026-03-20T09:47:16.154Z",
+  "first_scraped": "2026-03-20T09:47:16.154Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective dosage, Digestion improved, Well-being impact, Easy to take, Great antioxidant, Brain & muscle health, Energy boost, Easy storage. Some note: Puffy eyelids.",
+    "tags": [
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well-being impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain & muscle health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy storage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Puffy eyelids",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Iodine intake",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:16.154Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

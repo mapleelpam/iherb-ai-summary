@@ -1,0 +1,68 @@
+{
+  "iherb_id": 57583,
+  "last_updated": "2026-03-20T09:20:12.277Z",
+  "first_scraped": "2026-03-20T09:20:12.277Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good support, Helps heart, Best form, Effective supplement, Good investment, Best value, Easy to swallow, Feel better. Some note: Fair price.",
+    "tags": [
+      {
+        "name": "Good support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good investment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Packaging issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:12.277Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

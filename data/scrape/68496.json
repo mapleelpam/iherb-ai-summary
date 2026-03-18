@@ -1,0 +1,68 @@
+{
+  "iherb_id": 68496,
+  "last_updated": "2026-03-20T09:38:44.796Z",
+  "first_scraped": "2026-03-20T09:38:44.796Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this, First aid, High concentration, Keeps me healthy, Super fast, Pre-vaccine, Effective additive, Works great. Some note: Effective supplement.",
+    "tags": [
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps me healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pre-vaccine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:44.796Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

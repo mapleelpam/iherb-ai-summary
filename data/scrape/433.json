@@ -1,0 +1,68 @@
+{
+  "iherb_id": 433,
+  "last_updated": "2026-03-20T09:49:25.248Z",
+  "first_scraped": "2026-03-20T09:49:25.248Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Night sweats, Menopause relief, Energy levels stable, Reduces hot flashes, Fast shipping, Works great, Balance hormones, Love the product. Some note: Approaching menopause.",
+    "tags": [
+      {
+        "name": "Night sweats",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Menopause relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels stable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces hot flashes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balance hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Approaching menopause",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Difficult change",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:25.248Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

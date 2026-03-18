@@ -1,0 +1,68 @@
+{
+  "iherb_id": 853,
+  "last_updated": "2026-03-20T09:24:09.857Z",
+  "first_scraped": "2026-03-20T09:24:09.857Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved focus, Fast shipping, Relaxation aid, Works better, Effective anxiety reducing, Calming effects, Great supplement, Easy to swallow. Some note: Impressed packaging, Subtle calming.",
+    "tags": [
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxation aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective anxiety reducing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed packaging",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Subtle calming",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:09.857Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

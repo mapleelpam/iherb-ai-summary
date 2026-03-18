@@ -1,0 +1,68 @@
+{
+  "iherb_id": 76321,
+  "last_updated": "2026-03-20T10:39:28.375Z",
+  "first_scraped": "2026-03-20T10:39:28.375Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Wonderful taste, Easy to drink, Low calorie, organic, Sweet taste, Speedy delivery, Healthy components, PH balance, Best tasting. Some note: Too early.",
+    "tags": [
+      {
+        "name": "Wonderful taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low calorie, organic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy components",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "PH balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best tasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too early",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:39:28.375Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

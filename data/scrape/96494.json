@@ -1,0 +1,68 @@
+{
+  "iherb_id": 96494,
+  "last_updated": "2026-03-20T10:04:20.960Z",
+  "first_scraped": "2026-03-20T10:04:20.960Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved pain, Easy to swallow, Convenient packaging, More energy, Good blend, Boosted testosterone, Reduce wrinkles, Enteric coated. Some note: Pricey yet effective.",
+    "tags": [
+      {
+        "name": "Improved pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted testosterone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce wrinkles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enteric coated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pricey yet effective",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:20.960Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

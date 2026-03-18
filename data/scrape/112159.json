@@ -1,0 +1,68 @@
+{
+  "iherb_id": 112159,
+  "last_updated": "2026-03-20T10:32:37.134Z",
+  "first_scraped": "2026-03-20T10:32:37.134Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Memory support, Noticeable improvement, Game-changer for cognitive health, Good packing, Convenient size, Clearer thinking, Premium blend, High dosage. Some note: Easily distracted.",
+    "tags": [
+      {
+        "name": "Memory support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer for cognitive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer thinking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Premium blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easily distracted",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Waste of money",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:37.134Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

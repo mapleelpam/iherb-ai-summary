@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69643,
+  "last_updated": "2026-03-20T09:40:26.417Z",
+  "first_scraped": "2026-03-20T09:40:26.417Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No aftertaste, No fishy smell, Joint health, Small size, Soft skin, Complete ingredients, Regular consumption, Brain sharp. Some note: Glass bottles, Easy swallow.",
+    "tags": [
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soft skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular consumption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain sharp",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass bottles",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:26.417Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

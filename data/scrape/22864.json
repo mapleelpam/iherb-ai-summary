@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22864,
+  "last_updated": "2026-03-20T10:28:56.378Z",
+  "first_scraped": "2026-03-20T10:28:56.378Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Health benefits, Effective energy boost, Solid energy, Lung improvement, Convenient size, Tonic herb, State changed, Powerful cordyceps. Some note: Sleepy feeling.",
+    "tags": [
+      {
+        "name": "Health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Solid energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lung improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tonic herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "State changed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful cordyceps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleepy feeling",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sleep disturbance",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:56.378Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

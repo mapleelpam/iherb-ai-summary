@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6363,
+  "last_updated": "2026-03-20T09:57:17.730Z",
+  "first_scraped": "2026-03-20T09:57:17.730Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Teeth improvement, Back recovery, Bone repair, Faster recovery, Great for healing, Great combination, Trust brand. Some note: Strong bones.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Teeth improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Back recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone repair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Faster recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neck pain",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Strong bones",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:17.730Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72853,
+  "last_updated": "2026-03-20T09:26:29.208Z",
+  "first_scraped": "2026-03-20T09:26:29.208Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost energy, Full until, Convenient bottle, Tasty snacks, Keto diet, Neutral tasting oil, Weight loss, Quick energy. Some note: Love this.",
+    "tags": [
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Full until",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty snacks",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keto diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral tasting oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:29.208Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

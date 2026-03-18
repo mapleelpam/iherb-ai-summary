@@ -1,0 +1,68 @@
+{
+  "iherb_id": 95815,
+  "last_updated": "2026-03-20T10:13:54.209Z",
+  "first_scraped": "2026-03-20T10:13:54.209Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty flavor, Heaps of energy, Good taste, Strong energy boost, Extra push, Fair price, Maximizing endurance, Intense focus.",
+    "tags": [
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heaps of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra push",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maximizing endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intense focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Lacking power",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:54.209Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

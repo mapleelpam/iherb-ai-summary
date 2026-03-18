@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13261,
+  "last_updated": "2026-03-20T10:31:54.028Z",
+  "first_scraped": "2026-03-20T10:31:54.028Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works better, Stop pains, Improves energy, Regulate cycle, Fertile ovulation, Increase chances, Herbal excellence, Strong smell.",
+    "tags": [
+      {
+        "name": "Works better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stop pains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate cycle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fertile ovulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase chances",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herbal excellence",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Destroy kidneys",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Side effects",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:54.028Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

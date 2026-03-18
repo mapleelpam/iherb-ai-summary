@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72130,
+  "last_updated": "2026-03-20T09:24:41.800Z",
+  "first_scraped": "2026-03-20T09:24:41.800Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Significant increase, Good ingredients, Great impact, Effective brand, Effective choice, Improved health, Stabilize heart rate, Good benefits, Stronger heart.",
+    "tags": [
+      {
+        "name": "Significant increase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stabilize heart rate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unnecessary fillers",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:41.800Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11910,
+  "last_updated": "2026-03-20T10:10:04.634Z",
+  "first_scraped": "2026-03-20T10:10:04.634Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less stress, Energy boost, Good energy, Long-term impact, Kidney functions, Natural support, Important control, Highly recommend. Some note: Love products, Works fine.",
+    "tags": [
+      {
+        "name": "Less stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-term impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kidney functions",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Important control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love products",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Works fine",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:04.634Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

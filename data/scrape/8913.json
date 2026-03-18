@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8913,
+  "last_updated": "2026-03-20T10:26:34.491Z",
+  "first_scraped": "2026-03-20T10:26:34.491Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Joint pain relief, Natural ingredients, Very impressed, Knee support, Fast shipping, Top herbs, Value for money, Joint support. Some note: Audible knees.",
+    "tags": [
+      {
+        "name": "Joint pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very impressed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Knee support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top herbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight gain",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Audible knees",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:34.491Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

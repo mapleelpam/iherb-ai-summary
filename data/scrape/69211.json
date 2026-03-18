@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69211,
+  "last_updated": "2026-03-20T09:25:50.328Z",
+  "first_scraped": "2026-03-20T09:25:50.328Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Enhance NMN, Heart health, High dose, Anti-aging benefits, Skin improvement, Easy to swallow, Feel full, More energetic. Some note: No visible effect, High potency.",
+    "tags": [
+      {
+        "name": "Enhance NMN",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-aging benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel full",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No visible effect",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:50.328Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

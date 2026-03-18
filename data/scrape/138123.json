@@ -1,0 +1,68 @@
+{
+  "iherb_id": 138123,
+  "last_updated": "2026-03-20T10:04:49.616Z",
+  "first_scraped": "2026-03-20T10:04:49.616Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost energy, Enhance athletic performance, Clean energy, Tastes fantastic, Very porfect, Beautiful composition, Fast shipping, Good taste, Package is good.",
+    "tags": [
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhance athletic performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes fantastic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very porfect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beautiful composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Package is good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Addictive, caution",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:49.616Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

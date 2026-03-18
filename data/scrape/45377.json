@@ -1,0 +1,68 @@
+{
+  "iherb_id": 45377,
+  "last_updated": "2026-03-20T09:33:22.091Z",
+  "first_scraped": "2026-03-20T09:33:22.091Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Excellent chromium, Maintain healthy, Easy to swallow, Suppress appetite, Stable blood sugar, Cholesterol control, Good ingredients, Sugar cravings. Some note: Convenient size, No effects.",
+    "tags": [
+      {
+        "name": "Excellent chromium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suppress appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stable blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sugar cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No effects",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:22.091Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

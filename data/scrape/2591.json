@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2591,
+  "last_updated": "2026-03-20T09:38:58.763Z",
+  "first_scraped": "2026-03-20T09:38:58.763Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Maintains joints, Cartilage health, Health supplements, Fast shipping, Convenient capsules, No pain, Good for knees, Joint relief. Some note: Noticeable effect, Improves mobility.",
+    "tags": [
+      {
+        "name": "Maintains joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cartilage health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health supplements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for knees",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable effect",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Improves mobility",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:58.763Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

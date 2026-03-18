@@ -1,0 +1,68 @@
+{
+  "iherb_id": 51492,
+  "last_updated": "2026-03-20T10:26:23.378Z",
+  "first_scraped": "2026-03-20T10:26:23.378Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Noticeable difference, High potency, Mood swings, Even consistency, Concentration boost, Sustained release, Impressed delivery, More energy, Stress relief. Some note: Slow absorption.",
+    "tags": [
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood swings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Even consistency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Concentration boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustained release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow absorption",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:23.378Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

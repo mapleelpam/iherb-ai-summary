@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10575,
+  "last_updated": "2026-03-20T10:11:53.478Z",
+  "first_scraped": "2026-03-20T10:11:53.478Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Feels great, Increases drive, More energy, Easy to take, Balanced hormones, Trust-worthy, Continue buying, Helped greatly.",
+    "tags": [
+      {
+        "name": "Feels great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increases drive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust-worthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Continue buying",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped greatly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Didn't work",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:53.478Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9045,
+  "last_updated": "2026-03-20T09:39:22.424Z",
+  "first_scraped": "2026-03-20T09:39:22.424Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No eyestrain, Helped greatly, Great antioxidant, Nice price, Boost immune, Good ingredients, Safe for all ages, Game changer. Some note: Sensitive stomach.",
+    "tags": [
+      {
+        "name": "No eyestrain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped greatly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe for all ages",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sensitive stomach",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not enough",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:22.424Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

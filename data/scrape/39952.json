@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39952,
+  "last_updated": "2026-03-20T09:29:08.136Z",
+  "first_scraped": "2026-03-20T09:29:08.136Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Joint pain, Effective choice, Good price, Easy swallow, Healthy heart, Good package, Plant oils, Standard size, High concentration. Some note: Balanced blend.",
+    "tags": [
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant oils",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Standard size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced blend",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:08.136Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10450,
+  "last_updated": "2026-03-20T09:18:31.876Z",
+  "first_scraped": "2026-03-20T09:18:31.876Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy solution, Good taste, Love product, Weight loss, Convenient way, Easy to swallow, Good digestion, Helped weight. Some note: Feel fuller, Strong smell.",
+    "tags": [
+      {
+        "name": "Easy solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel fuller",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strong smell",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:31.876Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

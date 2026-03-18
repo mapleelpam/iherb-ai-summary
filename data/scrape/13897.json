@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13897,
+  "last_updated": "2026-03-20T10:31:21.262Z",
+  "first_scraped": "2026-03-20T10:31:21.262Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Magic stuff, Menopausal balancer, Helpful supplement, Highly recommend, Helps well, Strong packaging, Back to normal, Hormone balance. Some note: Small size.",
+    "tags": [
+      {
+        "name": "Magic stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Menopausal balancer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Back to normal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormone balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive, no effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:21.262Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115473,
+  "last_updated": "2026-03-20T10:30:32.727Z",
+  "first_scraped": "2026-03-20T10:30:32.727Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Tastes good, Real flavor, Skin improvement, Decent flavor, Collagen benefits, Love this, Refreshing alternative.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Collagen benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not satisfied",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Intense flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:30:32.727Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106060,
+  "last_updated": "2026-03-20T10:21:23.660Z",
+  "first_scraped": "2026-03-20T10:21:23.660Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Iron absorption, On time delivery, Beginners recommend, Healthy choice, Energy boost, Protein-rich, Nice colour, Milder taste. Some note: Algae scent.",
+    "tags": [
+      {
+        "name": "Iron absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "On time delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beginners recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protein-rich",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice colour",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Milder taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Algae scent",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:23.660Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

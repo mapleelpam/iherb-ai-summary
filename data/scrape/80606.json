@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80606,
+  "last_updated": "2026-03-20T09:19:58.239Z",
+  "first_scraped": "2026-03-20T09:19:58.239Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trust brand, Daily supplement, Easy to swallow, Coconut oil, Energy boost, Increased energy, Improved health, High dose. Some note: Real original brand, Good for body.",
+    "tags": [
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Coconut oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real original brand",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good for body",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:58.239Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

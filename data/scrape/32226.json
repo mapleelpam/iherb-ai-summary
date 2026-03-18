@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32226,
+  "last_updated": "2026-03-20T09:45:25.224Z",
+  "first_scraped": "2026-03-20T09:45:25.224Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good calcium, Convenient combo, Fast shipping, Value for money, Good ingredients, Tasteless tablets, Good for knees, Bone health.",
+    "tags": [
+      {
+        "name": "Good calcium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasteless tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for knees",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fishy taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Large tablets",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:25.224Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

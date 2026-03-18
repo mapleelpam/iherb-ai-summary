@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144189,
+  "last_updated": "2026-03-20T09:43:33.607Z",
+  "first_scraped": "2026-03-20T09:43:33.607Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural antibiotic, Healed quickly, Decreased considerably, Helps protect, Handy product, Fast acting, Impressive effect, Good for sore throat. Some note: Additive liked.",
+    "tags": [
+      {
+        "name": "Natural antibiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healed quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decreased considerably",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps protect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Handy product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast acting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressive effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for sore throat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Additive liked",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not recommended",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:33.607Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

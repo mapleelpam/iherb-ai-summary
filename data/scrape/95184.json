@@ -1,0 +1,68 @@
+{
+  "iherb_id": 95184,
+  "last_updated": "2026-03-20T10:22:33.846Z",
+  "first_scraped": "2026-03-20T10:22:33.846Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes great, Best type, Not too sweet, Works fine, Amazing flavor, Tasty hot chocolate, Tasty alone, Reasonable price. Some note: Decent taste, Occasional option.",
+    "tags": [
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best type",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not too sweet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty hot chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty alone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Occasional option",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:33.846Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

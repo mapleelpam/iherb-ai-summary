@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70005,
+  "last_updated": "2026-03-20T09:47:31.206Z",
+  "first_scraped": "2026-03-20T09:47:31.206Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes good, Good taste, Impressive ingredients, Ideal ratios, Improved markedly, Delightful flavor, Efficient electrolyte mix, Good energy.",
+    "tags": [
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressive ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ideal ratios",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved markedly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delightful flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient electrolyte mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes awful",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:31.206Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

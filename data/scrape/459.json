@@ -1,0 +1,68 @@
+{
+  "iherb_id": 459,
+  "last_updated": "2026-03-20T09:26:37.620Z",
+  "first_scraped": "2026-03-20T09:26:37.620Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient size, Promising start, Strong bones, Good source, Trusted brand, Convenient order, Accurate order, Fast shipping, Highly absorbable. Some note: Easy use.",
+    "tags": [
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Promising start",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Accurate order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly absorbable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy use",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:37.620Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

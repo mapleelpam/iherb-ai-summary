@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1729,
+  "last_updated": "2026-03-20T10:17:23.521Z",
+  "first_scraped": "2026-03-20T10:17:23.521Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this, High potency, Subtle improvements, Main thing, Cardiovascular benefits, Immediate results, Improved energy, Good antioxidant.",
+    "tags": [
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Subtle improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Main thing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Headache",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive, not sure",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:23.521Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

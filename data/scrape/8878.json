@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8878,
+  "last_updated": "2026-03-20T09:29:47.673Z",
+  "first_scraped": "2026-03-20T09:29:47.673Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty combination, Supports joints, Pleasant taste, Good taste, Mixed berry, Worth a try, Well done, Boost of calcium.",
+    "tags": [
+      {
+        "name": "Tasty combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixed berry",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth a try",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well done",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost of calcium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Laxative effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Chalky taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:47.673Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

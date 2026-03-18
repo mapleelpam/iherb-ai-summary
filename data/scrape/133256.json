@@ -1,0 +1,68 @@
+{
+  "iherb_id": 133256,
+  "last_updated": "2026-03-20T09:57:23.904Z",
+  "first_scraped": "2026-03-20T09:57:23.904Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this product, Good ingredients, Increased lubrication, Increased pleasure, Menopause symptoms, Happy with, Tingly feeling, More sensual. Some note: Improvement noticed.",
+    "tags": [
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased lubrication",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased pleasure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Menopause symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tingly feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More sensual",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:23.904Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108673,
+  "last_updated": "2026-03-20T09:57:44.343Z",
+  "first_scraped": "2026-03-20T09:57:44.343Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High benefit, Natural ingredients, Tolerable size, Fast shipping, Hair strengthened, Convenient size, Improvement seen, Nails growing. Some note: No change, Trial comment.",
+    "tags": [
+      {
+        "name": "High benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tolerable size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair strengthened",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nails growing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Trial comment",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:44.343Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

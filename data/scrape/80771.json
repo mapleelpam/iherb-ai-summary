@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80771,
+  "last_updated": "2026-03-20T09:57:17.723Z",
+  "first_scraped": "2026-03-20T09:57:17.723Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good energy, Good amount, Mixes well, Tastes amazing, Package is good, Muscle support, Cheaper option, More power. Some note: Mild flavor.",
+    "tags": [
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Package is good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheaper option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More power",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild flavor",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Poor dissolvability",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:17.723Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

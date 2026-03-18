@@ -1,0 +1,68 @@
+{
+  "iherb_id": 82164,
+  "last_updated": "2026-03-20T10:17:44.635Z",
+  "first_scraped": "2026-03-20T10:17:44.635Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good choice, Improvement seen, Fast results, Eliminates odor, Balancing effect, Taste good, More affordable, No scent.",
+    "tags": [
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eliminates odor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balancing effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More affordable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yeast infections",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:44.635Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

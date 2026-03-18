@@ -1,0 +1,68 @@
+{
+  "iherb_id": 50205,
+  "last_updated": "2026-03-20T09:59:27.607Z",
+  "first_scraped": "2026-03-20T09:59:27.607Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Cheap immunity, Great package, Highly recommend, Boosts immunity, Good for hair, Improves health, Timely delivery, Size matters. Some note: Fast shipping.",
+    "tags": [
+      {
+        "name": "Cheap immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Size matters",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hair loss",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:27.607Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

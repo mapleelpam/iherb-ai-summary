@@ -1,0 +1,68 @@
+{
+  "iherb_id": 79084,
+  "last_updated": "2026-03-20T09:33:29.914Z",
+  "first_scraped": "2026-03-20T09:33:29.914Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this, Very recommended, Easy to use, Effective supplement, Tastes good, Detox blend, Mixes well, Great mix of greens.",
+    "tags": [
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great mix of greens",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Contains lead",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tastes horrible",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:29.914Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

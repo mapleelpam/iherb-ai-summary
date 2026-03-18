@@ -1,0 +1,68 @@
+{
+  "iherb_id": 136,
+  "last_updated": "2026-03-20T09:51:12.757Z",
+  "first_scraped": "2026-03-20T09:51:12.757Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works great, Big package size, Effective dose, Heart health, Improved memory, Potent dose, Improved energy, Boost endurance. Some note: Mito support.",
+    "tags": [
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big package size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mito support",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Made zero",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:12.757Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

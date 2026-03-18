@@ -1,0 +1,68 @@
+{
+  "iherb_id": 40980,
+  "last_updated": "2026-03-20T10:06:19.894Z",
+  "first_scraped": "2026-03-20T10:06:19.894Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Delighted results, Healthful supplement, High absorption, Boost immunity, Works great, High dosage, Easy to swallow. Some note: Excellent additive, Great formula.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delighted results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great formula",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:19.894Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

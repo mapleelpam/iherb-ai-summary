@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48920,
+  "last_updated": "2026-03-20T09:58:49.751Z",
+  "first_scraped": "2026-03-20T09:58:49.751Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean ingredients, Improved health, Glass bottle, More energetic, Amazing composition, Gradual health improvement, Love this, Allergy relief. Some note: Wonderful blend, Unbeatable brand.",
+    "tags": [
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gradual health improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergy relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wonderful blend",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Unbeatable brand",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:49.751Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

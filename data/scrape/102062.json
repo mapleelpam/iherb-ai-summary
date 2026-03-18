@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102062,
+  "last_updated": "2026-03-20T09:26:40.579Z",
+  "first_scraped": "2026-03-20T09:26:40.579Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious flavor, Improved sleep, Improved overall, Taste great, Calm sleep, Effective supplement, Tasty gummies, Good taste. Some note: Chewy texture.",
+    "tags": [
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved overall",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calm sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too much sugar",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Chewy texture",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:40.579Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

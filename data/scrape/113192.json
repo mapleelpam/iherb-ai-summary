@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113192,
+  "last_updated": "2026-03-20T10:27:37.825Z",
+  "first_scraped": "2026-03-20T10:27:37.825Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, No taste, Good source, Cholesterol support, Muscle support, Worth the wait, Recommend for health, No fishy flavor.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth the wait",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stuck in throat",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Smaller gel-cap",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:37.825Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

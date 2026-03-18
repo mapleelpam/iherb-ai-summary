@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70464,
+  "last_updated": "2026-03-20T10:12:45.912Z",
+  "first_scraped": "2026-03-20T10:12:45.912Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Eye support, Trusted brand, Easy to swallow, Easy to use, Pure and tested, Heart benefits, Aging eyes, Beneficial taste. Some note: Slow progression.",
+    "tags": [
+      {
+        "name": "Eye support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure and tested",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Aging eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow progression",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive choice",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:45.912Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

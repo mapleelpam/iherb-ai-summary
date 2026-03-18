@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24592,
+  "last_updated": "2026-03-20T10:07:42.787Z",
+  "first_scraped": "2026-03-20T10:07:42.787Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient package, Tasty supplement, Kids approved, Taste good, Less viruses, Reasonable price, Easy to swallow, Digestion support.",
+    "tags": [
+      {
+        "name": "Convenient package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids approved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less viruses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids dislike",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Choking hazard",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:42.787Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

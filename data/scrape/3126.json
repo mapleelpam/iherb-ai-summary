@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3126,
+  "last_updated": "2026-03-20T09:24:05.033Z",
+  "first_scraped": "2026-03-20T09:24:05.033Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Toilet help, Total wellness, Feel great, Great detox, Reduced bloating, Easy to use, Visible results, Cleanses effectively.",
+    "tags": [
+      {
+        "name": "Toilet help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Total wellness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Visible results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleanses effectively",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Constipated and bloated",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:05.033Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

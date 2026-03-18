@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4237,
+  "last_updated": "2026-03-20T10:16:44.402Z",
+  "first_scraped": "2026-03-20T10:16:44.402Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lost weight, Added to diet, Eye pressure, Less appetite, More energetic, Value for money, Helpful supplement, Curbed appetite. Some note: Kidney problem.",
+    "tags": [
+      {
+        "name": "Lost weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Added to diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Curbed appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kidney problem",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Liver damage",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:44.402Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

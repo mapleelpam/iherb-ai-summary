@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104974,
+  "last_updated": "2026-03-20T09:36:22.725Z",
+  "first_scraped": "2026-03-20T09:36:22.725Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Kidney health, Trial product, Reduce UTI, Big pills, Great supplement, Easy to swallow, Highly recommend, Feel good. Some note: High dosage, Convenient packaging.",
+    "tags": [
+      {
+        "name": "Kidney health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trial product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce UTI",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:22.725Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

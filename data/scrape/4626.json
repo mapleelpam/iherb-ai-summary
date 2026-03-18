@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4626,
+  "last_updated": "2026-03-20T10:09:01.342Z",
+  "first_scraped": "2026-03-20T10:09:01.342Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love the results, More goodies, Easy way, Tastes great, Reduces inflammation, Pure turmeric, Less pain, Natural relief. Some note: No difference.",
+    "tags": [
+      {
+        "name": "Love the results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More goodies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure turmeric",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not convinced",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:01.342Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

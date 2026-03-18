@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116280,
+  "last_updated": "2026-03-20T10:08:23.503Z",
+  "first_scraped": "2026-03-20T10:08:23.503Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Blood sugar, Seems to work, Health benefits, Improves circulation, Decent price, Lowering sugar, Wonderful, Blood circulation, Weight loss.",
+    "tags": [
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seems to work",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowering sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wonderful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower amount",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:23.503Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

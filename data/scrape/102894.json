@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102894,
+  "last_updated": "2026-03-20T10:22:05.536Z",
+  "first_scraped": "2026-03-20T10:22:05.536Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fully corresponds, Affordable price, Better sleep, Fast relief, Love ingredients, Easy to use, Effective stress relief, Reduce anxiety. Some note: Subtle effects, Small size.",
+    "tags": [
+      {
+        "name": "Fully corresponds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective stress relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Subtle effects",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:05.536Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

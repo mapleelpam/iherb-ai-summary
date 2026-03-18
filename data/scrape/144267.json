@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144267,
+  "last_updated": "2026-03-20T09:38:52.634Z",
+  "first_scraped": "2026-03-20T09:38:52.634Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small tablets, Works good, Boost energy, Good taste, Game changer, Effective iron, Fast shipping, Easy to take. Some note: Gets job done, No side effects.",
+    "tags": [
+      {
+        "name": "Small tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective iron",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gets job done",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:52.634Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

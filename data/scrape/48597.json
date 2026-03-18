@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48597,
+  "last_updated": "2026-03-20T10:14:18.273Z",
+  "first_scraped": "2026-03-20T10:14:18.273Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Face plumping, Health improvement, Effective supplement, Maintain skin, Antioxidant extract, Very satisfied, Best pycnogenol, Fast shipping. Some note: Brand package.",
+    "tags": [
+      {
+        "name": "Face plumping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best pycnogenol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach discomfort",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Brand package",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:18.273Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

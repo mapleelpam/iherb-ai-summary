@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4076,
+  "last_updated": "2026-03-20T10:07:18.213Z",
+  "first_scraped": "2026-03-20T10:07:18.213Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Fresh feel, Natural taste, Effective complex, Trust integrity, Rarely get sick, Whole food, Energy boost.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh feel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective complex",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust integrity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rarely get sick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Whole food",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chemical ingredients",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not natural",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:18.213Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

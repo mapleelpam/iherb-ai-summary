@@ -1,0 +1,68 @@
+{
+  "iherb_id": 44003,
+  "last_updated": "2026-03-20T10:06:51.232Z",
+  "first_scraped": "2026-03-20T10:06:51.232Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Delicious flavor, Family favorite, Reliable energy, Trust ingredients, Tasty drink, Great energy, Great scent. Some note: Daily basis.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Family favorite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Daily basis",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:51.232Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14526,
+  "last_updated": "2026-03-20T09:38:35.872Z",
+  "first_scraped": "2026-03-20T09:38:35.872Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural source, Easy to swallow, Bone health, Iodine amount, Good form, Good source, Effective ingredients, Trace minerals. Some note: Minerals source.",
+    "tags": [
+      {
+        "name": "Natural source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Iodine amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trace minerals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Minerals source",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Large capsules",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:35.872Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

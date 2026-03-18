@@ -1,0 +1,68 @@
+{
+  "iherb_id": 54567,
+  "last_updated": "2026-03-20T10:04:50.735Z",
+  "first_scraped": "2026-03-20T10:04:50.735Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective boost, Natural energy, Reasonable price, Testosterone booster, Works great, Good ingredients, Less anxiety, Noticeable difference. Some note: Free shipping, Support hormone.",
+    "tags": [
+      {
+        "name": "Effective boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Testosterone booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Free shipping",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Support hormone",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:50.735Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114570,
+  "last_updated": "2026-03-20T09:52:18.348Z",
+  "first_scraped": "2026-03-20T09:52:18.348Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Metabolism support, Easy to take, Headache relief, Feminine health benefits, Hormone balance, Convenient, Complete ingredients, Less fights.",
+    "tags": [
+      {
+        "name": "Metabolism support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Headache relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feminine health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormone balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less fights",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heavy feeling",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:18.348Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

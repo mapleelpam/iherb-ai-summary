@@ -1,0 +1,68 @@
+{
+  "iherb_id": 63755,
+  "last_updated": "2026-03-20T10:11:24.599Z",
+  "first_scraped": "2026-03-20T10:11:24.599Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Real health insurance, Secure feeling, Mindset boost, Effective multivitamin, Energy boost, Like product, Bioavailable nutrients, Added bonus. Some note: All organic.",
+    "tags": [
+      {
+        "name": "Real health insurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Secure feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mindset boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Like product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioavailable nutrients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Added bonus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "All organic",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:24.599Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

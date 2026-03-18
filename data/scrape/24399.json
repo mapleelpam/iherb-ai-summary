@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24399,
+  "last_updated": "2026-03-20T10:30:02.720Z",
+  "first_scraped": "2026-03-20T10:30:02.720Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient way, Would recommend, Effective immune boost, Increased energy, Very quick, Calmer mood, Flushes bowels, Wild chaga.",
+    "tags": [
+      {
+        "name": "Convenient way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Would recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective immune boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very quick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calmer mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flushes bowels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wild chaga",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Mood swings",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:30:02.720Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

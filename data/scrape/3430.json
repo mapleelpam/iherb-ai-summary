@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3430,
+  "last_updated": "2026-03-20T09:58:51.697Z",
+  "first_scraped": "2026-03-20T09:58:51.697Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clear face, Functional b2, Effective supplement, Counter chronic yeast, Hopeful regime, Easy to use, Relief headache, Detox capabilities. Some note: Liquid molybdenum.",
+    "tags": [
+      {
+        "name": "Clear face",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Functional b2",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Counter chronic yeast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hopeful regime",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief headache",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox capabilities",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liquid molybdenum",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Gut distress",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:51.697Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

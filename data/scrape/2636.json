@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2636,
+  "last_updated": "2026-03-20T09:54:45.656Z",
+  "first_scraped": "2026-03-20T09:54:45.656Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Stiffness disappeared, Good balance, Men's 50+, Trust label, Good formula, Easy to swallow, Good health. Some note: Reasonable price, Good source.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stiffness disappeared",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Men's 50+",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust label",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:45.656Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

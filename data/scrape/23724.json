@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23724,
+  "last_updated": "2026-03-20T09:47:10.117Z",
+  "first_scraped": "2026-03-20T09:47:10.117Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Daily supplement, Good choice, Less back pain, Easy to swallow, Highly recommend, Favorite product, High dose, Bone health. Some note: Strengthen bones.",
+    "tags": [
+      {
+        "name": "Daily supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less back pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Favorite product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strengthen bones",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Chewables out",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:10.117Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 20867,
+  "last_updated": "2026-03-20T09:26:45.595Z",
+  "first_scraped": "2026-03-20T09:26:45.595Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reasonable price, Bone support, Great for energy, Easy to swallow, Fast delivery, Good composition, Great results, Sunshine replacement. Some note: Necessary for immunity, Potent source.",
+    "tags": [
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sunshine replacement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Necessary for immunity",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Potent source",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:45.595Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

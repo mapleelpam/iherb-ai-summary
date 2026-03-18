@@ -1,0 +1,68 @@
+{
+  "iherb_id": 41326,
+  "last_updated": "2026-03-20T09:25:17.993Z",
+  "first_scraped": "2026-03-20T09:25:17.993Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin improvement, Nice ingredient, Good antioxidant, Balances heart beat, Easy to take, Heart health, More energy, Quality supplement. Some note: Recommended product, Tolerable taste.",
+    "tags": [
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balances heart beat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Tolerable taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:17.993Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

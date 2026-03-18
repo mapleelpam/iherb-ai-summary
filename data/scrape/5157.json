@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5157,
+  "last_updated": "2026-03-20T10:04:02.530Z",
+  "first_scraped": "2026-03-20T10:04:02.530Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Daily use, Flavorful option, Metabolism support, Tastes good, Energy boost, Supports health, Top benefit, Fruity taste. Some note: Calmer feeling.",
+    "tags": [
+      {
+        "name": "Daily use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flavorful option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Metabolism support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fruity taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calmer feeling",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Toxic formula",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:02.530Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

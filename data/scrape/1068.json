@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1068,
+  "last_updated": "2026-03-20T09:49:54.364Z",
+  "first_scraped": "2026-03-20T09:49:54.364Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lower prolactin, Remarkable impact, Balancing effects, High potency, Helps sleep, Easy to take, Increased energy, Helpful supplement. Some note: Boosted levels, Changed my.",
+    "tags": [
+      {
+        "name": "Lower prolactin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Remarkable impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balancing effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted levels",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Changed my",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:54.364Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

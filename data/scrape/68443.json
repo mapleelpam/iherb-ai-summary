@@ -1,0 +1,68 @@
+{
+  "iherb_id": 68443,
+  "last_updated": "2026-03-20T09:35:30.740Z",
+  "first_scraped": "2026-03-20T09:35:30.740Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin improvement, Helps vitality, Heart health, Good dosage, Happy result, Sunflower based, Easy to swallow, Clean brand. Some note: Good benefits.",
+    "tags": [
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sunflower based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:30.740Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

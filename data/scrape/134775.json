@@ -1,0 +1,68 @@
+{
+  "iherb_id": 134775,
+  "last_updated": "2026-03-20T09:30:58.172Z",
+  "first_scraped": "2026-03-20T09:30:58.172Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Gluten free, Bone health, Good results, Natural purity, Easy to swallow, Coconut oil, Plant-based, Overall health. Some note: Clean product, Expensive side.",
+    "tags": [
+      {
+        "name": "Gluten free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural purity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Coconut oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant-based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive side",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:58.172Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

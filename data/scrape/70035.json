@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70035,
+  "last_updated": "2026-03-20T09:37:11.982Z",
+  "first_scraped": "2026-03-20T09:37:11.982Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Relieves pain, Headache relief, Item in good condition, Natural relief, Improvement seen, Joint relief, Restful sleep, Good results. Some note: Autoimmune disease.",
+    "tags": [
+      {
+        "name": "Relieves pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Headache relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Item in good condition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restful sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No relief",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Autoimmune disease",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:11.982Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21,
+  "last_updated": "2026-03-20T09:32:59.568Z",
+  "first_scraped": "2026-03-20T09:32:59.568Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Relieves pain, Fast shipment, Energy boost, High dosage, Joint discomfort, Feel better, Joint support, Good for bone. Some note: Relief capsules.",
+    "tags": [
+      {
+        "name": "Relieves pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint discomfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for bone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Relief capsules",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:59.568Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

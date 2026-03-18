@@ -1,0 +1,68 @@
+{
+  "iherb_id": 88926,
+  "last_updated": "2026-03-20T09:28:08.850Z",
+  "first_scraped": "2026-03-20T09:28:08.850Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin health, Natural ingredients, Clears acne, Redness reduction, Works perfectly, Adrenal support, Good deal, Fast shipping. Some note: Less oily skin.",
+    "tags": [
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clears acne",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Redness reduction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works perfectly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adrenal support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less oily skin",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not buying again",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:08.850Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

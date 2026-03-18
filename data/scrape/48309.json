@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48309,
+  "last_updated": "2026-03-20T10:07:29.798Z",
+  "first_scraped": "2026-03-20T10:07:29.798Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nutritious breast milk, Postnatal supplement, Brain health, Easy to swallow, Vital role, Vegan-friendly option, Regular purchase, No fish smell, Memory support. Some note: Easy solution.",
+    "tags": [
+      {
+        "name": "Nutritious breast milk",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Postnatal supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vital role",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan-friendly option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fish smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy solution",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:29.798Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

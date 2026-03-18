@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24,
+  "last_updated": "2026-03-20T09:36:31.625Z",
+  "first_scraped": "2026-03-20T09:36:31.625Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less trips, Improvement noticed, Costs less, Convenient size, Relieved prostate pain, First rate, Good for men, Fast shipping. Some note: Long curly hair, Efficient remedy.",
+    "tags": [
+      {
+        "name": "Less trips",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Costs less",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieved prostate pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First rate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for men",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long curly hair",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Efficient remedy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:31.625Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

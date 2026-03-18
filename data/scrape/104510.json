@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104510,
+  "last_updated": "2026-03-20T10:02:44.068Z",
+  "first_scraped": "2026-03-20T10:02:44.068Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective size, Good purchase, Good taste, Convenient source, Increased energy, No upset stomach, Easy absorption, Energy boost. Some note: Feel effects.",
+    "tags": [
+      {
+        "name": "Effective size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No upset stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Feel effects",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:44.068Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

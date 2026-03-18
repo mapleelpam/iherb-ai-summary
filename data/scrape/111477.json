@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111477,
+  "last_updated": "2026-03-20T10:18:37.146Z",
+  "first_scraped": "2026-03-20T10:18:37.146Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty & easy, Convenient addition, Helpful for digestion, Immune support, Reasonable price, Flat belly, Happy customer, Nutrient absorption, Kids like, Good benefits.",
+    "tags": [
+      {
+        "name": "Tasty & easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful for digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flat belly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy customer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrient absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids like",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:37.146Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

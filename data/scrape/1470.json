@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1470,
+  "last_updated": "2026-03-20T10:09:27.857Z",
+  "first_scraped": "2026-03-20T10:09:27.857Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Clean energy, Effective energy, High dose, Easy to take, Nerve health, Fast melting, Excellent vitamin. Some note: Energy boosting.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nerve health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast melting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Non-methylated folate",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Energy boosting",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:27.857Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

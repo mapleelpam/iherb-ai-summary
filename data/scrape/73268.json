@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73268,
+  "last_updated": "2026-03-20T10:12:07.300Z",
+  "first_scraped": "2026-03-20T10:12:07.300Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: One a day, One pill, Energetic and full, Prostate support, Worth it, Organic ingredients, Effective formula, Money-back guarantee.",
+    "tags": [
+      {
+        "name": "One a day",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "One pill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energetic and full",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prostate support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Money-back guarantee",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nails weak",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Big tablet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:07.300Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 99988,
+  "last_updated": "2026-03-20T09:21:54.912Z",
+  "first_scraped": "2026-03-20T09:21:54.912Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes good, Benefits seen, More energy, Skin looks better, Boosted health, Convenient drink, Acceptable taste, Highly recommend. Some note: No visible change.",
+    "tags": [
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefits seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin looks better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acceptable taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No visible change",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:54.912Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67720,
+  "last_updated": "2026-03-20T10:26:02.286Z",
+  "first_scraped": "2026-03-20T10:26:02.286Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious flavors, Effective dosage, Steady energy, Tasty options, Clean energy, Works great, Tasty energy, Excellent additive.",
+    "tags": [
+      {
+        "name": "Delicious flavors",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Steady energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty options",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not strong",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:02.286Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

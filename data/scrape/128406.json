@@ -1,0 +1,68 @@
+{
+  "iherb_id": 128406,
+  "last_updated": "2026-03-20T09:22:33.606Z",
+  "first_scraped": "2026-03-20T09:22:33.606Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works great, Enhanced energy, Good results, Effective pill, Fast shipping, Felt energetic, Hard erection, Fairly short effect. Some note: Great for men's health.",
+    "tags": [
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective pill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Felt energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard erection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fairly short effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for men's health",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not great",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:33.606Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

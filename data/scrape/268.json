@@ -1,0 +1,68 @@
+{
+  "iherb_id": 268,
+  "last_updated": "2026-03-20T09:41:21.684Z",
+  "first_scraped": "2026-03-20T09:41:21.684Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Empty stomach, Joint support, Trusted brand, Balances mood, Assist managing, Highly recommend, Liver support, Happiness boost. Some note: Stress relief.",
+    "tags": [
+      {
+        "name": "Empty stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balances mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Assist managing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happiness boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep issues",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stress relief",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:21.684Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

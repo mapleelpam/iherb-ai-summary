@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106932,
+  "last_updated": "2026-03-20T10:06:03.366Z",
+  "first_scraped": "2026-03-20T10:06:03.366Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No issues, Effective supplement, Omega benefits, Increased energy, Sustainable brand, Effective brand, No aftertaste, Higher natural vitamin. Some note: Natural ingredients, Good for winter.",
+    "tags": [
+      {
+        "name": "No issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Omega benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustainable brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher natural vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good for winter",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:03.366Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

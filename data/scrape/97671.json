@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97671,
+  "last_updated": "2026-03-20T09:22:58.042Z",
+  "first_scraped": "2026-03-20T09:22:58.042Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small pill, Better absorbed, High dose, No aftertaste, Cholesterol improvement, Efficient source, Effective krill oil, Easy to swallow. Some note: Good ingredients.",
+    "tags": [
+      {
+        "name": "Small pill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better absorbed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective krill oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:58.042Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

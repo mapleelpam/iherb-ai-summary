@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84511,
+  "last_updated": "2026-03-20T10:03:39.495Z",
+  "first_scraped": "2026-03-20T10:03:39.495Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Amazing taste, Love taste, Improvement seen, High potency, Good for hormone, Easy use, Bone health, Life extension. Some note: Size normal.",
+    "tags": [
+      {
+        "name": "Amazing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for hormone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life extension",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Size normal",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Dispenser leak",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:39.495Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

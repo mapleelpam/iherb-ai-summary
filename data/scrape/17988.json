@@ -1,0 +1,68 @@
+{
+  "iherb_id": 17988,
+  "last_updated": "2026-03-20T09:32:06.929Z",
+  "first_scraped": "2026-03-20T09:32:06.929Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Morning smoothie, Avoid sweeteners, Best prices, Feel better, Pleasantly surprised, Maintain balanced, High energy, Good protein. Some note: Mild flavor.",
+    "tags": [
+      {
+        "name": "Morning smoothie",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid sweeteners",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best prices",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasantly surprised",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain balanced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild flavor",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Didn't like",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:06.929Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

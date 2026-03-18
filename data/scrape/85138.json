@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85138,
+  "last_updated": "2026-03-20T09:38:40.890Z",
+  "first_scraped": "2026-03-20T09:38:40.890Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Standout supplement, More energy, Compact size, High potency, Prevention is key, Good for hair, Feel better, Healthy and energetic. Some note: Good composition.",
+    "tags": [
+      {
+        "name": "Standout supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Compact size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prevention is key",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy and energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Odd smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:40.890Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

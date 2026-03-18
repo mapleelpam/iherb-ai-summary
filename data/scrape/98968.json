@@ -1,0 +1,68 @@
+{
+  "iherb_id": 98968,
+  "last_updated": "2026-03-20T10:14:58.990Z",
+  "first_scraped": "2026-03-20T10:14:58.990Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy on stomach, Normal self, Tasty gummies, No upset stomach, Easy chew, Delicious flavor, Recommend it, Good taste.",
+    "tags": [
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal self",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No upset stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy chew",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid natural",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Big disappointment",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:58.990Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

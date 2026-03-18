@@ -1,0 +1,68 @@
+{
+  "iherb_id": 123770,
+  "last_updated": "2026-03-20T09:44:04.586Z",
+  "first_scraped": "2026-03-20T09:44:04.586Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to consume, Good communication, Great stuff, Sparkling drink, Easy way, Buffered powder, Different balance, Boost immunity.",
+    "tags": [
+      {
+        "name": "Easy to consume",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good communication",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sparkling drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buffered powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Different balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Uncommon flavor",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Strange taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:04.586Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

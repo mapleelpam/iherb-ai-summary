@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144317,
+  "last_updated": "2026-03-20T10:12:12.116Z",
+  "first_scraped": "2026-03-20T10:12:12.116Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helped control allergies, Reduces stress, Fading dark circles, Supports adrenals, Stabilize energy, Supporting calmness, No need for coffee, Noticeable difference, Natural ingredients.",
+    "tags": [
+      {
+        "name": "Helped control allergies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fading dark circles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports adrenals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stabilize energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supporting calmness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No need for coffee",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Contains soy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:12.116Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

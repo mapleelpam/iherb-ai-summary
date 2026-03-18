@@ -1,0 +1,68 @@
+{
+  "iherb_id": 63722,
+  "last_updated": "2026-03-20T10:15:26.780Z",
+  "first_scraped": "2026-03-20T10:15:26.780Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves sleep, Highly recommend, Hope it works, Natural alternative, Relieves menopause, Calming, recommended, Notice difference, Arrived fast.",
+    "tags": [
+      {
+        "name": "Improves sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hope it works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves menopause",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming, recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Notice difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arrived fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight gain",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "React badly",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:26.780Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102230,
+  "last_updated": "2026-03-20T10:10:16.200Z",
+  "first_scraped": "2026-03-20T10:10:16.200Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean consumption, Good combination, Consistent energy levels, Energy boost, Improved transit, Value for money, Easy to swallow, Less reflux.",
+    "tags": [
+      {
+        "name": "Clean consumption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consistent energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved transit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less reflux",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Discomfort initially",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:16.200Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

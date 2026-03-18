@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71109,
+  "last_updated": "2026-03-20T09:39:36.365Z",
+  "first_scraped": "2026-03-20T09:39:36.365Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin better, Silkier hair, Love this, Hair growth, Stronger hair, Small and easy, Great results, Easy to swallow. Some note: Not sure, Helps hair.",
+    "tags": [
+      {
+        "name": "Skin better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Silkier hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small and easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helps hair",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:36.365Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

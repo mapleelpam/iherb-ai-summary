@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118661,
+  "last_updated": "2026-03-20T09:57:58.021Z",
+  "first_scraped": "2026-03-20T09:57:58.021Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good antioxidant, More power, Immunity booster, Effective brand, Works fast, Trust natural factors, Fast delivery, Helps energy. Some note: Periodically trying.",
+    "tags": [
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More power",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust natural factors",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No relief",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Periodically trying",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:58.021Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

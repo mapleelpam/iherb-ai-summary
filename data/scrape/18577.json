@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18577,
+  "last_updated": "2026-03-20T09:55:12.484Z",
+  "first_scraped": "2026-03-20T09:55:12.484Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Enjoying this product, Energy boost, Immediate benefit, Carb craving, Cold sore, Blood sugar, Healthy and pink, Control sugar. Some note: Insulin response.",
+    "tags": [
+      {
+        "name": "Enjoying this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Carb craving",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cold sore",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy and pink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach upset",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Insulin response",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:12.484Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

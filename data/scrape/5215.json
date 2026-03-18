@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5215,
+  "last_updated": "2026-03-20T10:05:24.702Z",
+  "first_scraped": "2026-03-20T10:05:24.702Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for kidneys, Urinary support, Versatile herb, Gut cleanse, High concentration, Pleasant taste, On hand, Alcohol-free. Some note: General improvements.",
+    "tags": [
+      {
+        "name": "Good for kidneys",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Urinary support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Versatile herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "On hand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alcohol-free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Didn't work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "General improvements",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:24.702Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

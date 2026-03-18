@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1431,
+  "last_updated": "2026-03-20T10:19:16.059Z",
+  "first_scraped": "2026-03-20T10:19:16.059Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good health, Smooth stomach, Boost immunity, Non-acidic, gentle, Best in market, Easy on stomach, Effective mix, Great help. Some note: Empty stomach.",
+    "tags": [
+      {
+        "name": "Good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Non-acidic, gentle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best in market",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Forgot taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Empty stomach",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:16.059Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

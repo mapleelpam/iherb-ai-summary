@@ -1,0 +1,68 @@
+{
+  "iherb_id": 112971,
+  "last_updated": "2026-03-20T09:17:10.176Z",
+  "first_scraped": "2026-03-20T09:17:10.176Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High absorption, Helps sleep, Nice benefits, More energy, Calming down, Highly recommend, Amazing supplement, Gentle stomach. Some note: First time, Great form.",
+    "tags": [
+      {
+        "name": "High absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming down",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First time",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great form",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:10.176Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

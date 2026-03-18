@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37339,
+  "last_updated": "2026-03-20T09:44:24.499Z",
+  "first_scraped": "2026-03-20T09:44:24.499Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High amount, Lucid dreams, Good source, Pure ingredients, Thyroid support, High dose, Fresh smell, Easy to swallow. Some note: Food sensitivities, Helped her.",
+    "tags": [
+      {
+        "name": "High amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lucid dreams",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thyroid support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Food sensitivities",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helped her",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:24.499Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

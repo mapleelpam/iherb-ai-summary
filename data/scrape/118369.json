@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118369,
+  "last_updated": "2026-03-20T09:21:19.505Z",
+  "first_scraped": "2026-03-20T09:21:19.505Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good package, Fast shipping, Small pills, Easy to swallow, Vitamin supplement, Blood sugar control, Convenient form, Healthy metabolism support. Some note: Diabetes support.",
+    "tags": [
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy metabolism support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Diabetes support",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:19.505Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

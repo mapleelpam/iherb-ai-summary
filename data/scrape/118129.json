@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118129,
+  "last_updated": "2026-03-20T10:25:18.256Z",
+  "first_scraped": "2026-03-20T10:25:18.256Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Balanced minerals, Cost-effective option, Essential addition, Taste fantastic, Easy supplement, Boosts flavor, Helpful product, Calmness focus.",
+    "tags": [
+      {
+        "name": "Balanced minerals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cost-effective option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste fantastic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calmness focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heavy metals",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Burned taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:18.256Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1221,
+  "last_updated": "2026-03-20T10:25:25.320Z",
+  "first_scraped": "2026-03-20T10:25:25.320Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin moisture, Higher gamma E, Top vitamin, Best structure, Effective alternative, Satisfied, Easy to digest, Speed healing, High content. Some note: Hard to find.",
+    "tags": [
+      {
+        "name": "Skin moisture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher gamma E",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best structure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to digest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speed healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to find",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:25.320Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

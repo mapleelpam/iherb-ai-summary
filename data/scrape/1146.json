@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1146,
+  "last_updated": "2026-03-20T09:44:05.714Z",
+  "first_scraped": "2026-03-20T09:44:05.714Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great combination, Reliable balanced, Traveling support, Good result, Helps digestion, Less bloating, Contains 6 strains, Intestinal health.",
+    "tags": [
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable balanced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Traveling support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Contains 6 strains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intestinal health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not recommend",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Weak bones",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:05.714Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

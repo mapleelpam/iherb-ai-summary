@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72008,
+  "last_updated": "2026-03-20T09:24:25.411Z",
+  "first_scraped": "2026-03-20T09:24:25.411Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Fast delivery, Support fat loss, Effective weight management, Easy to take, Lean muscle, Good ingredients, Fair price. Some note: Trim midsection, No change.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support fat loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective weight management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lean muscle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trim midsection",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:25.411Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

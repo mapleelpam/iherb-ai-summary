@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15979,
+  "last_updated": "2026-03-20T09:40:51.343Z",
+  "first_scraped": "2026-03-20T09:40:51.343Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Kids love it, Best taste, Prompt delivery, Really works, Love this product, Organic, pure, Repeat order, Natural ingredients. Some note: Works charm.",
+    "tags": [
+      {
+        "name": "Kids love it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Really works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic, pure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works charm",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Less sugar",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:51.343Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

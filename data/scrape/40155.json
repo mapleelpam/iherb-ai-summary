@@ -1,0 +1,68 @@
+{
+  "iherb_id": 40155,
+  "last_updated": "2026-03-20T10:05:39.913Z",
+  "first_scraped": "2026-03-20T10:05:39.913Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Digestive support, Improves digestion, Small size, Easy digestion, Good ingredients, Purest and best, Good result, No residues. Some note: Impressive range, Small capsules.",
+    "tags": [
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Purest and best",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No residues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressive range",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:39.913Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

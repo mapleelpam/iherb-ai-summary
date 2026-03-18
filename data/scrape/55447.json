@@ -1,0 +1,68 @@
+{
+  "iherb_id": 55447,
+  "last_updated": "2026-03-20T10:21:45.053Z",
+  "first_scraped": "2026-03-20T10:21:45.053Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Light and active, More energy, Liver support, Noticeable benefits, Improved acne, Easy swallow, Family favorite, Antioxidant properties, Digestive relief, Detoxification aid.",
+    "tags": [
+      {
+        "name": "Light and active",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved acne",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Family favorite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detoxification aid",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:45.053Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102881,
+  "last_updated": "2026-03-20T10:34:20.454Z",
+  "first_scraped": "2026-03-20T10:34:20.454Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective digestion, More CFU, Smooth poo, Support balance, Boost gut health, Pleasant taste, Convenient and delicious, General improvement. Some note: Decent flavor.",
+    "tags": [
+      {
+        "name": "Effective digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More CFU",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth poo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient and delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "General improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Added sugar",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Decent flavor",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:34:20.454Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

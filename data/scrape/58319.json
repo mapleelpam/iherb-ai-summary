@@ -1,0 +1,68 @@
+{
+  "iherb_id": 58319,
+  "last_updated": "2026-03-20T10:02:06.003Z",
+  "first_scraped": "2026-03-20T10:02:06.003Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Amazing benefit, Fast relief, Good ingredient, Improves mood, Pure ingredients, Brain chemicals, Energy boost, Easy swallow. Some note: Same product, Expensive brand.",
+    "tags": [
+      {
+        "name": "Amazing benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain chemicals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Same product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive brand",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:06.003Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

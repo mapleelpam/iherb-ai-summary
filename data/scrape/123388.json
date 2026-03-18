@@ -1,0 +1,68 @@
+{
+  "iherb_id": 123388,
+  "last_updated": "2026-03-20T10:19:52.426Z",
+  "first_scraped": "2026-03-20T10:19:52.426Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Weight loss, Good sleep, Relax overall, Helps sleep, Smaller tablets, Two forms, Absorbable magnesium, Good absorption. Some note: Muscle recovery.",
+    "tags": [
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relax overall",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smaller tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Two forms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorbable magnesium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergic reactions",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:52.426Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

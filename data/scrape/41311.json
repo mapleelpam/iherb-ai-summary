@@ -1,0 +1,68 @@
+{
+  "iherb_id": 41311,
+  "last_updated": "2026-03-20T09:25:08.014Z",
+  "first_scraped": "2026-03-20T09:25:08.014Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Joint supplement, Joint pain, Pain relief, Good deal, Highly recommend, Helped knees, Value for money, Good absorption. Some note: Easy to swallow, Good for arthritis.",
+    "tags": [
+      {
+        "name": "Joint supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped knees",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good for arthritis",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:08.014Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

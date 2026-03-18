@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32313,
+  "last_updated": "2026-03-20T09:37:42.793Z",
+  "first_scraped": "2026-03-20T09:37:42.793Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Decent price, Good complex, Good combination, Efficient for stress, Loved it, Good changes, Great supplement, Boost energy. Some note: High composition.",
+    "tags": [
+      {
+        "name": "Decent price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good complex",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient for stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loved it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good changes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not impressed",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High composition",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:42.793Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 64442,
+  "last_updated": "2026-03-20T09:18:17.185Z",
+  "first_scraped": "2026-03-20T09:18:17.185Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved digestion, Excellent additive, Great benefits, Feel great, No refrigeration, Matches description, Works great, Good bacteria. Some note: Made me regular.",
+    "tags": [
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No refrigeration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Matches description",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good bacteria",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Didn't feel",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Made me regular",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:17.185Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

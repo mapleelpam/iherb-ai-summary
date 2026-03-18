@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7325,
+  "last_updated": "2026-03-20T10:09:11.580Z",
+  "first_scraped": "2026-03-20T10:09:11.580Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Calming effect, Helped sleep, Natural relief, Easy swallow, Positive difference, Trust!, Prompt delivery, Sleep peacefully.",
+    "tags": [
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust!",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep peacefully",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doesn't work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:11.580Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

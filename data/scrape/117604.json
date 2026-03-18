@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117604,
+  "last_updated": "2026-03-20T10:02:11.270Z",
+  "first_scraped": "2026-03-20T10:02:11.270Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective pills, Good ingredients, Economical way, Easy transition, Helps with ageing, Discount purchase, Skin health, Healthy supplement.",
+    "tags": [
+      {
+        "name": "Effective pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economical way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy transition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with ageing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Discount purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No suppliers",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Disappointing supplement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:11.270Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

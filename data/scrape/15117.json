@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15117,
+  "last_updated": "2026-03-20T10:19:40.519Z",
+  "first_scraped": "2026-03-20T10:19:40.519Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immediate relief, Works for me, Easy to take, Improved eyesight, Trust brand, Eyebright formula, Clearing gunk, Relief received.",
+    "tags": [
+      {
+        "name": "Immediate relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved eyesight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eyebright formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearing gunk",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief received",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slimy thingie",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Red eye",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:40.519Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101634,
+  "last_updated": "2026-03-20T10:05:31.659Z",
+  "first_scraped": "2026-03-20T10:05:31.659Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost collagen, Convenient package, Joint pain, Tastes amazing, Ingredient as described, Decrease appetite, Good taste, Energy boost. Some note: Collagen taste.",
+    "tags": [
+      {
+        "name": "Boost collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ingredient as described",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decrease appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong coconut",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Collagen taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:31.659Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

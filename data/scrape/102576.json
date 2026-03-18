@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102576,
+  "last_updated": "2026-03-20T10:01:57.559Z",
+  "first_scraped": "2026-03-20T10:01:57.559Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful product, Destroy biofilm, Helps digestion, Great on stomach, Good ingredients, Easy digestion, Less bloating, Excellent complex. Some note: Digestive health, Great benefit.",
+    "tags": [
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Destroy biofilm",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent complex",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great benefit",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:57.559Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

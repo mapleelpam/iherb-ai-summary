@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115763,
+  "last_updated": "2026-03-20T09:54:23.535Z",
+  "first_scraped": "2026-03-20T09:54:23.535Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Valuable addition, Real energy, Effective ingredient, Enhance recovery, Fast delivery, Excellent discount, Very good supplement, More energy. Some note: Not much, Easy to swallow.",
+    "tags": [
+      {
+        "name": "Valuable addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhance recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent discount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very good supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not much",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:23.535Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

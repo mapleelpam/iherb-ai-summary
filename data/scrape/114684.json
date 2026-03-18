@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114684,
+  "last_updated": "2026-03-20T09:49:54.365Z",
+  "first_scraped": "2026-03-20T09:49:54.365Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less dryness, Recommend, Noticeable difference, Improved blepharitis, Good ingredients, Small size, New discovery, Neutral taste. Some note: Too soon.",
+    "tags": [
+      {
+        "name": "Less dryness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved blepharitis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "New discovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too soon",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:54.365Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

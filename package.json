@@ -1,0 +1,20 @@
+{
+  "name": "iherb-ai-summary",
+  "version": "1.0.0",
+  "description": "Scrape iHerb AI-generated review summaries",
+  "scripts": {
+    "generate": "node scripts/generate-products.mjs",
+    "generate:distiller": "node scripts/generate-from-distiller.mjs",
+    "fetch": "node scripts/fetch-reviews.mjs",
+    "fetch:proxy": "node scripts/fetch-via-proxy.mjs",
+    "fetch:cookies": "node scripts/fetch-with-cookies.mjs",
+    "scrape": "node scripts/scrape.mjs",
+    "scrape:debug": "DEBUG=1 node scripts/scrape.mjs",
+    "export": "node scripts/export-json.mjs",
+    "export:scrape": "node scripts/export-scrape.mjs"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.8.0",
+    "playwright": "^1.50.0"
+  }
+}

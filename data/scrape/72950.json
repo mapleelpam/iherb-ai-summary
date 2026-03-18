@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72950,
+  "last_updated": "2026-03-20T09:34:02.385Z",
+  "first_scraped": "2026-03-20T09:34:02.385Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mild taste, High protein, Zero carbs, Lactose-free protein, No aftertaste, Speedy recovery, Good choice, Reduce waste. Some note: Convenient blend.",
+    "tags": [
+      {
+        "name": "Mild taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Zero carbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lactose-free protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce waste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient blend",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:02.385Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

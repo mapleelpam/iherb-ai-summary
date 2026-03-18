@@ -1,0 +1,68 @@
+{
+  "iherb_id": 53978,
+  "last_updated": "2026-03-20T09:22:25.815Z",
+  "first_scraped": "2026-03-20T09:22:25.815Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Positive changes, Boost immune, Deliver quickly, Easy to swallow, Excellent source, Effective supplement, Omega benefits, Highly recommend. Some note: Natural ingredients.",
+    "tags": [
+      {
+        "name": "Positive changes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deliver quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Omega benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped using",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:25.815Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

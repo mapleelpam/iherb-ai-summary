@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105864,
+  "last_updated": "2026-03-20T10:07:53.701Z",
+  "first_scraped": "2026-03-20T10:07:53.701Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very good ingredient, Organic ingredients, Plant-based protein, Nutrient powerhouse, Tasty and healthy, Regular digestion, Good taste, Tasty chocolate.",
+    "tags": [
+      {
+        "name": "Very good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant-based protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrient powerhouse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty and healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weird taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Horrible taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:53.701Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

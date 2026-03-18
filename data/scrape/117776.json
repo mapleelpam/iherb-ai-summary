@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117776,
+  "last_updated": "2026-03-20T09:38:45.767Z",
+  "first_scraped": "2026-03-20T09:38:45.767Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast improvement, Unique formula, Good combination, Improved digestion, Less gas, Fast shipping, Probiotic supplement, Vegetarian-friendly approach. Some note: Obvious result, Hard to find.",
+    "tags": [
+      {
+        "name": "Fast improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less gas",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Probiotic supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegetarian-friendly approach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Obvious result",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hard to find",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:45.767Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

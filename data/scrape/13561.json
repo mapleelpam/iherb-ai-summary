@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13561,
+  "last_updated": "2026-03-20T10:28:30.557Z",
+  "first_scraped": "2026-03-20T10:28:30.557Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves dry eye, Improvement skin, Natural option, Super soft skin, Mood swings, Wow effect, Skin tone change, Clear skin. Some note: Natural antioxidant.",
+    "tags": [
+      {
+        "name": "Improves dry eye",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super soft skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood swings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wow effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin tone change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Natural antioxidant",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:30.557Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

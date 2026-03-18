@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102089,
+  "last_updated": "2026-03-20T10:37:13.259Z",
+  "first_scraped": "2026-03-20T10:37:13.259Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Light flavor, Best tasting, Miracle drink, Love blend, Dissolves perfectly, Great mix, Packed full, Mixing options. Some note: Tastes ok.",
+    "tags": [
+      {
+        "name": "Light flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best tasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Miracle drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves perfectly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Packed full",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixing options",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes ok",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:37:13.259Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

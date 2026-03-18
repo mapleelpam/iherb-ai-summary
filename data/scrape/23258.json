@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23258,
+  "last_updated": "2026-03-20T10:25:32.280Z",
+  "first_scraped": "2026-03-20T10:25:32.280Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Overall balance, Overall health, Deep energy, Hair falling, Very happy, Very potent, Support body, Holistic health. Some note: Beneficial supplement.",
+    "tags": [
+      {
+        "name": "Overall balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair falling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very potent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support body",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Holistic health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too strong",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:32.280Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

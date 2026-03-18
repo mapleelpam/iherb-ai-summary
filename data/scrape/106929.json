@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106929,
+  "last_updated": "2026-03-20T10:09:03.346Z",
+  "first_scraped": "2026-03-20T10:09:03.346Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly absorbable, Easy swallow, Good sleep, Muscle cramps, Helps migraines, Love this, Energy boost, Innovative formula. Some note: Great magnesium, Recommend it.",
+    "tags": [
+      {
+        "name": "Highly absorbable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps migraines",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Innovative formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great magnesium",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Recommend it",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:03.346Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

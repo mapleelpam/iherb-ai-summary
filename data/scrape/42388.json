@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42388,
+  "last_updated": "2026-03-20T10:18:30.748Z",
+  "first_scraped": "2026-03-20T10:18:30.748Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Refreshing taste, Easy to use, Excellent genius, Benefit you, Good health, Mineral replacement, Vitamins minerals, Handy solution.",
+    "tags": [
+      {
+        "name": "Refreshing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent genius",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit you",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mineral replacement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamins minerals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Handy solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not satisfied",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not refreshing",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:30.748Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102084,
+  "last_updated": "2026-03-20T10:09:18.649Z",
+  "first_scraped": "2026-03-20T10:09:18.649Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious and versatile, Tastes amazing, Light flavour, No artificial, Best tasting, Mixed well, On point, Creamy sweet.",
+    "tags": [
+      {
+        "name": "Delicious and versatile",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Light flavour",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No artificial",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best tasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixed well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "On point",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Creamy sweet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Chemical taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:18.649Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 41720,
+  "last_updated": "2026-03-20T10:08:04.656Z",
+  "first_scraped": "2026-03-20T10:08:04.656Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good purchase, Easy to take, Effective choice, Good for immunity, Keeps healthy, Energy benefits, Reasonable price, Improved symptoms. Some note: Larger sizes.",
+    "tags": [
+      {
+        "name": "Good purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No colds",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Larger sizes",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:04.656Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

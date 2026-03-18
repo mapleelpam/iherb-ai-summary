@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97690,
+  "last_updated": "2026-03-20T10:07:32.753Z",
+  "first_scraped": "2026-03-20T10:07:32.753Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great addition, Helps digestion, Fast relief, Solid option, Effective ingredients, Efficient size, Healthy choice, Easy to swallow.",
+    "tags": [
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Solid option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Mouldy pills",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:32.753Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

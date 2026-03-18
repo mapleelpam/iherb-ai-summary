@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84776,
+  "last_updated": "2026-03-20T09:21:00.412Z",
+  "first_scraped": "2026-03-20T09:21:00.412Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient dropper, Improved odor, Effective ingredients, Great supplement, Easy to drink, Boost energy, Improved breathing, Maintain immunity. Some note: Fair result, Essential product.",
+    "tags": [
+      {
+        "name": "Convenient dropper",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved odor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved breathing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair result",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Essential product",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:00.412Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

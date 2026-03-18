@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78379,
+  "last_updated": "2026-03-20T10:19:47.544Z",
+  "first_scraped": "2026-03-20T10:19:47.544Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High energy, Effective boost, Good taste, Best pre-workout, Fast shipping, Awake alert, Good focus, Good ingredients. Some note: Decent flavor.",
+    "tags": [
+      {
+        "name": "High energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best pre-workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awake alert",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Insane heart rate",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Decent flavor",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:47.544Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

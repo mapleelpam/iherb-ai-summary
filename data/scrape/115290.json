@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115290,
+  "last_updated": "2026-03-20T10:07:40.843Z",
+  "first_scraped": "2026-03-20T10:07:40.843Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pack on, Satisfied product, Taste amazing, High protein, Good taste, Love my, Accurate package, Yummy flavor. Some note: Container jar.",
+    "tags": [
+      {
+        "name": "Pack on",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love my",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Accurate package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not using",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Container jar",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:40.843Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

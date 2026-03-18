@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97668,
+  "last_updated": "2026-03-20T10:09:08.363Z",
+  "first_scraped": "2026-03-20T10:09:08.363Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Joint pain, Country farms, Feeling difference, Stomach regularity, Best flavor, Authentic product, Good collagen supplement, Skin texture improved.",
+    "tags": [
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Country farms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach regularity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Authentic product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good collagen supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin texture improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weird tastes",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hard to dissolve",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:08.363Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

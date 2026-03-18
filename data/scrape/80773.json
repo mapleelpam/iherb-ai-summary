@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80773,
+  "last_updated": "2026-03-20T10:02:36.835Z",
+  "first_scraped": "2026-03-20T10:02:36.835Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High dosage, Satisfied, Great energy, Sufficient vitamins, More affordable, Good package, Easy to swallow, Energy boost. Some note: Powerful formula, Taste change.",
+    "tags": [
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sufficient vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More affordable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful formula",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Taste change",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:36.835Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

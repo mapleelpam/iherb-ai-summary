@@ -1,0 +1,68 @@
+{
+  "iherb_id": 138639,
+  "last_updated": "2026-03-20T09:34:52.956Z",
+  "first_scraped": "2026-03-20T09:34:52.956Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, No nausea, Quality multivitamin, Easy to take, Orange color, Tastes amazing, More energy, Sleep delay. Some note: Immediate effect.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No nausea",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Orange color",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep delay",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thick syrup",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Immediate effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:52.956Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

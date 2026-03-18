@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110745,
+  "last_updated": "2026-03-20T10:07:35.780Z",
+  "first_scraped": "2026-03-20T10:07:35.780Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Natural vitamin, Effective vitamin C, Boosted immune, Multiple sources, Perfect size, Outstanding shipping, Clean ingredients.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective vitamin C",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Multiple sources",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Outstanding shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart disease",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:35.780Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4244,
+  "last_updated": "2026-03-20T10:00:59.515Z",
+  "first_scraped": "2026-03-20T10:00:59.515Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean capsules, Brain boost, Easy to swallow, Improves mood, Fair price, Improved energy, Clean ingredients, Better focus. Some note: It works!.",
+    "tags": [
+      {
+        "name": "Clean capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "It works!",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strong smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:59.515Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

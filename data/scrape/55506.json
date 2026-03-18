@@ -1,0 +1,68 @@
+{
+  "iherb_id": 55506,
+  "last_updated": "2026-03-20T10:08:09.824Z",
+  "first_scraped": "2026-03-20T10:08:09.824Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good sleep, Good ingredients, Debloated feeling, Toxin free, More energy, Gentle cleanse, No taste, White hairs falling. Some note: Convenient packaging, Clear system.",
+    "tags": [
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Debloated feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Toxin free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "White hairs falling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Clear system",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:09.824Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

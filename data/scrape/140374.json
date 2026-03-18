@@ -1,0 +1,68 @@
+{
+  "iherb_id": 140374,
+  "last_updated": "2026-03-20T09:25:25.874Z",
+  "first_scraped": "2026-03-20T09:25:25.874Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fall asleep, Easy to swallow, Improved energy, Increase serotonin, Better rest, Medium price range, Improving sleep, Good mix. Some note: Didn't notice, Supportive dosage.",
+    "tags": [
+      {
+        "name": "Fall asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase serotonin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better rest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Medium price range",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Didn't notice",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Supportive dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:25.874Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

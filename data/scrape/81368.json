@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81368,
+  "last_updated": "2026-03-20T09:53:25.887Z",
+  "first_scraped": "2026-03-20T09:53:25.887Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Safe form, Maintain health, Fully absorb, Easy swallow, Does its job, Love brand, Bone health, Helps bones. Some note: Doctor advised.",
+    "tags": [
+      {
+        "name": "Safe form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fully absorb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Does its job",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Constipated",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Doctor advised",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:25.887Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

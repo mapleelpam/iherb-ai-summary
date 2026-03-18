@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144204,
+  "last_updated": "2026-03-20T10:46:48.293Z",
+  "first_scraped": "2026-03-20T10:46:48.293Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Resetting circadian, Natural ingredients, Good sleep, Sleep benefits, Effective blend, Effective ingredients, Works great, Essential part. Some note: Night's rest, Helps sleep.",
+    "tags": [
+      {
+        "name": "Resetting circadian",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential part",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Night's rest",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:46:48.293Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

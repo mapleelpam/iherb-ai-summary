@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18638,
+  "last_updated": "2026-03-20T10:14:56.067Z",
+  "first_scraped": "2026-03-20T10:14:56.067Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Liver detox, Improves immunity, Love this, Skin improvement, Freeze dried, More energy, Clean composition, Detox supplement. Some note: Blood test.",
+    "tags": [
+      {
+        "name": "Liver detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Freeze dried",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach pain",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Blood test",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:56.067Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

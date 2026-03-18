@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69491,
+  "last_updated": "2026-03-20T09:44:56.757Z",
+  "first_scraped": "2026-03-20T09:44:56.757Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Good taste, Tasty flavor, Easy to drink, Mixes well, Good buy, Swell product, Regularly use.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Swell product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regularly use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Horrible flavor",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not great",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:56.757Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

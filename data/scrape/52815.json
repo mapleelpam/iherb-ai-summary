@@ -1,0 +1,68 @@
+{
+  "iherb_id": 52815,
+  "last_updated": "2026-03-20T09:40:51.199Z",
+  "first_scraped": "2026-03-20T09:40:51.199Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Notice improvement, Great multivitamin, Easy to swallow, Helped him, Leave no aftertaste, Gift for men, Natural ingredients, Inflammation minimization.",
+    "tags": [
+      {
+        "name": "Notice improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped him",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Leave no aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gift for men",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inflammation minimization",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Headache, sleepy",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Lack of nutrients",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:51.199Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 103181,
+  "last_updated": "2026-03-20T10:20:58.565Z",
+  "first_scraped": "2026-03-20T10:20:58.565Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works for me, Lean muscle, Game-changer, Feel the pumps, Europe find, Hope it works, Great energy, Increase muscle. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Works for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lean muscle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel the pumps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Europe find",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hope it works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase muscle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No benefit",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:58.565Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119436,
+  "last_updated": "2026-03-20T09:57:45.318Z",
+  "first_scraped": "2026-03-20T09:57:45.318Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mood support, Boosts energy, Alleviate stress, Relax more, Feel better, Improves mood, Elevate spirits, Sleep better. Some note: Convenient size, Low dosage.",
+    "tags": [
+      {
+        "name": "Mood support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alleviate stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relax more",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Elevate spirits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Low dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:45.318Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

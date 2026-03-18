@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111036,
+  "last_updated": "2026-03-20T09:46:34.683Z",
+  "first_scraped": "2026-03-20T09:46:34.683Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune support, Wound healing, Easy to swallow, Pill size good, No aftertaste, Easy absorption, Improved digestion, Essential nutrient. Some note: Fast shipping.",
+    "tags": [
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wound healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pill size good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential nutrient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not the best",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:34.683Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

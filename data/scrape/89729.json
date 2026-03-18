@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89729,
+  "last_updated": "2026-03-20T10:07:39.824Z",
+  "first_scraped": "2026-03-20T10:07:39.824Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost immunity, Energy boosting, Cancer free, Fast delivery, Pain gone, Palatable superfood, Good buy, High grade mushrooms. Some note: Good taste, Cancer support.",
+    "tags": [
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boosting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cancer free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain gone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Palatable superfood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High grade mushrooms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Cancer support",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:39.824Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114956,
+  "last_updated": "2026-03-20T10:16:08.203Z",
+  "first_scraped": "2026-03-20T10:16:08.203Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective probiotics, Supports digestion, Feel good, Positive results, Not every store, Affordable option, Recommend cheers, No constipation.",
+    "tags": [
+      {
+        "name": "Effective probiotics",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not every store",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend cheers",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulating bowel",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:08.203Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42559,
+  "last_updated": "2026-03-20T09:40:49.363Z",
+  "first_scraped": "2026-03-20T09:40:49.363Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Avoided flu, Decent price, Great multivitamin, Boost overall wellbeing, More energy, No stomach upset, Essential support, Good ingredients.",
+    "tags": [
+      {
+        "name": "Avoided flu",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost overall wellbeing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No stomach upset",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Over the hill",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Waste of money",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:49.363Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

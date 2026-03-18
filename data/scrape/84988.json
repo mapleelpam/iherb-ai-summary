@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84988,
+  "last_updated": "2026-03-20T10:05:11.244Z",
+  "first_scraped": "2026-03-20T10:05:11.244Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great alternative, Improved energy, Good dosage, Affordable source, Like it, Fast shipping, Vegan friendly, Vegetarian alternative.",
+    "tags": [
+      {
+        "name": "Great alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Like it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegetarian alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Oil taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Capsule size",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:11.244Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

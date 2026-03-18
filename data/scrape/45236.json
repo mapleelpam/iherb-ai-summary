@@ -1,0 +1,68 @@
+{
+  "iherb_id": 45236,
+  "last_updated": "2026-03-20T09:33:36.776Z",
+  "first_scraped": "2026-03-20T09:33:36.776Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very nice, Clean mixing, Fast delivery, Good composition, Good taste, Delivered well packaged, Amazing results, Tastes good.",
+    "tags": [
+      {
+        "name": "Very nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean mixing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delivered well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Taste poor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:36.776Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

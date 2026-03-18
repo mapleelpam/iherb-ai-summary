@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117934,
+  "last_updated": "2026-03-20T10:17:49.635Z",
+  "first_scraped": "2026-03-20T10:17:49.635Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune support, Anti-cancer benefits, Complementary therapy, Cancer support, Love the energy, Clean ingredients, Fast relief, Genuine ingredient. Some note: Capsule size.",
+    "tags": [
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-cancer benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complementary therapy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cancer support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Genuine ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Capsule size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:49.635Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

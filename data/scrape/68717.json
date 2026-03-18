@@ -1,0 +1,68 @@
+{
+  "iherb_id": 68717,
+  "last_updated": "2026-03-20T10:00:18.147Z",
+  "first_scraped": "2026-03-20T10:00:18.147Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Excellent control, Gut health, Stomach bloating, Effective ingredients, Cleansing gut, Good taste, Improved digestion, Good combination. Some note: Fast results, Not sure.",
+    "tags": [
+      {
+        "name": "Excellent control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleansing gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:18.147Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67597,
+  "last_updated": "2026-03-20T09:52:53.425Z",
+  "first_scraped": "2026-03-20T09:52:53.425Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Repeat order, Top pick, Good taste, Tastes amazing, Convenient scooper, Vanilla flavour, Nice flavor, Clean protein. Some note: Slightly sweet.",
+    "tags": [
+      {
+        "name": "Repeat order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top pick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient scooper",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vanilla flavour",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slightly sweet",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Artificial flavoring",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:53.425Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1246,
+  "last_updated": "2026-03-20T10:04:50.736Z",
+  "first_scraped": "2026-03-20T10:04:50.736Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Collagen enhancement, Avoiding herpes, Joint support, Increased dose, Mouth sores, Skin improvement, Easy swallow, Cold sores.",
+    "tags": [
+      {
+        "name": "Collagen enhancement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoiding herpes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mouth sores",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cold sores",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antibiotic resistant",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Large pills",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:50.736Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

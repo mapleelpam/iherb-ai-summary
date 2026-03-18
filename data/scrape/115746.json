@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115746,
+  "last_updated": "2026-03-20T09:57:49.144Z",
+  "first_scraped": "2026-03-20T09:57:49.144Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice taste, Hair growth, Long-lasting supply, Flavor good, Fast shipping, Tasty option, Good package, Daughter's favorite, Trust brand. Some note: Sugary taste.",
+    "tags": [
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-lasting supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flavor good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daughter's favorite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sugary taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:49.144Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

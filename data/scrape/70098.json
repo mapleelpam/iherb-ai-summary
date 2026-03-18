@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70098,
+  "last_updated": "2026-03-20T09:15:40.274Z",
+  "first_scraped": "2026-03-20T09:15:40.274Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient dosing, Improvement mood, Easy to swallow, Nice price, Boost immunity, Good vitamin, Good combo, Feel better. Some note: Maintain levels, D3 with k2.",
+    "tags": [
+      {
+        "name": "Convenient dosing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain levels",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "D3 with k2",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:15:40.274Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

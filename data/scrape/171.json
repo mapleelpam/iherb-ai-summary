@@ -1,0 +1,68 @@
+{
+  "iherb_id": 171,
+  "last_updated": "2026-03-20T09:37:37.764Z",
+  "first_scraped": "2026-03-20T09:37:37.764Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nail grow, New hair, Acne reduced, Improvement noticed, Stronger hair, Energy levels, Splitting nails, Building up. Some note: Easy to swallow.",
+    "tags": [
+      {
+        "name": "Nail grow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "New hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acne reduced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Splitting nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Building up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hair loss",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:37.764Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

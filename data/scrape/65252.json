@@ -1,0 +1,68 @@
+{
+  "iherb_id": 65252,
+  "last_updated": "2026-03-20T09:49:57.436Z",
+  "first_scraped": "2026-03-20T09:49:57.436Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works great, Increases health, Highly recommend, Noticeable effects, Improved strength, Small size, Stack daily, Good taste. Some note: Fast shipping.",
+    "tags": [
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increases health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stack daily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unflavored taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:57.436Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

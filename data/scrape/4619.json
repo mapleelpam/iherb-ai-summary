@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4619,
+  "last_updated": "2026-03-20T09:48:38.517Z",
+  "first_scraped": "2026-03-20T09:48:38.517Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stable energy, Improved mood, Strong dose, Energy boost, Clean ingredients, Easy to swallow, Sharpens focus, Helps sleep.",
+    "tags": [
+      {
+        "name": "Stable energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sharpens focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No benefit",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Agitated",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:38.517Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

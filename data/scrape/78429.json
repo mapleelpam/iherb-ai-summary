@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78429,
+  "last_updated": "2026-03-20T09:40:28.780Z",
+  "first_scraped": "2026-03-20T09:40:28.780Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Joint discomfort, Uric acid improved, Helps sleep, Body antioxidants, Nice package, Affordable and well-packed, Effective improvement. Some note: Helps kidneys.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint discomfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Uric acid improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body antioxidants",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable and well-packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps kidneys",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Allergy warning",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:28.780Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

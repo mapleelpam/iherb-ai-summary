@@ -1,0 +1,68 @@
+{
+  "iherb_id": 34139,
+  "last_updated": "2026-03-20T09:48:50.739Z",
+  "first_scraped": "2026-03-20T09:48:50.739Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sweet deals, Easy swallow, Digests well, Size issue, Skin benefits, Two month supply, Easy on stomach, Good formula.",
+    "tags": [
+      {
+        "name": "Sweet deals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digests well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Size issue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Two month supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tablet size",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Large pill",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:50.739Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

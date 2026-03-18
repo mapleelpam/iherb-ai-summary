@@ -1,0 +1,68 @@
+{
+  "iherb_id": 54777,
+  "last_updated": "2026-03-20T10:01:54.607Z",
+  "first_scraped": "2026-03-20T10:01:54.607Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good size, Good smell, High intensity, Strength improvement, Quick recovery, Effective workout, Muscle mass, Body size change. Some note: Great choice.",
+    "tags": [
+      {
+        "name": "Good size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High intensity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strength improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle mass",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body size change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big tablets",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Great choice",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:54.607Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

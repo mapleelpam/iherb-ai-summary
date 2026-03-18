@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18261,
+  "last_updated": "2026-03-20T09:57:05.053Z",
+  "first_scraped": "2026-03-20T09:57:05.053Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective bone builder, Improved bone, Normal dexa, Natural help, Good support, Research matched, Easy to take, Improved wrists, Medicinal qualities. Some note: Lots of capsules.",
+    "tags": [
+      {
+        "name": "Effective bone builder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved bone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal dexa",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Research matched",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved wrists",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Medicinal qualities",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lots of capsules",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:05.053Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

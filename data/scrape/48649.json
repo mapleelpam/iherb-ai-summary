@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48649,
+  "last_updated": "2026-03-20T10:04:38.164Z",
+  "first_scraped": "2026-03-20T10:04:38.164Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast absorption, Regulate circadian, Works wonders, Convenient bottle, Fast shipping, Potent brand, Delicious taste, Great sleep. Some note: Felt sleepy, Quick results.",
+    "tags": [
+      {
+        "name": "Fast absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate circadian",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Felt sleepy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Quick results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:38.164Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

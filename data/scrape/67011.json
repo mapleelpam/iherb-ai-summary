@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67011,
+  "last_updated": "2026-03-20T09:43:44.256Z",
+  "first_scraped": "2026-03-20T09:43:44.256Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less irritated, Easy to take, Natural solution, Relieved dryness, Dry eye relief, Stopped watering, Helpful supplement, Moisturized eyes. Some note: No big difference, Took a week.",
+    "tags": [
+      {
+        "name": "Less irritated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieved dryness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dry eye relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped watering",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moisturized eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No big difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Took a week",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:44.256Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

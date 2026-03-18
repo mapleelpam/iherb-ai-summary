@@ -1,0 +1,68 @@
+{
+  "iherb_id": 75192,
+  "last_updated": "2026-03-20T09:50:18.906Z",
+  "first_scraped": "2026-03-20T09:50:18.906Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved gut, Aids digestion, Decent results, Digestive support, Fast delivery, Effective probiotic, Easy to swallow, Good option. Some note: Regular bowel movements, Great supplement.",
+    "tags": [
+      {
+        "name": "Improved gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Aids digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular bowel movements",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:18.906Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 103473,
+  "last_updated": "2026-03-20T09:25:50.320Z",
+  "first_scraped": "2026-03-20T09:25:50.320Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Handy remedy, Easy spray bottle, Efficient delivery, Tastes great, Easy to use, Tasty nonetheless, Effective supplement, Good taste, Natural ingredients.",
+    "tags": [
+      {
+        "name": "Handy remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy spray bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty nonetheless",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stuck mechanism",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:50.320Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

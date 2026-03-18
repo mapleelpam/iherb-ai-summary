@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3166,
+  "last_updated": "2026-03-20T10:04:08.569Z",
+  "first_scraped": "2026-03-20T10:04:08.569Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Brain activation, Very powerful, Natural sensation, Increased energy, Works great, No side effects, Strong erection, Natural herbs. Some note: Very fast.",
+    "tags": [
+      {
+        "name": "Brain activation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very powerful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural sensation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong erection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural herbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Severe insomnia",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Very fast",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:08.569Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

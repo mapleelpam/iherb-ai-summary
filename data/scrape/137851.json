@@ -1,0 +1,68 @@
+{
+  "iherb_id": 137851,
+  "last_updated": "2026-03-20T10:14:39.932Z",
+  "first_scraped": "2026-03-20T10:14:39.932Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Anxiety relief, Absorbs better, Effective relief, Muscle recovery, Easy to swallow, Better sleep, Improved health, Good scent, Muscle cramps.",
+    "tags": [
+      {
+        "name": "Anxiety relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorbs better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High stress levels",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:39.932Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

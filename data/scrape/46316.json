@@ -1,0 +1,68 @@
+{
+  "iherb_id": 46316,
+  "last_updated": "2026-03-20T10:07:42.696Z",
+  "first_scraped": "2026-03-20T10:07:42.696Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves absorption, Raises levels, Strong immunity, Recommend the product, Easy to swallow, Convenient dose, Love vegan, High content. Some note: Efficient option, Tested at 68.",
+    "tags": [
+      {
+        "name": "Improves absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Raises levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend the product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love vegan",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient option",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Tested at 68",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:42.696Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

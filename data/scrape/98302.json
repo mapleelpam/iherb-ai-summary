@@ -1,0 +1,68 @@
+{
+  "iherb_id": 98302,
+  "last_updated": "2026-03-20T09:28:27.486Z",
+  "first_scraped": "2026-03-20T09:28:27.486Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Happy with, Good for, Less sweet, Worth trying, Good taste, Refreshing taste, Helps with hydration, Love flavour. Some note: Energy boost.",
+    "tags": [
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less sweet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth trying",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love flavour",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:27.486Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

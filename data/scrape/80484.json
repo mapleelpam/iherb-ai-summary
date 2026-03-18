@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80484,
+  "last_updated": "2026-03-20T10:00:16.099Z",
+  "first_scraped": "2026-03-20T10:00:16.099Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great combination, Great results, Helpful product, Digestion improvement, Life changer, Helps digestion, Feel fantastic, Digestive function. Some note: Unexpected mix, Easy to take.",
+    "tags": [
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel fantastic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unexpected mix",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:16.099Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

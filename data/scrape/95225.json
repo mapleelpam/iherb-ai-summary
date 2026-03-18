@@ -1,0 +1,68 @@
+{
+  "iherb_id": 95225,
+  "last_updated": "2026-03-20T09:43:17.430Z",
+  "first_scraped": "2026-03-20T09:43:17.430Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty chewable, Convenient form, Clean ingredients, Nice taste, Sleep improvement, Easy to eat, Helps sleep, Good mineral supplement. Some note: Tart flavor, Relax and sleep.",
+    "tags": [
+      {
+        "name": "Tasty chewable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to eat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good mineral supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tart flavor",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Relax and sleep",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:17.430Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

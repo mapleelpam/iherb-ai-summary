@@ -1,0 +1,68 @@
+{
+  "iherb_id": 103106,
+  "last_updated": "2026-03-20T10:08:58.367Z",
+  "first_scraped": "2026-03-20T10:08:58.367Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Immunity support, Quality sleep, Deeper sleep, Better recovery, Helps with, Helps with sleep, Positive results.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deeper sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long workouts",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Quality worst",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:58.367Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

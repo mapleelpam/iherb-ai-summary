@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39663,
+  "last_updated": "2026-03-20T09:37:26.863Z",
+  "first_scraped": "2026-03-20T09:37:26.863Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural energy boost, More energy, Great benefits, Boosts immune, Improves energy levels, Good for allergies, Small capsules, Well-designed. Some note: Good source.",
+    "tags": [
+      {
+        "name": "Natural energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for allergies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well-designed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Non-medicinal ingredients",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:26.863Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

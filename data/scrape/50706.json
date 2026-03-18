@@ -1,0 +1,68 @@
+{
+  "iherb_id": 50706,
+  "last_updated": "2026-03-20T09:30:23.352Z",
+  "first_scraped": "2026-03-20T09:30:23.352Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trusted brand, Improvement seen, Good results, Easy use, Hope it help, Mitochondrial health, Increased vitality, Feel great. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hope it help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mitochondrial health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small pack",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:23.352Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

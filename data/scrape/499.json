@@ -1,0 +1,68 @@
+{
+  "iherb_id": 499,
+  "last_updated": "2026-03-20T09:19:17.880Z",
+  "first_scraped": "2026-03-20T09:19:17.880Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Cholesterol management, Good dosage, Highly recommend, Maintain weight, No side effect, Weight loss, Absorb fat, Fast shipping. Some note: Easy to take.",
+    "tags": [
+      {
+        "name": "Cholesterol management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorb fat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:17.880Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

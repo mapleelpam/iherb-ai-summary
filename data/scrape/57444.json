@@ -1,0 +1,68 @@
+{
+  "iherb_id": 57444,
+  "last_updated": "2026-03-20T10:31:44.829Z",
+  "first_scraped": "2026-03-20T10:31:44.829Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Back pain relief, Always awesome, Good sleep, Reliable solution, Consistent relief, Muscle relax, Nighttime relief, Easy to swallow.",
+    "tags": [
+      {
+        "name": "Back pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Always awesome",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consistent relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle relax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nighttime relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Does nothing",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Menstrual cramps",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:44.829Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

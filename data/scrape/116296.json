@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116296,
+  "last_updated": "2026-03-20T10:05:55.379Z",
+  "first_scraped": "2026-03-20T10:05:55.379Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Difficult find, Will buy again, Fast results, Energy boost, Improves lung, Effective choice, Improve allergy, Strong immunity, Feeling energized. Some note: Short list.",
+    "tags": [
+      {
+        "name": "Difficult find",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Will buy again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves lung",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve allergy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling energized",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Short list",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:55.379Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

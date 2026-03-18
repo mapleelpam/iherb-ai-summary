@@ -1,0 +1,68 @@
+{
+  "iherb_id": 17235,
+  "last_updated": "2026-03-20T09:54:49.626Z",
+  "first_scraped": "2026-03-20T09:54:49.626Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Clean products, Before bed, Great help, Satisfying packaging, Improves health, Helps metabolism, Cost savings, Trust brand, Glass bottle.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean products",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Before bed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfying packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cost savings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass bottle",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:49.626Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

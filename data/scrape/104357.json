@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104357,
+  "last_updated": "2026-03-20T09:42:40.567Z",
+  "first_scraped": "2026-03-20T09:42:40.567Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune support, Easy to swallow, Complete package, Immun system, Effective blend, Boost immunity, Value for money, Good composition. Some note: Ordered again, Good support.",
+    "tags": [
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immun system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ordered again",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good support",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:40.567Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

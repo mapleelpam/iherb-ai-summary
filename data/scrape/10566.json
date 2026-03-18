@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10566,
+  "last_updated": "2026-03-20T10:13:33.012Z",
+  "first_scraped": "2026-03-20T10:13:33.012Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works great, Sweet taste, Effective herbal, Natural diuretic, Healthy ingredients, Natural protocol, Digestion support, Good package, Trusted brand. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective herbal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural diuretic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural protocol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:33.012Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

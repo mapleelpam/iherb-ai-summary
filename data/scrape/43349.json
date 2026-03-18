@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43349,
+  "last_updated": "2026-03-20T09:53:44.317Z",
+  "first_scraped": "2026-03-20T09:53:44.317Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good vitamin, Love this, Improved digestion, Chemicals accumulate, Digests veggies, Salicylate intolerance, Optimal dosage, Helps with phenols. Some note: Good enzymes.",
+    "tags": [
+      {
+        "name": "Good vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chemicals accumulate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digests veggies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Salicylate intolerance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Optimal dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with phenols",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver issues",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good enzymes",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:44.317Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

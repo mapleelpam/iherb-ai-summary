@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89951,
+  "last_updated": "2026-03-20T09:49:35.792Z",
+  "first_scraped": "2026-03-20T09:49:35.792Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Easy to take, Prompt shipping, Support health, High bioavailability, Bruises gone, Fast absorption, Trouble-free delivery.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High bioavailability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bruises gone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trouble-free delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Missing ingredient",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:35.792Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

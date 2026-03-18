@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109399,
+  "last_updated": "2026-03-20T10:00:45.761Z",
+  "first_scraped": "2026-03-20T10:00:45.761Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fantastic gi motility, Helps with, Expensive relief, Game-changer, Digestive support, Less bloating, Supportive supplement, Regular bowel. Some note: Average.",
+    "tags": [
+      {
+        "name": "Fantastic gi motility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supportive supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular bowel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Apple cider vinegar",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Average",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:45.761Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 62991,
+  "last_updated": "2026-03-20T10:37:52.322Z",
+  "first_scraped": "2026-03-20T10:37:52.322Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious blend, Tasted good, Convenient packaging, Keeps full, Ice coffee flavor, Digests well, Vanilla taste, Tasty vegan.",
+    "tags": [
+      {
+        "name": "Delicious blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasted good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps full",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ice coffee flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digests well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vanilla taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty vegan",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Overpowering chocolate",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:37:52.322Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

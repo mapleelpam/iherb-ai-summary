@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2935,
+  "last_updated": "2026-03-20T10:24:24.798Z",
+  "first_scraped": "2026-03-20T10:24:24.798Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: All natural, Helped somewhat, Immune booster, Relieved within, Allergies relief, Very happy, Fast relief, Less inflamed.",
+    "tags": [
+      {
+        "name": "All natural",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped somewhat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieved within",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergies relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less inflamed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Severe sinus infection",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not good",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:24.798Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39810,
+  "last_updated": "2026-03-20T09:47:02.297Z",
+  "first_scraped": "2026-03-20T09:47:02.297Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Taste good, Tasty berries, Delicious snack, Great flavor, Love mulberries, Love them, Nice crunch, Trusted brand. Some note: Fresh taste, Wholesome mix.",
+    "tags": [
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty berries",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love mulberries",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love them",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice crunch",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Wholesome mix",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:02.297Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

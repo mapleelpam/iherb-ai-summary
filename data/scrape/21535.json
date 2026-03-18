@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21535,
+  "last_updated": "2026-03-20T10:14:51.146Z",
+  "first_scraped": "2026-03-20T10:14:51.146Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for brain, High energy, Improved focus, Natural ingredients, Clean ingredients, Boosted stamina, Immune booster, Pumped brain. Some note: Decent addition, Works fine.",
+    "tags": [
+      {
+        "name": "Good for brain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pumped brain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent addition",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Works fine",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:51.146Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

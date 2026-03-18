@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67652,
+  "last_updated": "2026-03-20T09:20:36.959Z",
+  "first_scraped": "2026-03-20T09:20:36.959Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Reliable energy, Caffeine boost, Good taste, Convenient source, Alertness boost, Fast and lasting, Boost performance, Great alternative. Some note: Good benefits.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Caffeine boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alertness boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast and lasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:36.959Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

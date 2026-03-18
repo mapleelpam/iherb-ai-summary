@@ -1,0 +1,68 @@
+{
+  "iherb_id": 94910,
+  "last_updated": "2026-03-20T09:41:04.253Z",
+  "first_scraped": "2026-03-20T09:41:04.253Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High concentration, Serious company, Fit size, Triglyceride form, Easy to buy, Improved eyesight, Love pill, Convenient storage, Easy to swallow.",
+    "tags": [
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Serious company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fit size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Triglyceride form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved eyesight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love pill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient storage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergic to corn",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:04.253Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

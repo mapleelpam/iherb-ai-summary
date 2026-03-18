@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7353,
+  "last_updated": "2026-03-20T09:18:13.145Z",
+  "first_scraped": "2026-03-20T09:18:13.145Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps with bloating, Cheap and effective, Boosts stomach acid, Digestive health, Acid reflux, Avoid discomfort, Helps digestion, Superfast delivery. Some note: Good ingredients.",
+    "tags": [
+      {
+        "name": "Helps with bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheap and effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts stomach acid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acid reflux",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid discomfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superfast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Consult healthcare",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:13.145Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

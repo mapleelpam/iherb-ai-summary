@@ -1,0 +1,68 @@
+{
+  "iherb_id": 53616,
+  "last_updated": "2026-03-20T09:30:38.407Z",
+  "first_scraped": "2026-03-20T09:30:38.407Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Cardiovascular support, Improved circulation, Recommended by doctor, Trust line, Pure ingredients, Clean blood vessels, Lowered cholesterol, Easy to swallow. Some note: No difference.",
+    "tags": [
+      {
+        "name": "Cardiovascular support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended by doctor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust line",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean blood vessels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowered cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:38.407Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

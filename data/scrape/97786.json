@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97786,
+  "last_updated": "2026-03-20T09:47:29.231Z",
+  "first_scraped": "2026-03-20T09:47:29.231Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Vegan friendly, Easy to use, Good option, No fishy smell, Fair price, Easy to swallow, Brain health, Plant-based option. Some note: Meal timing.",
+    "tags": [
+      {
+        "name": "Vegan friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant-based option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adverse effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Meal timing",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:29.231Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

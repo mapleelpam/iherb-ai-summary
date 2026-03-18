@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70031,
+  "last_updated": "2026-03-20T09:39:17.523Z",
+  "first_scraped": "2026-03-20T09:39:17.523Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good price, Boost immune, Great support, Better sleep, Good ingredients, Immune system, Easy to swallow, Important source. Some note: Value for money.",
+    "tags": [
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Important source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:17.523Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

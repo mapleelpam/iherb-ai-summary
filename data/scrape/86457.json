@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86457,
+  "last_updated": "2026-03-20T09:42:43.576Z",
+  "first_scraped": "2026-03-20T09:42:43.576Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved focus, Improved memory, High alpha GPC, Easy to take, Competitively priced, Improved cognitive function, Easy swallow, No aftertaste. Some note: Compact size.",
+    "tags": [
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High alpha GPC",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Competitively priced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved cognitive function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Compact size",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:43.576Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

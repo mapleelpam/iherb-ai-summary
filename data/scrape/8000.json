@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8000,
+  "last_updated": "2026-03-20T10:27:07.411Z",
+  "first_scraped": "2026-03-20T10:27:07.411Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pain relief, Pure ingredients, Swelling relief, Joint relief, Lasts a month, Works fast, Fast relief, Effective brand. Some note: Helps a little.",
+    "tags": [
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Swelling relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lasts a month",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Upsetting stomach",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Helps a little",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:07.411Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

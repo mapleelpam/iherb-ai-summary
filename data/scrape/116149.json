@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116149,
+  "last_updated": "2026-03-20T09:23:20.792Z",
+  "first_scraped": "2026-03-20T09:23:20.792Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small size, Less bloating, Effective supplement, Helps UTI, Improved condition, Easy to swallow, Good ingredients, Works great. Some note: Value good, Not sure.",
+    "tags": [
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps UTI",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved condition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value good",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:20.792Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

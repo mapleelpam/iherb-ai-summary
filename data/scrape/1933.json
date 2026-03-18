@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1933,
+  "last_updated": "2026-03-20T09:33:37.759Z",
+  "first_scraped": "2026-03-20T09:33:37.759Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works great, Easy digestion, No stomach issues, Good ingredients, Helpful enzyme, Reduce bloating, Helps with, Feel happy. Some note: Customizable dosage, Stood out.",
+    "tags": [
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No stomach issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful enzyme",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Customizable dosage",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stood out",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:37.759Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

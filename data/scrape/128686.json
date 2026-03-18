@@ -1,0 +1,68 @@
+{
+  "iherb_id": 128686,
+  "last_updated": "2026-03-20T11:33:47.581Z",
+  "first_scraped": "2026-03-20T11:33:47.581Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Refreshing taste, Helps sleep, Improved arthritis, Easy to drink, Healthy option, Good discount, Decreased headaches, Sporty friend. Some note: Improved sleep quality, Relieving calf pain.",
+    "tags": [
+      {
+        "name": "Refreshing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved arthritis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good discount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decreased headaches",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sporty friend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep quality",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Relieving calf pain",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T11:33:47.581Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

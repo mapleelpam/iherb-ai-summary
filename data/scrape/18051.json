@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18051,
+  "last_updated": "2026-03-20T09:23:02.979Z",
+  "first_scraped": "2026-03-20T09:23:02.979Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Expensive but worth, Fast shipping, Nice price, High concentration, Avoid impurities, Pure and strong, Helps health, No fishy aftertaste. Some note: Easy to take, Gold standard.",
+    "tags": [
+      {
+        "name": "Expensive but worth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid impurities",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure and strong",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Gold standard",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:02.979Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

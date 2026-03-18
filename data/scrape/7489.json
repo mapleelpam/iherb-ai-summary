@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7489,
+  "last_updated": "2026-03-20T10:24:30.688Z",
+  "first_scraped": "2026-03-20T10:24:30.688Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes great, Pleasant odor, Works great, Topical benefits, Happy with, Face care, Rebuilds teeth, Highly recommend. Some note: Mouth wash, Doctor's recommendation.",
+    "tags": [
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant odor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Topical benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Face care",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rebuilds teeth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mouth wash",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Doctor's recommendation",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:30.688Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

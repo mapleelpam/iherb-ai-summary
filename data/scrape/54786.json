@@ -1,0 +1,68 @@
+{
+  "iherb_id": 54786,
+  "last_updated": "2026-03-20T10:00:40.905Z",
+  "first_scraped": "2026-03-20T10:00:40.905Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosts energy, Supportive tool, First week, Works great, Easy to use, Weight drops, Appetite suppressant, High energy. Some note: Helps workout.",
+    "tags": [
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supportive tool",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First week",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight drops",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Appetite suppressant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Didn't work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Helps workout",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:40.905Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

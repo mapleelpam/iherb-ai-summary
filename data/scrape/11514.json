@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11514,
+  "last_updated": "2026-03-20T09:34:00.432Z",
+  "first_scraped": "2026-03-20T09:34:00.432Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Worth it, Sustained release, Improvement, Regulate thyroid, Immune support, Easy to swallow, Thyroid health. Some note: Great antioxidant, No difference.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustained release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate thyroid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thyroid health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great antioxidant",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:00.432Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

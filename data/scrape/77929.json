@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77929,
+  "last_updated": "2026-03-20T09:20:58.564Z",
+  "first_scraped": "2026-03-20T09:20:58.564Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Relief bloating, Good for health, Big package, Teeth whitening, Feel better, Detox benefits, Life saver, Nice price. Some note: Easy to swallow.",
+    "tags": [
+      {
+        "name": "Relief bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Teeth whitening",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:58.564Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

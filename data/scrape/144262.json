@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144262,
+  "last_updated": "2026-03-20T09:50:13.029Z",
+  "first_scraped": "2026-03-20T09:50:13.029Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Balance metabolism, Regulates sugar, Skin improvement, Immunity boost, Chromium feeds, Value for money, Convenient form, Easy use. Some note: Insulin issues.",
+    "tags": [
+      {
+        "name": "Balance metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulates sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chromium feeds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hypo glycemic reactions",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Insulin issues",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:13.029Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

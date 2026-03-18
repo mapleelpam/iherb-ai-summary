@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8220,
+  "last_updated": "2026-03-20T09:40:32.773Z",
+  "first_scraped": "2026-03-20T09:40:32.773Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Convenient way, Fast shipping, Weak bones, Healthy option, Improve condition, Easy to swallow, Nice taste. Some note: No results yet.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weak bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve condition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gelatin inside",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No results yet",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:32.773Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116910,
+  "last_updated": "2026-03-20T09:28:58.266Z",
+  "first_scraped": "2026-03-20T09:28:58.266Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Immune system, Boost immunity, Value for money, Virus-free, Would recommend, Feel healthier, Fantastic dispersing. Some note: Fights colds, Maintains health.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Virus-free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Would recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel healthier",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic dispersing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fights colds",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Maintains health",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:58.266Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18646,
+  "last_updated": "2026-03-20T10:16:06.307Z",
+  "first_scraped": "2026-03-20T10:16:06.307Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Notice relief, Gentle cleanse, Pure ingredients, Vibrant colors, Support liver, Strong detox, Easy to take, Size okay. Some note: Tastes ok.",
+    "tags": [
+      {
+        "name": "Notice relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vibrant colors",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support liver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Size okay",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Insufficient supply",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tastes ok",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:06.307Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

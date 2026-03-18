@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7142,
+  "last_updated": "2026-03-20T10:01:02.376Z",
+  "first_scraped": "2026-03-20T10:01:02.376Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Change in nutrition, Good so far, Good mix, More energy, Results are great, Great cleanse, Reduced candida, Helpful reset. Some note: Mixed results, Minimal improvements.",
+    "tags": [
+      {
+        "name": "Change in nutrition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good so far",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Results are great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced candida",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful reset",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixed results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Minimal improvements",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:02.376Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

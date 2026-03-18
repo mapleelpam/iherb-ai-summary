@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67800,
+  "last_updated": "2026-03-20T09:28:18.885Z",
+  "first_scraped": "2026-03-20T09:28:18.885Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Small tablets, Works just the same, Dual-layer design, Easy to take, Helps sleep, Slow release, High dose. Some note: Accurate size, Value for money.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works just the same",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dual-layer design",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Accurate size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:18.885Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

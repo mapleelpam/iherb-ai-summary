@@ -1,0 +1,68 @@
+{
+  "iherb_id": 783,
+  "last_updated": "2026-03-20T09:17:07.242Z",
+  "first_scraped": "2026-03-20T09:17:07.242Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, More energetic, Good detox, Energy booster, Very affordable, Organic spirulina, Nutrient-dense superfood, Digestive health. Some note: Love this product.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very affordable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic spirulina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrient-dense superfood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:07.242Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 122774,
+  "last_updated": "2026-03-20T10:14:11.310Z",
+  "first_scraped": "2026-03-20T10:14:11.310Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Satisfying crunch, Tasty chips, Moisture balance, Healthy snack, Low carb, Great source, Guilt-free indulgence, Tastes like.",
+    "tags": [
+      {
+        "name": "Satisfying crunch",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty chips",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moisture balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low carb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Guilt-free indulgence",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes like",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:11.310Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

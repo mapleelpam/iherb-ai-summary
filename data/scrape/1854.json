@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1854,
+  "last_updated": "2026-03-20T09:45:09.488Z",
+  "first_scraped": "2026-03-20T09:45:09.488Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Bone health, Will buy again, Easy to take, Hot flushes, Good mineral, Boosts intake, Small capsules, Absorption boost. Some note: Works great.",
+    "tags": [
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Will buy again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hot flushes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good mineral",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts intake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorption boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not great",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:09.488Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

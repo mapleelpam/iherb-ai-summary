@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117057,
+  "last_updated": "2026-03-20T09:46:28.724Z",
+  "first_scraped": "2026-03-20T09:46:28.724Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved mood, Enhanced performance, No side effects, Increased stamina, High care, Gym progress, Energy boost, Boosts testosterone. Some note: Easy to take.",
+    "tags": [
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High care",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gym progress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts testosterone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No benefits",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:28.724Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

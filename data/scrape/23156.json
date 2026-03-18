@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23156,
+  "last_updated": "2026-03-20T09:20:13.253Z",
+  "first_scraped": "2026-03-20T09:20:13.253Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Lighten pigmentation, Joint rebuilding, Fast nails, Improved skin, Joint discomfort, Stronger nails, Less hair loss. Some note: Texture improvement.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lighten pigmentation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint rebuilding",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint discomfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less hair loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Texture improvement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:13.253Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

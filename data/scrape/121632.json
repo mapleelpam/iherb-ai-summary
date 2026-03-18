@@ -1,0 +1,68 @@
+{
+  "iherb_id": 121632,
+  "last_updated": "2026-03-20T10:23:28.579Z",
+  "first_scraped": "2026-03-20T10:23:28.579Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Grass-fed beef, Joint pain relief, Highly recommend, Convenient, healing, Weight loss, Alternative option, Aging joints.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Grass-fed beef",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient, healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alternative option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Aging joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not beneficial",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Pain to make",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:28.579Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

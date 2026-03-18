@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72661,
+  "last_updated": "2026-03-20T10:03:44.618Z",
+  "first_scraped": "2026-03-20T10:03:44.618Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good result, Auto ship, Deeper sleep, Sleep quality, Hot flashes, Great relief, Disappeared completely, Reduces menopause. Some note: Fall asleep.",
+    "tags": [
+      {
+        "name": "Good result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Auto ship",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deeper sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep quality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hot flashes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Disappeared completely",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces menopause",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fall asleep",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:44.618Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

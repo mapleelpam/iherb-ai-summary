@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72342,
+  "last_updated": "2026-03-20T10:09:53.100Z",
+  "first_scraped": "2026-03-20T10:09:53.100Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Unique blend, Best ingredient, Complex ingredients, Supports bone, Calcium redirection, Big improvement, Natural remedy, Good combination. Some note: Big capsules, Limited options.",
+    "tags": [
+      {
+        "name": "Unique blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complex ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports bone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calcium redirection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big capsules",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Limited options",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:53.100Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

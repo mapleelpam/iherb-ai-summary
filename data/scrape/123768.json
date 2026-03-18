@@ -1,0 +1,68 @@
+{
+  "iherb_id": 123768,
+  "last_updated": "2026-03-20T10:12:55.857Z",
+  "first_scraped": "2026-03-20T10:12:55.857Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to use, Less acidic form, Good gentle, Improves immune, Skin texture, Stronger bones, Dissolves well, Big size. Some note: Capsule filling.",
+    "tags": [
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less acidic form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good gentle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Capsule filling",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:55.857Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 79100,
+  "last_updated": "2026-03-20T09:33:43.689Z",
+  "first_scraped": "2026-03-20T09:33:43.689Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hair growth, Easy to take, Love flavor, Skin improvement, Natural beauty, Clean ingredient, Tasty drink, Nice taste. Some note: Refreshing taste, Improves wellness.",
+    "tags": [
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural beauty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Improves wellness",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:43.689Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

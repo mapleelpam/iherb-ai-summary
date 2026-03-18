@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10328,
+  "last_updated": "2026-03-20T10:08:14.440Z",
+  "first_scraped": "2026-03-20T10:08:14.440Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious taste, Fast shipping, Kids love, Repeat purchases, Quick and convenient, No bad aftertaste, Reduces pulling, Plant-based source. Some note: Strawberry banana, Easy to digest.",
+    "tags": [
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat purchases",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick and convenient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No bad aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces pulling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant-based source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strawberry banana",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy to digest",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:14.440Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

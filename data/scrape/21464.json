@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21464,
+  "last_updated": "2026-03-20T09:43:11.080Z",
+  "first_scraped": "2026-03-20T09:43:11.080Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High blood pressure, Highly absorbable, Inflammation decrease, Small softgels, High dose, Fatigue recovery, Brain decay, High potency. Some note: No noticeable, First time.",
+    "tags": [
+      {
+        "name": "High blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly absorbable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inflammation decrease",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small softgels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fatigue recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain decay",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "First time",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:11.080Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

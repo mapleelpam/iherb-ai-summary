@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7453,
+  "last_updated": "2026-03-20T09:57:40.387Z",
+  "first_scraped": "2026-03-20T09:57:40.387Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Antioxidant powerhouse, Prostate health, Digestion support, Easy to take, Good ingredients, Blood pressure, Good substitute, Healthy circulation. Some note: Polyphenols supplement.",
+    "tags": [
+      {
+        "name": "Antioxidant powerhouse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prostate health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good substitute",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Polyphenols supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive though",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:40.387Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

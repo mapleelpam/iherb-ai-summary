@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3149,
+  "last_updated": "2026-03-20T10:32:41.032Z",
+  "first_scraped": "2026-03-20T10:32:41.032Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune support, Better sleep, Helpful ingredients, Organic ingredients, Keeps germs away, Cancer help, Better in one, Love this product.",
+    "tags": [
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps germs away",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cancer help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better in one",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not enough",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not impressed",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:41.032Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

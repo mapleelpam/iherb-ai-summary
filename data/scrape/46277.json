@@ -1,0 +1,68 @@
+{
+  "iherb_id": 46277,
+  "last_updated": "2026-03-20T10:12:17.234Z",
+  "first_scraped": "2026-03-20T10:12:17.234Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Potent enzymes, Great combo, Efficient site, Affordable option, Supports absorption, Light feeling, High benefit, Healthy balance.",
+    "tags": [
+      {
+        "name": "Potent enzymes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient site",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Light feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ineffective experiment",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stomach problems",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:17.234Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 137928,
+  "last_updated": "2026-03-20T09:58:20.079Z",
+  "first_scraped": "2026-03-20T09:58:20.079Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good support, Natural ingredients, Complete ingredients, Additional support, Great outcome, Pleased results, Good formula, Helps with health.",
+    "tags": [
+      {
+        "name": "Good support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Additional support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great outcome",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleased results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not impressed",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:20.079Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

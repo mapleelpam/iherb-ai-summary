@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104898,
+  "last_updated": "2026-03-20T10:11:13.641Z",
+  "first_scraped": "2026-03-20T10:11:13.641Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good results, Easy to carry, Noticeable improvement, Added elderberry, Convenient packaging, No aftertaste, Acid reflux, Good combination.",
+    "tags": [
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to carry",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Added elderberry",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acid reflux",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Packaging concern",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Weight gain",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:13.641Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

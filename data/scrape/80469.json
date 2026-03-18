@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80469,
+  "last_updated": "2026-03-20T10:09:30.424Z",
+  "first_scraped": "2026-03-20T10:09:30.424Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost energy, Rapidly works, Value, Nice flavor, Works great, Fast service, Stomatitis improvement, Easy to take. Some note: Small pill.",
+    "tags": [
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rapidly works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomatitis improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nausea, diarrhoea",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Small pill",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:30.424Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

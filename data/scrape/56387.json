@@ -1,0 +1,68 @@
+{
+  "iherb_id": 56387,
+  "last_updated": "2026-03-20T10:17:43.693Z",
+  "first_scraped": "2026-03-20T10:17:43.693Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Relaxed, refreshed, Stress relief, Improved immune, Energy boost, Antioxidant properties, Well done package, Easy to open, Gentle cleanser. Some note: Longevity increase, No taste.",
+    "tags": [
+      {
+        "name": "Relaxed, refreshed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well done package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to open",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle cleanser",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Longevity increase",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:43.693Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

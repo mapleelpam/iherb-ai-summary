@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5763,
+  "last_updated": "2026-03-20T10:13:46.119Z",
+  "first_scraped": "2026-03-20T10:13:46.119Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fur grew, Convenient difference, High dosage, Immune system, Nice smell, Fast healing, Increase immune, Improved recovery. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Fur grew",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tumor near hind",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:46.119Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77862,
+  "last_updated": "2026-03-20T10:17:44.659Z",
+  "first_scraped": "2026-03-20T10:17:44.659Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Yammy smell, Nice formula, Muscle repair, Clean protein, Tastes great, Natural taste, Organic whey, Good taste. Some note: Great composition.",
+    "tags": [
+      {
+        "name": "Yammy smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle repair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic whey",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great composition",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive for",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:44.659Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

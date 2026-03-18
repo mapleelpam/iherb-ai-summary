@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73775,
+  "last_updated": "2026-03-20T09:33:27.007Z",
+  "first_scraped": "2026-03-20T09:33:27.007Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Affordable and well-packed, Relaxation support, Energy boost, Anxiety relief, Convenient to take, Muscle testing, Improved focus, Calming effect. Some note: Helps sleep, Happy purchase.",
+    "tags": [
+      {
+        "name": "Affordable and well-packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxation support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle testing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Happy purchase",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:27.007Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

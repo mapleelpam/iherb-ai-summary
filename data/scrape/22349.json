@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22349,
+  "last_updated": "2026-03-20T09:28:34.498Z",
+  "first_scraped": "2026-03-20T09:28:34.498Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sustained energy, Tailored approach, Less expensive, Boosting health, Fast shipping, Trust brand, High potency, More energy. Some note: Good ingredients, Raw foods.",
+    "tags": [
+      {
+        "name": "Sustained energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tailored approach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less expensive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Raw foods",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:34.498Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

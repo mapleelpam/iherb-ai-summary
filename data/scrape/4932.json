@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4932,
+  "last_updated": "2026-03-20T10:20:11.049Z",
+  "first_scraped": "2026-03-20T10:20:11.049Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good probiotic, Notice a difference, Works great, Easy to swallow, Potent stuff, Prompt shipping, No bad smell, Good for gut.",
+    "tags": [
+      {
+        "name": "Good probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Notice a difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No bad smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plastic container",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Potency issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:11.049Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

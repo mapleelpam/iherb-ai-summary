@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85053,
+  "last_updated": "2026-03-20T10:27:46.837Z",
+  "first_scraped": "2026-03-20T10:27:46.837Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosts energy, Delicious taste, Good stuff, Effective ingredient, Mixes well, Natural caffeine, Muscle benefit, Muscle recovery.",
+    "tags": [
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural caffeine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Artificial taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Terrible flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:46.837Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

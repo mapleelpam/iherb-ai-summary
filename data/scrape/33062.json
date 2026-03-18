@@ -1,0 +1,68 @@
+{
+  "iherb_id": 33062,
+  "last_updated": "2026-03-20T09:50:09.177Z",
+  "first_scraped": "2026-03-20T09:50:09.177Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved energy levels, Love this product, Feel better, Rare combination, Clean ingredients, Potent blend, Highly-absorbable forms, Game-changer for vitality. Some note: Seems fine.",
+    "tags": [
+      {
+        "name": "Improved energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rare combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly-absorbable forms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer for vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seems fine",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive additives",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:09.177Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

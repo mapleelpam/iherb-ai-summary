@@ -1,0 +1,68 @@
+{
+  "iherb_id": 98663,
+  "last_updated": "2026-03-20T09:43:20.696Z",
+  "first_scraped": "2026-03-20T09:43:20.696Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Use everyday, Good for skin, No preservatives, Powerful coq10, Excellent support, Good composition, Taste good, Highly recommend. Some note: Specific taste.",
+    "tags": [
+      {
+        "name": "Use everyday",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No preservatives",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful coq10",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Specific taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not great taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:20.696Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

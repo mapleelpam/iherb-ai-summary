@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86133,
+  "last_updated": "2026-03-20T10:16:17.213Z",
+  "first_scraped": "2026-03-20T10:16:17.213Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No side effects, As described, Fast shipping, Works as intended, On time, Good benefits, No beeswax, Well wrapped, High blood pressure, Easy to swallow.",
+    "tags": [
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "As described",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works as intended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "On time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No beeswax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well wrapped",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:17.213Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

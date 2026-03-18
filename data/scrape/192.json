@@ -1,0 +1,68 @@
+{
+  "iherb_id": 192,
+  "last_updated": "2026-03-20T09:19:51.088Z",
+  "first_scraped": "2026-03-20T09:19:51.088Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast delivery, Regulate period, Great supplement, No side effects, More energy, Better sleep, Mood support, Initial impressions good. Some note: Life saver.",
+    "tags": [
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate period",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Initial impressions good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety worse",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Life saver",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:51.088Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

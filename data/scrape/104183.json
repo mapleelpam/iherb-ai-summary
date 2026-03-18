@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104183,
+  "last_updated": "2026-03-20T10:25:42.113Z",
+  "first_scraped": "2026-03-20T10:25:42.113Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for connective tissue, Right potency, Best price, Low sugar, Good taste, Fun flavor, Prevents colds, Tasty option, Skin health.",
+    "tags": [
+      {
+        "name": "Good for connective tissue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Right potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fun flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prevents colds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too acid",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:42.113Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

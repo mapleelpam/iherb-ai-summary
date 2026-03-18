@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117972,
+  "last_updated": "2026-03-20T10:12:11.211Z",
+  "first_scraped": "2026-03-20T10:12:11.211Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good package, More energy, Fit is good, Simple composition, Strength boost, Energy and immunity, Blood sugar control, Pure ginseng powder.",
+    "tags": [
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fit is good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Simple composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strength boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy and immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ginseng powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Price looks high",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:11.211Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

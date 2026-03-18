@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117603,
+  "last_updated": "2026-03-20T09:57:25.118Z",
+  "first_scraped": "2026-03-20T09:57:25.118Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fair price, Beneficial products, Gym support, Energy boost, Endurance enhancement, Motivation source, Noticeable impact, Stamina improvement, Muscle gain. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial products",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gym support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Endurance enhancement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Motivation source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stamina improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle gain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:25.118Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

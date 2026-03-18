@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11749,
+  "last_updated": "2026-03-20T09:33:25.984Z",
+  "first_scraped": "2026-03-20T09:33:25.984Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves bone, Love this product, Pure ingredients, Easy to swallow, Repeat purchase, Convenient size, Delivered fast, Good taste, Great help, Under trial.",
+    "tags": [
+      {
+        "name": "Improves bone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delivered fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Under trial",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:25.984Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

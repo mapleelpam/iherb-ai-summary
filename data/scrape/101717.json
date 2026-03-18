@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101717,
+  "last_updated": "2026-03-20T09:21:53.907Z",
+  "first_scraped": "2026-03-20T09:21:53.907Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice package, Highly recommend, Convenient size, Fast change, Nutrient-rich superfood, Effective supplement, Easy detox, Energy boost. Some note: No effects, Good conditions.",
+    "tags": [
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrient-rich superfood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effects",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good conditions",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:53.907Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

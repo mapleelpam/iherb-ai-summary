@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77902,
+  "last_updated": "2026-03-20T10:12:45.912Z",
+  "first_scraped": "2026-03-20T10:12:45.912Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Refreshing taste, Easy digestion, Best supplement, Amazing strength, Enough amount, Boost energy, High care, Good composition, Wonderful thing. Some note: Low frequency.",
+    "tags": [
+      {
+        "name": "Refreshing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enough amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High care",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wonderful thing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low frequency",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:45.912Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

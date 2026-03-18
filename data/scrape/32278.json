@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32278,
+  "last_updated": "2026-03-20T09:26:13.290Z",
+  "first_scraped": "2026-03-20T09:26:13.290Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reduce PMS, Timely arrival, Taste natural, Positive test, Works great, Easy to swallow, Change of diet, Good for women. Some note: Not much.",
+    "tags": [
+      {
+        "name": "Reduce PMS",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely arrival",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste natural",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive test",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Change of diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for women",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes rancid",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not much",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:13.290Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

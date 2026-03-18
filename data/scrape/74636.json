@@ -1,0 +1,68 @@
+{
+  "iherb_id": 74636,
+  "last_updated": "2026-03-20T09:29:16.024Z",
+  "first_scraped": "2026-03-20T09:29:16.024Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sinus inflammation, Game-changer for inflammation, Gradually work, Fantastic enzyme, Normalizes pressure, Reduced inflammation, Easy to use, Pain relief. Some note: Blood pressure.",
+    "tags": [
+      {
+        "name": "Sinus inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer for inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gradually work",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic enzyme",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normalizes pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stomach aches",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:16.024Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

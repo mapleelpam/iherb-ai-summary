@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23212,
+  "last_updated": "2026-03-20T10:13:22.311Z",
+  "first_scraped": "2026-03-20T10:13:22.311Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Immune system, Potent impact, Less digestive issues, Trusted brand, Healthy gut, Easy to take, Natural feel. Some note: Uncertain effectiveness.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less digestive issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural feel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Uncertain effectiveness",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Can't afford",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:22.311Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

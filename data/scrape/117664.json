@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117664,
+  "last_updated": "2026-03-20T09:52:16.255Z",
+  "first_scraped": "2026-03-20T09:52:16.255Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient integration, Water removal, Fast shipping, Neutral taste, Balance hormones, Immediate benefits, Liver support, Effective ingredients, Effective choice, Affordable option.",
+    "tags": [
+      {
+        "name": "Convenient integration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Water removal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balance hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:16.255Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

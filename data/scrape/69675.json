@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69675,
+  "last_updated": "2026-03-20T10:06:46.266Z",
+  "first_scraped": "2026-03-20T10:06:46.266Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increased energy, Eczema relief, Improved mood, Balancing estrogen, Better sleep, Lower antibodies, Fast shipping, Liver detox. Some note: Taste acceptable, Amazing herbal remedies.",
+    "tags": [
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eczema relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balancing estrogen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower antibodies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste acceptable",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Amazing herbal remedies",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:46.266Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

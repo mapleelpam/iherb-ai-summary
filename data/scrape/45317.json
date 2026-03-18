@@ -1,0 +1,68 @@
+{
+  "iherb_id": 45317,
+  "last_updated": "2026-03-20T09:36:39.511Z",
+  "first_scraped": "2026-03-20T09:36:39.511Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient meal, Meal replacement, Delicious flavor, Convenient blend, Tastes great, Weight loss, Good taste, Keeps full.",
+    "tags": [
+      {
+        "name": "Convenient meal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Meal replacement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps full",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Raw deal",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:39.511Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

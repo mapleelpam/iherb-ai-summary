@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109793,
+  "last_updated": "2026-03-20T10:09:14.595Z",
+  "first_scraped": "2026-03-20T10:09:14.595Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improvement digestion, Love this, Works great, Mood enhancing, Restful sleep, Nice taste, Regularity, Great for women.",
+    "tags": [
+      {
+        "name": "Improvement digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood enhancing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restful sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regularity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for women",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Made sick",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:14.595Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

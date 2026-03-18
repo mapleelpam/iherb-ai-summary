@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3658,
+  "last_updated": "2026-03-20T10:15:15.971Z",
+  "first_scraped": "2026-03-20T10:15:15.971Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immunity enhancement, Lowered BP, Immune health, Economical way, Professional service, Healthy energy, More energy, Better immunity, Amazing supplement. Some note: No changes.",
+    "tags": [
+      {
+        "name": "Immunity enhancement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowered BP",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economical way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Professional service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No changes",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:15.971Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

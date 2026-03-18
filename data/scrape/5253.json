@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5253,
+  "last_updated": "2026-03-20T09:17:25.093Z",
+  "first_scraped": "2026-03-20T09:17:25.093Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural taste, Brightening effect, Nice scent, Good ingredient, Digestive relief, Skin glow, Suitable product, Good results. Some note: Put it on lotion, Works wonders.",
+    "tags": [
+      {
+        "name": "Natural taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brightening effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin glow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suitable product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Put it on lotion",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:25.093Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110929,
+  "last_updated": "2026-03-20T09:30:25.323Z",
+  "first_scraped": "2026-03-20T09:30:25.323Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Kids love, Delicious magnesium, Convenient option, Effective supplement, Peach flavor, Natural ingredient, Tastes good, Good additive, Nice items. Some note: Soft texture.",
+    "tags": [
+      {
+        "name": "Kids love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious magnesium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Peach flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice items",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soft texture",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:25.323Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

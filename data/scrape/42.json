@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42,
+  "last_updated": "2026-03-20T09:28:24.521Z",
+  "first_scraped": "2026-03-20T09:28:24.521Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Blood sugar, Improvement noticed, Fast shipping, Bio available, Improved energy, Low delivery cost, Improved symptoms, Memory concentration. Some note: Effective ingredients.",
+    "tags": [
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bio available",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low delivery cost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too much leucine",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:24.521Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

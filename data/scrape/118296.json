@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118296,
+  "last_updated": "2026-03-20T10:11:22.607Z",
+  "first_scraped": "2026-03-20T10:11:22.607Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love that, Great combination, Energy levels, Nutrient-rich mushrooms, Good size, Health benefits, Boost immunity, Daily regimen. Some note: Mild dosage, Not sure.",
+    "tags": [
+      {
+        "name": "Love that",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrient-rich mushrooms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily regimen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild dosage",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:22.607Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

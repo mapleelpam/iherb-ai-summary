@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101567,
+  "last_updated": "2026-03-20T10:27:55.895Z",
+  "first_scraped": "2026-03-20T10:27:55.895Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good results, Chia seeds, Cinnamon flavor, Very filling, Tasted good, Convenient use, Winter flavor, Clean protein. Some note: Hard to drink.",
+    "tags": [
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chia seeds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cinnamon flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very filling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasted good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Winter flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hard to drink",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:55.895Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

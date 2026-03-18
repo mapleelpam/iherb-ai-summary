@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77695,
+  "last_updated": "2026-03-20T09:51:09.877Z",
+  "first_scraped": "2026-03-20T09:51:09.877Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes good, Chewable is convenient, Effective supplements, Good taste, Nice package, Kids love, Smooth skin, Efficient package.",
+    "tags": [
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chewable is convenient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big container",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:09.877Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

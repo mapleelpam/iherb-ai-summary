@@ -1,0 +1,68 @@
+{
+  "iherb_id": 141037,
+  "last_updated": "2026-03-20T10:01:15.419Z",
+  "first_scraped": "2026-03-20T10:01:15.419Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy concentration, Better future, Pain relief, Shake gone, Easy to dissolve, Boost memory, Enhanced cognition, Mild taste. Some note: Convenient size, Clean ingredients.",
+    "tags": [
+      {
+        "name": "Energy concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better future",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shake gone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced cognition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:15.419Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

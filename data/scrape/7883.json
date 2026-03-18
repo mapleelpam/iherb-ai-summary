@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7883,
+  "last_updated": "2026-03-20T09:29:09.162Z",
+  "first_scraped": "2026-03-20T09:29:09.162Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good package, Heart health, Antiage supplement, Bioactive supplement, Easy to swallow, High bioavailability, Trustworthy source, Energy levels. Some note: Too soon.",
+    "tags": [
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antiage supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioactive supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High bioavailability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trustworthy source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too soon",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:09.162Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

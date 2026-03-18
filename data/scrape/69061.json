@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69061,
+  "last_updated": "2026-03-20T10:14:51.155Z",
+  "first_scraped": "2026-03-20T10:14:51.155Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Control fat, Increased testosterone level, Eye health, Natural way, Easy to swallow, Value for money, Clears utis, Effective dose.",
+    "tags": [
+      {
+        "name": "Control fat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased testosterone level",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clears utis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intense chest pain",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:51.155Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

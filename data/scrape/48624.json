@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48624,
+  "last_updated": "2026-03-20T10:23:52.235Z",
+  "first_scraped": "2026-03-20T10:23:52.235Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Eye health, Bioavailable capsules, Energy boost, Ubiquinol benefits, Support cardiovascular, Available always, Top ingredients, More energy. Some note: Higher price, Size is ok.",
+    "tags": [
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioavailable capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ubiquinol benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support cardiovascular",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Available always",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher price",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Size is ok",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:52.235Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

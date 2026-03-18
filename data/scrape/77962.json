@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77962,
+  "last_updated": "2026-03-20T09:59:34.862Z",
+  "first_scraped": "2026-03-20T09:59:34.862Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good energy, Delicious flavor, Extra energy, Taste nice, Muscle recovery boost, Clean energy, No jitters, Refreshing beverage. Some note: Great amino.",
+    "tags": [
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No jitters",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing beverage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not big quantity",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Great amino",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:34.862Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

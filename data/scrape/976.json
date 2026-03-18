@@ -1,0 +1,68 @@
+{
+  "iherb_id": 976,
+  "last_updated": "2026-03-20T10:19:31.365Z",
+  "first_scraped": "2026-03-20T10:19:31.365Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosts immunity, Detox benefits, Good energy, Antioxidant, antiaging, Pure energy, Vital energy, Brain health, Easy swallow, Convenient tablets.",
+    "tags": [
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant, antiaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vital energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:31.365Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

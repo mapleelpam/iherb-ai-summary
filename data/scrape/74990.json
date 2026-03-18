@@ -1,0 +1,68 @@
+{
+  "iherb_id": 74990,
+  "last_updated": "2026-03-20T10:00:28.161Z",
+  "first_scraped": "2026-03-20T10:00:28.161Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Simple ingredients, Everyday use, Peanut flavor, Guilt-free snack, Good taste, Convenient snack, Taste is okay, Tasty bar.",
+    "tags": [
+      {
+        "name": "Simple ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Everyday use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Peanut flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Guilt-free snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste is okay",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty bar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not great",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:28.161Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

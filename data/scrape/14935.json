@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14935,
+  "last_updated": "2026-03-20T10:26:35.461Z",
+  "first_scraped": "2026-03-20T10:26:35.461Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice package, No side effects, More energy, Real thing, Healthy circulation, Body strength, Works very well, Beneficial health, Energy boost.",
+    "tags": [
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real thing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works very well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:35.461Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

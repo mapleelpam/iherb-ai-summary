@@ -1,0 +1,68 @@
+{
+  "iherb_id": 141855,
+  "last_updated": "2026-03-20T09:34:16.367Z",
+  "first_scraped": "2026-03-20T09:34:16.367Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective herbs, Calmer mood, Effective supplement, Stress support, Good sleep, Energy levels, Improved energy, Helps relax. Some note: Fast shipping.",
+    "tags": [
+      {
+        "name": "Effective herbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calmer mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps relax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not recommended",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:16.367Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

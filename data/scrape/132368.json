@@ -1,0 +1,68 @@
+{
+  "iherb_id": 132368,
+  "last_updated": "2026-03-20T09:44:31.564Z",
+  "first_scraped": "2026-03-20T09:44:31.564Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective items, Selected ingredients, Size perfect, Combo works, Immediate response, Boost energy, Eye benefit, Increases bile flow. Some note: Pick out.",
+    "tags": [
+      {
+        "name": "Effective items",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Selected ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Size perfect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Combo works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate response",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increases bile flow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Confusing label",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Pick out",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:31.564Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

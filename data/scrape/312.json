@@ -1,0 +1,68 @@
+{
+  "iherb_id": 312,
+  "last_updated": "2026-03-20T09:32:17.882Z",
+  "first_scraped": "2026-03-20T09:32:17.882Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Solid package, Certifying ingredients, Great combo, Skin improvement, Effective supplement, Efficient service, High antioxidant, Highly recommend. Some note: Dark brown.",
+    "tags": [
+      {
+        "name": "Solid package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Certifying ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not impressed",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Dark brown",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:17.882Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

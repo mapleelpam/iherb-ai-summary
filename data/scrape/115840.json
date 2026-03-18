@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115840,
+  "last_updated": "2026-03-20T10:16:13.174Z",
+  "first_scraped": "2026-03-20T10:16:13.174Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty flavor, Nutritional benefits, Big size, Warm drink, Great smell, Delicious chocolate, Smooth taste, Good taste.",
+    "tags": [
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutritional benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Warm drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doesn't dissolve easily",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Artificial taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:13.174Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

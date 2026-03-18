@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110303,
+  "last_updated": "2026-03-20T10:38:27.242Z",
+  "first_scraped": "2026-03-20T10:38:27.242Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fulfilling snack, Good taste, Tasty bars, Love vegan bar, Yummy treat, Convenient packaging, Strong peanut flavor, Small but fulfilling.",
+    "tags": [
+      {
+        "name": "Fulfilling snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty bars",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love vegan bar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy treat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong peanut flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small but fulfilling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:38:27.242Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

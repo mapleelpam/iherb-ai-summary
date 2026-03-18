@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11586,
+  "last_updated": "2026-03-20T09:31:58.471Z",
+  "first_scraped": "2026-03-20T09:31:58.471Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Economy price, Immunity booster, Vegan source, Effective dose, Good absorption, Trust brand, Scientific literature, Easy to swallow. Some note: Good ingredients, High-potency vitamin.",
+    "tags": [
+      {
+        "name": "Economy price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Scientific literature",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High-potency vitamin",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:58.471Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

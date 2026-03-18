@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24597,
+  "last_updated": "2026-03-20T10:10:42.303Z",
+  "first_scraped": "2026-03-20T10:10:42.303Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good package, Fast sleep, Easy to swallow, Clean product, Good sleep, Sleep aid, Immune support, Effective dose.",
+    "tags": [
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect micro dose",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too many tablets",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:42.303Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

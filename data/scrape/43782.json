@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43782,
+  "last_updated": "2026-03-20T10:03:31.501Z",
+  "first_scraped": "2026-03-20T10:03:31.501Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No stomach issues, Affordable, Suits well, Convenient tablet, Budget-friendly option, Worth trying, Healthy nails, Joint relief. Some note: Not noticeable.",
+    "tags": [
+      {
+        "name": "No stomach issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suits well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient tablet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Budget-friendly option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth trying",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not noticeable",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hair loss",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:31.501Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

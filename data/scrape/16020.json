@@ -1,0 +1,68 @@
+{
+  "iherb_id": 16020,
+  "last_updated": "2026-03-20T09:49:06.390Z",
+  "first_scraped": "2026-03-20T09:49:06.390Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural ingredients, Easy swallow, Clearer urine, Kidney cleaner, Good cleanse, Amazing results, Reduction in frequency, Helpful kidney. Some note: Hopeful result, Blood tests.",
+    "tags": [
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer urine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kidney cleaner",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduction in frequency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful kidney",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hopeful result",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Blood tests",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:06.390Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

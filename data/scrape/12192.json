@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12192,
+  "last_updated": "2026-03-20T10:07:31.785Z",
+  "first_scraped": "2026-03-20T10:07:31.785Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improvement felt, Useful for, Good results, Trust brand, Super fast shipping, Natural solution, Relief found, Timely delivery, Hassle free.",
+    "tags": [
+      {
+        "name": "Improvement felt",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Useful for",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief found",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hassle free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:31.785Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

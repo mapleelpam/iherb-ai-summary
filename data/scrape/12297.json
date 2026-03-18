@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12297,
+  "last_updated": "2026-03-20T09:55:20.269Z",
+  "first_scraped": "2026-03-20T09:55:20.269Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Sore throat, Immune system, Good effects, Tasty option, No fillers, Soft lozenge, Boost immune. Some note: Tasty additive.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sore throat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fillers",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soft lozenge",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less sugar",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tasty additive",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:20.269Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

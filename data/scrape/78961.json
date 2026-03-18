@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78961,
+  "last_updated": "2026-03-20T09:40:08.294Z",
+  "first_scraped": "2026-03-20T09:40:08.294Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to use, Knee pain, Nice scent, Good taste, Reduce joint pain, Daily use, Joint health, High absorption.",
+    "tags": [
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Knee pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Athletes' pain",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:08.294Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

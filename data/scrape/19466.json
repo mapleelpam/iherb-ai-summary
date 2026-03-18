@@ -1,0 +1,68 @@
+{
+  "iherb_id": 19466,
+  "last_updated": "2026-03-20T10:25:07.394Z",
+  "first_scraped": "2026-03-20T10:25:07.394Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Best enzymes, Clean product, Feeling good, Worth a trial, Highly recommend, Natural solution, Light on feet, Changed my life.",
+    "tags": [
+      {
+        "name": "Best enzymes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth a trial",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Light on feet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Changed my life",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not impressed",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Plastic container",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:07.394Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

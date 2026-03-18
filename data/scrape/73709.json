@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73709,
+  "last_updated": "2026-03-20T10:15:03.030Z",
+  "first_scraped": "2026-03-20T10:15:03.030Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fermented supplement, Organic, energy, Fermented beet, Reasonable value, Love my beets, Boosts nitric oxide, Easy to take, Stable blood pressure, Gut health.",
+    "tags": [
+      {
+        "name": "Fermented supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic, energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fermented beet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love my beets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts nitric oxide",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stable blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dosage issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:03.030Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

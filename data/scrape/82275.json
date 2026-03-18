@@ -1,0 +1,68 @@
+{
+  "iherb_id": 82275,
+  "last_updated": "2026-03-20T10:34:08.071Z",
+  "first_scraped": "2026-03-20T10:34:08.071Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Calming, relaxed, Natural calm, Efficient brand, Better focus, Holistic tranquility, Great delivery, Better sleep, Manage stress. Some note: Not much.",
+    "tags": [
+      {
+        "name": "Calming, relaxed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural calm",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Holistic tranquility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Manage stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Need more",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not much",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:34:08.071Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

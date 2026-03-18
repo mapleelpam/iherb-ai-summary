@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5195,
+  "last_updated": "2026-03-20T09:44:02.678Z",
+  "first_scraped": "2026-03-20T09:44:02.678Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Alcohol free, Rare result, Easy to measure, Clean ingredients, Natural remedy, Natural antibiotic, Immune support, Antibiotic supplement. Some note: Nature's answer.",
+    "tags": [
+      {
+        "name": "Alcohol free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rare result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to measure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural antibiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antibiotic supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes bitter",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Nature's answer",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:02.678Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110359,
+  "last_updated": "2026-03-20T10:26:57.375Z",
+  "first_scraped": "2026-03-20T10:26:57.375Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less bloating, Game-changer, Digestion support, Suppressed appetite, Effective probiotic, Immune system, Good energy, Good for gut.",
+    "tags": [
+      {
+        "name": "Less bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suppressed appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not repurchase",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bitter aftertaste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:57.375Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

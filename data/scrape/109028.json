@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109028,
+  "last_updated": "2026-03-20T10:13:08.538Z",
+  "first_scraped": "2026-03-20T10:13:08.538Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective blend, Reasonable price, Builds immunity, Timely delivery, Notice difference, Improve digestion, Supports digestion, Comprehensive formula. Some note: No taste, So far.",
+    "tags": [
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Builds immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Notice difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comprehensive formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "So far",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:08.538Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

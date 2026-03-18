@@ -1,0 +1,68 @@
+{
+  "iherb_id": 50931,
+  "last_updated": "2026-03-20T09:50:20.761Z",
+  "first_scraped": "2026-03-20T09:50:20.761Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Memory improvement, Brain boost, Effective blend, Great source, Easy swallow, Reasonable supply, Good ingredients, Vascular support. Some note: Challenging to determine.",
+    "tags": [
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vascular support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No benefits",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Challenging to determine",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:20.761Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84887,
+  "last_updated": "2026-03-20T10:05:15.335Z",
+  "first_scraped": "2026-03-20T10:05:15.335Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Health benefits, Abdominal muscles, Best opc, Gentle gut, Works great, Pain relief, Powerful antioxidant, General health.",
+    "tags": [
+      {
+        "name": "Health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Abdominal muscles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best opc",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "General health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Terrible excipient",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:15.335Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

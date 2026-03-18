@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6074,
+  "last_updated": "2026-03-20T09:19:18.959Z",
+  "first_scraped": "2026-03-20T09:19:18.959Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great collagen, Hair growth, Visible results, Recommended, Easy to use, Effective ingredient, Love this product, Stronger nails. Some note: Skin results.",
+    "tags": [
+      {
+        "name": "Great collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Visible results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Tastes bad",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:18.959Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

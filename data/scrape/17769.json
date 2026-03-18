@@ -1,0 +1,68 @@
+{
+  "iherb_id": 17769,
+  "last_updated": "2026-03-20T10:23:45.272Z",
+  "first_scraped": "2026-03-20T10:23:45.272Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Cleanse powder, Relieves constipation, Prompt delivery, Gentle relief, Easy to use, Reliable regularity, Natural alternative, Reliable option. Some note: Fast shipping.",
+    "tags": [
+      {
+        "name": "Cleanse powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable regularity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doesn't work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:45.272Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

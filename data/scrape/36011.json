@@ -1,0 +1,68 @@
+{
+  "iherb_id": 36011,
+  "last_updated": "2026-03-20T10:13:37.126Z",
+  "first_scraped": "2026-03-20T10:13:37.126Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stronger nails, Hair growth, Thicker hair, Fast growth, Clearer skin, Volume boost, Easy swallow, Stopped hair loss.",
+    "tags": [
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thicker hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Volume boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped hair loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Costlier than",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No benefits",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:37.126Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

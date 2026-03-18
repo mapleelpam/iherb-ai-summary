@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118373,
+  "last_updated": "2026-03-20T09:29:40.888Z",
+  "first_scraped": "2026-03-20T09:29:40.888Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No aftertaste, Cardiovascular health, Easy to swallow, Effective supplement, Endless stamina, Good enzymes, Fast shipment, Boost workouts. Some note: Highly recommend, Pure ingredient.",
+    "tags": [
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Endless stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good enzymes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost workouts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredient",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:40.888Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

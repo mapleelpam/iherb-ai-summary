@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114582,
+  "last_updated": "2026-03-20T10:00:49.684Z",
+  "first_scraped": "2026-03-20T10:00:49.684Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost energy, Must have, Kids love, Vegan ingredients, Easy form, Good taste, Great flavor, Tastes good. Some note: Clean ingredients, Nicely designed dropper.",
+    "tags": [
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Must have",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nicely designed dropper",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:49.684Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

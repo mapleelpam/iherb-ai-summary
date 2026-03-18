@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18434,
+  "last_updated": "2026-03-20T09:38:17.300Z",
+  "first_scraped": "2026-03-20T09:38:17.300Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy absorption, Good source, Skin health, Microdose throughout, Bio-ability compound, More energy, Effective relief, Helpful with methylation. Some note: Powerhouse addition, Good health.",
+    "tags": [
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Microdose throughout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bio-ability compound",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful with methylation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerhouse addition",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good health",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:17.300Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

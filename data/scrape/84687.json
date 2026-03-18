@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84687,
+  "last_updated": "2026-03-20T10:08:47.217Z",
+  "first_scraped": "2026-03-20T10:08:47.217Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Pain relief, Easy swallow, Blood pressure, Healthy circulation, Convenient choice, Useful product, New brand. Some note: Slow process.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Useful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "New brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doesn't work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Slow process",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:47.217Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

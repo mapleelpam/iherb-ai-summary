@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39216,
+  "last_updated": "2026-03-20T10:09:21.566Z",
+  "first_scraped": "2026-03-20T10:09:21.566Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean energy, Great energy, Energy boost, Less prominent ribs, Effective energy, Good one, Weight management, Top ingredients.",
+    "tags": [
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less prominent ribs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good one",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not good",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Missing ingredient",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:21.566Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

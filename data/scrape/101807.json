@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101807,
+  "last_updated": "2026-03-20T10:08:33.686Z",
+  "first_scraped": "2026-03-20T10:08:33.686Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trust renew life, Curled milk, Works wonderfully, Effective supplement, No side effects, Helpful product, Cheerful design, Acid reflux disappeared. Some note: Small pill, More cultures.",
+    "tags": [
+      {
+        "name": "Trust renew life",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Curled milk",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonderfully",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheerful design",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acid reflux disappeared",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small pill",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "More cultures",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:33.686Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

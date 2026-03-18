@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18676,
+  "last_updated": "2026-03-20T09:54:59.583Z",
+  "first_scraped": "2026-03-20T09:54:59.583Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Joint pain relief, Relief inflammation, Highly recommend, Fast relief, Blood sugar, Improved health, Getting better, Natural anti-inflammatory. Some note: Large capsules.",
+    "tags": [
+      {
+        "name": "Joint pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Getting better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural anti-inflammatory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large capsules",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:59.583Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

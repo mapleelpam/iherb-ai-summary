@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116338,
+  "last_updated": "2026-03-20T09:45:08.531Z",
+  "first_scraped": "2026-03-20T09:45:08.531Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Brighter skin, Improved metabolism, Boost immune, Helps health, Small size, Less breakouts, Effective brand, Easy to take. Some note: Improved sleep.",
+    "tags": [
+      {
+        "name": "Brighter skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less breakouts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Love it!",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:08.531Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

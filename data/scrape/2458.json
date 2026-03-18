@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2458,
+  "last_updated": "2026-03-20T10:17:38.581Z",
+  "first_scraped": "2026-03-20T10:17:38.581Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Better recall, Memory improvement, Fast shipment, Effective supplement, Price worth, Leci-ps, Clear skin, Brain function. Some note: Wait and see, Cortisol balance.",
+    "tags": [
+      {
+        "name": "Better recall",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Price worth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Leci-ps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wait and see",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Cortisol balance",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:38.581Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

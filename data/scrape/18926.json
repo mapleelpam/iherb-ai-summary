@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18926,
+  "last_updated": "2026-03-20T10:00:54.427Z",
+  "first_scraped": "2026-03-20T10:00:54.427Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great aid, Nice package, Stomach pain, Decreased antibodies, Great difference, Gluten aid, No belly ache, Quick digestion.",
+    "tags": [
+      {
+        "name": "Great aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decreased antibodies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gluten aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No belly ache",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weak enzymes",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:54.427Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

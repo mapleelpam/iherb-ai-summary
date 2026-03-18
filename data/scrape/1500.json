@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1500,
+  "last_updated": "2026-03-20T10:00:44.764Z",
+  "first_scraped": "2026-03-20T10:00:44.764Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast relief, Easy start, Powerful immune support, Immunity booster, Helpful use, Energetic after, Natural antibiotic, Potent and amazing.",
+    "tags": [
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy start",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energetic after",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural antibiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent and amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped taking",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:44.764Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

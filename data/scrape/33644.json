@@ -1,0 +1,68 @@
+{
+  "iherb_id": 33644,
+  "last_updated": "2026-03-20T10:13:57.179Z",
+  "first_scraped": "2026-03-20T10:13:57.179Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great scent, Improved circulation, Energy boost, Fast shipping, Healthy blood cells, Optimal cardiovascular, Better workout, Lots of energy, Affordable products, Exactly as formulated.",
+    "tags": [
+      {
+        "name": "Great scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy blood cells",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Optimal cardiovascular",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lots of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable products",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Exactly as formulated",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:57.179Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

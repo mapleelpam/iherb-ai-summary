@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110364,
+  "last_updated": "2026-03-20T10:22:33.846Z",
+  "first_scraped": "2026-03-20T10:22:33.846Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy and focus, Big difference, Less stressful, Easy dosage, Noticeable improvement, Detox for kids, Stress relief, Major fatigue.",
+    "tags": [
+      {
+        "name": "Energy and focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less stressful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox for kids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Major fatigue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not convinced",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:33.846Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

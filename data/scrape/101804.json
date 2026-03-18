@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101804,
+  "last_updated": "2026-03-20T10:20:07.113Z",
+  "first_scraped": "2026-03-20T10:20:07.113Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High-quality probiotics, Change found, Great improvement, Good balance, Easy to take, Small capsules, Effective choice, Vegan cultures.",
+    "tags": [
+      {
+        "name": "High-quality probiotics",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Change found",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan cultures",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Need bifido",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Didn't help",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:07.113Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

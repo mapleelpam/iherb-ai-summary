@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2659,
+  "last_updated": "2026-03-20T09:37:58.367Z",
+  "first_scraped": "2026-03-20T09:37:58.367Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Resting sleep, Easy swallow size, Better sleep, Works as promised, Memory improvement, Brain power, Stress management. Some note: Cognitive health, Clear recognition.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Resting sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works as promised",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain power",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cognitive health",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Clear recognition",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:58.367Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

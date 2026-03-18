@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73692,
+  "last_updated": "2026-03-20T09:24:55.416Z",
+  "first_scraped": "2026-03-20T09:24:55.416Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High-quality NAC, Immune system, Antioxidant properties, Fresh smell, Respiratory health, Improved breathing, Satisfactory results, Initial results. Some note: Trust natural factors, Not sure.",
+    "tags": [
+      {
+        "name": "High-quality NAC",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Respiratory health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved breathing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfactory results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Initial results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust natural factors",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:55.416Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

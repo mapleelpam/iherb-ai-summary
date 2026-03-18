@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1016,
+  "last_updated": "2026-03-20T10:19:38.488Z",
+  "first_scraped": "2026-03-20T10:19:38.488Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural antihistamine, Allergy relief, Boost absorption, Total relief, Improved sleep, Anti-inflammatory, Prompt service, Powerful bioflavonoid. Some note: Good purchase.",
+    "tags": [
+      {
+        "name": "Natural antihistamine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergy relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Total relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful bioflavonoid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Contains wheat",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good purchase",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:38.488Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

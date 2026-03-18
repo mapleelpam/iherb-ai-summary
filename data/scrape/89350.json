@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89350,
+  "last_updated": "2026-03-20T10:05:50.150Z",
+  "first_scraped": "2026-03-20T10:05:50.150Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Brain boost, Easy mix, Good taste, Alternative creamer, Foamy texture, Works great, Easily dissolves, Change diet. Some note: Creamy.",
+    "tags": [
+      {
+        "name": "Brain boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alternative creamer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Foamy texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easily dissolves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Change diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Creamy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Very disappointed",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:50.150Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

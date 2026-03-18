@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8066,
+  "last_updated": "2026-03-20T10:03:36.372Z",
+  "first_scraped": "2026-03-20T10:03:36.372Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Keeps me regular, Powerful digestive, Daily support, Works wonders, Gentle cleanse, Best stool softener, Like it, Gets the job done. Some note: Improves motility.",
+    "tags": [
+      {
+        "name": "Keeps me regular",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful digestive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best stool softener",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Like it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gets the job done",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Didn't work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Improves motility",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:36.372Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

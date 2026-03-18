@@ -1,0 +1,68 @@
+{
+  "iherb_id": 142400,
+  "last_updated": "2026-03-20T10:06:35.519Z",
+  "first_scraped": "2026-03-20T10:06:35.519Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Outstanding strength, No more, Anti-aging effect, Blood pressure, Blood clots, Cardiovascular support, Fast deliver, Trusted brand, Relieved symptoms. Some note: Easy to use.",
+    "tags": [
+      {
+        "name": "Outstanding strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No more",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-aging effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood clots",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast deliver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieved symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:35.519Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

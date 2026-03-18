@@ -1,0 +1,68 @@
+{
+  "iherb_id": 47004,
+  "last_updated": "2026-03-20T10:17:43.693Z",
+  "first_scraped": "2026-03-20T10:17:43.693Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reliable source, Thyroid protection, Balanced hormones, Cellular support, Good result, Improves brain function, More energy, Increase iodine. Some note: Iodine deficiency.",
+    "tags": [
+      {
+        "name": "Reliable source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thyroid protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cellular support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves brain function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase iodine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Iodine deficiency",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Soil depletion",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:43.693Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

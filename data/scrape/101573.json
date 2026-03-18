@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101573,
+  "last_updated": "2026-03-20T10:04:30.693Z",
+  "first_scraped": "2026-03-20T10:04:30.693Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Powerful product, Great results, Feeling great, Speedy delivery, Great pump, Increased endurance, Easy to take, Good mix. Some note: Enhance workouts.",
+    "tags": [
+      {
+        "name": "Powerful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhance workouts",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:30.693Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

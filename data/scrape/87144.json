@@ -1,0 +1,68 @@
+{
+  "iherb_id": 87144,
+  "last_updated": "2026-03-20T10:38:44.443Z",
+  "first_scraped": "2026-03-20T10:38:44.443Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Perfekt ingrediences, Best multivitamin, Comprehensive list, Best complex, Powdered change, Trusted brand, High potency, Good mix. Some note: First time.",
+    "tags": [
+      {
+        "name": "Perfekt ingrediences",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comprehensive list",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best complex",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powdered change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stuck in throat",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "First time",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:38:44.443Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

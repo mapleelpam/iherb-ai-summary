@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2044,
+  "last_updated": "2026-03-20T10:07:46.945Z",
+  "first_scraped": "2026-03-20T10:07:46.945Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small tablets, Good so far, Beneficial product, Immune system, Enhanced circulation, Wide benefits, Skin smooth, Improves function. Some note: Other ingredients.",
+    "tags": [
+      {
+        "name": "Small tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good so far",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wide benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin smooth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strange aftertaste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Other ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:46.945Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

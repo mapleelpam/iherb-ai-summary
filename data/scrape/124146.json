@@ -1,0 +1,68 @@
+{
+  "iherb_id": 124146,
+  "last_updated": "2026-03-20T09:43:07.737Z",
+  "first_scraped": "2026-03-20T09:43:07.737Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Body functions, Reasonable price, Fast relief, Recommended, big size, Effective supplement, Constipation relief, Good balance, Good match. Some note: Affordable option, Works ok.",
+    "tags": [
+      {
+        "name": "Body functions",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended, big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Constipation relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good match",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Works ok",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:07.737Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

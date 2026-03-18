@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116584,
+  "last_updated": "2026-03-20T09:19:03.586Z",
+  "first_scraped": "2026-03-20T09:19:03.586Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Muscle cramps, Energy production, Bone health, Fast shipping, Muscle relief, Better sleep, Good benefits. Some note: Good dosage.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy production",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Disappointment and discomfort",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:03.586Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

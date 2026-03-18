@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89624,
+  "last_updated": "2026-03-20T09:54:47.634Z",
+  "first_scraped": "2026-03-20T09:54:47.634Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Best ingredients, Good taste, Great supplement, Essential component, Fast acting, Rich ingredient, Love product, Improves performance, Great deal, Highly recommend.",
+    "tags": [
+      {
+        "name": "Best ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential component",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast acting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:47.634Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

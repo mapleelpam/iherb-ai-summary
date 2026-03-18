@@ -1,0 +1,68 @@
+{
+  "iherb_id": 98885,
+  "last_updated": "2026-03-20T10:03:28.583Z",
+  "first_scraped": "2026-03-20T10:03:28.583Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lowered blood pressure, Health promoting, Clearing acne, Amazing item, Immune system, Happy with purchase, Cardiovascular support, Beneficial item.",
+    "tags": [
+      {
+        "name": "Lowered blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health promoting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearing acne",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing item",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial item",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Disgusting taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:28.583Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69648,
+  "last_updated": "2026-03-20T09:54:07.110Z",
+  "first_scraped": "2026-03-20T09:54:07.110Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High EPA, No fishy taste, Lemony taste, Good taste, Increased focus, Recommend to everyone, Kids love, Liquid form.",
+    "tags": [
+      {
+        "name": "High EPA",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lemony taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend to everyone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liquid form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difficult to open",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not correct",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:07.110Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

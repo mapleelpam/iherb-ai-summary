@@ -1,0 +1,68 @@
+{
+  "iherb_id": 96996,
+  "last_updated": "2026-03-20T09:55:10.436Z",
+  "first_scraped": "2026-03-20T09:55:10.436Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Leaky gut, Easy swallow, Clean ingredients, Fast delivery, Strength boost, Long term, Works for me, Smoothie recipe. Some note: Low protein, Muscle mass.",
+    "tags": [
+      {
+        "name": "Leaky gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strength boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long term",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smoothie recipe",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low protein",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Muscle mass",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:10.436Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

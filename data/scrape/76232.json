@@ -1,0 +1,68 @@
+{
+  "iherb_id": 76232,
+  "last_updated": "2026-03-20T09:48:33.764Z",
+  "first_scraped": "2026-03-20T09:48:33.764Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Increased energy, Pleasant taste, Convenient and reasonable, Easy to take, Nice price, Great results, Energy stable. Some note: Expensive, tasty.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient and reasonable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy stable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stains teeth",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive, tasty",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:33.764Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108263,
+  "last_updated": "2026-03-20T09:52:47.616Z",
+  "first_scraped": "2026-03-20T09:52:47.616Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Convenient packs, Refreshing taste, Nice taste, Portable and useful, Nice price, Mixes well, Helps hydrate. Some note: Less caffeine.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Portable and useful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps hydrate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less caffeine",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not energetic",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:47.616Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 125854,
+  "last_updated": "2026-03-20T09:21:31.287Z",
+  "first_scraped": "2026-03-20T09:21:31.287Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Appetite reduction, Lose weight, Curbing hunger, Easy to swallow, Good results, Fast shipping, Big pills, Seems good. Some note: Minor changes.",
+    "tags": [
+      {
+        "name": "Appetite reduction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lose weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Curbing hunger",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seems good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Minor changes",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:31.287Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

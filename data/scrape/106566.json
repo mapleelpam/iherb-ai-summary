@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106566,
+  "last_updated": "2026-03-20T10:24:38.723Z",
+  "first_scraped": "2026-03-20T10:24:38.723Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great flavor, Umami taste, Flavourful, spicy, Light additive, Yummy on popcorn, Very reasonable, Spicy nutritional yeast, Highly recommend.",
+    "tags": [
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Umami taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flavourful, spicy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Light additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy on popcorn",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very reasonable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Spicy nutritional yeast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Disappointed taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bottle design",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:38.723Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6907,
+  "last_updated": "2026-03-20T09:31:54.575Z",
+  "first_scraped": "2026-03-20T09:31:54.575Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Smell & taste, Energy boost, Easy to use, Tastes clean, Yummy, filling, Good taste, Helps a lot, Great flavor. Some note: Top choice.",
+    "tags": [
+      {
+        "name": "Smell & taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes clean",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy, filling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps a lot",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top choice",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:54.575Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

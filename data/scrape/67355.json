@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67355,
+  "last_updated": "2026-03-20T09:22:38.607Z",
+  "first_scraped": "2026-03-20T09:22:38.607Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, High potency, Memory formation, Improved sleep, Hair growth, Relieves enlarged prostate, Thicker hair, Easy to use. Some note: Not regular, Easy to swallow.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory formation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves enlarged prostate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thicker hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not regular",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:38.607Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2455,
+  "last_updated": "2026-03-20T10:10:29.403Z",
+  "first_scraped": "2026-03-20T10:10:29.403Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy booster, Less hungry, Natural energy lift, Natural supplement, Works great, Weight loss, Anti-inflammatory, Convenient energy. Some note: No noticeable difference, No change.",
+    "tags": [
+      {
+        "name": "Energy booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less hungry",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural energy lift",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:29.403Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

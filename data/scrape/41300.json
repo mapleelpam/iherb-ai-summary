@@ -1,0 +1,68 @@
+{
+  "iherb_id": 41300,
+  "last_updated": "2026-03-20T09:27:52.732Z",
+  "first_scraped": "2026-03-20T09:27:52.732Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune health, Trusted brand, High concentration, Powerful antioxidant, Boosting immunity, Top ingredients, High potency, Fantastic adaptogen. Some note: No noticeable effect, Effective trial.",
+    "tags": [
+      {
+        "name": "Immune health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic adaptogen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable effect",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective trial",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:52.732Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

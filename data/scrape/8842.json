@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8842,
+  "last_updated": "2026-03-20T09:54:20.291Z",
+  "first_scraped": "2026-03-20T09:54:20.291Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved vision, Made well, Less dry, Small gel capsules, Less redness, Easy swallow, Fast shipping, Great amount.",
+    "tags": [
+      {
+        "name": "Improved vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Made well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less dry",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small gel capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less redness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low lutein",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not ordering",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:20.291Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

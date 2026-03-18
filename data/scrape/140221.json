@@ -1,0 +1,68 @@
+{
+  "iherb_id": 140221,
+  "last_updated": "2026-03-20T10:02:12.247Z",
+  "first_scraped": "2026-03-20T10:02:12.247Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mixes well, Clean ingredients, Tastes fine, Versatile option, High bioavailability, Good package, Clean protein, Pleasant taste.",
+    "tags": [
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Versatile option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High bioavailability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Curdles appearance",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not worth",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:12.247Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

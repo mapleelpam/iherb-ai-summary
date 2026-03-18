@@ -1,0 +1,68 @@
+{
+  "iherb_id": 137722,
+  "last_updated": "2026-03-20T09:26:46.527Z",
+  "first_scraped": "2026-03-20T09:26:46.527Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Normal b-levels, Basic and helpful, Loyal customer, Reduced irritation, Essential nutrients, Good multivitamin, Convenient schedule, Good doses.",
+    "tags": [
+      {
+        "name": "Normal b-levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Basic and helpful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loyal customer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced irritation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential nutrients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient schedule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good doses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nauseating smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Toxic irritant",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:46.527Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

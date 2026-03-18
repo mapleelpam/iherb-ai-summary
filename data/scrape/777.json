@@ -1,0 +1,68 @@
+{
+  "iherb_id": 777,
+  "last_updated": "2026-03-20T09:31:57.507Z",
+  "first_scraped": "2026-03-20T09:31:57.507Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy way, Salt substitute, Improve sleeping, Electrolyte balance, Relaxed and calm, Fast shipping, Maintaining balance, Works great. Some note: Easy to use.",
+    "tags": [
+      {
+        "name": "Easy way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Salt substitute",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve sleeping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Electrolyte balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxed and calm",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintaining balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Major flare up",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:57.507Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

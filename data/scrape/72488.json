@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72488,
+  "last_updated": "2026-03-20T10:05:41.041Z",
+  "first_scraped": "2026-03-20T10:05:41.041Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Healthy gut, Organic taste, Mixes well, Clean protein, Nice flavor, Good taste, Great solution, Convenient package.",
+    "tags": [
+      {
+        "name": "Healthy gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Zip lock",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Acquired taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:41.041Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

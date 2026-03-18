@@ -1,0 +1,68 @@
+{
+  "iherb_id": 68453,
+  "last_updated": "2026-03-20T10:17:30.585Z",
+  "first_scraped": "2026-03-20T10:17:30.585Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Amazing blend, Pure ingredients, Lovely taste, Smooth texture, Dissolves well, Large size, Works great, Sweet flavor.",
+    "tags": [
+      {
+        "name": "Amazing blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lovely taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stevia aftertaste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not worth",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:30.585Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

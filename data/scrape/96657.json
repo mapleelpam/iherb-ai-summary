@@ -1,0 +1,68 @@
+{
+  "iherb_id": 96657,
+  "last_updated": "2026-03-20T09:35:40.533Z",
+  "first_scraped": "2026-03-20T09:35:40.533Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Excellent additive, Marine collagen, Skin hydration, Skin appearance, Clean ingredients, Convenient travel, Fast effect, Effective source. Some note: Tolerable taste.",
+    "tags": [
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Marine collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin appearance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient travel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difficult blend",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tolerable taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:40.533Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

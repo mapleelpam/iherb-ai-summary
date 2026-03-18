@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89752,
+  "last_updated": "2026-03-20T10:06:40.996Z",
+  "first_scraped": "2026-03-20T10:06:40.996Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Cognitive support, Increased energy, Brain health, Natural ingredients, Memory improvement, Clean ingredients, Effective supplement, Higher dose.",
+    "tags": [
+      {
+        "name": "Cognitive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleepy and slow",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Chest pain",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:40.996Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

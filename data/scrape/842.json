@@ -1,0 +1,68 @@
+{
+  "iherb_id": 842,
+  "last_updated": "2026-03-20T09:30:09.526Z",
+  "first_scraped": "2026-03-20T09:30:09.526Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosts energy, Helps studying, Clearer thinking, Improves memory, Stay awake, Neurotransmitter support, Improves focus, Enhanced concentration. Some note: Effective supplement, Alert mind.",
+    "tags": [
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps studying",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer thinking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stay awake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neurotransmitter support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Alert mind",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:09.526Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

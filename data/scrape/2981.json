@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2981,
+  "last_updated": "2026-03-20T10:37:02.158Z",
+  "first_scraped": "2026-03-20T10:37:02.158Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good support, Fresh herbs, Botanical products, Pure and natural, Relaxation support, Anxiety relief, Cheap and effective, Calming properties. Some note: Mixed results.",
+    "tags": [
+      {
+        "name": "Good support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh herbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Botanical products",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure and natural",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxation support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheap and effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weak",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Mixed results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:37:02.158Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

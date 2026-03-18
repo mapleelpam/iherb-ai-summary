@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18947,
+  "last_updated": "2026-03-20T09:30:29.342Z",
+  "first_scraped": "2026-03-20T09:30:29.342Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great improvement, No issues, Trust solaray, Affordable option, Natural antihistamine, Easy to swallow, Fast delivery, Good antioxidant. Some note: Great performance, Anti-inflammatory properties.",
+    "tags": [
+      {
+        "name": "Great improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust solaray",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural antihistamine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great performance",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory properties",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:29.342Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

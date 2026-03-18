@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85063,
+  "last_updated": "2026-03-20T10:00:30.232Z",
+  "first_scraped": "2026-03-20T10:00:30.232Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great flavor, Fit results, Muscle recovery, 5 lbs version, Mixes well, Easy to digest, Easy to add, Trusted company.",
+    "tags": [
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fit results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "5 lbs version",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to digest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to add",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not delicious",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:30.232Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

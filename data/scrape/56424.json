@@ -1,0 +1,68 @@
+{
+  "iherb_id": 56424,
+  "last_updated": "2026-03-20T09:59:39.952Z",
+  "first_scraped": "2026-03-20T09:59:39.952Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Impressive effect, Pleasant taste, Skin rejuvenation, Strong nails, Easy swallow, Detox benefits, Hair improvement, Good source.",
+    "tags": [
+      {
+        "name": "Impressive effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin rejuvenation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Decrease hair loss",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:39.952Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

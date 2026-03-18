@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14946,
+  "last_updated": "2026-03-20T09:50:26.383Z",
+  "first_scraped": "2026-03-20T09:50:26.383Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Improved vision, Fast shipping, Clean ingredients, Natural lemon, Affordable and well-packed, Improved skin, No smell. Some note: Slightly improved, Unique ingredient.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural lemon",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable and well-packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slightly improved",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Unique ingredient",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:26.383Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

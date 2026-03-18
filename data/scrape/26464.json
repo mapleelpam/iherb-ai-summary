@@ -1,0 +1,68 @@
+{
+  "iherb_id": 26464,
+  "last_updated": "2026-03-20T10:05:13.285Z",
+  "first_scraped": "2026-03-20T10:05:13.285Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Glass bottle, Great blend, Essential minerals, Love the packaging, Natural toothpaste, Easy to use, Hydration support, Boost in energy. Some note: Sensitive palate.",
+    "tags": [
+      {
+        "name": "Glass bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential minerals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural toothpaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydration support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost in energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High arsenic",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sensitive palate",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:13.285Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

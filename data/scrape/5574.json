@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5574,
+  "last_updated": "2026-03-20T10:25:54.807Z",
+  "first_scraped": "2026-03-20T10:25:54.807Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy increase, Great assist, Improves mood, Stronger, Economical option, Balanced mood, Long-lasting energy, Standard potency, Convenient size.",
+    "tags": [
+      {
+        "name": "Energy increase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great assist",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economical option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-lasting energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Standard potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Breakthrough bleeding",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:54.807Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

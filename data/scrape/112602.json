@@ -1,0 +1,68 @@
+{
+  "iherb_id": 112602,
+  "last_updated": "2026-03-20T10:19:20.053Z",
+  "first_scraped": "2026-03-20T10:19:20.053Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Feel calm, Relaxed mind, Better mood, Good ingredients, Health & mood, Calming blend, Great combination, Moisturize texture. Some note: Game changer.",
+    "tags": [
+      {
+        "name": "Feel calm",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxed mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health & mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moisturize texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game changer",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive, out of stock",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:20.053Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

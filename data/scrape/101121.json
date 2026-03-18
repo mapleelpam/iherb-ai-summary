@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101121,
+  "last_updated": "2026-03-20T10:17:26.489Z",
+  "first_scraped": "2026-03-20T10:17:26.489Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective mineral, Excellent absorption, Natural ingredients, Gentle relief, Anemic relief, No constipation, Buy again, No issues. Some note: Low haemoglobin.",
+    "tags": [
+      {
+        "name": "Effective mineral",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anemic relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buy again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach hurting",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Low haemoglobin",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:26.489Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18496,
+  "last_updated": "2026-03-20T10:01:12.447Z",
+  "first_scraped": "2026-03-20T10:01:12.447Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good antioxidant, Doctor approved, Nice price, High blood pressure, Boost immune, Trusted brand, Powerful combination, Support heart.",
+    "tags": [
+      {
+        "name": "Good antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doctor approved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:12.447Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12058,
+  "last_updated": "2026-03-20T10:24:11.795Z",
+  "first_scraped": "2026-03-20T10:24:11.795Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great kava, Good taste, Pure product, Muscle relief, Anxiety relief, Relaxation aid, Edge off, Improved sleep.",
+    "tags": [
+      {
+        "name": "Great kava",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxation aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Edge off",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong bitter taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Doesn't work",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:11.795Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

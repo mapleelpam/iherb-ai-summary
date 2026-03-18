@@ -1,0 +1,68 @@
+{
+  "iherb_id": 40154,
+  "last_updated": "2026-03-20T10:01:20.641Z",
+  "first_scraped": "2026-03-20T10:01:20.641Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosted mood, Great choice, Effective brand, Love brand, Quality supplement, Balances hormones, More energy, Works better. Some note: Antioxidant package.",
+    "tags": [
+      {
+        "name": "Boosted mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balances hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keep awake",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant package",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:20.641Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

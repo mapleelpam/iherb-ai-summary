@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84661,
+  "last_updated": "2026-03-20T09:42:32.581Z",
+  "first_scraped": "2026-03-20T09:42:32.581Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Liver detox, Skin improvement, Pure ingredients, Pain free, Great supplement, Powerful antioxidant, Enhances absorption, Love this product.",
+    "tags": [
+      {
+        "name": "Liver detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhances absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acid reflux",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Strange taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:32.581Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

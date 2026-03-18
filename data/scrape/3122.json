@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3122,
+  "last_updated": "2026-03-20T10:04:08.569Z",
+  "first_scraped": "2026-03-20T10:04:08.569Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reliable defense, Less bloating, Foot itch relief, Nail fungus, Natural ingredients, Daily supplement, 100% natural, Game-changer. Some note: Effective against candida, Garlic taste.",
+    "tags": [
+      {
+        "name": "Reliable defense",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Foot itch relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nail fungus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "100% natural",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective against candida",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Garlic taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:08.569Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

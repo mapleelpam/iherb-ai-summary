@@ -1,0 +1,68 @@
+{
+  "iherb_id": 25988,
+  "last_updated": "2026-03-20T10:13:01.680Z",
+  "first_scraped": "2026-03-20T10:13:01.680Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Destroys parasites, Support overall health, Raise immunity, Nice package, Balances zinc, No taste, Boosts health, Fast absorbable. Some note: Metallic taste.",
+    "tags": [
+      {
+        "name": "Destroys parasites",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Raise immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balances zinc",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast absorbable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Grey hairs",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Metallic taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:01.680Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

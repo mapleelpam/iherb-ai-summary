@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1459,
+  "last_updated": "2026-03-20T09:51:41.541Z",
+  "first_scraped": "2026-03-20T09:51:41.541Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Uplifting mood, Magic of DLPA, Mental serenity, Muscle pain relief, Good stuff, Effective ingredients, Easy to take, Mood enhancement. Some note: Clear thinking, Heightened motivation.",
+    "tags": [
+      {
+        "name": "Uplifting mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Magic of DLPA",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental serenity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood enhancement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear thinking",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Heightened motivation",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:41.541Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7017,
+  "last_updated": "2026-03-20T10:05:51.085Z",
+  "first_scraped": "2026-03-20T10:05:51.085Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Creamy smooth, Good taste, Mixes well, Low carb, Vanilla flavor, Build muscle, Fantastic flavor, Filling meal. Some note: Clean ingredients.",
+    "tags": [
+      {
+        "name": "Creamy smooth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low carb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vanilla flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Build muscle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Filling meal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach distress",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:51.085Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

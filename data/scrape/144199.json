@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144199,
+  "last_updated": "2026-03-20T09:54:57.561Z",
+  "first_scraped": "2026-03-20T09:54:57.561Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sleep aid, Good incredients, Calming nerves, Easy swallow, Works great, Digestive support, Relaxing benefits, Calm mind. Some note: Helpful product, High dosage.",
+    "tags": [
+      {
+        "name": "Sleep aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good incredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming nerves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxing benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calm mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:57.561Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

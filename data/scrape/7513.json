@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7513,
+  "last_updated": "2026-03-20T10:03:02.522Z",
+  "first_scraped": "2026-03-20T10:03:02.522Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy use, Good sleep, Doing great, Back to school, Fast acting, Helps sleep, Lower dose, Minty flavor.",
+    "tags": [
+      {
+        "name": "Easy use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doing great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Back to school",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast acting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Minty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not convinced",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:02.522Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

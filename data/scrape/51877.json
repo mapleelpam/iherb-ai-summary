@@ -1,0 +1,68 @@
+{
+  "iherb_id": 51877,
+  "last_updated": "2026-03-20T09:50:57.032Z",
+  "first_scraped": "2026-03-20T09:50:57.032Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hopeful, Blood glucose reducer, Noticeable difference, Blood sugar, Supports blood balance, Reduce cravings, Promising improvements, Good works. Some note: Volume of money, Blood balance.",
+    "tags": [
+      {
+        "name": "Hopeful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood glucose reducer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports blood balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Promising improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Volume of money",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Blood balance",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:57.032Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

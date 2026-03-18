@@ -1,0 +1,68 @@
+{
+  "iherb_id": 27665,
+  "last_updated": "2026-03-20T10:13:57.179Z",
+  "first_scraped": "2026-03-20T10:13:57.179Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective absorption, Feel better, Maximum dosage, Instant effect, Desirable size, Large box, Fast results, Amazing effect. Some note: Fair size.",
+    "tags": [
+      {
+        "name": "Effective absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maximum dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Instant effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Desirable size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large box",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not satisfied",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:57.179Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

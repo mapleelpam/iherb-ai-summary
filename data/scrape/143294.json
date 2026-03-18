@@ -1,0 +1,68 @@
+{
+  "iherb_id": 143294,
+  "last_updated": "2026-03-20T09:20:17.047Z",
+  "first_scraped": "2026-03-20T09:20:17.047Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective brand, Insulin resistance, Ovulation stronger, Good ingredients, Easy to swallow, Regulate period, Hormone balance, Good start, PCOS symptoms.",
+    "tags": [
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Insulin resistance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ovulation stronger",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate period",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormone balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good start",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "PCOS symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:17.047Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

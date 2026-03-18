@@ -1,0 +1,68 @@
+{
+  "iherb_id": 54603,
+  "last_updated": "2026-03-20T10:01:12.446Z",
+  "first_scraped": "2026-03-20T10:01:12.446Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mild mood, Deeper sleep, Easy to swallow, Sleep aid, Help relax, Mental clarity, Focused throughout, Calm nerves. Some note: Safe choice.",
+    "tags": [
+      {
+        "name": "Mild mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deeper sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Help relax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Focused throughout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calm nerves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Safe choice",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:12.446Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

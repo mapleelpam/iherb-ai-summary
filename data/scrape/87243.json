@@ -1,0 +1,68 @@
+{
+  "iherb_id": 87243,
+  "last_updated": "2026-03-20T09:59:31.837Z",
+  "first_scraped": "2026-03-20T09:59:31.837Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost in stamina, Clean ingredients, Yummy taste, Extra fat burning, Neutral flavor, Highly recommend, Show improvement, Sweat profusively. Some note: Results loved.",
+    "tags": [
+      {
+        "name": "Boost in stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra fat burning",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Show improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweat profusively",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Results loved",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not great",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:31.837Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

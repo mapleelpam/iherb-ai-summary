@@ -1,0 +1,68 @@
+{
+  "iherb_id": 76634,
+  "last_updated": "2026-03-20T09:28:41.565Z",
+  "first_scraped": "2026-03-20T09:28:41.565Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High dosage, Small capsules, One pill, Doctor recommend, Perfect size, Effective dosage, Boost immunity, Affordable option. Some note: Well packed.",
+    "tags": [
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "One pill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doctor recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doctor energy",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Well packed",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:41.565Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

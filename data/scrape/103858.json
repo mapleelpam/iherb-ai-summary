@@ -1,0 +1,63 @@
+{
+  "iherb_id": 103858,
+  "last_updated": "2026-03-20T10:07:37.779Z",
+  "first_scraped": "2026-03-20T10:07:37.779Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Outstanding performance, Insane recovery, Amazing taste, Long day, Taste good, Improved focus, Effective recovery.",
+    "tags": [
+      {
+        "name": "Outstanding performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Insane recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long day",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad breath",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive, sour",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:37.779Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

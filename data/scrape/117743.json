@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117743,
+  "last_updated": "2026-03-20T09:47:41.400Z",
+  "first_scraped": "2026-03-20T09:47:41.400Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Respiratory health, Less inflammation, Good for immune, Virus protection, Highly recommend, Eased conditions, Pain relief.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Respiratory health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Virus protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eased conditions",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:41.400Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 123624,
+  "last_updated": "2026-03-20T09:51:28.567Z",
+  "first_scraped": "2026-03-20T09:51:28.567Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Amazing taste, Restoration supplement, Heal gut, Packaging perfect, Clear skin, Try it, Natural ingredients, Gradual recovery, Delicious blend, Unique taste.",
+    "tags": [
+      {
+        "name": "Amazing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restoration supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heal gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Packaging perfect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Try it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gradual recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique taste",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:28.567Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

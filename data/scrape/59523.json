@@ -1,0 +1,68 @@
+{
+  "iherb_id": 59523,
+  "last_updated": "2026-03-20T09:49:34.712Z",
+  "first_scraped": "2026-03-20T09:49:34.712Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural raspberry flavour, Very potent, Long lasting, Taste good, Easy to use, Memory improving, Convenient bottle, Boost of energy, Easy packaging.",
+    "tags": [
+      {
+        "name": "Natural raspberry flavour",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very potent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long lasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improving",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:34.712Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

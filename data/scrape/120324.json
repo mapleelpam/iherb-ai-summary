@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120324,
+  "last_updated": "2026-03-20T09:53:20.869Z",
+  "first_scraped": "2026-03-20T09:53:20.869Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes good, Tasty protein, Moist baking, Best taste, Good recovery, Budget-friendly protein, Arrived on time, Made in USA.",
+    "tags": [
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moist baking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Budget-friendly protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arrived on time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Made in USA",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Artificial sweeteners",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Chemical taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:20.869Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

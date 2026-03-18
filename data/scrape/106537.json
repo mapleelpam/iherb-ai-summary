@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106537,
+  "last_updated": "2026-03-20T10:04:17.016Z",
+  "first_scraped": "2026-03-20T10:04:17.016Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Allergy friendly, Skin improvement, Decent supplement, Round tablet, Easy to take, Better vision, Solid dosage, Eye health.",
+    "tags": [
+      {
+        "name": "Allergy friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Round tablet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Solid dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low absorption",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No visible result",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:17.016Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

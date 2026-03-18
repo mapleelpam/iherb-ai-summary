@@ -1,0 +1,68 @@
+{
+  "iherb_id": 800,
+  "last_updated": "2026-03-20T09:42:43.539Z",
+  "first_scraped": "2026-03-20T09:42:43.539Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Longer lasting energy, Noticeable difference, Good ingredient, Easy to swallow, High energy, Detox benefits, High nutrients, Eye health. Some note: Pure spirulina.",
+    "tags": [
+      {
+        "name": "Longer lasting energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High nutrients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure spirulina",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High purine",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:43.539Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

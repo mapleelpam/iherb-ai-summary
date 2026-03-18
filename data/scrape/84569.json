@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84569,
+  "last_updated": "2026-03-20T09:17:17.003Z",
+  "first_scraped": "2026-03-20T09:17:17.003Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient size, Helped a lot, Antioxidant good, Good dosage, Boost immunity, Effective ingredients, Gentle on stomach, Good size. Some note: Great vit. C, Nice ingredients.",
+    "tags": [
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped a lot",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great vit. C",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nice ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:17.003Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

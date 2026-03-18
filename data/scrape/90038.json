@@ -1,0 +1,68 @@
+{
+  "iherb_id": 90038,
+  "last_updated": "2026-03-20T10:07:07.213Z",
+  "first_scraped": "2026-03-20T10:07:07.213Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast absorption, Tasty option, Works great, Reduced inflammation, Convenient packaging, Healthy metabolism, Satisfactory levels, Easy to take.",
+    "tags": [
+      {
+        "name": "Fast absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfactory levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Spilt everywhere",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:07.213Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

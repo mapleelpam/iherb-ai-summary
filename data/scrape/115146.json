@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115146,
+  "last_updated": "2026-03-20T10:12:26.350Z",
+  "first_scraped": "2026-03-20T10:12:26.350Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Heart health, Increased energy, Effective supplement, Much better, Worth trying, Blood pressure, Prompt delivery, Improvement noticed, Affordable supplier, Good for cholesterol.",
+    "tags": [
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Much better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth trying",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable supplier",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for cholesterol",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:26.350Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86136,
+  "last_updated": "2026-03-20T09:32:12.868Z",
+  "first_scraped": "2026-03-20T09:32:12.868Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Arthritis relief, Joint pain, Works great, Immune support, Effective anti-inflammatory, Black pepper, Good for health, Natural way.",
+    "tags": [
+      {
+        "name": "Arthritis relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective anti-inflammatory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Black pepper",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large capsules",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not potent",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:12.868Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

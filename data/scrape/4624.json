@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4624,
+  "last_updated": "2026-03-20T09:30:42.347Z",
+  "first_scraped": "2026-03-20T09:30:42.347Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Budget priced, No tingling, Blood sugar, Support endocrine, Timely delivery, Weight loss, Big difference, Nice price. Some note: Lower glucose.",
+    "tags": [
+      {
+        "name": "Budget priced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No tingling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support endocrine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timely delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Lower glucose",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:42.347Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

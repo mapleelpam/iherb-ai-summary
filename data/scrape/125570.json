@@ -1,0 +1,68 @@
+{
+  "iherb_id": 125570,
+  "last_updated": "2026-03-20T09:29:51.555Z",
+  "first_scraped": "2026-03-20T09:29:51.555Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Good ingredient, Pure & clean, Natural ingredients, Effective brand, Potent dose, Good booster, Feeling well, Brain function. Some note: Excellent additive.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure & clean",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:51.555Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

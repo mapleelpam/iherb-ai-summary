@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117753,
+  "last_updated": "2026-03-20T09:49:04.490Z",
+  "first_scraped": "2026-03-20T09:49:04.490Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Aid digestion, Like everything, Antioxidant properties, Competitive price, Comparable strength, Eyes vision better, Blood pressure, Natural taurine, Nerve repair.",
+    "tags": [
+      {
+        "name": "Aid digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Like everything",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Competitive price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comparable strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eyes vision better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural taurine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nerve repair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Won't purchase",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:04.490Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

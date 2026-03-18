@@ -1,0 +1,68 @@
+{
+  "iherb_id": 33108,
+  "last_updated": "2026-03-20T09:54:59.583Z",
+  "first_scraped": "2026-03-20T09:54:59.583Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient snack, Creamy vanilla, Nice price, Great flavor, First bite, Amazing stuff, Good taste, Lowest rates.",
+    "tags": [
+      {
+        "name": "Convenient snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Creamy vanilla",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First bite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowest rates",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce sugar",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:59.583Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1710,
+  "last_updated": "2026-03-20T09:47:53.376Z",
+  "first_scraped": "2026-03-20T09:47:53.376Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Glass container, Works fine, Vegan-friendly product, Natural ingredients, Hair health, Stop grey hair, Improved mood, Hot flashes.",
+    "tags": [
+      {
+        "name": "Glass container",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan-friendly product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stop grey hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hot flashes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Price prohibitive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Caremark better",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:53.376Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

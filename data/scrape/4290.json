@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4290,
+  "last_updated": "2026-03-20T10:00:22.280Z",
+  "first_scraped": "2026-03-20T10:00:22.280Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Heart health, Pain relief, Game changer, Quick recovery, Shipping speed, Immediate energy, Energy boost. Some note: Aided improved.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shipping speed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loose bowels",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Aided improved",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:22.280Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

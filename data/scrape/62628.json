@@ -1,0 +1,68 @@
+{
+  "iherb_id": 62628,
+  "last_updated": "2026-03-20T10:24:04.316Z",
+  "first_scraped": "2026-03-20T10:24:04.316Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fantastic choice, Cost benefit, Moderate boost, Exclusive choice, Strong energy, Best flavor, Increase strength, More energy. Some note: Personal preference.",
+    "tags": [
+      {
+        "name": "Fantastic choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cost benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Moderate boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Exclusive choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Personal preference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:04.316Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

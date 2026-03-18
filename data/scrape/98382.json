@@ -1,0 +1,68 @@
+{
+  "iherb_id": 98382,
+  "last_updated": "2026-03-20T10:08:43.208Z",
+  "first_scraped": "2026-03-20T10:08:43.208Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune boost, Seasonal symptoms, Great boost, Good for immunity, Best price, Easy to swallow, Convenient capsules, Great supplement, Fast shipping, Worth a try.",
+    "tags": [
+      {
+        "name": "Immune boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seasonal symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth a try",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:43.208Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

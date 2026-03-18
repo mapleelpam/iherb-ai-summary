@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110357,
+  "last_updated": "2026-03-20T10:24:52.041Z",
+  "first_scraped": "2026-03-20T10:24:52.041Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lovely taste, Effective supplement, Vegan ingredients, Tastes good, Promotes collagen, Brilliant addition, Clean ingredients, Skin glow. Some note: No difference.",
+    "tags": [
+      {
+        "name": "Lovely taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Promotes collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brilliant addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin glow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not tasty",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:52.041Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

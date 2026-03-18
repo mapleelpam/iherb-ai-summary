@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6546,
+  "last_updated": "2026-03-20T09:47:16.056Z",
+  "first_scraped": "2026-03-20T09:47:16.056Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for digestion, Relieved heartburn, Big bottle, Gut health, Nice twistouts, Fast shipping, Organically grown, Multi tasking. Some note: Natural cleanser.",
+    "tags": [
+      {
+        "name": "Good for digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieved heartburn",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice twistouts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organically grown",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Multi tasking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Natural cleanser",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:16.056Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

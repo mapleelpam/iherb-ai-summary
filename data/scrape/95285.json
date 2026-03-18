@@ -1,0 +1,68 @@
+{
+  "iherb_id": 95285,
+  "last_updated": "2026-03-20T10:09:12.598Z",
+  "first_scraped": "2026-03-20T10:09:12.598Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Happy gut, Manageable size, Appetite control, More energy, Cravings disappeared, Skeptic success, Helps metabolism, Energy boost. Some note: CLA capsules.",
+    "tags": [
+      {
+        "name": "Happy gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Manageable size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Appetite control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cravings disappeared",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skeptic success",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "CLA capsules",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:12.598Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

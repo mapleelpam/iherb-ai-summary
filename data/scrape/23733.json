@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23733,
+  "last_updated": "2026-03-20T09:21:04.354Z",
+  "first_scraped": "2026-03-20T09:21:04.354Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient option, High levels, Flavour is nice, Chewable and tasty, Easy to take, Good ingredients, Pleasant taste, Good combination. Some note: Tasty option, Efficient product.",
+    "tags": [
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flavour is nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chewable and tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Efficient product",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:04.354Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

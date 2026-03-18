@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116313,
+  "last_updated": "2026-03-20T10:04:27.770Z",
+  "first_scraped": "2026-03-20T10:04:27.770Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Significantly reduces, Joint comfort, Love swanson's, Pain relief, Good dosage, Aches and pains, No issues, Works wonders.",
+    "tags": [
+      {
+        "name": "Significantly reduces",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint comfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love swanson's",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Aches and pains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too warming",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Vegetarians beware",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:27.770Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

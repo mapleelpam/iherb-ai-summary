@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18518,
+  "last_updated": "2026-03-20T10:13:36.185Z",
+  "first_scraped": "2026-03-20T10:13:36.185Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient capsule, Energy boost, Love this, Shrink fibroids, Clean products, Easy to drink, Quick delivery, Good deal. Some note: Not whole food.",
+    "tags": [
+      {
+        "name": "Convenient capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shrink fibroids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean products",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not whole food",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:36.185Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

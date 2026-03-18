@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4581,
+  "last_updated": "2026-03-20T10:13:06.592Z",
+  "first_scraped": "2026-03-20T10:13:06.592Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Study aid, Great supplement, Improved concentration, Confidence instilled, Health improvement, Contains amino acid, Effective brand. Some note: Cognition enhancing, Regular suffices.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Study aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Confidence instilled",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Contains amino acid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cognition enhancing",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Regular suffices",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:06.592Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

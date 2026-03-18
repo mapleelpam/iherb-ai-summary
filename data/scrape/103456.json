@@ -1,0 +1,68 @@
+{
+  "iherb_id": 103456,
+  "last_updated": "2026-03-20T09:22:02.159Z",
+  "first_scraped": "2026-03-20T09:22:02.159Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves health, Organic source, Swift delivery, Reduced pain, Easy to dissolve, Improved digestion, Joint pain, Improved recovery, Halal friendly, No taste.",
+    "tags": [
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Swift delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Halal friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:02.159Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

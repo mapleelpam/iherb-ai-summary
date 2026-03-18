@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8933,
+  "last_updated": "2026-03-20T10:03:30.528Z",
+  "first_scraped": "2026-03-20T10:03:30.528Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love ingredients, Effective ingredients, Easy consumption, Fast shipping, Helpful supplement, Faster recovery, Sinus relief, Relatively inexpensive. Some note: Not used.",
+    "tags": [
+      {
+        "name": "Love ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy consumption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Faster recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sinus relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relatively inexpensive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not used",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:30.528Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

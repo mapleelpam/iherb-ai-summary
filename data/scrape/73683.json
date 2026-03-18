@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73683,
+  "last_updated": "2026-03-20T10:13:58.206Z",
+  "first_scraped": "2026-03-20T10:13:58.206Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Relief from reflux, Effective blend, Good progress, Tastes great, Highly recommend, Improved stomach, Working properly, Noticeable results.",
+    "tags": [
+      {
+        "name": "Relief from reflux",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good progress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Working properly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sugar free",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:58.206Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

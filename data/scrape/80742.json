@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80742,
+  "last_updated": "2026-03-20T10:20:27.858Z",
+  "first_scraped": "2026-03-20T10:20:27.858Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, More energy, Boost immunity, Miraculous, Sleep well, Speed up recovery, Fight flu, Feel great, Knocked out.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Miraculous",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speed up recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fight flu",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Knocked out",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive brand",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:27.858Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14470,
+  "last_updated": "2026-03-20T10:32:26.180Z",
+  "first_scraped": "2026-03-20T10:32:26.180Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great nights sleep, Helped me, Easy to clean, Refreshed and alert, Better than, Deep sleep, Trusted brand, Helps sleep.",
+    "tags": [
+      {
+        "name": "Great nights sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to clean",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshed and alert",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better than",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not strong",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Drugged feeling",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:26.180Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

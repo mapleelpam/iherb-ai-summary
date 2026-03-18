@@ -1,0 +1,68 @@
+{
+  "iherb_id": 54958,
+  "last_updated": "2026-03-20T10:13:38.245Z",
+  "first_scraped": "2026-03-20T10:13:38.245Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Balancing hormones, Sleep better, Changed life, Reduced hot flashes, Hot flushes, Easy dosage, Good ingredients, Sweet taste.",
+    "tags": [
+      {
+        "name": "Balancing hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Changed life",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced hot flashes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hot flushes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acne",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Period discomfort",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:38.245Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

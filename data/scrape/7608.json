@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7608,
+  "last_updated": "2026-03-20T10:09:44.296Z",
+  "first_scraped": "2026-03-20T10:09:44.296Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Benefit hope, Speedy service, Boosts immune, Would buy, Potency, More resilient, Time released, Hard to find, High concentration. Some note: Effective ingredient.",
+    "tags": [
+      {
+        "name": "Benefit hope",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Would buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More resilient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Time released",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to find",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredient",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:44.296Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

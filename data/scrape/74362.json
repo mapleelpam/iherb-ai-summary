@@ -1,0 +1,68 @@
+{
+  "iherb_id": 74362,
+  "last_updated": "2026-03-20T10:21:45.053Z",
+  "first_scraped": "2026-03-20T10:21:45.053Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works better, Convenient package, Natural ingredients, Beneficial support, Trusted brand, Prompt delivery, Healthy & strong, Easy on stomach. Some note: Little improvements.",
+    "tags": [
+      {
+        "name": "Works better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy & strong",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Little improvements",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:45.053Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

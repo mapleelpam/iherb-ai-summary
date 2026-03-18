@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48271,
+  "last_updated": "2026-03-20T09:50:39.487Z",
+  "first_scraped": "2026-03-20T09:50:39.487Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Watermelon taste, Powder issue, More energy, More water, Refreshing twist, Third order, Taste's nice, Good additive. Some note: Preferred flavor.",
+    "tags": [
+      {
+        "name": "Watermelon taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powder issue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More water",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing twist",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Third order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste's nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preferred flavor",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Chemical taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:39.487Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

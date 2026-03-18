@@ -1,0 +1,68 @@
+{
+  "iherb_id": 25297,
+  "last_updated": "2026-03-20T10:25:26.340Z",
+  "first_scraped": "2026-03-20T10:25:26.340Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Meal replacement, Tastes good, Lunchtime workout, Muscle gain, Natural flavor, Flavor out, Keeps me full, Feel full.",
+    "tags": [
+      {
+        "name": "Meal replacement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lunchtime workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle gain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flavor out",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps me full",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel full",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive switch",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:26.340Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

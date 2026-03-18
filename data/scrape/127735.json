@@ -1,0 +1,68 @@
+{
+  "iherb_id": 127735,
+  "last_updated": "2026-03-20T10:35:27.015Z",
+  "first_scraped": "2026-03-20T10:35:27.015Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good to use, Parasite cleanse, Oral health, Natural healer, Destroy pathogens, Affordable option, Improved digestion, Pure ingredients. Some note: Mild taste.",
+    "tags": [
+      {
+        "name": "Good to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Parasite cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Oral health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural healer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Destroy pathogens",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too pricy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:35:27.015Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

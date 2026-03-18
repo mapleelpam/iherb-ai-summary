@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13733,
+  "last_updated": "2026-03-20T10:10:38.325Z",
+  "first_scraped": "2026-03-20T10:10:38.325Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Immune support, Small capsules, Great success, Friend recommended, Glass bottles, Highly recommend, Small size, No reaction, Symptom relief.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great success",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Friend recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass bottles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No reaction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Symptom relief",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:38.325Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1813,
+  "last_updated": "2026-03-20T10:14:40.992Z",
+  "first_scraped": "2026-03-20T10:14:40.992Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Happy with results, Happy pills, Quality sleep, Noticeable energy, Feel calm, Well packed, Worth a try, Natural jolt. Some note: Fast shipping.",
+    "tags": [
+      {
+        "name": "Happy with results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel calm",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth a try",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural jolt",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Felt light-headed",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:40.992Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97675,
+  "last_updated": "2026-03-20T09:43:02.480Z",
+  "first_scraped": "2026-03-20T09:43:02.480Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural source, Abundant sunshine, Increased levels, Small capsules, Easy to swallow, High dosage, Value for money, Efficient supplement. Some note: Vegan option.",
+    "tags": [
+      {
+        "name": "Natural source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Abundant sunshine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inhumane slaughter",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Vegan option",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:02.480Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

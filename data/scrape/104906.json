@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104906,
+  "last_updated": "2026-03-20T10:00:37.950Z",
+  "first_scraped": "2026-03-20T10:00:37.950Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Helpful supplement, Expiration dates, Good taste, Tastes great, Good result, Fruity flavor, Tasty vitamins. Some note: Immune support, Great benefit.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expiration dates",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fruity flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great benefit",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:37.950Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

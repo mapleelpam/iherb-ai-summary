@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97001,
+  "last_updated": "2026-03-20T09:44:14.669Z",
+  "first_scraped": "2026-03-20T09:44:14.669Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Satisfactory results, Overall health, Improved muscle recovery, Vegetarian capsules, Regular use, Improved functions, Love this brand, Empty stomach. Some note: Energy boost.",
+    "tags": [
+      {
+        "name": "Satisfactory results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegetarian capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved functions",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Empty stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difficult to swallow",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:14.669Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 139191,
+  "last_updated": "2026-03-20T10:18:41.243Z",
+  "first_scraped": "2026-03-20T10:18:41.243Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Magnesium benefits, Travel convenience, Tastes great, Flavor preference, Speedy delivery, Tart lemon, Simple ingredients, General health. Some note: Stress relief, Sleep improvement.",
+    "tags": [
+      {
+        "name": "Magnesium benefits",
+        "classification": 0,
+        "count": 22
+      },
+      {
+        "name": "Travel convenience",
+        "classification": 0,
+        "count": 12
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 12
+      },
+      {
+        "name": "Flavor preference",
+        "classification": 0,
+        "count": 5
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 5
+      },
+      {
+        "name": "Tart lemon",
+        "classification": 0,
+        "count": 5
+      },
+      {
+        "name": "Simple ingredients",
+        "classification": 0,
+        "count": 3
+      },
+      {
+        "name": "General health",
+        "classification": 0,
+        "count": 2
+      },
+      {
+        "name": "Stress relief",
+        "classification": 1,
+        "count": 12
+      },
+      {
+        "name": "Sleep improvement",
+        "classification": 1,
+        "count": 9
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:41.243Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

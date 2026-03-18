@@ -1,0 +1,68 @@
+{
+  "iherb_id": 50955,
+  "last_updated": "2026-03-20T10:18:21.887Z",
+  "first_scraped": "2026-03-20T10:18:21.887Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved vision, More energetic, Restores adrenal, Allrounder fruit, Natural remedy, Improved vitality, Affordable supplement, Stress response, Mental clarity.",
+    "tags": [
+      {
+        "name": "Improved vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restores adrenal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allrounder fruit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress response",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No benefit",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:21.887Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

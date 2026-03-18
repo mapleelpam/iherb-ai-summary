@@ -1,0 +1,68 @@
+{
+  "iherb_id": 126655,
+  "last_updated": "2026-03-20T10:18:04.379Z",
+  "first_scraped": "2026-03-20T10:18:04.379Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean energy, Energy boost, Favorite flavor, Endurance improvement, Apple flavor, Muscle power, Focus and energy, Nice taste. Some note: Natural ingredients, Muscle support.",
+    "tags": [
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 17
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 13
+      },
+      {
+        "name": "Favorite flavor",
+        "classification": 0,
+        "count": 12
+      },
+      {
+        "name": "Endurance improvement",
+        "classification": 0,
+        "count": 9
+      },
+      {
+        "name": "Apple flavor",
+        "classification": 0,
+        "count": 8
+      },
+      {
+        "name": "Muscle power",
+        "classification": 0,
+        "count": 5
+      },
+      {
+        "name": "Focus and energy",
+        "classification": 0,
+        "count": 4
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 4
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 1,
+        "count": 8
+      },
+      {
+        "name": "Muscle support",
+        "classification": 1,
+        "count": 8
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:04.379Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

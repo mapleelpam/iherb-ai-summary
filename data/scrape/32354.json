@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32354,
+  "last_updated": "2026-03-20T10:11:18.613Z",
+  "first_scraped": "2026-03-20T10:11:18.613Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Soluble and soft, Easy swallow, So far so good, High concentration, Nice price, Bigger size, Best lutein. Some note: Second time purchase.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soluble and soft",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "So far so good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bigger size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best lutein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Second time purchase",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Weird taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:18.613Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

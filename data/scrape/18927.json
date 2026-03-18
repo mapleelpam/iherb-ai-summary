@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18927,
+  "last_updated": "2026-03-20T10:11:24.599Z",
+  "first_scraped": "2026-03-20T10:11:24.599Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Liquid minerals, Better sleep, Gentle taste, Love the subscription, Love these, Very satisfied, More energy, Great way. Some note: Slightly sour taste.",
+    "tags": [
+      {
+        "name": "Liquid minerals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the subscription",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love these",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not convinced",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Slightly sour taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:24.599Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

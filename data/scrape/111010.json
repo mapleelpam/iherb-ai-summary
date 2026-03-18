@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111010,
+  "last_updated": "2026-03-20T09:37:43.816Z",
+  "first_scraped": "2026-03-20T09:37:43.816Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Value for money, Fast shipping, Great balance, Feel improvement, Suitable supplement, No aftertaste, Helps a lot, Digestive system. Some note: First time.",
+    "tags": [
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suitable supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps a lot",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not impressed",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "First time",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:43.816Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

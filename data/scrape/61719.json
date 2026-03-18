@@ -1,0 +1,68 @@
+{
+  "iherb_id": 61719,
+  "last_updated": "2026-03-20T10:11:12.514Z",
+  "first_scraped": "2026-03-20T10:11:12.514Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Felt energized, Good choice, Additional protection, Best antioxidants, Will order again, Easy to take, Suitable for kids, Tasty gummies. Some note: Help improve, Tasty option.",
+    "tags": [
+      {
+        "name": "Felt energized",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Additional protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best antioxidants",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Will order again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suitable for kids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Help improve",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:12.514Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

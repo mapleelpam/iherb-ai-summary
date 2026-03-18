@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7379,
+  "last_updated": "2026-03-20T10:00:09.798Z",
+  "first_scraped": "2026-03-20T10:00:09.798Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helped a lot, Good for health, Works best, Helps digestion, Compact size, Cheap and effective, Travel friendly, Effective blend.",
+    "tags": [
+      {
+        "name": "Helped a lot",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works best",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Compact size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheap and effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Travel friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Little effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Unusable product",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:09.798Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

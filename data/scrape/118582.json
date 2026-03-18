@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118582,
+  "last_updated": "2026-03-20T10:05:51.175Z",
+  "first_scraped": "2026-03-20T10:05:51.175Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lower cholesterol, High-potency formulation, Cost-effective option, Dietician recommended, Cholesterol regulating, Good amount, Prostate support, Small size, Fast shipping, Boost in energy.",
+    "tags": [
+      {
+        "name": "Lower cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High-potency formulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cost-effective option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dietician recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol regulating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prostate support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost in energy",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:51.175Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

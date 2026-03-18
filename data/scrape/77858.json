@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77858,
+  "last_updated": "2026-03-20T09:19:36.652Z",
+  "first_scraped": "2026-03-20T09:19:36.652Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improvement overall, High concentration, Anti-inflammatory benefits, Powerful antioxidant, Easy to take, Large capsules, Good amount, Joint inflammation. Some note: Very satisfied, Helps inflammation.",
+    "tags": [
+      {
+        "name": "Improvement overall",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helps inflammation",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:36.652Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3416,
+  "last_updated": "2026-03-20T10:10:18.143Z",
+  "first_scraped": "2026-03-20T10:10:18.143Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful at night, Reasonable delivery time, No vitamin D, Powder form, Vegan capsules, Nightmares relief, Effective ingredients, Exactly what I needed. Some note: Just switched.",
+    "tags": [
+      {
+        "name": "Helpful at night",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable delivery time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No vitamin D",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powder form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nightmares relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Exactly what I needed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Just switched",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Leg cramps",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:18.143Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 16058,
+  "last_updated": "2026-03-20T10:15:59.243Z",
+  "first_scraped": "2026-03-20T10:15:59.243Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient tablets, Love this, Immune booster, Great combination, Natural source, Body odour, No fillers, Improvement in sight, Big bottle. Some note: Easy to swallow.",
+    "tags": [
+      {
+        "name": "Convenient tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body odour",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fillers",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in sight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:59.243Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

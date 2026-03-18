@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111255,
+  "last_updated": "2026-03-20T10:27:04.439Z",
+  "first_scraped": "2026-03-20T10:27:04.439Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good sleep, Great combo, Fair pricing, Easy to swallow, Good health, Joint pain, Sleep aid, Balance booster, Rest improved.",
+    "tags": [
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair pricing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balance booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rest improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:04.439Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

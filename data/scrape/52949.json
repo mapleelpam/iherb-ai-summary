@@ -1,0 +1,68 @@
+{
+  "iherb_id": 52949,
+  "last_updated": "2026-03-20T09:47:56.468Z",
+  "first_scraped": "2026-03-20T09:47:56.468Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great for inflammation, Enhanced absorption, Fantastic body support, High dose, Noticeable difference, Love this brand, Nice, Improve health.",
+    "tags": [
+      {
+        "name": "Great for inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic body support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lacking potency",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hard tablets",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:56.468Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

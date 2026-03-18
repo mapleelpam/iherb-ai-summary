@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110904,
+  "last_updated": "2026-03-20T09:58:54.617Z",
+  "first_scraped": "2026-03-20T09:58:54.617Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clears face, Skin improvement, Nice combination, Easy to swallow, Less breakouts, Effective recovery, Teen acne, Works wonders. Some note: Helps acne.",
+    "tags": [
+      {
+        "name": "Clears face",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less breakouts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Teen acne",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Disappointing outcome",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Helps acne",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:54.617Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

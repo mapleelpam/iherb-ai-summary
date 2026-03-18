@@ -1,0 +1,68 @@
+{
+  "iherb_id": 140014,
+  "last_updated": "2026-03-20T09:31:26.073Z",
+  "first_scraped": "2026-03-20T09:31:26.073Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Feel energetic, Effective supplement, Easy to take, Powerful antioxidants, Immune function, No taste, Nice combination, Good choice. Some note: Chronic fatigue.",
+    "tags": [
+      {
+        "name": "Feel energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidants",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chronic fatigue",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sinus triggered",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:26.073Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

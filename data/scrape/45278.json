@@ -1,0 +1,68 @@
+{
+  "iherb_id": 45278,
+  "last_updated": "2026-03-20T10:34:30.084Z",
+  "first_scraped": "2026-03-20T10:34:30.084Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helped me, Good experiences, Standardized extract, Root extract, Health benefits, Boost immune, Good overall adaptogen, Anti-cancer benefits. Some note: Phytochemicals, amino acids.",
+    "tags": [
+      {
+        "name": "Helped me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good experiences",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Standardized extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Root extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good overall adaptogen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-cancer benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Didn't feel",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Phytochemicals, amino acids",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:34:30.084Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

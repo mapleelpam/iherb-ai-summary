@@ -1,0 +1,68 @@
+{
+  "iherb_id": 722,
+  "last_updated": "2026-03-20T09:29:23.797Z",
+  "first_scraped": "2026-03-20T09:29:23.797Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy way, Vegan cheese, Delicious flavor, Versatile and nutritious, Natural ingredients, Improved health, Cheesy flavor, Life-changing supplement. Some note: Easily mixed, The product is so good.",
+    "tags": [
+      {
+        "name": "Easy way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan cheese",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Versatile and nutritious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheesy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life-changing supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easily mixed",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "The product is so good",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:23.797Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

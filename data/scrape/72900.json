@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72900,
+  "last_updated": "2026-03-20T09:36:50.629Z",
+  "first_scraped": "2026-03-20T09:36:50.629Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Gut health, Boost endurance, Quick recovery, Body building essential, Good results, Clean product, Muscle recovery, Immunity support. Some note: Excellent additive, Quite tasteless.",
+    "tags": [
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body building essential",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Quite tasteless",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:50.629Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

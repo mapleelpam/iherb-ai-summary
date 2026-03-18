@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67722,
+  "last_updated": "2026-03-20T10:12:44.884Z",
+  "first_scraped": "2026-03-20T10:12:44.884Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Full of vitamin, Good ingredients, Test size, Metabolic changes, All in one, Once again, Great vitamin stack, Recovery support. Some note: Good dosages.",
+    "tags": [
+      {
+        "name": "Full of vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Test size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Metabolic changes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "All in one",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Once again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great vitamin stack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recovery support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosages",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Underdosage issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:44.884Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

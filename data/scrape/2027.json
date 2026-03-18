@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2027,
+  "last_updated": "2026-03-20T09:44:46.518Z",
+  "first_scraped": "2026-03-20T09:44:46.518Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice package, Body odor relief, Stay safe, Nice purchase, Digestive health, Effective supplement, Apigenin source, Good diuretic, Bad breath.",
+    "tags": [
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body odor relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stay safe",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Apigenin source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good diuretic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad breath",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not potent",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:46.518Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

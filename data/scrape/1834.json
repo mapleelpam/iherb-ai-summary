@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1834,
+  "last_updated": "2026-03-20T09:37:10.071Z",
+  "first_scraped": "2026-03-20T09:37:10.071Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Helpful supplement, Works miracles, Detox help, Improved digestion, Boosting immunity, Good results, Easy to swallow. Some note: Not sure, Slow results.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works miracles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Slow results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:10.071Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

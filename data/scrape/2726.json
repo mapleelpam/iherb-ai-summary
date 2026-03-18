@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2726,
+  "last_updated": "2026-03-20T10:14:42.904Z",
+  "first_scraped": "2026-03-20T10:14:42.904Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps with digestion, Stomach support, Slowly feel improvement, Bloating gone, Ease discomfort, Fast shipping, Stomach felt better, Reliable supplement.",
+    "tags": [
+      {
+        "name": "Helps with digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slowly feel improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bloating gone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ease discomfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach felt better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Traces of bacteria",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:42.904Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

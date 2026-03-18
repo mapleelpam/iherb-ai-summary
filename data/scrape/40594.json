@@ -1,0 +1,68 @@
+{
+  "iherb_id": 40594,
+  "last_updated": "2026-03-20T10:04:43.653Z",
+  "first_scraped": "2026-03-20T10:04:43.653Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Aid stomach, Good digestion, Good probiotic, Good health, Good stuff, Intestinal health, Digestive support, Friend likes. Some note: Happy gut.",
+    "tags": [
+      {
+        "name": "Aid stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intestinal health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Friend likes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy gut",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Needs refrigeration",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:43.653Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

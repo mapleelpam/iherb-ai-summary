@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11190,
+  "last_updated": "2026-03-20T10:37:03.172Z",
+  "first_scraped": "2026-03-20T10:37:03.172Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Well balanced, Easy to swallow, Great supplement, Preventive pill, High level, Vegetarian capsules, Very satisfied, Increased appetite, Iron-free vitamins.",
+    "tags": [
+      {
+        "name": "Well balanced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventive pill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High level",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegetarian capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Iron-free vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soybeans surprise",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:37:03.172Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

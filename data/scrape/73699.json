@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73699,
+  "last_updated": "2026-03-20T10:07:43.815Z",
+  "first_scraped": "2026-03-20T10:07:43.815Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean ingredients, Detox benefits, Rich in sulphur, Convenient way, Hard to find, Nice package, Nutrients my body, Easy consumption. Some note: Taste not bad.",
+    "tags": [
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich in sulphur",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to find",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrients my body",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy consumption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste not bad",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not what",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:43.815Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

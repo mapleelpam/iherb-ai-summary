@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70872,
+  "last_updated": "2026-03-20T09:55:14.361Z",
+  "first_scraped": "2026-03-20T09:55:14.361Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More magnesium, Good combination, Healthy bones, Supports health, Highly recommend, Dosage amount, Quality supplement, Helps anxiety. Some note: Complete ingredients.",
+    "tags": [
+      {
+        "name": "More magnesium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dosage amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large tablets",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Complete ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:14.361Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

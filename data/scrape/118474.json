@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118474,
+  "last_updated": "2026-03-20T10:06:32.648Z",
+  "first_scraped": "2026-03-20T10:06:32.648Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Price is good, Started to work, Good bacteria, Stronger and cheaper, Improves microbiota, Delayed release, Energy boost, Improved digestion. Some note: So-so effect.",
+    "tags": [
+      {
+        "name": "Price is good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Started to work",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good bacteria",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger and cheaper",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves microbiota",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delayed release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Constipation issue",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "So-so effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:32.648Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

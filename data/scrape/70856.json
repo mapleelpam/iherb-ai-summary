@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70856,
+  "last_updated": "2026-03-20T10:05:18.579Z",
+  "first_scraped": "2026-03-20T10:05:18.579Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Rich in vitamins, Essential vitamins, Organic ingredients, Superfood, Nutritional top up, Cleanse bowel, Convenient, Helps with sleep. Some note: Improved digestion, Not sure.",
+    "tags": [
+      {
+        "name": "Rich in vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superfood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutritional top up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleanse bowel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:18.579Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

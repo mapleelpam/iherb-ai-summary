@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22440,
+  "last_updated": "2026-03-20T10:12:53.997Z",
+  "first_scraped": "2026-03-20T10:12:53.997Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Allergen friendly, Minimal ingredients, Small tablets, Boosting energy, Good taste, Absorbed amazingly, Tastes good, Essential for vegetarians. Some note: Light neuropathy gone, Potent dosage.",
+    "tags": [
+      {
+        "name": "Allergen friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Minimal ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorbed amazingly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential for vegetarians",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Light neuropathy gone",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Potent dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:53.997Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

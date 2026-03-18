@@ -1,0 +1,68 @@
+{
+  "iherb_id": 46725,
+  "last_updated": "2026-03-20T09:29:08.136Z",
+  "first_scraped": "2026-03-20T09:29:08.136Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clear vision, Effective brand, Penetrates effectively, Great supplement, Antioxidant formula, Easy to use, Large size, Macular degeneration stabilized. Some note: Not sure, No difference.",
+    "tags": [
+      {
+        "name": "Clear vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Penetrates effectively",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Macular degeneration stabilized",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:08.136Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

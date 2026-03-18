@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80995,
+  "last_updated": "2026-03-20T09:48:48.691Z",
+  "first_scraped": "2026-03-20T09:48:48.691Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love zhou's, Trustworthy and would buy again, Good composition, Convenient dosage, Very nice, Selected ingredients, Easy to take, Energy boost.",
+    "tags": [
+      {
+        "name": "Love zhou's",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trustworthy and would buy again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Selected ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear capsules",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Severe joint pain",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:48.691Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

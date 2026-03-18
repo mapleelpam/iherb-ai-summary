@@ -1,0 +1,68 @@
+{
+  "iherb_id": 26984,
+  "last_updated": "2026-03-20T10:05:20.666Z",
+  "first_scraped": "2026-03-20T10:05:20.666Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Life saver, Heart health, Helpful product, Quick acting, Fast dissolve, Calm evening, Easy to take, Stress relief. Some note: Pure melatonin.",
+    "tags": [
+      {
+        "name": "Life saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick acting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calm evening",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Pure melatonin",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:20.666Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

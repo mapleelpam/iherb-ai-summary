@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120341,
+  "last_updated": "2026-03-20T10:16:20.181Z",
+  "first_scraped": "2026-03-20T10:16:20.181Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Less tired eyes, Improved vision, Relief for eyes, Maintaining healthy eyes, Good composition, Animal free, Great so far. Some note: Blue light.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less tired eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief for eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintaining healthy eyes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Animal free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great so far",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blue light",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Screen time",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:20.181Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 131625,
+  "last_updated": "2026-03-20T10:15:38.968Z",
+  "first_scraped": "2026-03-20T10:15:38.968Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great ingredients, Boosts energy, Love brand, Tastes good, Stevia sweetener, Raspberry flavor, Good scent, Best products. Some note: Flavored creatine.",
+    "tags": [
+      {
+        "name": "Great ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stevia sweetener",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Raspberry flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best products",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Animal tested",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Flavored creatine",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:38.968Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

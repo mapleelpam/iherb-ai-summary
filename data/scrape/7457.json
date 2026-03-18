@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7457,
+  "last_updated": "2026-03-20T09:54:02.237Z",
+  "first_scraped": "2026-03-20T09:54:02.237Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Tastes good, Small size, Fast shipping, Yummy flavor, Picky piggies, Higher doses, Kid loves. Some note: Less sweet.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Picky piggies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher doses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kid loves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less sweet",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Big pill",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:02.237Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

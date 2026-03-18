@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85299,
+  "last_updated": "2026-03-20T09:50:53.310Z",
+  "first_scraped": "2026-03-20T09:50:53.310Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Support collagen, Helping with lines, Skin smoother, Good health, Visible improvement, Hair growth, Stronger nails, Must have. Some note: No noticeable effect.",
+    "tags": [
+      {
+        "name": "Support collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helping with lines",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin smoother",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Visible improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Must have",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable effect",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No impact",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:53.310Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

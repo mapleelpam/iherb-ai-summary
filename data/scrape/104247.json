@@ -1,0 +1,63 @@
+{
+  "iherb_id": 104247,
+  "last_updated": "2026-03-20T09:38:53.653Z",
+  "first_scraped": "2026-03-20T09:38:53.653Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean liver, Efficient product, Heavy discount, Higher dose, Easy swallow, Improve functions, No side effects. Some note: Satisfied so far.",
+    "tags": [
+      {
+        "name": "Clean liver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heavy discount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve functions",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied so far",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:53.653Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

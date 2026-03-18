@@ -1,0 +1,68 @@
+{
+  "iherb_id": 121723,
+  "last_updated": "2026-03-20T09:44:14.611Z",
+  "first_scraped": "2026-03-20T09:44:14.611Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy on, Boost immune, Buffered relief, Fast delivery, No stomach upset, Time-released, Body functions support, Good benefit. Some note: Glass container.",
+    "tags": [
+      {
+        "name": "Easy on",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buffered relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No stomach upset",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Time-released",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body functions support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difficult to swallow",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Glass container",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:14.611Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

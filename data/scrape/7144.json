@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7144,
+  "last_updated": "2026-03-20T10:16:38.570Z",
+  "first_scraped": "2026-03-20T10:16:38.570Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Good energy, Body cleansing, Inner balance, Bowel movement, Good detox, Less bloated, Feel lighter.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body cleansing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inner balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bowel movement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel lighter",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Packaging improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Severe stomach cramps",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:38.570Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

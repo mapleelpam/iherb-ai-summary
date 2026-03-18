@@ -1,0 +1,68 @@
+{
+  "iherb_id": 19192,
+  "last_updated": "2026-03-20T10:02:11.270Z",
+  "first_scraped": "2026-03-20T10:02:11.270Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trust this brand, Clear up, Liver protective, Fatty liver, Fast shipment, Natural product, Great blend, Clear ingredients. Some note: Effective detox.",
+    "tags": [
+      {
+        "name": "Trust this brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver protective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fatty liver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not happy",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Effective detox",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:11.270Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

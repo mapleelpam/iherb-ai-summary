@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119032,
+  "last_updated": "2026-03-20T10:09:00.419Z",
+  "first_scraped": "2026-03-20T10:09:00.419Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty snack, Good taste, Nice texture, High protein, Filling and chocolatey, Guilty free snack, Amazing flavor, Nourishing energy. Some note: Sugar free substitute, Dry coating.",
+    "tags": [
+      {
+        "name": "Tasty snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Filling and chocolatey",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Guilty free snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nourishing energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sugar free substitute",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Dry coating",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:00.419Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

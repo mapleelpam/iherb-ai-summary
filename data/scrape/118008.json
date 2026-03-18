@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118008,
+  "last_updated": "2026-03-20T09:39:10.731Z",
+  "first_scraped": "2026-03-20T09:39:10.731Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosting testosterone, Energy boost, Athletic performance, Maintain levels, Effective supplement, Family liked, Enhance experience, Healthy support.",
+    "tags": [
+      {
+        "name": "Boosting testosterone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Athletic performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Family liked",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhance experience",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prostate enlarged",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Low potency",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:10.731Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

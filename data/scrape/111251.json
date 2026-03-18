@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111251,
+  "last_updated": "2026-03-20T10:18:25.883Z",
+  "first_scraped": "2026-03-20T10:18:25.883Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Highly recommend, High dosage, No burps, Fast ship, Easy to take, Sun protection, Nice packing, Heart health, Cardiologists recommend.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No burps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast ship",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sun protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiologists recommend",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:25.883Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

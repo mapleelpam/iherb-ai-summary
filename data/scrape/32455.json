@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32455,
+  "last_updated": "2026-03-20T09:43:08.772Z",
+  "first_scraped": "2026-03-20T09:43:08.772Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps manage, Great boost, More energy, Improvement noticed, Love this, Scalp treatment, Pleasant taste, Easy to take. Some note: Easy absorb, Quick results.",
+    "tags": [
+      {
+        "name": "Helps manage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Scalp treatment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorb",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Quick results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:08.772Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

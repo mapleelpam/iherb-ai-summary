@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107211,
+  "last_updated": "2026-03-20T09:37:01.361Z",
+  "first_scraped": "2026-03-20T09:37:01.361Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Visible improvement, Increases good cholesterol, Well packaged, Menopausal support, Hormonal balance, Skin texture, Leg pain relief, Support women. Some note: Skin benefits, High potency.",
+    "tags": [
+      {
+        "name": "Visible improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increases good cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Menopausal support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormonal balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Leg pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support women",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:01.361Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

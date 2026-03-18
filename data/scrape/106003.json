@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106003,
+  "last_updated": "2026-03-20T09:58:33.112Z",
+  "first_scraped": "2026-03-20T09:58:33.112Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient option, Works great, Game-changer for workouts, Muscle recovery, Worth it, Energy boost, Fair price, Buy again. Some note: Refreshing taste, Vorteil packung.",
+    "tags": [
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer for workouts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buy again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Vorteil packung",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:33.112Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

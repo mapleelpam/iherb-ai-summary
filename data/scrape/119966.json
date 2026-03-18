@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119966,
+  "last_updated": "2026-03-20T09:49:24.154Z",
+  "first_scraped": "2026-03-20T09:49:24.154Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Amazing taste, Mixes well, Delicious, Clean protein, Good stuff, Low calories, Texture just right, Effective additive. Some note: Low carb.",
+    "tags": [
+      {
+        "name": "Amazing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low calories",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Texture just right",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low carb",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:24.154Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105677,
+  "last_updated": "2026-03-20T09:23:40.663Z",
+  "first_scraped": "2026-03-20T09:23:40.663Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improvement noticed, Knee pain, Helped knees, Effective components, Joint health, Improves well-being, Must have, Good ingredients. Some note: Convenient packaging, Great formula.",
+    "tags": [
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Knee pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped knees",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective components",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves well-being",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Must have",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great formula",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:40.663Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

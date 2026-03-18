@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109842,
+  "last_updated": "2026-03-20T10:08:12.403Z",
+  "first_scraped": "2026-03-20T10:08:12.403Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Immune support, Less headache, Summer time, Refreshing drink, Good taste, Boost immunity, Effective hydration. Some note: Travel hydration, Balanced electrolytes.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less headache",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Summer time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Travel hydration",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Balanced electrolytes",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:12.403Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116252,
+  "last_updated": "2026-03-20T09:57:19.664Z",
+  "first_scraped": "2026-03-20T09:57:19.664Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective dose, Good health, Trusted brand, Bioavailable riboflavin, Neuropathy essential, Absorbable form, Glutathione cofactor, Active form. Some note: Dosage needs, Low dose.",
+    "tags": [
+      {
+        "name": "Effective dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioavailable riboflavin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neuropathy essential",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorbable form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glutathione cofactor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Active form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dosage needs",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Low dose",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:19.664Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

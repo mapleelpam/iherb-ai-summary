@@ -1,0 +1,68 @@
+{
+  "iherb_id": 62545,
+  "last_updated": "2026-03-20T09:46:56.317Z",
+  "first_scraped": "2026-03-20T09:46:56.317Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient packaging, Works for me, Good for health, Quality sleep, Good mineral balance, Easy to mix, Delicious taste, Helps relaxation. Some note: Slight taste.",
+    "tags": [
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good mineral balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps relaxation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slight taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Horrible taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:56.317Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

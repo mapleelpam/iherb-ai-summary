@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77320,
+  "last_updated": "2026-03-20T10:15:15.955Z",
+  "first_scraped": "2026-03-20T10:15:15.955Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increased endurance, Thank you, Feel young, Crazy pump, Affordable option, Worth buy, Hit like button, Caffeine free. Some note: No difference.",
+    "tags": [
+      {
+        "name": "Increased endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thank you",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel young",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Crazy pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hit like button",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Caffeine free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Chalky taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:15.955Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

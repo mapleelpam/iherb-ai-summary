@@ -1,0 +1,68 @@
+{
+  "iherb_id": 55652,
+  "last_updated": "2026-03-20T10:11:19.631Z",
+  "first_scraped": "2026-03-20T10:11:19.631Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Tasty option, Works without carbs, Lowered blood sugar, Stabilizes sugar, Fast service, Improves health, Metabolize sugar.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works without carbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowered blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stabilizes sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Metabolize sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pricey pity",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Love smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:19.631Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

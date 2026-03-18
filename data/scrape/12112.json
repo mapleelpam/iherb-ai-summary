@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12112,
+  "last_updated": "2026-03-20T09:59:43.002Z",
+  "first_scraped": "2026-03-20T09:59:43.002Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune support, Trusted brand, Benefit hope, Efficient brand, Boosting immunity, High potency, Works fine, Enhanced absorption. Some note: Big tablets.",
+    "tags": [
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit hope",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big tablets",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Delayed delivery",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:43.002Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

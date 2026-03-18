@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43882,
+  "last_updated": "2026-03-20T09:25:18.921Z",
+  "first_scraped": "2026-03-20T09:25:18.921Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for cholesterol, Great for teenagers, Safe delivery, Good concentration, More options, Easy to swallow, Fast service, Heart health. Some note: Effective supplement, Good benefit.",
+    "tags": [
+      {
+        "name": "Good for cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for teenagers",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More options",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good benefit",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:18.921Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

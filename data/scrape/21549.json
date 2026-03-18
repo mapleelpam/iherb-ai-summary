@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21549,
+  "last_updated": "2026-03-20T09:53:00.389Z",
+  "first_scraped": "2026-03-20T09:53:00.389Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hair improvement, Good sleep, Life-promoting substances, Skin hydrated, Skin looks great, Energy boost, Natural support, Glowing skin. Some note: Stress relief.",
+    "tags": [
+      {
+        "name": "Hair improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life-promoting substances",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin hydrated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin looks great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glowing skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stress relief",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:00.389Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

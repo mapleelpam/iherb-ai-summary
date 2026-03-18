@@ -1,0 +1,68 @@
+{
+  "iherb_id": 94912,
+  "last_updated": "2026-03-20T10:19:01.222Z",
+  "first_scraped": "2026-03-20T10:19:01.222Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: First time, Powerful relief, Easy swallow, Long-lasting benefits, Reduce inflammation, Trust this company, New product, Effective extract.",
+    "tags": [
+      {
+        "name": "First time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-lasting benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust this company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "New product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach issues",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Digestion disturbance",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:01.222Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

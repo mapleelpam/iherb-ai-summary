@@ -1,0 +1,68 @@
+{
+  "iherb_id": 52477,
+  "last_updated": "2026-03-20T09:58:47.773Z",
+  "first_scraped": "2026-03-20T09:58:47.773Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Super rich, Love the moringa, Absorb nutrients, Improvement in health, Boosts energy, Fast shipping, Great help. Some note: Taste bitter.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super rich",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the moringa",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorb nutrients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste bitter",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:47.773Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

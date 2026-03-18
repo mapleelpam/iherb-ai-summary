@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5194,
+  "last_updated": "2026-03-20T09:54:34.595Z",
+  "first_scraped": "2026-03-20T09:54:34.595Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves mood, Natural solution, Alcohol free, Helps relax, Mild taste, Natural mood, Good gift, Anxiety relief. Some note: Tastes bitter.",
+    "tags": [
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alcohol free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps relax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good gift",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tastes bitter",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:34.595Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

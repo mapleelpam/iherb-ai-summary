@@ -1,0 +1,68 @@
+{
+  "iherb_id": 46999,
+  "last_updated": "2026-03-20T09:37:24.815Z",
+  "first_scraped": "2026-03-20T09:37:24.815Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful product, Stomach relief, Best price, Powerful ingredients, No consequences, Helps digestion, Enzyme relief, Amazing enzymes. Some note: Highly recommend, Life changer.",
+    "tags": [
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No consequences",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enzyme relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing enzymes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Life changer",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:24.815Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

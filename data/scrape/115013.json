@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115013,
+  "last_updated": "2026-03-20T10:13:29.228Z",
+  "first_scraped": "2026-03-20T10:13:29.228Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stress management, Rich definition, Helps relax, Small size, Reduces stress, Mood improvement, Natural calming, Calming mood.",
+    "tags": [
+      {
+        "name": "Stress management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich definition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps relax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural calming",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No benefits",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:29.228Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

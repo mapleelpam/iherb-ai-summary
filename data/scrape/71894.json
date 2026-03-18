@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71894,
+  "last_updated": "2026-03-20T09:54:09.200Z",
+  "first_scraped": "2026-03-20T09:54:09.200Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Regular and not bloated, Highly recommend, Dissolves well, Reputable brand, Easy to use, Promotes gut health, Easy mix, Regularity improved.",
+    "tags": [
+      {
+        "name": "Regular and not bloated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reputable brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Promotes gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regularity improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High triglyceride",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:09.200Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

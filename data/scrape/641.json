@@ -1,0 +1,68 @@
+{
+  "iherb_id": 641,
+  "last_updated": "2026-03-20T09:18:16.166Z",
+  "first_scraped": "2026-03-20T09:18:16.166Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Easy to swallow, Effective brand, Great for skin, Sore joints, Improvement in wrinkles, Skin looks healthier, Joint pain relief. Some note: Skin hydration, Good ingredients.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sore joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in wrinkles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin looks healthier",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin hydration",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:16.166Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

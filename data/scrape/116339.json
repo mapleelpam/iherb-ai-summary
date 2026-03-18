@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116339,
+  "last_updated": "2026-03-20T10:15:15.006Z",
+  "first_scraped": "2026-03-20T10:15:15.006Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Daily use, Easy to take, Helps body, Buy again, No after taste, Bone pain relief, Affordable option, Effective combination, Blood test.",
+    "tags": [
+      {
+        "name": "Daily use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps body",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buy again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No after taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood test",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large pill",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:15.006Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

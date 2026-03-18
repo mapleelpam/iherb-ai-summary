@@ -1,0 +1,68 @@
+{
+  "iherb_id": 62205,
+  "last_updated": "2026-03-20T10:09:37.185Z",
+  "first_scraped": "2026-03-20T10:09:37.185Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good immune booster, High benefit, Natural killer, Worth a try, Increase lymphocytes, Overall health, Studies support, Lymphocyte growth. Some note: NK cell count.",
+    "tags": [
+      {
+        "name": "Good immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural killer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth a try",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase lymphocytes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Studies support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lymphocyte growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "NK cell count",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:37.185Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

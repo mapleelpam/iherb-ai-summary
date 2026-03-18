@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4914,
+  "last_updated": "2026-03-20T10:20:00.158Z",
+  "first_scraped": "2026-03-20T10:20:00.158Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stabilized condition, Good combination, Clearer vision, Great smell, Less tired, Lower blood pressure, Eye support, Helps with vision.",
+    "tags": [
+      {
+        "name": "Stabilized condition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less tired",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not organic",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not improved",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:00.158Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 425,
+  "last_updated": "2026-03-20T09:52:37.758Z",
+  "first_scraped": "2026-03-20T09:52:37.758Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Solid stools, Easy to use, Great source, Available iherb, Convenient package, High values, Good container, Mixes well, Great supplement.",
+    "tags": [
+      {
+        "name": "Solid stools",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Available iherb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High values",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good container",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doesn't dissolve",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:37.758Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

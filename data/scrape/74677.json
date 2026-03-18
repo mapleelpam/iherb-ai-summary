@@ -1,0 +1,68 @@
+{
+  "iherb_id": 74677,
+  "last_updated": "2026-03-20T09:35:52.196Z",
+  "first_scraped": "2026-03-20T09:35:52.196Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune function, Flush out fungus, Reduced symptoms, Changed digestion, Improved digestion, Healthier relation, Works well, More energy, Maintain usage. Some note: Digestion balanced.",
+    "tags": [
+      {
+        "name": "Immune function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flush out fungus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Changed digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthier relation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain usage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion balanced",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:52.196Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

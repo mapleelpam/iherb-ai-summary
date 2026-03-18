@@ -1,0 +1,68 @@
+{
+  "iherb_id": 628,
+  "last_updated": "2026-03-20T10:01:15.457Z",
+  "first_scraped": "2026-03-20T10:01:15.457Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Blood sugar, Sugar cravings, Great help, More energized, Life saver, Lower glucose, Stable glucose, Sugar control. Some note: Nice size package.",
+    "tags": [
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sugar cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energized",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower glucose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stable glucose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sugar control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice size package",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Heart palpitate",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:15.457Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 79090,
+  "last_updated": "2026-03-20T10:02:03.033Z",
+  "first_scraped": "2026-03-20T10:02:03.033Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious flavor, Boosts immunity, Good option, Amazing health benefits, Good ingredients, Helps fight, Tasty alternative, Tastes great.",
+    "tags": [
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps fight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not favorite",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Quite spicy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:03.033Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

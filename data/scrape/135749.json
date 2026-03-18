@@ -1,0 +1,68 @@
+{
+  "iherb_id": 135749,
+  "last_updated": "2026-03-20T09:34:11.594Z",
+  "first_scraped": "2026-03-20T09:34:11.594Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good concentration, Strong formula, Stronger nails, Remarkable improvement, No tummy issues, Range of supplements, Good deal, Highly recommend. Some note: High potency, Easy to swallow.",
+    "tags": [
+      {
+        "name": "Good concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Remarkable improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No tummy issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Range of supplements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:11.594Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

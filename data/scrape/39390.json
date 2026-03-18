@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39390,
+  "last_updated": "2026-03-20T10:04:31.821Z",
+  "first_scraped": "2026-03-20T10:04:31.821Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sore knee relief, Soft skin, Supreme product, Heart health, Shrinking hemroids, Expensive but reliable, Speedy delivery, Good for women. Some note: Effective supplement.",
+    "tags": [
+      {
+        "name": "Sore knee relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soft skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supreme product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shrinking hemroids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but reliable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for women",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fishy aftertaste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:31.821Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

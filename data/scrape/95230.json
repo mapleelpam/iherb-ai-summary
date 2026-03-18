@@ -1,0 +1,68 @@
+{
+  "iherb_id": 95230,
+  "last_updated": "2026-03-20T09:46:36.492Z",
+  "first_scraped": "2026-03-20T09:46:36.492Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective detox, Clean ingredients, Good alternative, Sample sizes, Toxin removal, Improved digestion, Easy to swallow, Helps stomach. Some note: Gut health, Not sure.",
+    "tags": [
+      {
+        "name": "Effective detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sample sizes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Toxin removal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:36.492Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

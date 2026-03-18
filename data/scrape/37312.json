@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37312,
+  "last_updated": "2026-03-20T09:33:14.308Z",
+  "first_scraped": "2026-03-20T09:33:14.308Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved vision, Fast shipping, Eye health, Pressure decreased, Stabilized eye pressure, Helped glaucoma, Improvement seen, Easy to swallow. Some note: Helps tired eyes, Maybe helped.",
+    "tags": [
+      {
+        "name": "Improved vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pressure decreased",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stabilized eye pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped glaucoma",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps tired eyes",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Maybe helped",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:14.308Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

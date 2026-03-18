@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108667,
+  "last_updated": "2026-03-20T10:10:17.126Z",
+  "first_scraped": "2026-03-20T10:10:17.126Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune booster, Prompt shipping, Easy to swallow, Not bad, Feeling better, Affordable potency, Immune system, Reasonable price. Some note: Haven't try yet, Little bitter.",
+    "tags": [
+      {
+        "name": "Immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not bad",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Haven't try yet",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Little bitter",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:17.126Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

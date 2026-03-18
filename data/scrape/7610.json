@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7610,
+  "last_updated": "2026-03-20T09:27:27.226Z",
+  "first_scraped": "2026-03-20T09:27:27.226Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High amount vit C, Healthy support, High potency, Helpful supplement, Boosting immunity, Easy to swallow, Best immunity, Good source. Some note: Daily driver, Convenient packaging.",
+    "tags": [
+      {
+        "name": "High amount vit C",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily driver",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:27.226Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

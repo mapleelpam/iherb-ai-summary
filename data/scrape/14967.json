@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14967,
+  "last_updated": "2026-03-20T10:10:34.425Z",
+  "first_scraped": "2026-03-20T10:10:34.425Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Taste good, Amazing result, Effective fix, Expensive but effective, Clears UTI, Manageable maintenance, Life saver, Revolutionary supplement.",
+    "tags": [
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective fix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clears UTI",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Manageable maintenance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Revolutionary supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Did not work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive formula",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:34.425Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13350,
+  "last_updated": "2026-03-20T10:19:10.170Z",
+  "first_scraped": "2026-03-20T10:19:10.170Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small caps, Fennel taste, Decrease gas, Food digestion, Good benefit, Easy to swallow, Happy with, Convenient order. Some note: No difference.",
+    "tags": [
+      {
+        "name": "Small caps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fennel taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decrease gas",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Food digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not good fit",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:10.170Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

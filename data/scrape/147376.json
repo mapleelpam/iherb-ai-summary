@@ -1,0 +1,68 @@
+{
+  "iherb_id": 147376,
+  "last_updated": "2026-03-20T09:54:29.372Z",
+  "first_scraped": "2026-03-20T09:54:29.372Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosts endurance, Effective superfood, Easy customization, Good energy, Increase energy, Chronic fatigue, Extra mile, Muscle endurance.",
+    "tags": [
+      {
+        "name": "Boosts endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective superfood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy customization",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chronic fatigue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra mile",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Upset stomach",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Red signals",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:29.372Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

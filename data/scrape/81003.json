@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81003,
+  "last_updated": "2026-03-20T10:17:25.522Z",
+  "first_scraped": "2026-03-20T10:17:25.522Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hair growth, Good results, Nice packing, Essential vitamins, Helped growth, Reasonable price, Thicker hair, Great go to. Some note: Fair size, Multi vitamin.",
+    "tags": [
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thicker hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great go to",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Multi vitamin",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:25.522Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

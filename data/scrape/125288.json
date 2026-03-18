@@ -1,0 +1,68 @@
+{
+  "iherb_id": 125288,
+  "last_updated": "2026-03-20T09:46:52.366Z",
+  "first_scraped": "2026-03-20T09:46:52.366Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Active ebike, Good size, Natural compounds, Good health, Effective formula, Original, expected, Luxurious hair, More energy, Noticeable boost. Some note: Hope promotion.",
+    "tags": [
+      {
+        "name": "Active ebike",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural compounds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Original, expected",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Luxurious hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hope promotion",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:52.366Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

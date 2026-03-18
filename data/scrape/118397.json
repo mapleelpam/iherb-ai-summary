@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118397,
+  "last_updated": "2026-03-20T10:06:56.245Z",
+  "first_scraped": "2026-03-20T10:06:56.245Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Test levels, Strict routine, Buy again, Vegetarian sourced, Boosted mood, Strengthening bones, One a day, Good absorption, Highly recommend.",
+    "tags": [
+      {
+        "name": "Test levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strict routine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buy again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegetarian sourced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strengthening bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "One a day",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad gas",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:56.245Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

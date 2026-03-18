@@ -1,0 +1,68 @@
+{
+  "iherb_id": 126662,
+  "last_updated": "2026-03-20T09:57:45.294Z",
+  "first_scraped": "2026-03-20T09:57:45.294Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Glass bottle fantastic, Definitely helps, Comfortable and stylish, Trusted brand, Skin improve, Pure glass, Enhanced blood flow, Speedy delivery. Some note: Works great, Helps stomach.",
+    "tags": [
+      {
+        "name": "Glass bottle fantastic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Definitely helps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comfortable and stylish",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure glass",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced blood flow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helps stomach",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:45.294Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 50202,
+  "last_updated": "2026-03-20T10:06:15.854Z",
+  "first_scraped": "2026-03-20T10:06:15.854Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Daily use, Efficient delivery, Artery cleanser, Control cholesterol, Reduce LDL, Natural ingredients, Easy to take, Cholesterol decrease. Some note: Blood tests, No statins.",
+    "tags": [
+      {
+        "name": "Daily use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Artery cleanser",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce LDL",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol decrease",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood tests",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No statins",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:15.854Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

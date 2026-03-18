@@ -1,0 +1,68 @@
+{
+  "iherb_id": 26006,
+  "last_updated": "2026-03-20T09:28:40.592Z",
+  "first_scraped": "2026-03-20T09:28:40.592Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural supplement, Easy to use, Good energy, Energy boost, Thyroid health, Balanced fatigue, Unbelievable results, Healthy products. Some note: Effective package, Quick results.",
+    "tags": [
+      {
+        "name": "Natural supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thyroid health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced fatigue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unbelievable results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy products",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective package",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Quick results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:40.592Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

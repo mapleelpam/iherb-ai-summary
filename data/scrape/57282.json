@@ -1,0 +1,68 @@
+{
+  "iherb_id": 57282,
+  "last_updated": "2026-03-20T09:39:37.381Z",
+  "first_scraped": "2026-03-20T09:39:37.381Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improvement noticed, Helping him, Days taking, Best solution, High affect, Dosage enough, Relief in, Good product choices.",
+    "tags": [
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helping him",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Days taking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High affect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dosage enough",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief in",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good product choices",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not available",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "FED UP",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:37.381Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

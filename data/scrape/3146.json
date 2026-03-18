@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3146,
+  "last_updated": "2026-03-20T10:02:40.969Z",
+  "first_scraped": "2026-03-20T10:02:40.969Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost immunity, Good ingredients, Relieves cough, Fast shipping, Helps lungs, Improved breathing, Boost intake, Less allergies. Some note: Good average.",
+    "tags": [
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves cough",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps lungs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved breathing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost intake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less allergies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good average",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not suitable",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:40.969Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

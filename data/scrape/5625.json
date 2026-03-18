@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5625,
+  "last_updated": "2026-03-20T09:45:04.640Z",
+  "first_scraped": "2026-03-20T09:45:04.640Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Legs feel, Easy to swallow, Maintains vascular, Improves circulation, Half a capsule, Eliminated spontaneous, Supports healthy veins, Toning legs. Some note: Great combination.",
+    "tags": [
+      {
+        "name": "Legs feel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintains vascular",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Half a capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eliminated spontaneous",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports healthy veins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Toning legs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Great combination",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:04.640Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

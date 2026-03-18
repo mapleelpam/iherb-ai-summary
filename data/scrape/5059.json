@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5059,
+  "last_updated": "2026-03-20T09:30:07.635Z",
+  "first_scraped": "2026-03-20T09:30:07.635Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fabulous enzyme, Works quickly, Breaks down food, Peppermint flavor, Convenient aid, Effective enzymes, Highly recommend, Immediate relief. Some note: Chew tablets.",
+    "tags": [
+      {
+        "name": "Fabulous enzyme",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Breaks down food",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Peppermint flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective enzymes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chew tablets",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Chaulky tasting",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:07.635Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

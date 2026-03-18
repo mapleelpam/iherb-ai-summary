@@ -1,0 +1,68 @@
+{
+  "iherb_id": 59561,
+  "last_updated": "2026-03-20T09:18:42.479Z",
+  "first_scraped": "2026-03-20T09:18:42.479Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost immunity, Convenient powder, Easy scoop, Highly recommend, Easy to mix, Fast shipment, Boost absorption, Tastes nice. Some note: Sour taste, Good ingredient.",
+    "tags": [
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy scoop",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sour taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:42.479Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

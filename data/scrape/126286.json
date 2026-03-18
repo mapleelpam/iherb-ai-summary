@@ -1,0 +1,68 @@
+{
+  "iherb_id": 126286,
+  "last_updated": "2026-03-20T10:18:40.124Z",
+  "first_scraped": "2026-03-20T10:18:40.124Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes great, Refreshing pink, Real watermelon, Sweet flavor, Keeps me hydrated, Reasonable shipping, No sugar, Love this electrolyte.",
+    "tags": [
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing pink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real watermelon",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps me hydrated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this electrolyte",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chemical taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Vegetal taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:40.124Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

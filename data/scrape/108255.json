@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108255,
+  "last_updated": "2026-03-20T09:24:13.745Z",
+  "first_scraped": "2026-03-20T09:24:13.745Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Very potent, Improving mood, More energetic, Support metabolism, Fast shipping, Energy boost, High dosage. Some note: Niacin flush.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very potent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergic reaction",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Niacin flush",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:13.745Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

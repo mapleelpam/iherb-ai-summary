@@ -1,0 +1,68 @@
+{
+  "iherb_id": 66153,
+  "last_updated": "2026-03-20T10:01:55.659Z",
+  "first_scraped": "2026-03-20T10:01:55.659Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helped alot, Good taste, Easy to take, Plant-based nourishment, Tastes good, Noticeable boost, Natural energy, Increased energy. Some note: USDA organic.",
+    "tags": [
+      {
+        "name": "Helped alot",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant-based nourishment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No boost",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "USDA organic",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:55.659Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

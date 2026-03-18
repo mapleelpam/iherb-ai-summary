@@ -1,0 +1,68 @@
+{
+  "iherb_id": 49506,
+  "last_updated": "2026-03-20T10:06:28.699Z",
+  "first_scraped": "2026-03-20T10:06:28.699Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice benefits, Super berry taste, Consistent use, Clean ingredients, Buy more, Delicious taste, Good improvements, Skin improvement.",
+    "tags": [
+      {
+        "name": "Nice benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super berry taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consistent use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buy more",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good improvements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan alternative",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too much fiber",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:28.699Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

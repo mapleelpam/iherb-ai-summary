@@ -1,0 +1,68 @@
+{
+  "iherb_id": 126291,
+  "last_updated": "2026-03-20T10:10:15.217Z",
+  "first_scraped": "2026-03-20T10:10:15.217Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Progressive overload, Beneficial health, Lab tested, Improved performance, Energy levels, Boosted energy, Less fatigue. Some note: Similar price.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Progressive overload",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lab tested",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less fatigue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Similar price",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No reply",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:15.217Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

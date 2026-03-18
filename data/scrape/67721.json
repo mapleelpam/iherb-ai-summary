@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67721,
+  "last_updated": "2026-03-20T09:47:46.432Z",
+  "first_scraped": "2026-03-20T09:47:46.432Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this, Thermogenic works, Size suits, Fat burner, Boost energy, Suppress appetite, Good taste, Lose weight.",
+    "tags": [
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thermogenic works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Size suits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat burner",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Suppress appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lose weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not strong",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Severe heartburn",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:46.432Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

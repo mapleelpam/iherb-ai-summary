@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117591,
+  "last_updated": "2026-03-20T09:59:10.792Z",
+  "first_scraped": "2026-03-20T09:59:10.792Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Affordable option, Enhances cognitive, Promotes relaxation, Effective herb, Helps sleep, Beneficial supplement, Calming effects, Easy to swallow.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhances cognitive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Promotes relaxation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleepy effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:10.792Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 123755,
+  "last_updated": "2026-03-20T10:23:57.257Z",
+  "first_scraped": "2026-03-20T10:23:57.257Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Yummy, Tastes amazing, Good alternative, Low sugar, Smooth taste, Chocolate flavor, Mixes well, Slightly sweet.",
+    "tags": [
+      {
+        "name": "Yummy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chocolate flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slightly sweet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Grainy taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Mixing issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:57.257Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

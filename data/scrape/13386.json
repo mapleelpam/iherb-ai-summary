@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13386,
+  "last_updated": "2026-03-20T10:20:26.922Z",
+  "first_scraped": "2026-03-20T10:20:26.922Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Convenient bottle, Regulate cycle, Breast enlargement, Hair mask, Fantastic decongestant, Make own, Supports overall health. Some note: Water consistency.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate cycle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Breast enlargement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair mask",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic decongestant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Make own",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not keen",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Water consistency",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:26.922Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

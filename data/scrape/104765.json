@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104765,
+  "last_updated": "2026-03-20T09:17:16.046Z",
+  "first_scraped": "2026-03-20T09:17:16.046Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Helpful health, Gentle impact, Noticeable improvement, Improved mood, Immune system, Good ingredients, Good results. Some note: Great antioxidant, Good choice.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great antioxidant",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:16.046Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

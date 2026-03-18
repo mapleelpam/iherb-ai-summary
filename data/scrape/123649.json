@@ -1,0 +1,68 @@
+{
+  "iherb_id": 123649,
+  "last_updated": "2026-03-20T10:16:48.250Z",
+  "first_scraped": "2026-03-20T10:16:48.250Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improvement found, Nice benefit, Enhances blood, General energy, Slight boost, Trusted brand, Feeling better, Energy boost. Some note: Large pill.",
+    "tags": [
+      {
+        "name": "Improvement found",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhances blood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "General energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slight boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Annoying serving size",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Large pill",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:48.250Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

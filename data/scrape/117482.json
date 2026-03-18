@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117482,
+  "last_updated": "2026-03-20T09:52:10.213Z",
+  "first_scraped": "2026-03-20T09:52:10.213Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Antioxidant properties, Morning drink, Clean ingredient, Fine powder, Easy mix, Healthy body, Chocolate flavor, Bulletproof coffee. Some note: Pure organic, Well packed.",
+    "tags": [
+      {
+        "name": "Antioxidant properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fine powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy body",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chocolate flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bulletproof coffee",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure organic",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Well packed",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:10.213Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

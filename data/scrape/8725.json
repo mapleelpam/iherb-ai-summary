@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8725,
+  "last_updated": "2026-03-20T10:25:39.035Z",
+  "first_scraped": "2026-03-20T10:25:39.035Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for calmness, Anxiety relief, Halal items, Emotional support, Good ingredients, Good dosage, Helps relax, Heartbeat regulation, Back pain improvement.",
+    "tags": [
+      {
+        "name": "Good for calmness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anxiety relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Halal items",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Emotional support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps relax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heartbeat regulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Back pain improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Runs out faster",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:39.035Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

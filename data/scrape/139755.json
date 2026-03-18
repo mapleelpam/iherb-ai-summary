@@ -1,0 +1,68 @@
+{
+  "iherb_id": 139755,
+  "last_updated": "2026-03-20T10:31:09.226Z",
+  "first_scraped": "2026-03-20T10:31:09.226Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clinical evidence, Stabilise mood, Hair growth, Delay surgery, Effective health, Efficient delivery, Works great, Prostate health, Easy swallowed pills.",
+    "tags": [
+      {
+        "name": "Clinical evidence",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stabilise mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delay surgery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prostate health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallowed pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High testosterone",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:09.226Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

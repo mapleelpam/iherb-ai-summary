@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4639,
+  "last_updated": "2026-03-20T09:49:08.351Z",
+  "first_scraped": "2026-03-20T09:49:08.351Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost immunity, Pure ingredients, Natural energy, Budget friendly, Better sleep, Increased energy, Calms anxiety, Immune support.",
+    "tags": [
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Budget friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calms anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not buying",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:08.351Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

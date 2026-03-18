@@ -1,0 +1,68 @@
+{
+  "iherb_id": 81849,
+  "last_updated": "2026-03-20T10:37:06.241Z",
+  "first_scraped": "2026-03-20T10:37:06.241Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Muscle relief, Tastes good, Effective relief, Improvement in health, Reduce stress, Good taste, No muscle soreness, Recovery support.",
+    "tags": [
+      {
+        "name": "Muscle relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No muscle soreness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recovery support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Half full",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Flavor strong",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:37:06.241Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12852,
+  "last_updated": "2026-03-20T10:25:40.062Z",
+  "first_scraped": "2026-03-20T10:25:40.062Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less inflamed, Energy boost, Muscle pain, Outstanding results, Less dosage, Herbal combination, Very helpful, Good price. Some note: Resveratrol supplement.",
+    "tags": [
+      {
+        "name": "Less inflamed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Outstanding results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herbal combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very helpful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Resveratrol supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:40.062Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

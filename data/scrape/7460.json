@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7460,
+  "last_updated": "2026-03-20T10:14:26.158Z",
+  "first_scraped": "2026-03-20T10:14:26.158Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Works fine, Great for skin, Well packaged, Trust and buy, Important combination, Helps migraines, Higher dose, Neuropathy pain, Sustained release.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust and buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Important combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps migraines",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neuropathy pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustained release",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:26.158Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

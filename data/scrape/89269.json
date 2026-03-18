@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89269,
+  "last_updated": "2026-03-20T10:11:02.170Z",
+  "first_scraped": "2026-03-20T10:11:02.170Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High DHA content, Boost brain, Natural energy boost, Happy with, Lime flavored, No fishy smell, Satisfied purchase, Brain support, Enormous content.",
+    "tags": [
+      {
+        "name": "High DHA content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost brain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lime flavored",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enormous content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Oily taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:02.170Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

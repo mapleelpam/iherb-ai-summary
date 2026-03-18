@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84886,
+  "last_updated": "2026-03-20T09:57:35.332Z",
+  "first_scraped": "2026-03-20T09:57:35.332Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works as described, Fast dispatch, Supports liver, Helps anxiety, Helpful product, Helped kids, Subtle affect, Highly recommend.",
+    "tags": [
+      {
+        "name": "Works as described",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast dispatch",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports liver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped kids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Subtle affect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeably worse",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:35.332Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

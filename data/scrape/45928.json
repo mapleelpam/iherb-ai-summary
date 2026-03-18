@@ -1,0 +1,68 @@
+{
+  "iherb_id": 45928,
+  "last_updated": "2026-03-20T09:26:20.009Z",
+  "first_scraped": "2026-03-20T09:26:20.009Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works quickly, Deep sleep, Complete ingredients, Helps sleep, Tastes good, Super fast delivery, Good taste, Strawberry taste. Some note: 10mg dosage, Speedy service.",
+    "tags": [
+      {
+        "name": "Works quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strawberry taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "10mg dosage",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Speedy service",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:20.009Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

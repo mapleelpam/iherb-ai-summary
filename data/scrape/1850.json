@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1850,
+  "last_updated": "2026-03-20T10:01:19.615Z",
+  "first_scraped": "2026-03-20T10:01:19.615Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast relief, Immune boost, Well controlled, Skin clear, Great choice, Happy with this, Pain relief, Natural product, Stay well.",
+    "tags": [
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well controlled",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin clear",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stay well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dangerous combination",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:19.615Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

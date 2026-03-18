@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12581,
+  "last_updated": "2026-03-20T10:02:39.079Z",
+  "first_scraped": "2026-03-20T10:02:39.079Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient way, Fine to take, Repeat purchases, Muscle recovery, More energy, Good results, Great scent, Benefit item. Some note: Not noticed, Effective recovery.",
+    "tags": [
+      {
+        "name": "Convenient way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fine to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat purchases",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit item",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not noticed",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective recovery",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:39.079Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

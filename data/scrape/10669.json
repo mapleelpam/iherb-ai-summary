@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10669,
+  "last_updated": "2026-03-20T09:46:51.377Z",
+  "first_scraped": "2026-03-20T09:46:51.377Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Power antioxidant, Good balance, Best value, Trust brand, Small dosis, Energy boost, Citrusy aftertaste, Best priced product. Some note: Difficult to tell, Increased energy.",
+    "tags": [
+      {
+        "name": "Power antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small dosis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Citrusy aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best priced product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difficult to tell",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:51.377Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

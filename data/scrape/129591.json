@@ -1,0 +1,68 @@
+{
+  "iherb_id": 129591,
+  "last_updated": "2026-03-20T09:17:26.089Z",
+  "first_scraped": "2026-03-20T09:17:26.089Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great form, Energy levels, Stronger hair, Immune system, Clear skin, Highly absorbable, Immune boost, Good dosage. Some note: Very useful product, Economically priced.",
+    "tags": [
+      {
+        "name": "Great form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly absorbable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very useful product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Economically priced",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:26.089Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

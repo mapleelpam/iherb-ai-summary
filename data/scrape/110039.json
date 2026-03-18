@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110039,
+  "last_updated": "2026-03-20T10:25:27.372Z",
+  "first_scraped": "2026-03-20T10:25:27.372Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Organic supplement, Good ingredients, Convenient option, Ingredient composition, Less discomfort, No fillers, Liver support, Pure ingredient. Some note: Difficult to find.",
+    "tags": [
+      {
+        "name": "Organic supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ingredient composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less discomfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fillers",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difficult to find",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Dizzy feeling",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:27.372Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 148020,
+  "last_updated": "2026-03-20T11:26:17.327Z",
+  "first_scraped": "2026-03-20T11:26:17.327Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious gummies, Sweet flavor, Tasty option, Boost in energy, Less hair fall, Playful twist, Good taste, Easy to take. Some note: Great for women.",
+    "tags": [
+      {
+        "name": "Delicious gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost in energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less hair fall",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Playful twist",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too many",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Great for women",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T11:26:17.327Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

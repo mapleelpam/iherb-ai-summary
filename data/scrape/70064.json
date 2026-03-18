@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70064,
+  "last_updated": "2026-03-20T09:30:44.298Z",
+  "first_scraped": "2026-03-20T09:30:44.298Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient size, More energetic, Mineral deficiencies, Good composition, Works fine, Essential minerals, Proper size, Nice blend. Some note: Easily absorbable, Seems good.",
+    "tags": [
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mineral deficiencies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential minerals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Proper size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easily absorbable",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Seems good",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:44.298Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11571,
+  "last_updated": "2026-03-20T09:30:35.207Z",
+  "first_scraped": "2026-03-20T09:30:35.207Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved absorption, Normal levels, Best iron, Easy on stomach, No side effects, Energy levels, Increased ferritin, No constipation. Some note: Good ingredients.",
+    "tags": [
+      {
+        "name": "Improved absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best iron",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased ferritin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not satisfied",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:35.207Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 80806,
+  "last_updated": "2026-03-20T09:36:58.463Z",
+  "first_scraped": "2026-03-20T09:36:58.463Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Gut repair, Reasonable price, Mixes well, Muscle recovery, Tastes fine, Immunity benefits, Post workout, Sports trainer. Some note: I will order.",
+    "tags": [
+      {
+        "name": "Gut repair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Post workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sports trainer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long scoop",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "I will order",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:58.463Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

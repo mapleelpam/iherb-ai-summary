@@ -1,0 +1,68 @@
+{
+  "iherb_id": 46113,
+  "last_updated": "2026-03-20T09:25:19.019Z",
+  "first_scraped": "2026-03-20T09:25:19.019Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Weight loss, Reliable company, Curbs appetite, Effective brand, Helps regulate, No side effects, Cholesterol reduction, Fast shipping.",
+    "tags": [
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Curbs appetite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps regulate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol reduction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach issues",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:19.019Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32089,
+  "last_updated": "2026-03-20T09:19:52.575Z",
+  "first_scraped": "2026-03-20T09:19:52.575Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Digestive health, Good probiotic, Easy digestion, Helps digestion, Less bloating, Small tablets, Effective supplement, Great order. Some note: Relieve constipation, Small size.",
+    "tags": [
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieve constipation",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:52.575Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

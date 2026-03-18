@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73263,
+  "last_updated": "2026-03-20T09:33:55.471Z",
+  "first_scraped": "2026-03-20T09:33:55.471Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, No fishy, Benefit heart, Lower cholesterol, One daily, Astaxanthin antioxidant, Heart health, Good omega 3. Some note: Big capsules.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "One daily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Astaxanthin antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good omega 3",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Big capsules",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:55.471Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23711,
+  "last_updated": "2026-03-20T09:37:51.700Z",
+  "first_scraped": "2026-03-20T09:37:51.700Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increase circulation, Pain relief, Boosted immunity, Highly recommend, Game-changer, Fast shipping, Good result, High dose. Some note: Pricey but effective, Short term.",
+    "tags": [
+      {
+        "name": "Increase circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pricey but effective",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Short term",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:51.700Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

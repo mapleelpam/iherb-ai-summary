@@ -1,0 +1,68 @@
+{
+  "iherb_id": 52811,
+  "last_updated": "2026-03-20T10:24:25.820Z",
+  "first_scraped": "2026-03-20T10:24:25.820Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin glow, Good ingredients, Fast service, Weight loss, Convenient capsules, Improving memory, High mcts, Feel better, Easy to swallow. Some note: New brand.",
+    "tags": [
+      {
+        "name": "Skin glow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High mcts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "New brand",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:25.820Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

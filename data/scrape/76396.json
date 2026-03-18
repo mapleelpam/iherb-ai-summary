@@ -1,0 +1,68 @@
+{
+  "iherb_id": 76396,
+  "last_updated": "2026-03-20T09:45:03.615Z",
+  "first_scraped": "2026-03-20T09:45:03.615Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Prompt delivery, Boosts energy, Love this, Immune booster, Good energy, Good ingredients, Nutrition boost, Tastes great. Some note: Helping me, Can't tell.",
+    "tags": [
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutrition boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helping me",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Can't tell",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:03.615Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

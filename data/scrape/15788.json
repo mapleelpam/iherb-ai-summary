@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15788,
+  "last_updated": "2026-03-20T10:00:42.853Z",
+  "first_scraped": "2026-03-20T10:00:42.853Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective for cholesterol, Alternative option, Doctor recommended, Unique healing properties, Fast shipping, Cholesterol progress, Holistic approach, Strong red yeast. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Effective for cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alternative option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doctor recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique healing properties",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol progress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Holistic approach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong red yeast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Serving size",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:42.853Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

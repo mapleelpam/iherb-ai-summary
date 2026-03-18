@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97418,
+  "last_updated": "2026-03-20T09:20:33.950Z",
+  "first_scraped": "2026-03-20T09:20:33.950Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small capsule, Reduce plaque, Improved energy, Helps digestion, Easy to use, Good substitute, Feels good, Blood clots. Some note: Sinus relief.",
+    "tags": [
+      {
+        "name": "Small capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce plaque",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good substitute",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feels good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood clots",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sinus relief",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:33.950Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

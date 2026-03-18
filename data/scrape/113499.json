@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113499,
+  "last_updated": "2026-03-20T10:20:08.079Z",
+  "first_scraped": "2026-03-20T10:20:08.079Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good bone, Aid recovery, Easy swallow capsules, Worth trying, Vitamin K, Deep sleep, Potent formula, Magic absorption, Essential for growth. Some note: Expensive, dark bottle.",
+    "tags": [
+      {
+        "name": "Good bone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Aid recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth trying",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin K",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Magic absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential for growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive, dark bottle",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:08.079Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

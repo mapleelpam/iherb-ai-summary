@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5226,
+  "last_updated": "2026-03-20T10:11:34.130Z",
+  "first_scraped": "2026-03-20T10:11:34.130Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great antioxidant, More energy, Alcohol-free version, Skin tonic, Compact size, Health boost, Powerful nutritional, Trusted brand, Clears skin, Hydrating element.",
+    "tags": [
+      {
+        "name": "Great antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alcohol-free version",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin tonic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Compact size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful nutritional",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clears skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydrating element",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:34.130Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

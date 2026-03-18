@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71120,
+  "last_updated": "2026-03-20T09:47:41.447Z",
+  "first_scraped": "2026-03-20T09:47:41.447Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Joint health support, Best absorbed, Relieving inflammation, Great benefit, Best formula, Fast shipping, Knocks inflammation, Joint pain.",
+    "tags": [
+      {
+        "name": "Joint health support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best absorbed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieving inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Knocks inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Upset stomach",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:41.447Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

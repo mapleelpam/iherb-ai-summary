@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104667,
+  "last_updated": "2026-03-20T10:05:32.590Z",
+  "first_scraped": "2026-03-20T10:05:32.590Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love taste, Helps sleep, Dissolves quickly, Helping wonderfully, Healthy bones, Immune support, Pure powder, Iron levels. Some note: Effective supplement, Valuable product.",
+    "tags": [
+      {
+        "name": "Love taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helping wonderfully",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Iron levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Valuable product",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:32.590Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

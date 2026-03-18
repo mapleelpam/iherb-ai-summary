@@ -1,0 +1,68 @@
+{
+  "iherb_id": 65169,
+  "last_updated": "2026-03-20T09:58:28.105Z",
+  "first_scraped": "2026-03-20T09:58:28.105Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this, Great addition, Good taste, Blend with fruits, Interesting result, Kids love, Good energy, Convenient support. Some note: Sweet taste.",
+    "tags": [
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blend with fruits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Interesting result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Zipper issue",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:28.105Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 54412,
+  "last_updated": "2026-03-20T10:19:17.030Z",
+  "first_scraped": "2026-03-20T10:19:17.030Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves night vision, Antioxidants benefits, Decreased stiffness, Organic ingredients, Nice package, Vision improvement, Trusted brand, Arrived quickly. Some note: Expensive option.",
+    "tags": [
+      {
+        "name": "Improves night vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidants benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decreased stiffness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vision improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arrived quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive and low content",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive option",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:17.030Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

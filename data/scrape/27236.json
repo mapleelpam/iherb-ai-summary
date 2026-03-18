@@ -1,0 +1,68 @@
+{
+  "iherb_id": 27236,
+  "last_updated": "2026-03-20T10:32:55.053Z",
+  "first_scraped": "2026-03-20T10:32:55.053Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Restorative tonic, Improved concentration, Supportive supplement, Powerful blend, Energy levels, Adrenal weakness, Balance maintenance, Replenish jing.",
+    "tags": [
+      {
+        "name": "Restorative tonic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supportive supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adrenal weakness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balance maintenance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Replenish jing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Half full",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:55.053Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

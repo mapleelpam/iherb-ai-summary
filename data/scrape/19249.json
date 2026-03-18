@@ -1,0 +1,68 @@
+{
+  "iherb_id": 19249,
+  "last_updated": "2026-03-20T10:28:48.171Z",
+  "first_scraped": "2026-03-20T10:28:48.171Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Prompt delivery, Longstanding reputation, Energy and concentration, Neurotransmitter dopamine, Improved mood, So far, Balanced ingredient, Easy to swallow. Some note: Now foods.",
+    "tags": [
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Longstanding reputation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy and concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neurotransmitter dopamine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "So far",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard pills",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Now foods",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:48.171Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

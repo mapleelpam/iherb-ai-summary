@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1869,
+  "last_updated": "2026-03-20T10:01:31.256Z",
+  "first_scraped": "2026-03-20T10:01:31.256Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good job, Mild natural, Fast results, Gentle and effective, Helps digestion, Exc product, Occasionally works, Antioxidant boosting.",
+    "tags": [
+      {
+        "name": "Good job",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild natural",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle and effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Exc product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Occasionally works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant boosting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow relief",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stomach cramps",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:31.256Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

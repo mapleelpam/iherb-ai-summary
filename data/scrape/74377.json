@@ -1,0 +1,68 @@
+{
+  "iherb_id": 74377,
+  "last_updated": "2026-03-20T09:44:25.525Z",
+  "first_scraped": "2026-03-20T09:44:25.525Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great buzz, Second order, Potent fat-burning, Fat loss, Refreshing taste, Size good, Highly recommend, Great energy. Some note: Thermogenic effect.",
+    "tags": [
+      {
+        "name": "Great buzz",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Second order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent fat-burning",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Size good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Itchy annoying",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Thermogenic effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:25.525Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

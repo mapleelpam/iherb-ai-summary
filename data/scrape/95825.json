@@ -1,0 +1,68 @@
+{
+  "iherb_id": 95825,
+  "last_updated": "2026-03-20T10:02:29.908Z",
+  "first_scraped": "2026-03-20T10:02:29.908Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trusted brand, Good composition, Good pre workout, Love this, Taste amazing, Buying again, Better focus, Nice kick. Some note: Sweet taste.",
+    "tags": [
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good pre workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Buying again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice kick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nothing special",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:29.908Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

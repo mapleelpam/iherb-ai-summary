@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23465,
+  "last_updated": "2026-03-20T10:27:36.706Z",
+  "first_scraped": "2026-03-20T10:27:36.706Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective stress, Small capsule, Works great, Feel close, More alert, Impressive list, Improved focus, Trusted vendor.",
+    "tags": [
+      {
+        "name": "Effective stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel close",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More alert",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressive list",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted vendor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not strong",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stressful work",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:36.706Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

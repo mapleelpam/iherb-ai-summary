@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115826,
+  "last_updated": "2026-03-20T09:29:48.632Z",
+  "first_scraped": "2026-03-20T09:29:48.632Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Health benefits, More energy, Cognitive boost, Mushroom benefits, Easy to swallow, Less anxiety, Good price, Mushroom extract. Some note: Ingredient taste.",
+    "tags": [
+      {
+        "name": "Health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cognitive boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mushroom benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mushroom extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach ache",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Ingredient taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:48.632Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107239,
+  "last_updated": "2026-03-20T09:25:27.824Z",
+  "first_scraped": "2026-03-20T09:25:27.824Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Speedy delivery, Good composition, Easy to swallow, Worth the candle, Helps well, Improved sleep, Reasonable price, Helps reduce. Some note: Excellent additive.",
+    "tags": [
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth the candle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps reduce",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Price jumped",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:27.824Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

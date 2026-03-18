@@ -1,0 +1,68 @@
+{
+  "iherb_id": 151228,
+  "last_updated": "2026-03-20T09:46:39.494Z",
+  "first_scraped": "2026-03-20T09:46:39.494Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes good, Great lemon flavor, Morning shakes, Muscle recovery, Berry flavor, Daily vitamin, Fast shipping, Good taste.",
+    "tags": [
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great lemon flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning shakes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Berry flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Digestive problems",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:39.494Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

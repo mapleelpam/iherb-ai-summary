@@ -1,0 +1,68 @@
+{
+  "iherb_id": 55353,
+  "last_updated": "2026-03-20T10:15:05.956Z",
+  "first_scraped": "2026-03-20T10:15:05.956Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Gentle on stomach, No food needed, Good pickup, Clean ingredients, Exciting experience, Immune system, Recommend, Job well, Bye again.",
+    "tags": [
+      {
+        "name": "Gentle on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No food needed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good pickup",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Exciting experience",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Job well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bye again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Changed formula",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:05.956Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

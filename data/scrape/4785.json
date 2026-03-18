@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4785,
+  "last_updated": "2026-03-20T09:45:25.224Z",
+  "first_scraped": "2026-03-20T09:45:25.224Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clearer thinking, Feel great, Thyroid issues, Helps thyroid, Long lasting, Effective energy, Weight loss, Less sleep. Some note: Prompt delivery.",
+    "tags": [
+      {
+        "name": "Clearer thinking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thyroid issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps thyroid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long lasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:25.224Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

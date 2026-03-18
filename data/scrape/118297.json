@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118297,
+  "last_updated": "2026-03-20T10:12:04.277Z",
+  "first_scraped": "2026-03-20T10:12:04.277Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Easy swallow, Affordable, tiny, Immediate results, Good smell, Fast growth, Value for money, Helps with darkening.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable, tiny",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with darkening",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Did not repurchase",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Dry hair",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:04.277Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

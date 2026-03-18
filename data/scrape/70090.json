@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70090,
+  "last_updated": "2026-03-20T09:33:18.199Z",
+  "first_scraped": "2026-03-20T09:33:18.199Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Blood sugar management, Great supplement, Works great, Blood glucose, Feeling great, Digestive help, Less hungry, Effective brand. Some note: Insulin balance, Fast shipping.",
+    "tags": [
+      {
+        "name": "Blood sugar management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood glucose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less hungry",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Insulin balance",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:18.199Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

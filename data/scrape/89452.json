@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89452,
+  "last_updated": "2026-03-20T10:09:24.684Z",
+  "first_scraped": "2026-03-20T10:09:24.684Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Rare ingredients, Blood pressure, Normalize BP, Control infections, Normal ranges, Overall well-being, Easy to take, Like this product.",
+    "tags": [
+      {
+        "name": "Rare ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normalize BP",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control infections",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal ranges",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall well-being",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Like this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Water retention",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hair loss",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:24.684Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

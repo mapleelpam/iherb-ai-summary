@@ -1,0 +1,68 @@
+{
+  "iherb_id": 99942,
+  "last_updated": "2026-03-20T09:30:27.306Z",
+  "first_scraped": "2026-03-20T09:30:27.306Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No fishy taste, Sustainable alternative, Trusted brand, Good thank you, Light and easy, Good balance, Easy to swallow, General improvement. Some note: Great source, Best option.",
+    "tags": [
+      {
+        "name": "No fishy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustainable alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good thank you",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Light and easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "General improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great source",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Best option",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:27.306Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 972,
+  "last_updated": "2026-03-20T10:28:29.536Z",
+  "first_scraped": "2026-03-20T10:28:29.536Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Well packed, Energy boost, Stabilize condition, Fat soluble, Pure powder, Absorbable form, Favorite form, Easy mix. Some note: No noticeable difference, Source unclear.",
+    "tags": [
+      {
+        "name": "Well packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stabilize condition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat soluble",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorbable form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Favorite form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Source unclear",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:29.536Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

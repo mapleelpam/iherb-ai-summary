@@ -1,0 +1,68 @@
+{
+  "iherb_id": 99972,
+  "last_updated": "2026-03-20T10:03:54.645Z",
+  "first_scraped": "2026-03-20T10:03:54.645Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Men health support, Nice taste, Best results, Occasional use, Good energy, Testosterone levels, Night time, Memory improvement. Some note: Alertness improvement.",
+    "tags": [
+      {
+        "name": "Men health support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Occasional use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Testosterone levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Night time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alertness improvement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "General lethargy",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:54.645Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

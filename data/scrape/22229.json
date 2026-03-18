@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22229,
+  "last_updated": "2026-03-20T10:00:37.025Z",
+  "first_scraped": "2026-03-20T10:00:37.025Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy way, Travel essential, Strawberry taste, Natural ingredients, Old standby, Taste good, Good taste, Portable protection, Works like a charm. Some note: Helps feel better.",
+    "tags": [
+      {
+        "name": "Easy way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Travel essential",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strawberry taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Old standby",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Portable protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works like a charm",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps feel better",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:37.025Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

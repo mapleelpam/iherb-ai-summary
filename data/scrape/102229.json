@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102229,
+  "last_updated": "2026-03-20T09:55:37.948Z",
+  "first_scraped": "2026-03-20T09:55:37.948Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice scent, Works awesome, Natural ingredients, Carefully formulated, Cleanses effectively, Lost 2 kgs, Highly recommend, Complete ingredients. Some note: Gentle relief.",
+    "tags": [
+      {
+        "name": "Nice scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works awesome",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Carefully formulated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleanses effectively",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lost 2 kgs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awful fatigue",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Gentle relief",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:37.948Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

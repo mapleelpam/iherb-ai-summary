@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21507,
+  "last_updated": "2026-03-20T10:21:39.010Z",
+  "first_scraped": "2026-03-20T10:21:39.010Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Complete vitamins, Hormone balance, Works as intended, Convenient format, Energetic most day, Clean ingredients, Improvement noticed.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormone balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works as intended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient format",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energetic most day",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large pills",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High cost",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:39.010Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

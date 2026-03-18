@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1747,
+  "last_updated": "2026-03-20T10:22:55.618Z",
+  "first_scraped": "2026-03-20T10:22:55.618Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosted energy, Protect prostate, Hormone balance, Herbal remedy, Maintaining health, Very cheap, Reduces visits, Common combination. Some note: Hair improvement.",
+    "tags": [
+      {
+        "name": "Boosted energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protect prostate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormone balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herbal remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintaining health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very cheap",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces visits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Common combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worse brand",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hair improvement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:55.618Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104077,
+  "last_updated": "2026-03-20T09:35:17.895Z",
+  "first_scraped": "2026-03-20T09:35:17.895Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works out cheaper, Benefits noticed, Improved lungs, Easy to take, Strengthens immune, Fast results, Good taste, Immune support. Some note: Double capsule.",
+    "tags": [
+      {
+        "name": "Works out cheaper",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefits noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved lungs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strengthens immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Price increase",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Double capsule",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:17.895Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

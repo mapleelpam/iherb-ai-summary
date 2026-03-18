@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77694,
+  "last_updated": "2026-03-20T09:45:24.199Z",
+  "first_scraped": "2026-03-20T09:45:24.199Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Big size, Efficient delivery, No stomach problems, Delicious flavors, Tasty option, High concentration, High dose, Sweet taste.",
+    "tags": [
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No stomach problems",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavors",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sour taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:45:24.199Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

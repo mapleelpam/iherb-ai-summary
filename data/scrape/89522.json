@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89522,
+  "last_updated": "2026-03-20T10:11:37.928Z",
+  "first_scraped": "2026-03-20T10:11:37.928Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Value for money, Joint support, Reasonable price, Trust brand, Reduce knee pain, Easy to swallow, Good for joints, Affordable option. Some note: Study results.",
+    "tags": [
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce knee pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Study results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:37.928Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

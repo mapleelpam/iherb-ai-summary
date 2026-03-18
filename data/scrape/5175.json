@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5175,
+  "last_updated": "2026-03-20T10:13:52.179Z",
+  "first_scraped": "2026-03-20T10:13:52.179Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good results, Clearer skin, Balanced diet, Hormonal balance, Support hormones, Helps regulate, Improvement in, Women's health. Some note: Strong smell, Convenient taste.",
+    "tags": [
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormonal balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps regulate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Women's health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong smell",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Convenient taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:52.179Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

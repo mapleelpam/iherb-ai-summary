@@ -1,0 +1,68 @@
+{
+  "iherb_id": 63590,
+  "last_updated": "2026-03-20T10:08:41.270Z",
+  "first_scraped": "2026-03-20T10:08:41.270Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty gummy, Digestion improvement, Bladder health, Delicious way, Good taste, Tastes nice, Fair price, UTI supplement. Some note: Loved it!, Nice smell.",
+    "tags": [
+      {
+        "name": "Tasty gummy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bladder health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "UTI supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loved it!",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nice smell",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:41.270Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

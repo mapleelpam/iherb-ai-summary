@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32097,
+  "last_updated": "2026-03-20T09:36:43.608Z",
+  "first_scraped": "2026-03-20T09:36:43.608Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love benefits, Wonderful and great, Essential mineral, Nice package, Tasty alternative, Rebuilding bones, Fluid balance, Joint improvement. Some note: Increase intake.",
+    "tags": [
+      {
+        "name": "Love benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wonderful and great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential mineral",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rebuilding bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fluid balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase intake",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Low mg",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:43.608Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

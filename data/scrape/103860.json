@@ -1,0 +1,68 @@
+{
+  "iherb_id": 103860,
+  "last_updated": "2026-03-20T10:02:08.106Z",
+  "first_scraped": "2026-03-20T10:02:08.106Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice taste, Smell good, Taste is fine, Energy boost, Increased energy, Good deal, Affordable option, Great supplement.",
+    "tags": [
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smell good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste is fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not my taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:08.106Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

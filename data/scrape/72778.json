@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72778,
+  "last_updated": "2026-03-20T09:41:22.686Z",
+  "first_scraped": "2026-03-20T09:41:22.686Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Mixes well, Better digestion, Good for health, Love this product, Detox smoothie, Wonderful supplement, Increased energy.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox smoothie",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wonderful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Dark color",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:22.686Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

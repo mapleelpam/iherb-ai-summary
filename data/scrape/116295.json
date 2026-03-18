@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116295,
+  "last_updated": "2026-03-20T09:53:55.385Z",
+  "first_scraped": "2026-03-20T09:53:55.385Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Combine, Muscle recovery, Blood flow, Satisfied, recommend, Effective dose, Exercise performance, Safe ingredient, Energy rises. Some note: High blood pressure.",
+    "tags": [
+      {
+        "name": "Combine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood flow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied, recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Exercise performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy rises",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High blood pressure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hard to swallow",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:55.385Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

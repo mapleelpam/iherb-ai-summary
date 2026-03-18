@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101028,
+  "last_updated": "2026-03-20T09:19:34.339Z",
+  "first_scraped": "2026-03-20T09:19:34.339Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Filling and smooth, Natural ingredients, Clean ingredients, Tastes great, Good protein, Neutral flavor, Nutritious punch, Nutty taste.",
+    "tags": [
+      {
+        "name": "Filling and smooth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutritious punch",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutty taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Zipper issue",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Inaccurate serving size",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:34.339Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

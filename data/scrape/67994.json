@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67994,
+  "last_updated": "2026-03-20T09:29:50.590Z",
+  "first_scraped": "2026-03-20T09:29:50.590Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clears face, Comfortable packaging, Convenient than liquid, So far good, Very worth it, Good detox, Daily bowel movement, Clean ingredients, Improve digestion.",
+    "tags": [
+      {
+        "name": "Clears face",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comfortable packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient than liquid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "So far good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very worth it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily bowel movement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Warning label",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:50.590Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

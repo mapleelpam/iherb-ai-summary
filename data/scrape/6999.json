@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6999,
+  "last_updated": "2026-03-20T09:58:29.038Z",
+  "first_scraped": "2026-03-20T09:58:29.038Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective colon cleanser, Probiotics balance, Gentle relief, Easy to use, Strong bowel movements, Non habit formula, Easy cleanse, Very gentle.",
+    "tags": [
+      {
+        "name": "Effective colon cleanser",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Probiotics balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong bowel movements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Non habit formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very gentle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Mild stomach pain",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:29.038Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

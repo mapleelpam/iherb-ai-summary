@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67051,
+  "last_updated": "2026-03-20T09:15:40.224Z",
+  "first_scraped": "2026-03-20T09:15:40.224Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient packaging, Healthy effect, Good mood, Increased energy, Highly recommend, Easy to swallow, Good ingredients, Well balanced mix. Some note: Yellow urine.",
+    "tags": [
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well balanced mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yellow urine",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Allergic reaction",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:15:40.224Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

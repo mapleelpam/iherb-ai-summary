@@ -1,0 +1,68 @@
+{
+  "iherb_id": 65952,
+  "last_updated": "2026-03-20T09:50:53.310Z",
+  "first_scraped": "2026-03-20T09:50:53.310Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Vivid dreams, Testosterone boost, Boron addition, Great supplement, Helps sleep, Best encountered, Effective ZMA, Good sleep, Better recovery. Some note: Best products.",
+    "tags": [
+      {
+        "name": "Vivid dreams",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Testosterone boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boron addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best encountered",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ZMA",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best products",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:53.310Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

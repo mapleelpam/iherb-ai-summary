@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78040,
+  "last_updated": "2026-03-20T10:15:22.074Z",
+  "first_scraped": "2026-03-20T10:15:22.074Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune support, Ear ache relief, Relief support, Easy to take, Flu support, Sore throat relief, Symptom relief, Affordable option. Some note: Higher concentration, No taste.",
+    "tags": [
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ear ache relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flu support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sore throat relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Symptom relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Higher concentration",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:22.074Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

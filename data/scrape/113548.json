@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113548,
+  "last_updated": "2026-03-20T10:22:23.045Z",
+  "first_scraped": "2026-03-20T10:22:23.045Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Organic sourcing, Easy to swallow, No stomachache, Long nails, Yellow color, Organic ingredients, Joint pain, Less messy, Reduced pain.",
+    "tags": [
+      {
+        "name": "Organic sourcing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No stomachache",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yellow color",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less messy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not tastiest",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:23.045Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

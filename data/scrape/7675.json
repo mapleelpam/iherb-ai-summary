@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7675,
+  "last_updated": "2026-03-20T10:17:34.682Z",
+  "first_scraped": "2026-03-20T10:17:34.682Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High protein, Good taste, Not overly sweet, Refreshing smoothie, Lost weight, Rich chocolate flavor, Stronger hair, Delicious shake.",
+    "tags": [
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not overly sweet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing smoothie",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lost weight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich chocolate flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious shake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Zero fat",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Thick and gritty",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:34.682Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

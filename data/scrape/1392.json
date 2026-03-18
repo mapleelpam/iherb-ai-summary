@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1392,
+  "last_updated": "2026-03-20T10:03:46.571Z",
+  "first_scraped": "2026-03-20T10:03:46.571Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improves mood, Works alright, Calming and focus, Helps mental clarity, Improvement in energy, Positive mood, Clear mind, Sleep improvement.",
+    "tags": [
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works alright",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming and focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps mental clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Raises anxiety",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Zero improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:46.571Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

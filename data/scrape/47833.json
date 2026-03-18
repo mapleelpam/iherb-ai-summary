@@ -1,0 +1,68 @@
+{
+  "iherb_id": 47833,
+  "last_updated": "2026-03-20T09:44:47.546Z",
+  "first_scraped": "2026-03-20T09:44:47.546Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommended product, Time release, Fall asleep, Dream more, Body switch, Helps sleep, Good sleep, Chronic insomnia. Some note: Good balance, Effective dose.",
+    "tags": [
+      {
+        "name": "Highly recommended product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Time release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fall asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dream more",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body switch",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chronic insomnia",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective dose",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:47.546Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

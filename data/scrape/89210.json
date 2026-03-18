@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89210,
+  "last_updated": "2026-03-20T09:21:43.540Z",
+  "first_scraped": "2026-03-20T09:21:43.540Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Anti-inflammatory supplement, Helps inflammation, Less pain, Joint support, Good ingredients, Easy to swallow, Good immune, Back pain. Some note: Joint discomfort, Muscle relief.",
+    "tags": [
+      {
+        "name": "Anti-inflammatory supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Back pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint discomfort",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Muscle relief",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:43.540Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

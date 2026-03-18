@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2080,
+  "last_updated": "2026-03-20T10:15:09.014Z",
+  "first_scraped": "2026-03-20T10:15:09.014Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No odor, Non-prescription relief, Nice restful sleep, Calming agents, Relaxing benefits, Gentle relief, Helps sleep, Worth every penny.",
+    "tags": [
+      {
+        "name": "No odor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Non-prescription relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice restful sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming agents",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxing benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth every penny",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not worked well",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:09.014Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 27498,
+  "last_updated": "2026-03-20T09:27:18.160Z",
+  "first_scraped": "2026-03-20T09:27:18.160Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great teast, Smooth taste, Muscle growth, Best whey, Good taste, Really liked, Tastes good, Worth a try. Some note: Love taste.",
+    "tags": [
+      {
+        "name": "Great teast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best whey",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Really liked",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth a try",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Love taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:18.160Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

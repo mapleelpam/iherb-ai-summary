@@ -1,0 +1,68 @@
+{
+  "iherb_id": 125403,
+  "last_updated": "2026-03-20T09:47:22.056Z",
+  "first_scraped": "2026-03-20T09:47:22.056Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved performance, Affordable option, Flavor is fine, Enhanced recovery, Balanced diet, Fast delivery, Effective endurance, Easy mixing, Solid options, Clean ingredients.",
+    "tags": [
+      {
+        "name": "Improved performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flavor is fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mixing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Solid options",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:22.056Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

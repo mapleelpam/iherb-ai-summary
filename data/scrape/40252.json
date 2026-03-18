@@ -1,0 +1,68 @@
+{
+  "iherb_id": 40252,
+  "last_updated": "2026-03-20T10:02:16.179Z",
+  "first_scraped": "2026-03-20T10:02:16.179Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great benefits, Sleep support, Easy packaging, Anti-cancer effect, Fibroid removal, Fight cancer, Boost immunity, Digestive support. Some note: Immune health.",
+    "tags": [
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-cancer effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fibroid removal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fight cancer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not for me",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Immune health",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:16.179Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

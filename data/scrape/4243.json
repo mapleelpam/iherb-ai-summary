@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4243,
+  "last_updated": "2026-03-20T10:02:42.019Z",
+  "first_scraped": "2026-03-20T10:02:42.019Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Miracle pill, Good purchase, Works great, Balances hormones, Increased pleasure, Increase energy, Restores energy, Good success.",
+    "tags": [
+      {
+        "name": "Miracle pill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balances hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased pleasure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restores energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good success",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smell bad",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Inconvenient heart",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:42.019Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

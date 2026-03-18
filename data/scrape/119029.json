@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119029,
+  "last_updated": "2026-03-20T09:55:17.398Z",
+  "first_scraped": "2026-03-20T09:55:17.398Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious chocolate, Convenient option, Tastes great, Tasty snack, Would buy again, Chewy flavor, High protein, Unmatched ingredients. Some note: Okay taste, Texture OK.",
+    "tags": [
+      {
+        "name": "Delicious chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Would buy again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chewy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unmatched ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Okay taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Texture OK",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:17.398Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

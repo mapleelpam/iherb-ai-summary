@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73777,
+  "last_updated": "2026-03-20T09:49:07.322Z",
+  "first_scraped": "2026-03-20T09:49:07.322Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy levels increased, Easy way, Chewable supplement, Nice flavor, Tastes good, Easy to chew, Well absorbed, Worth buying. Some note: Fruitful taste.",
+    "tags": [
+      {
+        "name": "Energy levels increased",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chewable supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to chew",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well absorbed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth buying",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Added sugar",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fruitful taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:07.322Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

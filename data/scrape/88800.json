@@ -1,0 +1,68 @@
+{
+  "iherb_id": 88800,
+  "last_updated": "2026-03-20T09:58:17.110Z",
+  "first_scraped": "2026-03-20T09:58:17.110Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immediate effect, Real performance, Tingling sensation, Good endurance, Blood flow, Instant energy, Mix with preworkout, Endurance and energy. Some note: Improves durability.",
+    "tags": [
+      {
+        "name": "Immediate effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tingling sensation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood flow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Instant energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mix with preworkout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Endurance and energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not smooth",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Improves durability",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:17.110Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

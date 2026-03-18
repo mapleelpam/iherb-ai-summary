@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1916,
+  "last_updated": "2026-03-20T09:27:29.107Z",
+  "first_scraped": "2026-03-20T09:27:29.107Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less bathroom trips, Better after, Good outcome, Quick results, Fast shipping, Natural support, Herb combinations, Detox kidney. Some note: Good blend.",
+    "tags": [
+      {
+        "name": "Less bathroom trips",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better after",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good outcome",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herb combinations",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox kidney",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good blend",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No benefit",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:29.107Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

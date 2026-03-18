@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116324,
+  "last_updated": "2026-03-20T09:31:01.187Z",
+  "first_scraped": "2026-03-20T09:31:01.187Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trust brand, Easy to swallow, Powerful supplement, Small size, Cellular protection, Great size capsule, Balance hormones, Enhanced cognitive abilities, Excess estrogen. Some note: Same composition.",
+    "tags": [
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cellular protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great size capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balance hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced cognitive abilities",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excess estrogen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Same composition",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:01.187Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

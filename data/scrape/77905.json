@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77905,
+  "last_updated": "2026-03-20T10:19:18.931Z",
+  "first_scraped": "2026-03-20T10:19:18.931Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mixes easily, Convenient option, Great work, Great pump, Best carb, Increased endurance, Good taste, Tastes great. Some note: Weak taste, One scoop.",
+    "tags": [
+      {
+        "name": "Mixes easily",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great work",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best carb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weak taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "One scoop",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:18.931Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

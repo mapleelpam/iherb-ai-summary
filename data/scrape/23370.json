@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23370,
+  "last_updated": "2026-03-20T09:27:59.938Z",
+  "first_scraped": "2026-03-20T09:27:59.938Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Immune support, Tastes great, Soothing taste, Natural taste, Sore throat, Positive result, No fillers, Helpful product. Some note: Convenient option.",
+    "tags": [
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soothing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sore throat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fillers",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pesticides risk",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:59.938Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

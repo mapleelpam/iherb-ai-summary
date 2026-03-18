@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113555,
+  "last_updated": "2026-03-20T10:22:39.734Z",
+  "first_scraped": "2026-03-20T10:22:39.734Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great substitute, Nice flavor, Tasty snack, Time flies, Rich chocolate, Gluten free, Crunchy chocolate, Healthy alternative. Some note: Organic and unsweetened.",
+    "tags": [
+      {
+        "name": "Great substitute",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty snack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Time flies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gluten free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Crunchy chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic and unsweetened",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:39.734Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

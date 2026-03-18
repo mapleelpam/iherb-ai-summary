@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144168,
+  "last_updated": "2026-03-20T09:39:47.661Z",
+  "first_scraped": "2026-03-20T09:39:47.661Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hair strength, Nice price, Improvement in well-being, Fast growth, Small size, Stronger nails, Good benefits, High concentration. Some note: Not sure, Thick hair.",
+    "tags": [
+      {
+        "name": "Hair strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in well-being",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Thick hair",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:47.661Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

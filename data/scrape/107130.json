@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107130,
+  "last_updated": "2026-03-20T09:30:32.312Z",
+  "first_scraped": "2026-03-20T09:30:32.312Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful addition, Effective composition, Regulated digestion, Great deal, Digestive relief, Efficient service, Item received, No taste. Some note: Gut health.",
+    "tags": [
+      {
+        "name": "Helpful addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulated digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Item received",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:32.312Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118887,
+  "last_updated": "2026-03-20T10:07:53.752Z",
+  "first_scraped": "2026-03-20T10:07:53.752Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Good benefits, Stable blood sugar, No complaints, Stable energy, Lower blood sugar, Superior form, Good alternative.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stable blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No complaints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stable energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superior form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Larger quantities",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Disappointed",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:53.752Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

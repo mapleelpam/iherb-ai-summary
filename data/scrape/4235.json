@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4235,
+  "last_updated": "2026-03-20T10:10:26.438Z",
+  "first_scraped": "2026-03-20T10:10:26.438Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good deal, Easy to swallow, Love this brand, Small capsules, Immune function, Natural remedy, Trust brand, Whole spectrum. Some note: Respiratory support.",
+    "tags": [
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Whole spectrum",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Respiratory support",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Did nothing",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:26.438Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

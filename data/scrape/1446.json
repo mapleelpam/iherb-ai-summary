@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1446,
+  "last_updated": "2026-03-20T09:25:20.961Z",
+  "first_scraped": "2026-03-20T09:25:20.961Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy fiber source, Good for diet, Cat food, Big package, Digestive support, Fast delivery, Lower cholesterol, Improves regularity. Some note: Dissolves quickly.",
+    "tags": [
+      {
+        "name": "Easy fiber source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cat food",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves regularity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves quickly",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hard to mix",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:20.961Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

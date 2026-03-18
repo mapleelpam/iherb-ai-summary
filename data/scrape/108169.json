@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108169,
+  "last_updated": "2026-03-20T10:06:07.355Z",
+  "first_scraped": "2026-03-20T10:06:07.355Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Joint support, Skin improvement, Convenient capsules, Shiny hair, Flexible knee, High potency, Health improvement, Soft skin.",
+    "tags": [
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shiny hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flexible knee",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soft skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Overpriced",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:07.355Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

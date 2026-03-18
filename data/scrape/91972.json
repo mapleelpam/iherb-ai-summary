@@ -1,0 +1,68 @@
+{
+  "iherb_id": 91972,
+  "last_updated": "2026-03-20T10:07:09.304Z",
+  "first_scraped": "2026-03-20T10:07:09.304Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, During pregnancy, First time, No stomach issues, No fishy taste, Trustworthy company, More awake, Great alternative. Some note: Just okay.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "During pregnancy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No stomach issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trustworthy company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More awake",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Just okay",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:09.304Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24623,
+  "last_updated": "2026-03-20T09:54:17.229Z",
+  "first_scraped": "2026-03-20T09:54:17.229Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Vegan capsule convenience, High potency, Natural vitamin, Effective dose, Immune support, Organic vitamin C, Easy to swallow, Plant-based option. Some note: Liked price, Best option.",
+    "tags": [
+      {
+        "name": "Vegan capsule convenience",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic vitamin C",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant-based option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liked price",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Best option",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:17.229Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

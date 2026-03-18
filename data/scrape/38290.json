@@ -1,0 +1,68 @@
+{
+  "iherb_id": 38290,
+  "last_updated": "2026-03-20T09:58:10.125Z",
+  "first_scraped": "2026-03-20T09:58:10.125Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Excellent source, Effective brand, Enhanced immunity, Anti inflammatory effects, Useful product, Love this, Trusted brand, Good for hair, Important nutrient.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti inflammatory effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Useful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Important nutrient",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:10.125Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

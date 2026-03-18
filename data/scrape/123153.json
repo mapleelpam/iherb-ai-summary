@@ -1,0 +1,68 @@
+{
+  "iherb_id": 123153,
+  "last_updated": "2026-03-20T10:00:07.741Z",
+  "first_scraped": "2026-03-20T10:00:07.741Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improvement on nails, Easy to take, Good additive, Joint improvement, Obsessed ingredient, Nice package, Bladder control, Healthy composition.",
+    "tags": [
+      {
+        "name": "Improvement on nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Obsessed ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bladder control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too large",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hard to swallow",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:07.741Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 94915,
+  "last_updated": "2026-03-20T09:39:38.313Z",
+  "first_scraped": "2026-03-20T09:39:38.313Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good amounts, Cardiovascular benefits, Correct dosage, Strong bones, Easy to use, Supports health, Vital development, Swift shipping. Some note: Effective supplement.",
+    "tags": [
+      {
+        "name": "Good amounts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Correct dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vital development",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Swift shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Palpitations",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:38.313Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

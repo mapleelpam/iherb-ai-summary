@@ -1,0 +1,68 @@
+{
+  "iherb_id": 55415,
+  "last_updated": "2026-03-20T10:29:57.703Z",
+  "first_scraped": "2026-03-20T10:29:57.703Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Solid packaging, Works great, Enjoyable taste, Concentrated form, Good benefit, Compact size, Hydration benefit, Speedy delivery.",
+    "tags": [
+      {
+        "name": "Solid packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enjoyable taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Concentrated form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Compact size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydration benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not efficient",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No result",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:29:57.703Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

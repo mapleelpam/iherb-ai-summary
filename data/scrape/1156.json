@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1156,
+  "last_updated": "2026-03-20T10:13:03.623Z",
+  "first_scraped": "2026-03-20T10:13:03.623Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small size, Fast shipping, Bioavailable calcium, Easy to swallow, Viral calcium, Gentle on system, Strong bones, Builds immune system. Some note: Big pill, Barely increased.",
+    "tags": [
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioavailable calcium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Viral calcium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle on system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Builds immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big pill",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Barely increased",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:03.623Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

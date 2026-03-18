@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10550,
+  "last_updated": "2026-03-20T10:25:06.372Z",
+  "first_scraped": "2026-03-20T10:25:06.372Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nourishing food, Joint pain relief, Helps hives, Natural source, Skin benefits, No aftertaste, Powerful benefits, Professional ingredients. Some note: Fair taste, Doesn't bother.",
+    "tags": [
+      {
+        "name": "Nourishing food",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps hives",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Professional ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Doesn't bother",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:06.372Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

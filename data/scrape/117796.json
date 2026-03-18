@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117796,
+  "last_updated": "2026-03-20T10:09:46.207Z",
+  "first_scraped": "2026-03-20T10:09:46.207Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Fast delivery, Increased strength, Test levels, Two dosages, Highly recommend, High dosage, Top ingredients. Some note: Eye pressure, Heart issues.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Test levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Two dosages",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye pressure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Heart issues",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:46.207Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

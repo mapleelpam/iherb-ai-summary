@@ -1,0 +1,68 @@
+{
+  "iherb_id": 90084,
+  "last_updated": "2026-03-20T10:07:09.304Z",
+  "first_scraped": "2026-03-20T10:07:09.304Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Strawberry delight, Good ingredients, Strawberry taste, Very nice, Tastes great, Sweet treat, Vanilla flavor, Like it. Some note: Tried double chocolate.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strawberry delight",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strawberry taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet treat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vanilla flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Like it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tried double chocolate",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:09.304Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

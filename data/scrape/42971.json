@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42971,
+  "last_updated": "2026-03-20T10:27:54.825Z",
+  "first_scraped": "2026-03-20T10:27:54.825Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Better sleep, Looks great, Company great, Decent night's sleep, Easy to swallow, Healthy and rejuvenating, Effective ingredients, Great blend.",
+    "tags": [
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Looks great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Company great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent night's sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy and rejuvenating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to fall",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:54.825Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

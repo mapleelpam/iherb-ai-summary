@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5249,
+  "last_updated": "2026-03-20T09:37:16.008Z",
+  "first_scraped": "2026-03-20T09:37:16.008Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good feedback, Great benefits, Positive energy, Deep sleep, Helps relax, Adrenal support, More energy, Powerful adaptogen. Some note: Strong taste, Good ingredients.",
+    "tags": [
+      {
+        "name": "Good feedback",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps relax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adrenal support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful adaptogen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:16.008Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

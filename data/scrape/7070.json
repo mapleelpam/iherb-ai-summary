@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7070,
+  "last_updated": "2026-03-20T09:57:09.816Z",
+  "first_scraped": "2026-03-20T09:57:09.816Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Brain function, Repeat purchase, High EPA, No fishy taste, Heart health, No fish burps, Larger size, Effective value. Some note: High price, Fish taste.",
+    "tags": [
+      {
+        "name": "Brain function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High EPA",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fishy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fish burps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Larger size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Fish taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:09.816Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

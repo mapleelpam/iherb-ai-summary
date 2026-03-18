@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119107,
+  "last_updated": "2026-03-20T10:07:50.838Z",
+  "first_scraped": "2026-03-20T10:07:50.838Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Relief from cramps, Work great, Boost energy, Muscle spasms, Absorption support, No import duty, Energy levels, Quick recovery. Some note: Hydration support.",
+    "tags": [
+      {
+        "name": "Relief from cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Work great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle spasms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorption support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No import duty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to swallow",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hydration support",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:50.838Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

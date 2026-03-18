@@ -1,0 +1,68 @@
+{
+  "iherb_id": 60068,
+  "last_updated": "2026-03-20T10:01:43.242Z",
+  "first_scraped": "2026-03-20T10:01:43.242Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lifesaver, Effective stuff, Helps relax, Lower cholesterol, Improved sleep, Stress solution, Deep sleep, Healthy support. Some note: Arrived on time.",
+    "tags": [
+      {
+        "name": "Lifesaver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps relax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Arrived on time",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:43.242Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

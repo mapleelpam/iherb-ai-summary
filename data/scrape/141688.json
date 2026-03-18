@@ -1,0 +1,68 @@
+{
+  "iherb_id": 141688,
+  "last_updated": "2026-03-20T09:47:03.322Z",
+  "first_scraped": "2026-03-20T09:47:03.322Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High dose, Liked everything, Highly bioavailable, Enhances immunity, Weekly dose, Upgraded ingredients, Easy to swallow, Helps with, Super well, Skin health.",
+    "tags": [
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liked everything",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly bioavailable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhances immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weekly dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Upgraded ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:03.322Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

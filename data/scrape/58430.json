@@ -1,0 +1,68 @@
+{
+  "iherb_id": 58430,
+  "last_updated": "2026-03-20T10:02:42.970Z",
+  "first_scraped": "2026-03-20T10:02:42.970Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High potency, Good taste, Fresh taste, Post workout, Easy on stomach, Fast shipping, Easy absorption, High dose.",
+    "tags": [
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Post workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not much buffering",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No measuring spoon",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:42.970Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

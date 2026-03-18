@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102372,
+  "last_updated": "2026-03-20T10:27:31.779Z",
+  "first_scraped": "2026-03-20T10:27:31.779Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost immune, Works wonders, Fast service, Improving health, High potency, Immune support, Positive benefits, Feel good.",
+    "tags": [
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid cellulose",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Slow improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:31.779Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

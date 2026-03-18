@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15912,
+  "last_updated": "2026-03-20T10:20:39.108Z",
+  "first_scraped": "2026-03-20T10:20:39.108Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes great, Morning power, Improving recovery, Sweet replacement, Mixes well, Special treat, Good taste, Smooth taste.",
+    "tags": [
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning power",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet replacement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Special treat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overpriced",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:39.108Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

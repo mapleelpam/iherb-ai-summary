@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7710,
+  "last_updated": "2026-03-20T10:09:59.296Z",
+  "first_scraped": "2026-03-20T10:09:59.296Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Immune support, Antibiotic replacement, Sinus infections, Digestive relief, Potent supplement, Helpful in colds, Rash relief. Some note: Love this product.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antibiotic replacement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sinus infections",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful in colds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rash relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not strong enough",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:59.296Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

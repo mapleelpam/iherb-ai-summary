@@ -1,0 +1,68 @@
+{
+  "iherb_id": 123387,
+  "last_updated": "2026-03-20T10:05:55.382Z",
+  "first_scraped": "2026-03-20T10:05:55.382Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great dosage, Tiny blue capsules, Boosting collagen, Clean vegan, Skin pigment, Easy to swallow, Skin elasticity, Energy production.",
+    "tags": [
+      {
+        "name": "Great dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiny blue capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting collagen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean vegan",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin pigment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin elasticity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy production",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Toxic, destroys DNA",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Discomfort with meal",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:55.382Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

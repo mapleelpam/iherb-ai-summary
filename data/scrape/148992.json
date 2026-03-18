@@ -1,0 +1,68 @@
+{
+  "iherb_id": 148992,
+  "last_updated": "2026-03-20T09:43:53.321Z",
+  "first_scraped": "2026-03-20T09:43:53.321Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works great, Good sleep, Quick results, New adventure, Taste good, Convenient packaging, Sleep peacefuly, Gentle taste. Some note: Good benefit.",
+    "tags": [
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "New adventure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep peacefuly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep issues",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good benefit",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:53.321Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

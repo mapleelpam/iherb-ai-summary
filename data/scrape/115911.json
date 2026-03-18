@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115911,
+  "last_updated": "2026-03-20T10:14:00.253Z",
+  "first_scraped": "2026-03-20T10:14:00.253Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sold out, Satisfied with, Improve sleep, Good calming effect, Mental benefits, Good sleep, Effective relief, Value.",
+    "tags": [
+      {
+        "name": "Sold out",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Weak sleep aid",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:14:00.253Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

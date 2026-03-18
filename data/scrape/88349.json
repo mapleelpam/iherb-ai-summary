@@ -1,0 +1,68 @@
+{
+  "iherb_id": 88349,
+  "last_updated": "2026-03-20T10:06:20.835Z",
+  "first_scraped": "2026-03-20T10:06:20.835Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Powerful antioxidant, Happy with, Improves health, Improved vision, Outstanding company, Good benefit, Less frequent, Decreasing inflammation.",
+    "tags": [
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved vision",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Outstanding company",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less frequent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decreasing inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Harms aquatic life",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bad sleep",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:20.835Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

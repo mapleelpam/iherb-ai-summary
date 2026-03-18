@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108665,
+  "last_updated": "2026-03-20T10:02:54.436Z",
+  "first_scraped": "2026-03-20T10:02:54.436Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Odorless softgels, No aftertaste, Natural remedy, Easy to use, Boosting immunity, Small and easy, Blood pressure, No smell. Some note: Highly recommend.",
+    "tags": [
+      {
+        "name": "Odorless softgels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small and easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox spike protein",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:54.436Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

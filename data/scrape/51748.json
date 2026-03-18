@@ -1,0 +1,68 @@
+{
+  "iherb_id": 51748,
+  "last_updated": "2026-03-20T10:03:26.694Z",
+  "first_scraped": "2026-03-20T10:03:26.694Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Blends well, Quick boost, Frozen fruit, Maintain bowel, Minerals, vitamins, Tastes great, Great antioxidant, Ingredients good. Some note: Convenient option, Potassium benefits.",
+    "tags": [
+      {
+        "name": "Blends well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Frozen fruit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain bowel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Minerals, vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ingredients good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Potassium benefits",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:26.694Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

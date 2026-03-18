@@ -1,0 +1,68 @@
+{
+  "iherb_id": 58231,
+  "last_updated": "2026-03-20T10:03:14.452Z",
+  "first_scraped": "2026-03-20T10:03:14.452Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mercury detox, Easy to swallow, Low dosage, Strong antioxidant, Hard to find, Supports chelation, Loves kirkman, No amalgams, Consistent effects.",
+    "tags": [
+      {
+        "name": "Mercury detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to find",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports chelation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Loves kirkman",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No amalgams",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consistent effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Problematic dosage",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:14.452Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

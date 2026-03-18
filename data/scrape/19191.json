@@ -1,0 +1,68 @@
+{
+  "iherb_id": 19191,
+  "last_updated": "2026-03-20T10:31:54.028Z",
+  "first_scraped": "2026-03-20T10:31:54.028Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Certified organic, Regular bowel, Works for me, Works wonders, Positive results, Last me a while, Highly recommend, Life changer. Some note: Constipated, but.",
+    "tags": [
+      {
+        "name": "Certified organic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular bowel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Last me a while",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Constipated, but",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:54.028Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

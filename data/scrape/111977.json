@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111977,
+  "last_updated": "2026-03-20T09:38:48.734Z",
+  "first_scraped": "2026-03-20T09:38:48.734Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good alternative, Delightful surprise, Helps digestion, Convenient powder, Refreshing drink, Boosts immune system, Love the taste, Clean ingredients.",
+    "tags": [
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delightful surprise",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:48.734Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

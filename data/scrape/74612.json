@@ -1,0 +1,68 @@
+{
+  "iherb_id": 74612,
+  "last_updated": "2026-03-20T10:00:33.123Z",
+  "first_scraped": "2026-03-20T10:00:33.123Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Digestive aid, Life saver, Easy to swallow, Effective enzymes, Good ingredient, Fast shipping, Gets job done, Helpful product. Some note: Love this.",
+    "tags": [
+      {
+        "name": "Digestive aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life saver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective enzymes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gets job done",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:33.123Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

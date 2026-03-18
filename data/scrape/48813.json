@@ -1,0 +1,68 @@
+{
+  "iherb_id": 48813,
+  "last_updated": "2026-03-20T10:08:24.572Z",
+  "first_scraped": "2026-03-20T10:08:24.572Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Increase bone density, Improving condition, Joint pain, Excellent composition, Maintained function, Joint benefits, Improved strength, Helpful product. Some note: Big capsules.",
+    "tags": [
+      {
+        "name": "Increase bone density",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving condition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintained function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big capsules",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Migraine after",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:24.572Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 45483,
+  "last_updated": "2026-03-20T10:02:08.151Z",
+  "first_scraped": "2026-03-20T10:02:08.151Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Packed well, Helps digestion, Settled stomach, Tulsi basil, Intensive support, Fast relief, Love the product, Easy on.",
+    "tags": [
+      {
+        "name": "Packed well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Settled stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tulsi basil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intensive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not beneficial",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:08.151Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

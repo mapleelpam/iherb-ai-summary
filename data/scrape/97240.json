@@ -1,0 +1,68 @@
+{
+  "iherb_id": 97240,
+  "last_updated": "2026-03-20T10:20:14.119Z",
+  "first_scraped": "2026-03-20T10:20:14.119Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective preparation, Relief felt, Expelling worms, Complete recovery, Tiptop shape, Good form ingredient, Nice taste, Immune support, Gentle and effective.",
+    "tags": [
+      {
+        "name": "Effective preparation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief felt",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expelling worms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiptop shape",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good form ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle and effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not tasty",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:14.119Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "iherb_id": 144078,
+  "last_updated": "2026-03-20T09:53:26.779Z",
+  "first_scraped": "2026-03-20T09:53:26.779Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Feel full, Surprised works, Helped kick off, Dosage perfect, Late afternoon, Craving reduced, Natural product. Some note: Taste ok, Good ingredients.",
+    "tags": [
+      {
+        "name": "Feel full",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Surprised works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped kick off",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dosage perfect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Late afternoon",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Craving reduced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste ok",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:26.779Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

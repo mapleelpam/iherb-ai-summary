@@ -1,0 +1,68 @@
+{
+  "iherb_id": 112419,
+  "last_updated": "2026-03-20T09:19:32.499Z",
+  "first_scraped": "2026-03-20T09:19:32.499Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective vitamins, Convenient capsule, Energy boost, Easy to swallow, Capsule size, Impressive ingredients, High effect, Good size. Some note: Rich composition, Noticeable difference.",
+    "tags": [
+      {
+        "name": "Effective vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Capsule size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressive ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich composition",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:32.499Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

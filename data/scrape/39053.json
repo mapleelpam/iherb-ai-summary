@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39053,
+  "last_updated": "2026-03-20T10:00:10.773Z",
+  "first_scraped": "2026-03-20T10:00:10.773Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less food craving, Convenient option, Athletic performance, More energy, Lower dose, Well packed, Deep sleep, Gentle on stomach. Some note: Helps sleep.",
+    "tags": [
+      {
+        "name": "Less food craving",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Athletic performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Chalky texture",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:10.773Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 74619,
+  "last_updated": "2026-03-20T09:19:09.186Z",
+  "first_scraped": "2026-03-20T09:19:09.186Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helping, Less bloating, Best buy, Works great, Great effect, Expensive but worth, Satisfied, Price is better. Some note: Digestive relief, Digest gold.",
+    "tags": [
+      {
+        "name": "Helping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but worth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Price is better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive relief",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Digest gold",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:09.186Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21322,
+  "last_updated": "2026-03-20T09:44:20.609Z",
+  "first_scraped": "2026-03-20T09:44:20.609Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Digestive support, Flu protection, Fast shipping, Viral defense, Aids recovery, Fast recovery, Nutritional balance, Boost immunity. Some note: Immunity MVP.",
+    "tags": [
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flu protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Viral defense",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Aids recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutritional balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not tasty",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Immunity MVP",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:20.609Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

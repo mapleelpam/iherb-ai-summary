@@ -1,0 +1,68 @@
+{
+  "iherb_id": 65929,
+  "last_updated": "2026-03-20T10:11:40.984Z",
+  "first_scraped": "2026-03-20T10:11:40.984Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty flavor, Awesome ingredients, Good taste, Best pre workout, Muscle pumps, Good pump, Concentration boost, Explosive pump. Some note: New formula.",
+    "tags": [
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awesome ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best pre workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle pumps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Concentration boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Explosive pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "New formula",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:40.984Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

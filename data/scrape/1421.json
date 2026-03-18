@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1421,
+  "last_updated": "2026-03-20T10:16:31.294Z",
+  "first_scraped": "2026-03-20T10:16:31.294Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No stomach upset, Improvement in joint pain, Clearing land, Great supplement, Relief helps, Health benefits, Shoulder pain, Inflammation reduction.",
+    "tags": [
+      {
+        "name": "No stomach upset",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearing land",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief helps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shoulder pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inflammation reduction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pill preference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No benefits",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:31.294Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

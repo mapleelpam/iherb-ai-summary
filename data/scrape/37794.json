@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37794,
+  "last_updated": "2026-03-20T09:17:57.522Z",
+  "first_scraped": "2026-03-20T09:17:57.522Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Husband likes, Nice price, One tablet, Natural boost, Satisfied, High potency, Top choice, Selected ingredients. Some note: Improved well-being.",
+    "tags": [
+      {
+        "name": "Husband likes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "One tablet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Selected ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved well-being",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stomach upset",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:57.522Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

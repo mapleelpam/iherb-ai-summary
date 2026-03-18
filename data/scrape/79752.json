@@ -1,0 +1,68 @@
+{
+  "iherb_id": 79752,
+  "last_updated": "2026-03-20T09:39:06.799Z",
+  "first_scraped": "2026-03-20T09:39:06.799Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good dosage, Effective price, Works great, Easy to swallow, Safe for use, Helps sleep, No addiction, Quality sleep. Some note: Satisfied with, Regulate sleep.",
+    "tags": [
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe for use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No addiction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied with",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Regulate sleep",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:06.799Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

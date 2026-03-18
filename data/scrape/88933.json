@@ -1,0 +1,68 @@
+{
+  "iherb_id": 88933,
+  "last_updated": "2026-03-20T09:32:15.939Z",
+  "first_scraped": "2026-03-20T09:32:15.939Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Clean ingredients, Reduce anxiety, Easy to swallow, Mouth infection, Pure composition, High dose, Boost immune.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mouth infection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Least expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Enlarged lymph nodes",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:15.939Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

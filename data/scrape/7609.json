@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7609,
+  "last_updated": "2026-03-20T09:26:06.233Z",
+  "first_scraped": "2026-03-20T09:26:06.233Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: General improvement, Good option, Good balance, Cleared sinuses, Boosted vitality, Promotes cardiovascular health, Great supplement, Strong immunity. Some note: Natural ingredient, High dose.",
+    "tags": [
+      {
+        "name": "General improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleared sinuses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Promotes cardiovascular health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredient",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:06.233Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

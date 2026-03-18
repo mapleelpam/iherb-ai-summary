@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69740,
+  "last_updated": "2026-03-20T10:08:22.522Z",
+  "first_scraped": "2026-03-20T10:08:22.522Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good energy, Subtle flavor, Shipped fast, Nice taste, Brain power, Boost energy, Vanilla flavor, Weight loss. Some note: Metabolism boost, Bodybuilding benefits.",
+    "tags": [
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Subtle flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shipped fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain power",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vanilla flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Metabolism boost",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bodybuilding benefits",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:22.522Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

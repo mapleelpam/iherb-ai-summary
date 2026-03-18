@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77907,
+  "last_updated": "2026-03-20T10:13:07.564Z",
+  "first_scraped": "2026-03-20T10:13:07.564Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty flavor, Good taste, Replenished feeling, Calorie goals, Nice pump, Healthy composition, Big size, Easy mixing, Refreshing twist, Best taste.",
+    "tags": [
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Replenished feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calorie goals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mixing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing twist",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best taste",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:07.564Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

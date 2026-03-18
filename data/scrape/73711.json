@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73711,
+  "last_updated": "2026-03-20T10:04:35.917Z",
+  "first_scraped": "2026-03-20T10:04:35.917Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural benefits, Natural supplement, Works good, Good for immunity, Fermented turmeric, Easy swallow, Reduces inflammation, Joint protection. Some note: Joint pain.",
+    "tags": [
+      {
+        "name": "Natural benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fermented turmeric",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Leaky gut",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:35.917Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

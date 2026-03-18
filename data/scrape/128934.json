@@ -1,0 +1,68 @@
+{
+  "iherb_id": 128934,
+  "last_updated": "2026-03-20T09:49:36.818Z",
+  "first_scraped": "2026-03-20T09:49:36.818Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective supplement, Convenient jar, Small capsules, Neat purchase, Easy swallow, High dosage, Liver support, Best results.",
+    "tags": [
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient jar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neat purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very sick",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too strong",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:49:36.818Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

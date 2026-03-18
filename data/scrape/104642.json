@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104642,
+  "last_updated": "2026-03-20T10:18:09.602Z",
+  "first_scraped": "2026-03-20T10:18:09.602Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to use, Taste good, Highly recommend, Super food, Thicker texture, Natural flavor, Package good, Efficient supplement.",
+    "tags": [
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Super food",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thicker texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Package good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plastic container",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not like frozen",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:09.602Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18566,
+  "last_updated": "2026-03-20T09:30:56.273Z",
+  "first_scraped": "2026-03-20T09:30:56.273Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Bio-available form, Less tired, More energized, Normal ALT, Effective supplement, Liver detox, Vet visit, Good for liver. Some note: Highly recommend.",
+    "tags": [
+      {
+        "name": "Bio-available form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less tired",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energized",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal ALT",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vet visit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for liver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:56.273Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

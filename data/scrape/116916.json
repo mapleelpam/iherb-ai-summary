@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116916,
+  "last_updated": "2026-03-20T09:53:14.994Z",
+  "first_scraped": "2026-03-20T09:53:14.994Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps with inflammation, Good package, Decrease bad cholesterol, Easy to swallow, Good for pain, Highly recommend, Good deal, Convenient size. Some note: Relieves stiff joints.",
+    "tags": [
+      {
+        "name": "Helps with inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decrease bad cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves stiff joints",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:14.994Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

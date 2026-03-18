@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8294,
+  "last_updated": "2026-03-20T09:37:33.687Z",
+  "first_scraped": "2026-03-20T09:37:33.687Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Best source, Skin benefits, Improved circulation, Well-made softgels, Easy to swallow, Topical application, No soy, Best E. Some note: Worth it.",
+    "tags": [
+      {
+        "name": "Best source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well-made softgels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Topical application",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No soy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best E",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Non-gmo",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Worth it",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:33.687Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

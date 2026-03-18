@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106719,
+  "last_updated": "2026-03-20T10:20:36.122Z",
+  "first_scraped": "2026-03-20T10:20:36.122Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Quick sleep, Good taste, Kid-friendly formula, Sleep aid, Fast shipment, Helped sleep, Low dose, Kids love. Some note: Cut experiment.",
+    "tags": [
+      {
+        "name": "Quick sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kid-friendly formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cut experiment",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Long bedtime",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:36.122Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

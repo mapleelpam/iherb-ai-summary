@@ -1,0 +1,68 @@
+{
+  "iherb_id": 33049,
+  "last_updated": "2026-03-20T10:25:02.278Z",
+  "first_scraped": "2026-03-20T10:25:02.278Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good sleep, Prescription only, Product works, Immunity boost, High potency, Good melatonin, Effective brand, Helps sleep.",
+    "tags": [
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prescription only",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Product works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good melatonin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heavy dose",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Limited sleep",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:02.278Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

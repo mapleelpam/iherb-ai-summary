@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39419,
+  "last_updated": "2026-03-20T09:37:19.894Z",
+  "first_scraped": "2026-03-20T09:37:19.894Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Bone support, Convenient, Easy to use, Pure ingredients, Easy dosage, Flavorless, easy dosage, Child safe, Drop came out. Some note: Working out great.",
+    "tags": [
+      {
+        "name": "Bone support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flavorless, easy dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Child safe",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Drop came out",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Working out great",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hard to get",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:19.894Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

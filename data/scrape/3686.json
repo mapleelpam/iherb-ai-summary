@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3686,
+  "last_updated": "2026-03-20T09:51:32.536Z",
+  "first_scraped": "2026-03-20T09:51:32.536Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Cholesterol balance, Lowered scores, Effective supplements, Blood pressure, Heart support, Maintains normal BP, Good choice, Kidney support.",
+    "tags": [
+      {
+        "name": "Cholesterol balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowered scores",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintains normal BP",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kidney support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hidden ingredients",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:32.536Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

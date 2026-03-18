@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12703,
+  "last_updated": "2026-03-20T10:03:21.621Z",
+  "first_scraped": "2026-03-20T10:03:21.621Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Supports immune, Optimal results, Effective replacement, Easy swallow, Good health, Very easy order, Potential benefits. Some note: Happy with brand, No difference.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Optimal results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective replacement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very easy order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potential benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy with brand",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:21.621Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 52394,
+  "last_updated": "2026-03-20T09:21:48.018Z",
+  "first_scraped": "2026-03-20T09:21:48.018Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very good colostrum, Good taste, Boost immunity, Effective supplement, Gut health, Easy to incorporate, Highly recommend, Small scoop.",
+    "tags": [
+      {
+        "name": "Very good colostrum",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to incorporate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small scoop",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach upset",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:48.018Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

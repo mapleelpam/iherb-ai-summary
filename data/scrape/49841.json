@@ -1,0 +1,68 @@
+{
+  "iherb_id": 49841,
+  "last_updated": "2026-03-20T10:07:20.236Z",
+  "first_scraped": "2026-03-20T10:07:20.236Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Made in USA, Gentle iron, Improved results, No side effects, Easy on stomach, Feel good, Easier form, Ordered second.",
+    "tags": [
+      {
+        "name": "Made in USA",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle iron",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easier form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ordered second",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Causes cramps",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Ineffective option",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:20.236Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13640,
+  "last_updated": "2026-03-20T09:29:53.506Z",
+  "first_scraped": "2026-03-20T09:29:53.506Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Calm focus, Effective brand, Restful sleep, Supports focus, Enhanced clarity, Good dosage, Improves sleep, Nice size package. Some note: Effective mood, Relaxing nights.",
+    "tags": [
+      {
+        "name": "Calm focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restful sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice size package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective mood",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Relaxing nights",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:29:53.506Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

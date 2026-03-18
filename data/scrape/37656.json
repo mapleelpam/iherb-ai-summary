@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37656,
+  "last_updated": "2026-03-20T09:55:02.553Z",
+  "first_scraped": "2026-03-20T09:55:02.553Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very tasty, Fast shipping, Good source, Highly commendable, Good taste, Natural protein, Blends well, Clean protein. Some note: Ideal base.",
+    "tags": [
+      {
+        "name": "Very tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly commendable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blends well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sticky texture",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Ideal base",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:02.553Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

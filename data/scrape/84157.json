@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84157,
+  "last_updated": "2026-03-20T10:18:12.671Z",
+  "first_scraped": "2026-03-20T10:18:12.671Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trust brand, Repeated purchase, Fast shipping, Lowering homocysteine, Good formula, Nice price, Right size, Consistent dosage, Good choice.",
+    "tags": [
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeated purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowering homocysteine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Right size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consistent dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neck pain",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:12.671Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1176,
+  "last_updated": "2026-03-20T09:31:28.997Z",
+  "first_scraped": "2026-03-20T09:31:28.997Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Digestion improved, Affordable, Feel great, Works well, Convenient packaging, Love this, Good enzymes, Helps digestion. Some note: Smooth digestion.",
+    "tags": [
+      {
+        "name": "Digestion improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good enzymes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acid reflux",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Smooth digestion",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:28.997Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

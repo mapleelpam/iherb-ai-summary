@@ -1,0 +1,68 @@
+{
+  "iherb_id": 58323,
+  "last_updated": "2026-03-20T10:03:27.678Z",
+  "first_scraped": "2026-03-20T10:03:27.678Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sustenance improvement, Effective support, Affordable option, Nice taste, Nicely packaged, Sound producing, Focus improvement, Detox support, Great for health.",
+    "tags": [
+      {
+        "name": "Sustenance improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nicely packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sound producing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Focus improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:27.678Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

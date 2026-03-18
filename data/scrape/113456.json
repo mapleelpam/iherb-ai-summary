@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113456,
+  "last_updated": "2026-03-20T10:02:53.457Z",
+  "first_scraped": "2026-03-20T10:02:53.457Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Safe alternative, Convenient package, Good concentration, Natural sleep, Reliable and potent, Improves sleep, Easy to swallow, Relaxation support. Some note: Helps unwind.",
+    "tags": [
+      {
+        "name": "Safe alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable and potent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxation support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps unwind",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bitter taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:53.457Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

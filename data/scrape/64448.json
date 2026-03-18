@@ -1,0 +1,68 @@
+{
+  "iherb_id": 64448,
+  "last_updated": "2026-03-20T09:39:25.395Z",
+  "first_scraped": "2026-03-20T09:39:25.395Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pain free, Good ingredients, Organic formula, Easy mix, Support weight loss, Regulated bowel movements, Good fiber, Yummy taste. Some note: Dissolves well.",
+    "tags": [
+      {
+        "name": "Pain free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulated bowel movements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves well",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Difficult to mix",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:25.395Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

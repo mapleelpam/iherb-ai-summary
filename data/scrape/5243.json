@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5243,
+  "last_updated": "2026-03-20T10:12:28.294Z",
+  "first_scraped": "2026-03-20T10:12:28.294Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Anxiety relief, Calming heart, Works great, Decent taste, Digestive health, Easy to use, Raise energy, Fast shipping, Heart arrhythmia. Some note: Use cautiously.",
+    "tags": [
+      {
+        "name": "Anxiety relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming heart",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Raise energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart arrhythmia",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Use cautiously",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:28.294Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

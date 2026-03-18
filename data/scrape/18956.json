@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18956,
+  "last_updated": "2026-03-20T09:26:46.526Z",
+  "first_scraped": "2026-03-20T09:26:46.526Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good package, Immunity boost, Natural flavor, Improvement in, Helpful against candida, Antibiotic benefits, Easy to swallow, Relief after. Some note: Fair result, Effective supplement.",
+    "tags": [
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful against candida",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antibiotic benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relief after",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair result",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:46.526Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

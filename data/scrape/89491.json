@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89491,
+  "last_updated": "2026-03-20T09:27:15.203Z",
+  "first_scraped": "2026-03-20T09:27:15.203Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious, Gluten free, First time trying, Vitamin source, Cheesy flavor, Nutritious addition, Cheese substitute, Good taste. Some note: Superfood item.",
+    "tags": [
+      {
+        "name": "Delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gluten free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First time trying",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheesy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutritious addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheese substitute",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love bob's",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Superfood item",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:27:15.203Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

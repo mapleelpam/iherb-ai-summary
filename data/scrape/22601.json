@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22601,
+  "last_updated": "2026-03-20T09:43:02.480Z",
+  "first_scraped": "2026-03-20T09:43:02.480Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Huge improvement, Effective supplement, Prompt delivery, Pain relief, Satisfied, Effective choice, Keeps stock, Convenient take. Some note: Helpful to reduce, Decrease inflammation.",
+    "tags": [
+      {
+        "name": "Huge improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps stock",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful to reduce",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Decrease inflammation",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:02.480Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

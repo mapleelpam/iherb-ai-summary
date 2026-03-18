@@ -1,0 +1,68 @@
+{
+  "iherb_id": 127280,
+  "last_updated": "2026-03-20T09:26:54.457Z",
+  "first_scraped": "2026-03-20T09:26:54.457Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Daily use, Good composition, Good vitamin, Energy boost, Enhanced vitality, Acceptable size, Effective dose, More energy. Some note: Convenient choice, Good ingredients.",
+    "tags": [
+      {
+        "name": "Daily use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acceptable size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient choice",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:54.457Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

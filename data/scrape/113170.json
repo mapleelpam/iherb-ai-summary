@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113170,
+  "last_updated": "2026-03-20T10:23:03.545Z",
+  "first_scraped": "2026-03-20T10:23:03.545Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Blood sugar, Medium size, Easy to swallow, Foodmap diet, Boost immunity, Works fine, Curbing cravings, Reliable source, Immune health.",
+    "tags": [
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Medium size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Foodmap diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Curbing cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too strong",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:03.545Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

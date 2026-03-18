@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4048,
+  "last_updated": "2026-03-20T09:43:45.281Z",
+  "first_scraped": "2026-03-20T09:43:45.281Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Quick results, Improve analytics, Fertility improvement, Easy to carry, Hormone balance, Neutral taste, Tiny capsule, Mood improvement. Some note: Recommend very good.",
+    "tags": [
+      {
+        "name": "Quick results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve analytics",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fertility improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to carry",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hormone balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiny capsule",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair drop",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Recommend very good",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:45.281Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 16272,
+  "last_updated": "2026-03-20T09:15:27.462Z",
+  "first_scraped": "2026-03-20T09:15:27.462Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice price, High potency, Effective supplement, Small size, Love this brand, Strong bones, Boost immunity, Immune support. Some note: Great vitamins, Trust this brand.",
+    "tags": [
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great vitamins",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Trust this brand",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:15:27.462Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

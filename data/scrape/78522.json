@@ -1,0 +1,68 @@
+{
+  "iherb_id": 78522,
+  "last_updated": "2026-03-20T09:34:04.324Z",
+  "first_scraped": "2026-03-20T09:34:04.324Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Digestive support, Works for me, So far so good, Easy to take, Less bloating, Sufficient activity, Improved gut health. Some note: No difference, Effective ingredients.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "So far so good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sufficient activity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:04.324Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

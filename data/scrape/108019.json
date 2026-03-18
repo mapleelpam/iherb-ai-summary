@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108019,
+  "last_updated": "2026-03-20T10:00:48.688Z",
+  "first_scraped": "2026-03-20T10:00:48.688Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Seems good, Positive changes, Brand like, Digestion improved, Consistent description, Convenient packaging, Good ingredients, Taste good.",
+    "tags": [
+      {
+        "name": "Seems good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive changes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brand like",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consistent description",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Didn't like taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:48.688Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

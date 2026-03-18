@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114488,
+  "last_updated": "2026-03-20T10:24:39.751Z",
+  "first_scraped": "2026-03-20T10:24:39.751Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Memory boost, Trust brand, Game changer, Brain fog, Alertness improvement, Hopeful improvement, More energy, No jitters. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Memory boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain fog",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alertness improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hopeful improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No jitters",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Extra caffeine",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:39.751Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

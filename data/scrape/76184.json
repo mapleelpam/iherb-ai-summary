@@ -1,0 +1,68 @@
+{
+  "iherb_id": 76184,
+  "last_updated": "2026-03-20T10:06:22.814Z",
+  "first_scraped": "2026-03-20T10:06:22.814Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural taste, Good protein, Easy to mix, Plant based, Clean product, Blends well, Vegan protein, No bad taste. Some note: Nice smell, Versatile use.",
+    "tags": [
+      {
+        "name": "Natural taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blends well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No bad taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice smell",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Versatile use",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:22.814Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

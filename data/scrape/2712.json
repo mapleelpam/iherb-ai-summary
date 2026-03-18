@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2712,
+  "last_updated": "2026-03-20T09:33:09.367Z",
+  "first_scraped": "2026-03-20T09:33:09.367Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Healthy stomach, Double potency, Highly recommend, Speedy delivery, Less constipation, Boosts immunity, Big size, Digestion support.",
+    "tags": [
+      {
+        "name": "Healthy stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Double potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mouldy supplement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "More gas",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:09.367Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

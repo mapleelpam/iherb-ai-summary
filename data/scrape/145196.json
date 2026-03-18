@@ -1,0 +1,68 @@
+{
+  "iherb_id": 145196,
+  "last_updated": "2026-03-20T09:55:51.705Z",
+  "first_scraped": "2026-03-20T09:55:51.705Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hot flashes, Improved testosterone, Banish bacne, Liver health, Increased energy, Acceptable capsules, Daily emptying, Balancing hormones. Some note: T levels, Selected ingredients.",
+    "tags": [
+      {
+        "name": "Hot flashes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved testosterone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Banish bacne",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acceptable capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily emptying",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balancing hormones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "T levels",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Selected ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:51.705Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

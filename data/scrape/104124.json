@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104124,
+  "last_updated": "2026-03-20T10:00:34.086Z",
+  "first_scraped": "2026-03-20T10:00:34.086Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty option, Energy boost, Nice price, Yummy snacks, Avoid viruses, Boost immunity, Tolerable ingredients, Nice taste.",
+    "tags": [
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy snacks",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid viruses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tolerable ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not pleasant",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:34.086Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104804,
+  "last_updated": "2026-03-20T10:17:49.635Z",
+  "first_scraped": "2026-03-20T10:17:49.635Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Rich source, Boost milk, Love the packaging, Lactation cookies, Increases supply, Gluten-free option, Not bitter, Arrived fast. Some note: Healthy ingredients.",
+    "tags": [
+      {
+        "name": "Rich source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost milk",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lactation cookies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increases supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gluten-free option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not bitter",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arrived fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Taste unbearable",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:49.635Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

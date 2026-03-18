@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113500,
+  "last_updated": "2026-03-20T09:38:30.036Z",
+  "first_scraped": "2026-03-20T09:38:30.036Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Energy boost, Effective formula, Effective supplement, Bioavailable fisetin, Anti-aging energy, Small size, Anti-aging regime, Remove zombie cells. Some note: Cheaper option, Easy to take.",
+    "tags": [
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioavailable fisetin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-aging energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-aging regime",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Remove zombie cells",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheaper option",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:30.036Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

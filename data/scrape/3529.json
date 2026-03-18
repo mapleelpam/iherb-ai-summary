@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3529,
+  "last_updated": "2026-03-20T10:32:06.519Z",
+  "first_scraped": "2026-03-20T10:32:06.519Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy digestion, Fair pricing, Better sleep, Restful nights, Best thing, Stops hot flashes, More energy, Balanced product.",
+    "tags": [
+      {
+        "name": "Easy digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair pricing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restful nights",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best thing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stops hot flashes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hot sweats",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Slightly better",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:32:06.519Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

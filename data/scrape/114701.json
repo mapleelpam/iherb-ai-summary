@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114701,
+  "last_updated": "2026-03-20T09:38:55.640Z",
+  "first_scraped": "2026-03-20T09:38:55.640Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Unique combination, Joint health, Helping in a way, High potency, Repeat purchase, Immediate effect, Fast shipping, Knee pain relief. Some note: Reputable manufacturer, Great improvement.",
+    "tags": [
+      {
+        "name": "Unique combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helping in a way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Knee pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reputable manufacturer",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great improvement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:55.640Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

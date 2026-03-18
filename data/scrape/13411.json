@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13411,
+  "last_updated": "2026-03-20T10:10:10.252Z",
+  "first_scraped": "2026-03-20T10:10:10.252Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High EPA DHA, Tasty option, Kids love, Picky taste, Graduated therapy, Prompt service, Love the taste, Lemony flavor, Creamy lemon. Some note: Delicious fish oil.",
+    "tags": [
+      {
+        "name": "High EPA DHA",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kids love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Picky taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Graduated therapy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lemony flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Creamy lemon",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious fish oil",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:10.252Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

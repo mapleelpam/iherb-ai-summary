@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85008,
+  "last_updated": "2026-03-20T10:26:18.257Z",
+  "first_scraped": "2026-03-20T10:26:18.257Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty option, Love taste, Long term use, Blend with fruit, Better ratings, Love vega, Complete amino acids, Clean protein.",
+    "tags": [
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long term use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blend with fruit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better ratings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love vega",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete amino acids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Terrible taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:18.257Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5444,
+  "last_updated": "2026-03-20T09:23:21.873Z",
+  "first_scraped": "2026-03-20T09:23:21.873Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective cleanse, Cleanses digestive system, Alcohol-free ingredients, Candida cleanse, Liquid extract, Recommended brand, Good ingredients, Effective treatment. Some note: Natural remedy, Good for bone.",
+    "tags": [
+      {
+        "name": "Effective cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleanses digestive system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alcohol-free ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Candida cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liquid extract",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommended brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective treatment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural remedy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good for bone",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:21.873Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

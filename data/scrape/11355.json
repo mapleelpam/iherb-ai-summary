@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11355,
+  "last_updated": "2026-03-20T10:41:12.052Z",
+  "first_scraped": "2026-03-20T10:41:12.052Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Longer chance, Highly recommend, Noticeable difference, Lower pain, Feel difference, Helps joints, Helped slightly, Joint health.",
+    "tags": [
+      {
+        "name": "Longer chance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped slightly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stopped using",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Severe pain",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:41:12.052Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

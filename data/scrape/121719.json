@@ -1,0 +1,68 @@
+{
+  "iherb_id": 121719,
+  "last_updated": "2026-03-20T10:21:24.540Z",
+  "first_scraped": "2026-03-20T10:21:24.540Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clear focus, Positive results, Game-changer for cognitive support, Big improvement, Memory improvement, Increased clarity, Verbal fluency, Better thinking. Some note: Back to eating, Sleep help.",
+    "tags": [
+      {
+        "name": "Clear focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer for cognitive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased clarity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Verbal fluency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better thinking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Back to eating",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sleep help",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:24.540Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

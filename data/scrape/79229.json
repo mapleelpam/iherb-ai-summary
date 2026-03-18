@@ -1,0 +1,68 @@
+{
+  "iherb_id": 79229,
+  "last_updated": "2026-03-20T10:15:11.938Z",
+  "first_scraped": "2026-03-20T10:15:11.938Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, High dose, Ideal dosage size, Improved immunity, Plastic wrap, Easy absorption, Body absorbs, Raises levels, Love product, Easy swallowing.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ideal dosage size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plastic wrap",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body absorbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Raises levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallowing",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:11.938Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

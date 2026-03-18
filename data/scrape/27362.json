@@ -1,0 +1,68 @@
+{
+  "iherb_id": 27362,
+  "last_updated": "2026-03-20T10:26:17.234Z",
+  "first_scraped": "2026-03-20T10:26:17.234Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective mix, Beneficial enzymes, Maintain good health, Reduced bloating, Digestive support, Safe feeling, Works OK, Love brand.",
+    "tags": [
+      {
+        "name": "Effective mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial enzymes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain good health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works OK",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Ceased working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:17.234Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

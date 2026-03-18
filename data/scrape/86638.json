@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86638,
+  "last_updated": "2026-03-20T10:05:04.221Z",
+  "first_scraped": "2026-03-20T10:05:04.221Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good absorption, Good attempt, Long-term effect, Easy to digest, Repair phase, Best supplement, Good probiotics, Love this. Some note: Soil based.",
+    "tags": [
+      {
+        "name": "Good absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good attempt",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-term effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to digest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repair phase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good probiotics",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soil based",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not absorbed",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:04.221Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

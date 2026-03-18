@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13325,
+  "last_updated": "2026-03-20T10:23:13.733Z",
+  "first_scraped": "2026-03-20T10:23:13.733Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works wonders, Throat feel better, Powerful herbs, Reasonable cost, Unique taste, Throat pain, Immune boost, High potency. Some note: Super tonic.",
+    "tags": [
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Throat feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful herbs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable cost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Throat pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid echinacea",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Super tonic",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:23:13.733Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

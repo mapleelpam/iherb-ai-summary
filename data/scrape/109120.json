@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109120,
+  "last_updated": "2026-03-20T09:44:22.555Z",
+  "first_scraped": "2026-03-20T09:44:22.555Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Big size, Easy to swallow, Bone health, Supports bones, Convenient size, Good balance, Vitamin research, Different formula.",
+    "tags": [
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin research",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Different formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big tablets",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Size issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:22.555Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11836,
+  "last_updated": "2026-03-20T10:03:38.465Z",
+  "first_scraped": "2026-03-20T10:03:38.465Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lower cholesterol, Healthy goodness, Sun damaged skin, No flush, Affordable option, Fast shipping, Natural supplement, Pure vitamin.",
+    "tags": [
+      {
+        "name": "Lower cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy goodness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sun damaged skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No flush",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscular side effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Smaller bottles",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:38.465Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

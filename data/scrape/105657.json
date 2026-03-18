@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105657,
+  "last_updated": "2026-03-20T10:18:02.380Z",
+  "first_scraped": "2026-03-20T10:18:02.380Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient option, Works as intended, Easy to take, Safe product, Blood thinning, Combines well, Good dosage, Helps dissolve clots, High benefit, Good ingredients.",
+    "tags": [
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works as intended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood thinning",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Combines well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps dissolve clots",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:02.380Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

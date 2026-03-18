@@ -1,0 +1,68 @@
+{
+  "iherb_id": 88373,
+  "last_updated": "2026-03-20T10:16:41.517Z",
+  "first_scraped": "2026-03-20T10:16:41.517Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Eases stress, Relaxing effect, Improves mood, Very fast shipping, Convenient dosage, Energy boost, Sleeping better, Sleep support. Some note: No taste.",
+    "tags": [
+      {
+        "name": "Eases stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxing effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleeping better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:41.517Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

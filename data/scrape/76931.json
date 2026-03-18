@@ -1,0 +1,68 @@
+{
+  "iherb_id": 76931,
+  "last_updated": "2026-03-20T10:09:07.376Z",
+  "first_scraped": "2026-03-20T10:09:07.376Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improvement noticed, Chocolatey flavor, Healthy treat, Good protein, Good taste, Aromatic flavor, Coconut twist, Dairy free. Some note: Quantity matches.",
+    "tags": [
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chocolatey flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy treat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Aromatic flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Coconut twist",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dairy free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quantity matches",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Terrible taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:07.376Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

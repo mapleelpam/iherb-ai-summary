@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114599,
+  "last_updated": "2026-03-20T10:12:26.350Z",
+  "first_scraped": "2026-03-20T10:12:26.350Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Incredible results, Powerful antioxidant, Heart health, Less ingredients, Radiant glow, Easy to swallow, Improvement, Hopeful & natural. Some note: Inflammation reduction.",
+    "tags": [
+      {
+        "name": "Incredible results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Radiant glow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hopeful & natural",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inflammation reduction",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:26.350Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

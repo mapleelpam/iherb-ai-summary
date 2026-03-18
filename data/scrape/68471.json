@@ -1,0 +1,68 @@
+{
+  "iherb_id": 68471,
+  "last_updated": "2026-03-20T10:09:50.189Z",
+  "first_scraped": "2026-03-20T10:09:50.189Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this, Tasty drink, Wonderful blend, Reduce inflammation, Joint pain decreased, Delicious flavor, Antioxidant benefits, Natural antibiotic. Some note: Prop 65.",
+    "tags": [
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wonderful blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain decreased",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural antibiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergic ingredients",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Prop 65",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:50.189Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

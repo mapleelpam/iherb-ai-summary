@@ -1,0 +1,68 @@
+{
+  "iherb_id": 146088,
+  "last_updated": "2026-03-20T09:23:21.825Z",
+  "first_scraped": "2026-03-20T09:23:21.825Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Daily use, Excellent multivitamin, Delicious gummies, Easy to consume, Tastes great, Good taste, Stronger nails, More energy. Some note: Improve hair.",
+    "tags": [
+      {
+        "name": "Daily use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to consume",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not halal",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Improve hair",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:21.825Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

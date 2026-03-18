@@ -1,0 +1,68 @@
+{
+  "iherb_id": 58423,
+  "last_updated": "2026-03-20T09:38:21.195Z",
+  "first_scraped": "2026-03-20T09:38:21.195Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps calm, Good sleep, Clean ingredients, Improves concentration, Good composition, Improvement noticeable, Safer alternative, Natural relaxation. Some note: Effective sleep aid.",
+    "tags": [
+      {
+        "name": "Helps calm",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticeable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safer alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural relaxation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective sleep aid",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nightmares, not recommend",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:21.195Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

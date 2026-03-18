@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71400,
+  "last_updated": "2026-03-20T09:53:01.339Z",
+  "first_scraped": "2026-03-20T09:53:01.339Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Refreshing taste, Raspberry flavor, Convenient packets, Highly recommend, Colorful drink, Natural ingredients, Boost immunity, Energy boost. Some note: Vitamin formula.",
+    "tags": [
+      {
+        "name": "Refreshing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Raspberry flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Colorful drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin formula",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strange fizz",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:01.339Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

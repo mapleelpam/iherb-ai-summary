@@ -1,0 +1,68 @@
+{
+  "iherb_id": 87288,
+  "last_updated": "2026-03-20T10:30:42.046Z",
+  "first_scraped": "2026-03-20T10:30:42.046Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Powerful preworkout, Boost energy, Boost performance, Subdued assistance, Best supplements, Great energy, Clean energy, Constant basis.",
+    "tags": [
+      {
+        "name": "Powerful preworkout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Subdued assistance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best supplements",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Constant basis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flimsy seal",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Nauseous in morning",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:30:42.046Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14260,
+  "last_updated": "2026-03-20T10:08:03.683Z",
+  "first_scraped": "2026-03-20T10:08:03.683Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Convenient source, Good for digestion, Amazing grass, Convenient nutrition, Benefit worth, Highly recommend, Energy balance.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing grass",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient nutrition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit worth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach pains",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Didn't feel",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:03.683Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

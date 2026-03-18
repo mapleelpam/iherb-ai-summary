@@ -1,0 +1,68 @@
+{
+  "iherb_id": 45305,
+  "last_updated": "2026-03-20T09:30:55.250Z",
+  "first_scraped": "2026-03-20T09:30:55.250Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Cognitive enhancement, Boosted energy, Stress relief, Brain support, Good for memory, Helpful product, Calming and enhancing, Family support. Some note: Too early, Very happy.",
+    "tags": [
+      {
+        "name": "Cognitive enhancement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for memory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming and enhancing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Family support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too early",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Very happy",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:55.250Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

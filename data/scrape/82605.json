@@ -1,0 +1,68 @@
+{
+  "iherb_id": 82605,
+  "last_updated": "2026-03-20T09:42:56.233Z",
+  "first_scraped": "2026-03-20T09:42:56.233Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Trusted brand, Good for eye, Good choice, Skin improvement, Chest feelings, Muscle pain relief, More energy, Energy boost. Some note: Good for fertility, Still trying it.",
+    "tags": [
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for eye",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chest feelings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for fertility",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Still trying it",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:42:56.233Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

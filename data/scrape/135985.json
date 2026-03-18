@@ -1,0 +1,68 @@
+{
+  "iherb_id": 135985,
+  "last_updated": "2026-03-20T10:00:56.551Z",
+  "first_scraped": "2026-03-20T10:00:56.551Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good results, Fast results, Enhance energy, Favorite balance, Good boost, Tastes good, Cherry taste, Enhanced performance. Some note: Average pre workout, Efficient dosage.",
+    "tags": [
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhance energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Favorite balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cherry taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Average pre workout",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Efficient dosage",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:56.551Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6359,
+  "last_updated": "2026-03-20T09:37:50.687Z",
+  "first_scraped": "2026-03-20T09:37:50.687Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great relief, Reasonable price, Potent stuff, Less bloated, Satisfied product, Improved digestion, Pain relief, Good seller. Some note: Natural ingredients.",
+    "tags": [
+      {
+        "name": "Great relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good seller",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not happy",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:50.687Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

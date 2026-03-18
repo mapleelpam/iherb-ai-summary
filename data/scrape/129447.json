@@ -1,0 +1,68 @@
+{
+  "iherb_id": 129447,
+  "last_updated": "2026-03-20T09:58:52.620Z",
+  "first_scraped": "2026-03-20T09:58:52.620Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Prompt responses, Love the size, Good deal, Best value, Powerful antioxidant, Sleep hormone, Strong effects, Economical way, Good dosage. Some note: Vegan caps.",
+    "tags": [
+      {
+        "name": "Prompt responses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good deal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep hormone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economical way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan caps",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:52.620Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

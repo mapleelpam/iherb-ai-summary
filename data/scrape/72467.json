@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72467,
+  "last_updated": "2026-03-20T10:04:39.759Z",
+  "first_scraped": "2026-03-20T10:04:39.759Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Relieve stress, Relaxed state, Calming feeling, Combining works, Good trade off, Works great, Simple dosage, Improved energy.",
+    "tags": [
+      {
+        "name": "Relieve stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxed state",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Combining works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good trade off",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Simple dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effects discernible",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:39.759Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

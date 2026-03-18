@@ -1,0 +1,68 @@
+{
+  "iherb_id": 119976,
+  "last_updated": "2026-03-20T10:16:42.405Z",
+  "first_scraped": "2026-03-20T10:16:42.405Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Refreshing taste, Hope to continue, Will order again, Promote recovery, Natural flavor, Faster recovery, Taste good, Good formula. Some note: Large serving size.",
+    "tags": [
+      {
+        "name": "Refreshing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hope to continue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Will order again",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Promote recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Faster recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large serving size",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Artificial tasting",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:42.405Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

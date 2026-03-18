@@ -1,0 +1,68 @@
+{
+  "iherb_id": 88929,
+  "last_updated": "2026-03-20T09:59:31.834Z",
+  "first_scraped": "2026-03-20T09:59:31.834Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Taste amazing, Long-lasting benefit, Fast absorption, Reasonable price, Good taste, Affordable option, High dose, Tasty dissolves.",
+    "tags": [
+      {
+        "name": "Taste amazing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-lasting benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty dissolves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Maltodextrin concern",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:31.834Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

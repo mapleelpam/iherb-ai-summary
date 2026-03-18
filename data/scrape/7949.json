@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7949,
+  "last_updated": "2026-03-20T09:35:04.385Z",
+  "first_scraped": "2026-03-20T09:35:04.385Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Not fishy taste, Natural product, Pet safe, Expensive but effective, Real stuff, Clean taste, Highly recommend, Improves health. Some note: Healthy heart, Good additive.",
+    "tags": [
+      {
+        "name": "Not fishy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pet safe",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real stuff",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy heart",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Good additive",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:04.385Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

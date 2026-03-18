@@ -1,0 +1,68 @@
+{
+  "iherb_id": 125286,
+  "last_updated": "2026-03-20T09:36:54.559Z",
+  "first_scraped": "2026-03-20T09:36:54.559Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Good combination, Trusted brand, Fast shipping, Convenient tablets, Skin health, Fresh and packaged, Best supplement.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh and packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergy skin rush",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Expensive small size",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:54.559Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

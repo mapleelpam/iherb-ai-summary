@@ -1,0 +1,68 @@
+{
+  "iherb_id": 75726,
+  "last_updated": "2026-03-20T09:24:10.830Z",
+  "first_scraped": "2026-03-20T09:24:10.830Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty and healthy, Sweet taste, Tastes good, Good taste, Improves digestion, Glass bottle, Nice price, Glowing skin. Some note: Multivitamin.",
+    "tags": [
+      {
+        "name": "Tasty and healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glowing skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver issues",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Multivitamin",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:10.830Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

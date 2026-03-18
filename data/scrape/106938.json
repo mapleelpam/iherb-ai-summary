@@ -1,0 +1,68 @@
+{
+  "iherb_id": 106938,
+  "last_updated": "2026-03-20T10:20:49.247Z",
+  "first_scraped": "2026-03-20T10:20:49.247Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice taste, Fruity flavor, Works brilliantly, Mild and relaxing, Easy sleep, Sleep support, Effective option, Excellent composition. Some note: Less sugar.",
+    "tags": [
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fruity flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works brilliantly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild and relaxing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less sugar",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Sugar complaint",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:49.247Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 37883,
+  "last_updated": "2026-03-20T09:59:00.937Z",
+  "first_scraped": "2026-03-20T09:59:00.937Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sleep quality, Tasteless, plus, Helps sleep, Works great, Deep sleep, Cardiovascular health, Natural form, Better sleep.",
+    "tags": [
+      {
+        "name": "Sleep quality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasteless, plus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cardiovascular health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not for me",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:00.937Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

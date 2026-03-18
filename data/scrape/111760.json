@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111760,
+  "last_updated": "2026-03-20T10:24:15.888Z",
+  "first_scraped": "2026-03-20T10:24:15.888Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Prevention, Plant-based vitamin, Fair price, Easy swallow, Trusted brand, Second order, Daily use.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prevention",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant-based vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Second order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Constipating",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Allergic reaction",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:15.888Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

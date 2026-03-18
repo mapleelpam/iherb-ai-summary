@@ -1,0 +1,68 @@
+{
+  "iherb_id": 89406,
+  "last_updated": "2026-03-20T09:31:12.499Z",
+  "first_scraped": "2026-03-20T09:31:12.499Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Liver support, Positive effect, Feel better, Reduced hangovers, Wake up, Effective brand, Easy to swallow, Bounce back. Some note: Morning relief.",
+    "tags": [
+      {
+        "name": "Liver support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced hangovers",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wake up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bounce back",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning relief",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Skin reaction",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:12.499Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

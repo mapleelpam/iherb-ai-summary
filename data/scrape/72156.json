@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72156,
+  "last_updated": "2026-03-20T10:12:06.333Z",
+  "first_scraped": "2026-03-20T10:12:06.333Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective choice, Best value, Joint support, Strong nails, Liquid k2, Trust brand, Great delivery, Essential benefit. Some note: Different forms, Recommended intake.",
+    "tags": [
+      {
+        "name": "Effective choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong nails",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liquid k2",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Different forms",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Recommended intake",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:06.333Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

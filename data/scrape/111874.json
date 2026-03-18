@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111874,
+  "last_updated": "2026-03-20T09:32:01.031Z",
+  "first_scraped": "2026-03-20T09:32:01.031Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes great, Easy to take, Highly suggest, Good taste, Convenient way, Sweet taste, Chewable option, Smells good. Some note: Works great.",
+    "tags": [
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly suggest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chewable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smells good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:01.031Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

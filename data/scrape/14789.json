@@ -1,0 +1,68 @@
+{
+  "iherb_id": 14789,
+  "last_updated": "2026-03-20T09:50:38.236Z",
+  "first_scraped": "2026-03-20T09:50:38.236Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pure product, Feel great, Delicious combo, Good digestion, Good result, Tastes good, Easily digested, Low calories, high protein.",
+    "tags": [
+      {
+        "name": "Pure product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easily digested",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low calories, high protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Disgusting sweetener",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not the best",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:38.236Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

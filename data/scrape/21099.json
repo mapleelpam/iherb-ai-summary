@@ -1,0 +1,68 @@
+{
+  "iherb_id": 21099,
+  "last_updated": "2026-03-20T09:32:14.917Z",
+  "first_scraped": "2026-03-20T09:32:14.917Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for baking, Helps digestion, Easy to use, Love it organic, Tasty flavor, Good taste, Recycle plastic, Good alternative. Some note: Fresh taste, Hair growth.",
+    "tags": [
+      {
+        "name": "Good for baking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love it organic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recycle plastic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:14.917Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

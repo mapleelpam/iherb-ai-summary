@@ -1,0 +1,68 @@
+{
+  "iherb_id": 136855,
+  "last_updated": "2026-03-20T10:01:27.498Z",
+  "first_scraped": "2026-03-20T10:01:27.498Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Essential amino acids, Organic vegan, No issues, Heart health, Plant benefit, Reasonable price, Muscle growth, No clumping, Plant-based protein. Some note: No taste.",
+    "tags": [
+      {
+        "name": "Essential amino acids",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic vegan",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No clumping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant-based protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:27.498Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

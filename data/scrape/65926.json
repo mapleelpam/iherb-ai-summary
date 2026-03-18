@@ -1,0 +1,68 @@
+{
+  "iherb_id": 65926,
+  "last_updated": "2026-03-20T10:11:19.590Z",
+  "first_scraped": "2026-03-20T10:11:19.590Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty supplement, Effective energy, Good boost, Good taste, Fast shipping, Best preworkout, Boost energy, Highly recommend. Some note: Decent option.",
+    "tags": [
+      {
+        "name": "Tasty supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best preworkout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent option",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High caffeine",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:11:19.590Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

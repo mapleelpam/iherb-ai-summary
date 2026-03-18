@@ -1,0 +1,68 @@
+{
+  "iherb_id": 82707,
+  "last_updated": "2026-03-20T09:24:07.909Z",
+  "first_scraped": "2026-03-20T09:24:07.909Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Easy to dissolve, Easy digestible, Solid option, Fast shipping, Mixes well, Tasty vanilla, Delicious taste.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy digestible",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Solid option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty vanilla",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fantastic addition",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:07.909Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144216,
+  "last_updated": "2026-03-20T09:53:39.363Z",
+  "first_scraped": "2026-03-20T09:53:39.363Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to break, Boost testosterone, General health, Energy boost, Good source, Took time, Easy to take, High dosage. Some note: Long term effect.",
+    "tags": [
+      {
+        "name": "Easy to break",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost testosterone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "General health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Took time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Long term effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:39.363Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

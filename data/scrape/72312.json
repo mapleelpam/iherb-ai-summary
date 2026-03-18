@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72312,
+  "last_updated": "2026-03-20T09:30:42.394Z",
+  "first_scraped": "2026-03-20T09:30:42.394Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Brain focus, Fat burn, Effective ingredients, Cognitive function, Muscle recovery, Nice price, Vegetarian-friendly capsules, Love this product, Highly recommend.",
+    "tags": [
+      {
+        "name": "Brain focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat burn",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cognitive function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegetarian-friendly capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach issues",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:42.394Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

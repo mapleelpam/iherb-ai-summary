@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2513,
+  "last_updated": "2026-03-20T09:41:27.699Z",
+  "first_scraped": "2026-03-20T09:41:27.699Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Better mood, Natural solution, Longer lasting, More energetic, Good results, Calming effect, Good ingredients, Sleep aid. Some note: Enhances mood.",
+    "tags": [
+      {
+        "name": "Better mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Longer lasting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhances mood",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Doesn't work",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:27.699Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

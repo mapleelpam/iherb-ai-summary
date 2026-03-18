@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22708,
+  "last_updated": "2026-03-20T09:21:34.199Z",
+  "first_scraped": "2026-03-20T09:21:34.199Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small size, Fell asleep, Improved sleep, Big difference, Small pill, Help fall asleep, Sleep patterns, Time release. Some note: Easy swallow, good sleep.",
+    "tags": [
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fell asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small pill",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Help fall asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep patterns",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Time release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow, good sleep",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:34.199Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

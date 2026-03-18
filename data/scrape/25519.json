@@ -1,0 +1,68 @@
+{
+  "iherb_id": 25519,
+  "last_updated": "2026-03-20T09:17:48.974Z",
+  "first_scraped": "2026-03-20T09:17:48.974Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Healthy life, Daily supplement, Easy to swallow, Daily use, An excellent mix, Very reasonably priced, Good multivitamin, Convenient and easy. Some note: Strong immunity, Great deal.",
+    "tags": [
+      {
+        "name": "Healthy life",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "An excellent mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very reasonably priced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient and easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong immunity",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great deal",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:17:48.974Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

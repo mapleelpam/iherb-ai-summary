@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86693,
+  "last_updated": "2026-03-20T09:40:31.750Z",
+  "first_scraped": "2026-03-20T09:40:31.750Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps circulation, Organic ingredients, Quick effect, Reduces aching, Mixed course, Fast shipping, Improve blood, Good results.",
+    "tags": [
+      {
+        "name": "Helps circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces aching",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixed course",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve blood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No relief",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sick stomach",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:31.750Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

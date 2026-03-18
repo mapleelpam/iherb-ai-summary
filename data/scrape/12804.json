@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12804,
+  "last_updated": "2026-03-20T09:43:42.312Z",
+  "first_scraped": "2026-03-20T09:43:42.312Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty lecithin, Brain and liver, Stabilizes almond milk, Good taste, Palatable supplement, Environmentally friendly, Soy granules, Large bank.",
+    "tags": [
+      {
+        "name": "Tasty lecithin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain and liver",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stabilizes almond milk",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Palatable supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Environmentally friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Soy granules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large bank",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive prices",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Headache persists",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:42.312Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

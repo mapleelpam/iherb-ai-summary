@@ -1,0 +1,68 @@
+{
+  "iherb_id": 16075,
+  "last_updated": "2026-03-20T10:26:23.378Z",
+  "first_scraped": "2026-03-20T10:26:23.378Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Avoided getting, Natural immunity, No nosebleeds, Reduced healing time, Warts gone, Fast shipping, Big change, Love this supplement. Some note: Not obvious.",
+    "tags": [
+      {
+        "name": "Avoided getting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No nosebleeds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced healing time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Warts gone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not obvious",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:23.378Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

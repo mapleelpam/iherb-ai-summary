@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12216,
+  "last_updated": "2026-03-20T10:27:13.259Z",
+  "first_scraped": "2026-03-20T10:27:13.259Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High energy, More bioavailable, Valuable addition, Improved dream recall, Pure ingredients, No bad effects, Optimal form, Immune support.",
+    "tags": [
+      {
+        "name": "High energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More bioavailable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Valuable addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved dream recall",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No bad effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Optimal form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Larger sizes",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Memory problems",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:13.259Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

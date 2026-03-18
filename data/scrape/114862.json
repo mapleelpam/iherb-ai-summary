@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114862,
+  "last_updated": "2026-03-20T10:03:02.522Z",
+  "first_scraped": "2026-03-20T10:03:02.522Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Low dose, Effective supplement, Bioavailable forms, Body-ready forms, Improved sleep, High potency, Easily checkout, Good support. Some note: Mixed results, Tablet form.",
+    "tags": [
+      {
+        "name": "Low dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioavailable forms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Body-ready forms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easily checkout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixed results",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Tablet form",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:02.522Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

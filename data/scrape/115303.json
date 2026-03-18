@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115303,
+  "last_updated": "2026-03-20T10:17:27.515Z",
+  "first_scraped": "2026-03-20T10:17:27.515Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Purity and potency, Reduce anxiety, Improves sleep, Energy and focus, Nutty flavor, Love this, Add coconut milk, Selected ingredients. Some note: Hair mask, Distinct taste.",
+    "tags": [
+      {
+        "name": "Purity and potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy and focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Add coconut milk",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Selected ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair mask",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Distinct taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:17:27.515Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

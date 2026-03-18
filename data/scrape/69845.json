@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69845,
+  "last_updated": "2026-03-20T10:25:08.267Z",
+  "first_scraped": "2026-03-20T10:25:08.267Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosting attitude, Nice package, Stabilize moods, Life changer, Maybe works, Improves mood, Happy camper, Convenient and portable. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Boosting attitude",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stabilize moods",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maybe works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy camper",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient and portable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not correct",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:08.267Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

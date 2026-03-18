@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111900,
+  "last_updated": "2026-03-20T10:04:30.693Z",
+  "first_scraped": "2026-03-20T10:04:30.693Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High potency, Less colds, Trusted brand, User friendly, Pure vitamin C, Effective brand, Complies with criteria, Great supplement, Better absorption, Healthy skin.",
+    "tags": [
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less colds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "User friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure vitamin C",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complies with criteria",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy skin",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:30.693Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7286,
+  "last_updated": "2026-03-20T10:04:46.640Z",
+  "first_scraped": "2026-03-20T10:04:46.640Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Clean ingredients, Better sleep quality, Less is more, Good dosage, Works quickly, Lower dose, Convenient format. Some note: Convenient packaging.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep quality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less is more",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient format",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Awful dreams",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:46.640Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

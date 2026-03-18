@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15570,
+  "last_updated": "2026-03-20T09:58:35.119Z",
+  "first_scraped": "2026-03-20T09:58:35.119Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pain relief, Joint improvement, Improvement in skin, Positive feedback, Convenient size, Long-time cyclist, Heals wounds, Improved mood.",
+    "tags": [
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Positive feedback",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-time cyclist",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heals wounds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Difficult swallow",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:35.119Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

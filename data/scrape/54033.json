@@ -1,0 +1,68 @@
+{
+  "iherb_id": 54033,
+  "last_updated": "2026-03-20T09:36:26.603Z",
+  "first_scraped": "2026-03-20T09:36:26.603Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good additive, Tasty vitamin, Delicious taste, Easy to chew, Boost immunity, Glass bottle, Fair price, Boost season. Some note: Energy surge, Effective supplement.",
+    "tags": [
+      {
+        "name": "Good additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to chew",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost season",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy surge",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:26.603Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

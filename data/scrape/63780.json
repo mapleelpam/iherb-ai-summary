@@ -1,0 +1,68 @@
+{
+  "iherb_id": 63780,
+  "last_updated": "2026-03-20T09:32:38.770Z",
+  "first_scraped": "2026-03-20T09:32:38.770Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps digestion, Improved gut health, Easy to swallow, Highly recommend, Less bloated, Regular use, Fast relief, Good mix. Some note: Great smile.",
+    "tags": [
+      {
+        "name": "Helps digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less bloated",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable change",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Great smile",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:38.770Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

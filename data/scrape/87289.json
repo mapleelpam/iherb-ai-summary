@@ -1,0 +1,68 @@
+{
+  "iherb_id": 87289,
+  "last_updated": "2026-03-20T10:26:56.398Z",
+  "first_scraped": "2026-03-20T10:26:56.398Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Patented ingredients, Natural stack, Made my life easier, Improved focus, Amazing taste, Boost energy, Kick after drink, Increased stamina.",
+    "tags": [
+      {
+        "name": "Patented ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural stack",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Made my life easier",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kick after drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad aftertaste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Strong flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:56.398Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

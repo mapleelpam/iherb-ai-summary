@@ -1,0 +1,68 @@
+{
+  "iherb_id": 103270,
+  "last_updated": "2026-03-20T09:20:01.278Z",
+  "first_scraped": "2026-03-20T09:20:01.278Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for skin, Powerful dose, Boost immune, Powerful antioxidant, Skin brighter, Easy to swallow, More energy, Glowing skin. Some note: Skin benefits, See results.",
+    "tags": [
+      {
+        "name": "Good for skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin brighter",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glowing skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "See results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:01.278Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

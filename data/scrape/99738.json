@@ -1,0 +1,68 @@
+{
+  "iherb_id": 99738,
+  "last_updated": "2026-03-20T09:19:01.640Z",
+  "first_scraped": "2026-03-20T09:19:01.640Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Morning energy, Nice taste, Sustained energy, No taste, Keto friendly, Great oil, Energy boost, Bulletproof coffee. Some note: Mixes well, All natural.",
+    "tags": [
+      {
+        "name": "Morning energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustained energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keto friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bulletproof coffee",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "All natural",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:01.640Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4232,
+  "last_updated": "2026-03-20T09:47:06.293Z",
+  "first_scraped": "2026-03-20T09:47:06.293Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Good buy, Heart health, No fillers, Enhanced absorption, Overall health, Anti-aging supplement, Small pills. Some note: Love this brand.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No fillers",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhanced absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-aging supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Total waste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Love this brand",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:06.293Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15859,
+  "last_updated": "2026-03-20T09:31:46.715Z",
+  "first_scraped": "2026-03-20T09:31:46.715Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Body odor, No stains, Love this, Boosts energy, Increases blood circulation, Healthy option, Easy swallow, Red blood. Some note: Effective brand.",
+    "tags": [
+      {
+        "name": "Body odor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No stains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increases blood circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Red blood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No pep",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:46.715Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

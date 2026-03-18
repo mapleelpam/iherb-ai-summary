@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18494,
+  "last_updated": "2026-03-20T10:28:38.239Z",
+  "first_scraped": "2026-03-20T10:28:38.239Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to take, Digestion support, Expensive but effective, Highly recommend, Game-changer for digestion, Intestinal health, Worth every penny, Works great.",
+    "tags": [
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer for digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intestinal health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Worth every penny",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Does not work",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Struggling digestion",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:38.239Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

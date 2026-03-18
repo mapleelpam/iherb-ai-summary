@@ -1,0 +1,68 @@
+{
+  "iherb_id": 10742,
+  "last_updated": "2026-03-20T10:16:16.144Z",
+  "first_scraped": "2026-03-20T10:16:16.144Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Happy, Affordable option, Veg capsules, Good source, Energy boost, Easy to use, Must get, Good for health, Vegan option, Energy levels up.",
+    "tags": [
+      {
+        "name": "Happy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Veg capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Must get",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels up",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:16.144Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

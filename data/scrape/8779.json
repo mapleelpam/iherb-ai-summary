@@ -1,0 +1,63 @@
+{
+  "iherb_id": 8779,
+  "last_updated": "2026-03-20T10:27:52.771Z",
+  "first_scraped": "2026-03-20T10:27:52.771Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps sleep, Deep sleep, Cortisol control, Restful nights, Natural alternative, Excellent additive, Reduces anxiety.",
+    "tags": [
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deep sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cortisol control",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restful nights",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces anxiety",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Could be stronger",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Stopped working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:52.771Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

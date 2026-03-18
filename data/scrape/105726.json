@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105726,
+  "last_updated": "2026-03-20T09:47:02.297Z",
+  "first_scraped": "2026-03-20T09:47:02.297Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Calming effect, Refreshing pick-me-up, Company uses, Taste good, Promotes relaxation, Better sleep, Helps sleep, Vanilla cream flavor. Some note: Good ingredients.",
+    "tags": [
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing pick-me-up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Company uses",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Promotes relaxation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vanilla cream flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Lowering blood pressure",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:02.297Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

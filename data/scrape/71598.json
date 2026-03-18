@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71598,
+  "last_updated": "2026-03-20T09:28:40.548Z",
+  "first_scraped": "2026-03-20T09:28:40.548Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty, Good ingredients, High protein, Chocolate taste, Scoop design, Mixes well, Reasonable price, Muscle growth. Some note: Effective protein, Nice taste.",
+    "tags": [
+      {
+        "name": "Tasty",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chocolate taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Scoop design",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective protein",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:40.548Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

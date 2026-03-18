@@ -1,0 +1,68 @@
+{
+  "iherb_id": 58900,
+  "last_updated": "2026-03-20T10:07:21.183Z",
+  "first_scraped": "2026-03-20T10:07:21.183Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Heals gut, Organic juice, Abdominal discomfort, Refreshing taste, Tastes good, Clean ingredients, Helped me, Enhances immunity.",
+    "tags": [
+      {
+        "name": "Heals gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic juice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Abdominal discomfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhances immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach issues",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Smell terrible",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:21.183Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

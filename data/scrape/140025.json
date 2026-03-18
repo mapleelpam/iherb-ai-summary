@@ -1,0 +1,68 @@
+{
+  "iherb_id": 140025,
+  "last_updated": "2026-03-20T09:25:10.940Z",
+  "first_scraped": "2026-03-20T09:25:10.940Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast delivery, Reduced leg swelling, Pain free, Easy to swallow, Gentle impact, Effective ingredients, Lighter legs, Good support. Some note: Helpful remedy, Natural blend.",
+    "tags": [
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced leg swelling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lighter legs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful remedy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Natural blend",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:10.940Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

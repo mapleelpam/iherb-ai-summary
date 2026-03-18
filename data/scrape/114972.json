@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114972,
+  "last_updated": "2026-03-20T09:59:28.925Z",
+  "first_scraped": "2026-03-20T09:59:28.925Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved digestion, Helpful for constipation, Delayed release, Boosted immune system, Good package, Good to use, No after taste, Easy to swallow. Some note: Works well, Regular bowel.",
+    "tags": [
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful for constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delayed release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted immune system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No after taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works well",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Regular bowel",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:28.925Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

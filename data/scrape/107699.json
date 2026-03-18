@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107699,
+  "last_updated": "2026-03-20T10:22:52.636Z",
+  "first_scraped": "2026-03-20T10:22:52.636Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Tastes good, Build muscle, No chalky taste, Convenient option, Yummy flavor, Muscle support, Perfect size. Some note: Not opened.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Build muscle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No chalky taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "GI issues",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not opened",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:52.636Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71014,
+  "last_updated": "2026-03-20T10:04:07.554Z",
+  "first_scraped": "2026-03-20T10:04:07.554Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fantastic hydration, Better strength, Good taste, Clean ingredients, Large size, Natural sweetener, Lemon best, Tangy hint, Hand cramps gone. Some note: Fair size.",
+    "tags": [
+      {
+        "name": "Fantastic hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural sweetener",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lemon best",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tangy hint",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hand cramps gone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair size",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:07.554Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

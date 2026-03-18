@@ -1,0 +1,68 @@
+{
+  "iherb_id": 65898,
+  "last_updated": "2026-03-20T09:31:39.792Z",
+  "first_scraped": "2026-03-20T09:31:39.792Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved health, Prompt delivery, Boosted immunity, Renewed energy, Good taste, More energy, Great choice, Good for health. Some note: Highly recommend.",
+    "tags": [
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Renewed energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not soluble",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:39.792Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

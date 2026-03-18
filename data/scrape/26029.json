@@ -1,0 +1,63 @@
+{
+  "iherb_id": 26029,
+  "last_updated": "2026-03-20T09:18:01.415Z",
+  "first_scraped": "2026-03-20T09:18:01.415Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Affordable option, Good ingredients, Good purchase, Daily supplement, Improvement energy, Cheap and effective, No aftertaste. Some note: Good mixture, Very nice vitamins.",
+    "tags": [
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheap and effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No aftertaste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good mixture",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Very nice vitamins",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:01.415Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

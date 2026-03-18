@@ -1,0 +1,68 @@
+{
+  "iherb_id": 123791,
+  "last_updated": "2026-03-20T10:22:53.664Z",
+  "first_scraped": "2026-03-20T10:22:53.664Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Raises ferritin, Bigger size, Energy boost, Skin radiance, Skin benefits, Convenient capsules, Good ingredients, Full of vitamins.",
+    "tags": [
+      {
+        "name": "Raises ferritin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bigger size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin radiance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Full of vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too many",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Skin sensitive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:53.664Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

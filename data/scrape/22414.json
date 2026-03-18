@@ -1,0 +1,68 @@
+{
+  "iherb_id": 22414,
+  "last_updated": "2026-03-20T09:30:51.258Z",
+  "first_scraped": "2026-03-20T09:30:51.258Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Insomnia relief, Fall asleep, Tiny nuggets, Perfect dosage, Deeper sleep, Good vitamin, Nice price, Recommend it.",
+    "tags": [
+      {
+        "name": "Insomnia relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fall asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiny nuggets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deeper sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not helpful",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not strong",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:51.258Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18057,
+  "last_updated": "2026-03-20T09:32:08.923Z",
+  "first_scraped": "2026-03-20T09:32:08.923Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost of energy, Love the orange, Fast shipping, Tastes good, Love this, Easy to use, Good result, Convenient drink form. Some note: Fastest way.",
+    "tags": [
+      {
+        "name": "Boost of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the orange",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good result",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient drink form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Don't like",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fastest way",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:32:08.923Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

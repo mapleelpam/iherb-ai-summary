@@ -1,0 +1,68 @@
+{
+  "iherb_id": 108150,
+  "last_updated": "2026-03-20T10:25:23.371Z",
+  "first_scraped": "2026-03-20T10:25:23.371Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helpful product, Improvement digestion, High potency, Good ingredients, Fast shipping, Less imodium, Noticeable change, Highly recommend. Some note: Low elastase.",
+    "tags": [
+      {
+        "name": "Helpful product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less imodium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive price",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Low elastase",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:23.371Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

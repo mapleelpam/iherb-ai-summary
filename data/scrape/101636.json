@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101636,
+  "last_updated": "2026-03-20T10:10:40.361Z",
+  "first_scraped": "2026-03-20T10:10:40.361Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less calories, Tastes great, Healthy alternative, Weight management, Delicious flavor, Smooth taste, Excited to try, Clean ingredients. Some note: Good source.",
+    "tags": [
+      {
+        "name": "Less calories",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excited to try",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High calories",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:40.361Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85062,
+  "last_updated": "2026-03-20T10:03:39.495Z",
+  "first_scraped": "2026-03-20T10:03:39.495Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Sweetened milk, White chocolate, Muscle recovery, Good taste, Tastes great, Smells good, Creamy texture, Good results. Some note: Short time, Well packed.",
+    "tags": [
+      {
+        "name": "Sweetened milk",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "White chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smells good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Creamy texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Short time",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Well packed",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:39.495Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

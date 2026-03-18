@@ -1,0 +1,68 @@
+{
+  "iherb_id": 50865,
+  "last_updated": "2026-03-20T10:01:08.425Z",
+  "first_scraped": "2026-03-20T10:01:08.425Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love packaging, Boost energy, Good for prostate, Boost immune, Works great, Easy to swallow, Fight off colds, Herbal supplement. Some note: Immune system, Vegan capsules.",
+    "tags": [
+      {
+        "name": "Love packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for prostate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fight off colds",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herbal supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune system",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Vegan capsules",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:01:08.425Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

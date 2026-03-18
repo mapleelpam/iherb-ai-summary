@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70110,
+  "last_updated": "2026-03-20T10:22:17.003Z",
+  "first_scraped": "2026-03-20T10:22:17.003Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pleasant taste, Chewy candy, Easy to dissolve, Reliable option, Helpful relief, Preventative use, Works quickly, Preventive measure, Prophylactic dosage, Convenient powder.",
+    "tags": [
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chewy candy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventative use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Preventive measure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prophylactic dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient powder",
+        "classification": 0,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:17.003Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

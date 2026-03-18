@@ -1,0 +1,68 @@
+{
+  "iherb_id": 79018,
+  "last_updated": "2026-03-20T09:36:32.550Z",
+  "first_scraped": "2026-03-20T09:36:32.550Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Digestive improvement, Perked me up, Out of stock, Regulate sugar, Powerful combination, Good benefits, Weight loss, No side effects.",
+    "tags": [
+      {
+        "name": "Digestive improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perked me up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Out of stock",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:32.550Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

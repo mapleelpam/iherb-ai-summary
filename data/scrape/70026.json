@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70026,
+  "last_updated": "2026-03-20T09:53:40.428Z",
+  "first_scraped": "2026-03-20T09:53:40.428Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Packaging quality, Testosterone improvement, Organic capsules, Easy to swallow, Fast delivery, Workouts improvement, Herbal support. Some note: Maple syrup smell, Milk supply.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 27
+      },
+      {
+        "name": "Packaging quality",
+        "classification": 0,
+        "count": 11
+      },
+      {
+        "name": "Testosterone improvement",
+        "classification": 0,
+        "count": 7
+      },
+      {
+        "name": "Organic capsules",
+        "classification": 0,
+        "count": 6
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 6
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 5
+      },
+      {
+        "name": "Workouts improvement",
+        "classification": 0,
+        "count": 4
+      },
+      {
+        "name": "Herbal support",
+        "classification": 0,
+        "count": 2
+      },
+      {
+        "name": "Maple syrup smell",
+        "classification": 1,
+        "count": 16
+      },
+      {
+        "name": "Milk supply",
+        "classification": 1,
+        "count": 8
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:40.428Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

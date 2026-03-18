@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43901,
+  "last_updated": "2026-03-20T10:20:13.016Z",
+  "first_scraped": "2026-03-20T10:20:13.016Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Visible results, Shower improvement, Adorable product, Fast growth, Capsules work, Good ingredients, Strengthen hair, Copper amount.",
+    "tags": [
+      {
+        "name": "Visible results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shower improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adorable product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Capsules work",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strengthen hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Copper amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Horrible smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Intolerable taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:13.016Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

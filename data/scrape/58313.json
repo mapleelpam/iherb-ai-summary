@@ -1,0 +1,68 @@
+{
+  "iherb_id": 58313,
+  "last_updated": "2026-03-20T10:07:01.113Z",
+  "first_scraped": "2026-03-20T10:07:01.113Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosting energy, User friendly, Trustable manufacturing, Liver health, Heart support, Nerves calm, Decrease bloating, Natural solution. Some note: Small capsules.",
+    "tags": [
+      {
+        "name": "Boosting energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "User friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trustable manufacturing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nerves calm",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decrease bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural solution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Made me sick",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:01.113Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

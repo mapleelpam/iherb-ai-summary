@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2857,
+  "last_updated": "2026-03-20T10:24:02.270Z",
+  "first_scraped": "2026-03-20T10:24:02.270Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lower blood sugar, Helpful for digestion, Blood sugar management, Insulin spike, A1-c improvement, Normalized blood sugar, Excited for trials, Glucose reduction.",
+    "tags": [
+      {
+        "name": "Lower blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful for digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Insulin spike",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "A1-c improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normalized blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excited for trials",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glucose reduction",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive compared",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:02.270Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

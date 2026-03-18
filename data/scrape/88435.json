@@ -1,0 +1,68 @@
+{
+  "iherb_id": 88435,
+  "last_updated": "2026-03-20T10:29:35.480Z",
+  "first_scraped": "2026-03-20T10:29:35.480Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty & soothing, Works great, Natural and works, Good taste, Fab alternative, Lowest price, Instant relief, Decrease esophageal acidity.",
+    "tags": [
+      {
+        "name": "Tasty & soothing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural and works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fab alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowest price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Instant relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decrease esophageal acidity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Harmful residue",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No help",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:29:35.480Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

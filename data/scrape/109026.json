@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109026,
+  "last_updated": "2026-03-20T09:31:06.663Z",
+  "first_scraped": "2026-03-20T09:31:06.663Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin texture, Collagen support, Thicker hair, Great benefits, Beginning of growth, Easy to take, Useful ingredients, Quality assurance. Some note: Effective dosages.",
+    "tags": [
+      {
+        "name": "Skin texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Collagen support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thicker hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beginning of growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Useful ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality assurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Effective dosages",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:06.663Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

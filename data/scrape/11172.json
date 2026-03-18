@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11172,
+  "last_updated": "2026-03-20T10:08:09.824Z",
+  "first_scraped": "2026-03-20T10:08:09.824Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pure tocotrienols, Prompt delivery, Superior absorbable, Rare find, Small size, easy, Neutralizes free radicals, Powerful antioxidant, Fast shipping. Some note: Separately, many hours.",
+    "tags": [
+      {
+        "name": "Pure tocotrienols",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prompt delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Superior absorbable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rare find",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size, easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutralizes free radicals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vivid dream",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Separately, many hours",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:08:09.824Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

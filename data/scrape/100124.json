@@ -1,0 +1,68 @@
+{
+  "iherb_id": 100124,
+  "last_updated": "2026-03-20T09:44:19.586Z",
+  "first_scraped": "2026-03-20T09:44:19.586Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural support, Love this, Good blend, Great quercetin formula, Immunity support, Keeps healthy, Boost immunity, Easy to swallow. Some note: Effective supplement, Resistance booster.",
+    "tags": [
+      {
+        "name": "Natural support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great quercetin formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keeps healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Resistance booster",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:19.586Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104353,
+  "last_updated": "2026-03-20T10:06:17.797Z",
+  "first_scraped": "2026-03-20T10:06:17.797Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Vegetarian, Travel companion, Helps breathing, Breathing better, Immune protection, Easy to swallow, Respiratory support, Strong backup. Some note: Heat sensation.",
+    "tags": [
+      {
+        "name": "Vegetarian",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Travel companion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps breathing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Breathing better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune protection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Respiratory support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong backup",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heat sensation",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strange smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:17.797Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

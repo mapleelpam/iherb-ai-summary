@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4896,
+  "last_updated": "2026-03-20T09:47:11.207Z",
+  "first_scraped": "2026-03-20T09:47:11.207Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stomach calm, Effective herb, Lower blood pressure, Detoxing symptoms, Taste acceptable, Wonderful benefits, Energy boost, Liver detox. Some note: Clean product.",
+    "tags": [
+      {
+        "name": "Stomach calm",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective herb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lower blood pressure",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detoxing symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste acceptable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wonderful benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Too strong",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:11.207Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

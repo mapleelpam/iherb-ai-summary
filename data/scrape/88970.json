@@ -1,0 +1,68 @@
+{
+  "iherb_id": 88970,
+  "last_updated": "2026-03-20T10:19:35.618Z",
+  "first_scraped": "2026-03-20T10:19:35.618Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Tasty option, Good energy, Helps husband, Works brilliantly, Avoid crash, Size benefit, Increased energy.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps husband",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works brilliantly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Avoid crash",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Size benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Unusual taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:19:35.618Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114720,
+  "last_updated": "2026-03-20T10:03:37.445Z",
+  "first_scraped": "2026-03-20T10:03:37.445Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less bloating, Helps greatly, Getting better, No side effects, Works wonders, Improved digestion, Flat stomach, Less irritation.",
+    "tags": [
+      {
+        "name": "Less bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps greatly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Getting better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flat stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less irritation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Forgot timing",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Confusing enzyme",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:03:37.445Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

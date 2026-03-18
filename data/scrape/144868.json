@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144868,
+  "last_updated": "2026-03-20T10:24:02.270Z",
+  "first_scraped": "2026-03-20T10:24:02.270Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Recommended, Restart potency, Rare find, Very satisfied, Prevents coldsores, Stock up, Favorite supplement, Good for stress. Some note: Update soon.",
+    "tags": [
+      {
+        "name": "Recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restart potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rare find",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prevents coldsores",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stock up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Favorite supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Update soon",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not authentic",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:02.270Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

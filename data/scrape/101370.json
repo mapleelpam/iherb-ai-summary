@@ -1,0 +1,68 @@
+{
+  "iherb_id": 101370,
+  "last_updated": "2026-03-20T10:34:50.520Z",
+  "first_scraped": "2026-03-20T10:34:50.520Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Tastes great, Simple formulation, Real taste, Plant based, Good ingredients, Delicious, No additives.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Simple formulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No additives",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes horrible",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Grainy texture",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:34:50.520Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

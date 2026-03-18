@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6385,
+  "last_updated": "2026-03-20T09:31:30.950Z",
+  "first_scraped": "2026-03-20T09:31:30.950Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosting immunity, Immune support, Tiny and i've, Easy to swallow, Convenient addition, Good formulation, Cleared symptoms, Small pills. Some note: Effective brand.",
+    "tags": [
+      {
+        "name": "Boosting immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tiny and i've",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleared symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small pills",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High dose",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:30.950Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 99653,
+  "last_updated": "2026-03-20T09:21:05.230Z",
+  "first_scraped": "2026-03-20T09:21:05.230Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good vitamins, Digestive health, Good option, Good for constipation, Good sleep, Muscle relaxation, Stronger erections, Relaxing nerves.",
+    "tags": [
+      {
+        "name": "Good vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle relaxation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stronger erections",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxing nerves",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Inefficient kind",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Deficient leads",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:05.230Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

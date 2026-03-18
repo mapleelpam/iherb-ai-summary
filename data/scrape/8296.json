@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8296,
+  "last_updated": "2026-03-20T10:12:33.314Z",
+  "first_scraped": "2026-03-20T10:12:33.314Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Regulates cycle, Regulating menstruation, Good for health, Hot flashes, Helpful for menstrual, Fresh smell, Lowest price, Menstrual issues. Some note: Respiratory diseases, Strange taste.",
+    "tags": [
+      {
+        "name": "Regulates cycle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulating menstruation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hot flashes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful for menstrual",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowest price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Menstrual issues",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Respiratory diseases",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Strange taste",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:12:33.314Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

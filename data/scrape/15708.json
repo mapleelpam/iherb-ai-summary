@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15708,
+  "last_updated": "2026-03-20T09:36:39.511Z",
+  "first_scraped": "2026-03-20T09:36:39.511Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clear ingredients, Trusted brand, Quick delivery, Effective supplement, Good results, Excellent combination, Helps burn fat, Good vitamin.",
+    "tags": [
+      {
+        "name": "Clear ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps burn fat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Terrible smell",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Large tablets",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:39.511Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

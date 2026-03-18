@@ -1,0 +1,68 @@
+{
+  "iherb_id": 112610,
+  "last_updated": "2026-03-20T10:02:04.974Z",
+  "first_scraped": "2026-03-20T10:02:04.974Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High dosage, Easy to swallow, Boosted energy, Good so far, Key nutrients, Great supplement, Good for health, Allergies relief, Happy so far.",
+    "tags": [
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good so far",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Key nutrients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergies relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy so far",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Costly, sparse",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:04.974Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

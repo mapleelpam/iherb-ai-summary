@@ -1,0 +1,68 @@
+{
+  "iherb_id": 49632,
+  "last_updated": "2026-03-20T09:23:38.677Z",
+  "first_scraped": "2026-03-20T09:23:38.677Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Stay healthy, Healthy mitochondria, Scientific formula, Heart health, Energy boost, Good combination, Large capsules, Effective energy. Some note: Great absorb.",
+    "tags": [
+      {
+        "name": "Stay healthy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy mitochondria",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Scientific formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Large capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great absorb",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:38.677Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

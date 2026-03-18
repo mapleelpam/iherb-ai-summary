@@ -1,0 +1,68 @@
+{
+  "iherb_id": 145292,
+  "last_updated": "2026-03-20T10:06:01.161Z",
+  "first_scraped": "2026-03-20T10:06:01.161Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Well absorbed, Effective supplement, Generous supply, Fast shipping, Commitment to purity, Energy boost, Easy to mix, Muscle strength, Clean taste.",
+    "tags": [
+      {
+        "name": "Well absorbed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Generous supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Commitment to purity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bad smell",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:01.161Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

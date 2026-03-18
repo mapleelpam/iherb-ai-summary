@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86399,
+  "last_updated": "2026-03-20T10:05:52.380Z",
+  "first_scraped": "2026-03-20T10:05:52.380Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural ingredients, Perfect blend, Chemical-free aloe, Good taste, Low calories, Pleasant flavor, Improvement seen, Light flavor.",
+    "tags": [
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Perfect blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chemical-free aloe",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low calories",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement seen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Light flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acidic taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not palatable",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:52.380Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "iherb_id": 37089,
+  "last_updated": "2026-03-20T09:19:16.928Z",
+  "first_scraped": "2026-03-20T09:19:16.928Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Gradual weight loss, Meal replacement, Creamy texture, Taste good, Rich chocolate, Good source, Delicious chocolate. Some note: Great flavor, Tasty option.",
+    "tags": [
+      {
+        "name": "Gradual weight loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Meal replacement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Creamy texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:16.928Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

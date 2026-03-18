@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9863,
+  "last_updated": "2026-03-20T10:00:08.856Z",
+  "first_scraped": "2026-03-20T10:00:08.856Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lowering cholesterol, Cholesterol progress, Good heart health, Cholesterol management, High dosage, Double strength, Vitamin D, Easy swallow. Some note: Family history.",
+    "tags": [
+      {
+        "name": "Lowering cholesterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol progress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol management",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Double strength",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin D",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Family history",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:08.856Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

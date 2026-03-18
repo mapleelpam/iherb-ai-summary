@@ -1,0 +1,68 @@
+{
+  "iherb_id": 46037,
+  "last_updated": "2026-03-20T09:35:09.138Z",
+  "first_scraped": "2026-03-20T09:35:09.138Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love the product, Good ingredients, Natural source, Plant based, Feel better, Effective mood boost, Easy absorption, Orange taste. Some note: Immune support, Love brand.",
+    "tags": [
+      {
+        "name": "Love the product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective mood boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Orange taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Love brand",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:09.138Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

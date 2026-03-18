@@ -1,0 +1,68 @@
+{
+  "iherb_id": 84171,
+  "last_updated": "2026-03-20T10:00:26.236Z",
+  "first_scraped": "2026-03-20T10:00:26.236Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mild flavor, Great results, High potency, Good taste, Value option, Priced well, Best probiotic, Unique design. Some note: Great for the gut, Stomach resistant.",
+    "tags": [
+      {
+        "name": "Mild flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Priced well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique design",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great for the gut",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stomach resistant",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:26.236Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

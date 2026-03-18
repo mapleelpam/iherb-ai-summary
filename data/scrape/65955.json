@@ -1,0 +1,68 @@
+{
+  "iherb_id": 65955,
+  "last_updated": "2026-03-20T10:16:45.339Z",
+  "first_scraped": "2026-03-20T10:16:45.339Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love the flavor, Good taste, Great boost, Stunning supplement, Real performance, Effective ingredients, Amazing energy, Stim free. Some note: Smooth endurance, Gets used to.",
+    "tags": [
+      {
+        "name": "Love the flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stunning supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stim free",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth endurance",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Gets used to",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:45.339Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

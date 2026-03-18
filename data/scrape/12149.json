@@ -1,0 +1,68 @@
+{
+  "iherb_id": 12149,
+  "last_updated": "2026-03-20T09:34:47.082Z",
+  "first_scraped": "2026-03-20T09:34:47.082Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fair price, Proper size, Game-changer, Memory improvement, Budget priced, Safe product, Boosts hormone balance, Easy to swallow.",
+    "tags": [
+      {
+        "name": "Fair price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Proper size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Budget priced",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts hormone balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too strong",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:47.082Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

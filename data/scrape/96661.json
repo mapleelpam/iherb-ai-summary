@@ -1,0 +1,68 @@
+{
+  "iherb_id": 96661,
+  "last_updated": "2026-03-20T10:15:22.074Z",
+  "first_scraped": "2026-03-20T10:15:22.074Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Taste good, Fat burning, Yummy flavor, Energy boost, Long-lasting energy, Train harder, Accurate measurement, Recommend purchase. Some note: Too sweet.",
+    "tags": [
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fat burning",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-lasting energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Train harder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Accurate measurement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Very sour",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:22.074Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

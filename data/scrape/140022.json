@@ -1,0 +1,68 @@
+{
+  "iherb_id": 140022,
+  "last_updated": "2026-03-20T09:33:41.658Z",
+  "first_scraped": "2026-03-20T09:33:41.658Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helped me, Brain boost, Clearer head, Helpful so far, Effective supplement, Fast shipping, Memory improvement, Focus improvement. Some note: Better concentration, No difference.",
+    "tags": [
+      {
+        "name": "Helped me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer head",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful so far",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Focus improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better concentration",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:41.658Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

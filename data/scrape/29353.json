@@ -1,0 +1,68 @@
+{
+  "iherb_id": 29353,
+  "last_updated": "2026-03-20T09:48:30.868Z",
+  "first_scraped": "2026-03-20T09:48:30.868Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High dose, Heart palpitations, Advanced formula, Like it, Life extension, Muscle support, Daily benefits, Noticeable difference. Some note: Excellent absorption, Will buy more.",
+    "tags": [
+      {
+        "name": "High dose",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart palpitations",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Advanced formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Like it",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life extension",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable difference",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent absorption",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Will buy more",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:30.868Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

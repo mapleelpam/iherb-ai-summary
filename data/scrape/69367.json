@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69367,
+  "last_updated": "2026-03-20T10:04:07.554Z",
+  "first_scraped": "2026-03-20T10:04:07.554Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Worth a try, Strong focus, Delicious results, Nice taste, Good energy, Good benefits, Long kick, Increased stamina.",
+    "tags": [
+      {
+        "name": "Worth a try",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long kick",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weird taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No power",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:04:07.554Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

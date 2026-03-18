@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7661,
+  "last_updated": "2026-03-20T10:33:58.560Z",
+  "first_scraped": "2026-03-20T10:33:58.560Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reduce joint pains, Joint relief, Bone health, Helps a lot, Tremendous improvement, Good composition, Eye improvement, Calcium supplement. Some note: Smaller pill.",
+    "tags": [
+      {
+        "name": "Reduce joint pains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps a lot",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tremendous improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calcium supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smaller pill",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bruises, contusion",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:33:58.560Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

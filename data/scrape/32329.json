@@ -1,0 +1,68 @@
+{
+  "iherb_id": 32329,
+  "last_updated": "2026-03-20T09:36:27.533Z",
+  "first_scraped": "2026-03-20T09:36:27.533Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Good package, No constipation, Raises ferritin, Potent dosage, Improved blood, Convenient packaging, Gentle stomach. Some note: Helpful product.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Raises ferritin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved blood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful product",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Unpleasant taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:27.533Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

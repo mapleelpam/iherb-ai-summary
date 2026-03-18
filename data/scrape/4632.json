@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4632,
+  "last_updated": "2026-03-20T10:20:44.022Z",
+  "first_scraped": "2026-03-20T10:20:44.022Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Supports digestion, Well packaged, Clean ingredients, Anti-inflammatory, Nice small size, Immunity boost, No side effects, Small capsules, Cleaner body. Some note: No difference.",
+    "tags": [
+      {
+        "name": "Supports digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packaged",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-inflammatory",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immunity boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No side effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleaner body",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:44.022Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

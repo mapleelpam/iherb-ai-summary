@@ -1,0 +1,68 @@
+{
+  "iherb_id": 82945,
+  "last_updated": "2026-03-20T09:55:31.870Z",
+  "first_scraped": "2026-03-20T09:55:31.870Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reasonable cost, Feel great, Vegetarian option, Boosts levels, Good dosage, Easy to take, Nice packing, Offers value.",
+    "tags": [
+      {
+        "name": "Reasonable cost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegetarian option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosts levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Offers value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Back headache",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Weird casing",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:55:31.870Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

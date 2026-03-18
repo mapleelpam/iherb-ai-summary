@@ -1,0 +1,68 @@
+{
+  "iherb_id": 60047,
+  "last_updated": "2026-03-20T09:21:47.478Z",
+  "first_scraped": "2026-03-20T09:21:47.478Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reduce inflammation, Improves joints, Less pain, Convenient package, Arthritis relief, Highly recommend, Combo ingredients, Enhances absorption. Some note: No changes.",
+    "tags": [
+      {
+        "name": "Reduce inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Arthritis relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Combo ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhances absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive options",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No changes",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:47.478Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

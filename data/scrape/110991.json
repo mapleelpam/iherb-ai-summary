@@ -1,0 +1,68 @@
+{
+  "iherb_id": 110991,
+  "last_updated": "2026-03-20T09:37:03.286Z",
+  "first_scraped": "2026-03-20T09:37:03.286Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps with stress, Adaptogenic support, Improved sleep, Relaxed feeling, Great supplement, Organic product, Energy improvement, Pleasantly surprised. Some note: Pleasant smell.",
+    "tags": [
+      {
+        "name": "Helps with stress",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adaptogenic support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relaxed feeling",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Organic product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasantly surprised",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant smell",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:03.286Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

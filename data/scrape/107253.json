@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107253,
+  "last_updated": "2026-03-20T09:31:34.793Z",
+  "first_scraped": "2026-03-20T09:31:34.793Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great combo, Small bottle, Good ingredients, Easy absorption, Strong bones, Good amount, Convenient dosage, High k2 content. Some note: Affordable and easy.",
+    "tags": [
+      {
+        "name": "Great combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High k2 content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable and easy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Hard drops",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:34.793Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

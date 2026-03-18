@@ -1,0 +1,68 @@
+{
+  "iherb_id": 60032,
+  "last_updated": "2026-03-20T09:46:32.808Z",
+  "first_scraped": "2026-03-20T09:46:32.808Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice package, Healthy levels, Circular pucks, Effective supplement, Value for money, Good taste, No allergies, Home delivery. Some note: Easier to swallow, Great alternative.",
+    "tags": [
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Circular pucks",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No allergies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Home delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easier to swallow",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great alternative",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:32.808Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

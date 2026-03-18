@@ -1,0 +1,68 @@
+{
+  "iherb_id": 19111,
+  "last_updated": "2026-03-20T09:23:26.850Z",
+  "first_scraped": "2026-03-20T09:23:26.850Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Powerful antioxidant, Trusted brand, Respiratory health, Liver detox, Boost immune, Great supplement, Decrease hangover, Feeling healthier. Some note: Easy to swallow, No changes.",
+    "tags": [
+      {
+        "name": "Powerful antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Respiratory health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decrease hangover",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling healthier",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No changes",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:26.850Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

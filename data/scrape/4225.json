@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4225,
+  "last_updated": "2026-03-20T09:48:35.684Z",
+  "first_scraped": "2026-03-20T09:48:35.684Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reduce ear ringing, Energy boost, Improved concentration, Fast service, Better than, Memory improvement, Consistent cognitive support, Improved blood circulation. Some note: Vegan formula, Short term.",
+    "tags": [
+      {
+        "name": "Reduce ear ringing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better than",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consistent cognitive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved blood circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan formula",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Short term",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:35.684Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

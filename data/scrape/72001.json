@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72001,
+  "last_updated": "2026-03-20T10:00:33.145Z",
+  "first_scraped": "2026-03-20T10:00:33.145Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Muscle building, Clean ingredients, Good support, Love this, Effective dissolution, Energy boost, Improved endurance, Good recovery.",
+    "tags": [
+      {
+        "name": "Muscle building",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dissolution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved endurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive compared",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tastes horrible",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:33.145Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

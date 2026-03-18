@@ -1,0 +1,68 @@
+{
+  "iherb_id": 59176,
+  "last_updated": "2026-03-20T10:02:04.005Z",
+  "first_scraped": "2026-03-20T10:02:04.005Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Value packed, Good source, Easy to digest, Boost of energy, Intestine cleanse, Good results, Highly recommend, Reasonable price. Some note: Convenient packaging, Big size.",
+    "tags": [
+      {
+        "name": "Value packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to digest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intestine cleanse",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:04.005Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 835,
+  "last_updated": "2026-03-20T09:54:50.568Z",
+  "first_scraped": "2026-03-20T09:54:50.568Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Good combo, Less pain, Value for money, Improvement appearance, Less visible, Natural ingredients, Healthy circulation. Some note: Fair price.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement appearance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less visible",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair price",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Little effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:54:50.568Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

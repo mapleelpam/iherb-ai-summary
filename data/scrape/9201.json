@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9201,
+  "last_updated": "2026-03-20T09:46:49.396Z",
+  "first_scraped": "2026-03-20T09:46:49.396Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Smell love, Works fast, First time, Reduced pain, Blood thinner, Biofilm busting, Safety seal, Heart health, Improving gradually. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Smell love",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First time",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood thinner",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Biofilm busting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safety seal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving gradually",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:46:49.396Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

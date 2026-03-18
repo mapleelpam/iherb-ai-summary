@@ -1,0 +1,68 @@
+{
+  "iherb_id": 42540,
+  "last_updated": "2026-03-20T10:16:21.209Z",
+  "first_scraped": "2026-03-20T10:16:21.209Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good vitamin, Optimal levels, Good ingredients, No artificial, Boosted energy, Nice scent, Good amount, Good for immunity.",
+    "tags": [
+      {
+        "name": "Good vitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Optimal levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No artificial",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosted energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good amount",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive brand",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Hard tablets",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:21.209Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

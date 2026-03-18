@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4296,
+  "last_updated": "2026-03-20T09:23:42.656Z",
+  "first_scraped": "2026-03-20T09:23:42.656Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Lighter stomach, Gut health, Antioxidant benefits, Herbal taste, Helpful for constipation, Improved digestion, Natural ingredients, Easy swallowing. Some note: Regularity aid, Probiotics combination.",
+    "tags": [
+      {
+        "name": "Lighter stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Herbal taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful for constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallowing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regularity aid",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Probiotics combination",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:42.656Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 40459,
+  "last_updated": "2026-03-20T09:48:00.341Z",
+  "first_scraped": "2026-03-20T09:48:00.341Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good complex, Highly recommend, Collagen synthesis, Pure ingredients, Shows results, Cartilage health, Easy swallow, Bloating relief. Some note: Helps ease, Quickly satisfied.",
+    "tags": [
+      {
+        "name": "Good complex",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Collagen synthesis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Shows results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cartilage health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bloating relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps ease",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Quickly satisfied",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:48:00.341Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

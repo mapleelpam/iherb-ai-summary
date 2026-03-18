@@ -1,0 +1,68 @@
+{
+  "iherb_id": 121519,
+  "last_updated": "2026-03-20T10:06:08.322Z",
+  "first_scraped": "2026-03-20T10:06:08.322Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to digest, Great flavor, Good nutrition, Amazing baking, Good taste, Nutritional benefit, Not from china, Nutty flavor, Extra boost.",
+    "tags": [
+      {
+        "name": "Easy to digest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good nutrition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing baking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutritional benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not from china",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutty flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Extra boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Salty taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:08.322Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

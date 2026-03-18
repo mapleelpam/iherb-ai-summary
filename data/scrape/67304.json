@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67304,
+  "last_updated": "2026-03-20T09:25:34.840Z",
+  "first_scraped": "2026-03-20T09:25:34.840Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Mint taste, Surprising benefit, Oral health, Works wonder, Works well, Selected ingredients, No pain, Pricey, works. Some note: Pure ingredients, Fresher mouth.",
+    "tags": [
+      {
+        "name": "Mint taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Surprising benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Oral health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Selected ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pricey, works",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pure ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Fresher mouth",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:25:34.840Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

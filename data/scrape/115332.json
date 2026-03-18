@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115332,
+  "last_updated": "2026-03-20T09:36:09.807Z",
+  "first_scraped": "2026-03-20T09:36:09.807Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Small capsules, Helpful for sleep, Obvious change, Effective adaptogen, Good ingredients, Natural stress relief, Good herbal product, Good combination. Some note: Didn't notice.",
+    "tags": [
+      {
+        "name": "Small capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful for sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Obvious change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective adaptogen",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural stress relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good herbal product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Didn't notice",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:36:09.807Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

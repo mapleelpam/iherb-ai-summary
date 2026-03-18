@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71141,
+  "last_updated": "2026-03-20T10:13:49.194Z",
+  "first_scraped": "2026-03-20T10:13:49.194Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for stomach, Weight loss focus, Active form, Helps metabolism, Balanced health, Nice taste, Dark glass bottle, Vegetarian diet, Easy to digest.",
+    "tags": [
+      {
+        "name": "Good for stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Weight loss focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Active form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balanced health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dark glass bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegetarian diet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to digest",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:49.194Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

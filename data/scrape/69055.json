@@ -1,0 +1,68 @@
+{
+  "iherb_id": 69055,
+  "last_updated": "2026-03-20T09:40:54.332Z",
+  "first_scraped": "2026-03-20T09:40:54.332Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good buy, Surprised me, Improvement digestion, Taste good, Highly recommend, Reduce bloating, Helps detox, Long-term use. Some note: Good ingredients, Excellent additive.",
+    "tags": [
+      {
+        "name": "Good buy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Surprised me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Taste good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduce bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps detox",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Long-term use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Excellent additive",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:54.332Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

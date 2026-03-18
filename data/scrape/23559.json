@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23559,
+  "last_updated": "2026-03-20T09:19:20.926Z",
+  "first_scraped": "2026-03-20T09:19:20.926Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Essential nutrient, Nice price, Fast shipping, Improved levels, High potency, Improved energy, Good dosage, Halal food, Beneficial health. Some note: Efficiency same.",
+    "tags": [
+      {
+        "name": "Essential nutrient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Halal food",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficiency same",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:20.926Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

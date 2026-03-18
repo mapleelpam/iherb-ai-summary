@@ -1,0 +1,68 @@
+{
+  "iherb_id": 39733,
+  "last_updated": "2026-03-20T09:58:34.042Z",
+  "first_scraped": "2026-03-20T09:58:34.042Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clear skin, Value for money, High dosage, Improved outcome, More energy, Potent antioxidant, Supportive healing, Stable condition. Some note: Fair trial, No change.",
+    "tags": [
+      {
+        "name": "Clear skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved outcome",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent antioxidant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supportive healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stable condition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fair trial",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No change",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:34.042Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

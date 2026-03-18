@@ -1,0 +1,68 @@
+{
+  "iherb_id": 43211,
+  "last_updated": "2026-03-20T09:31:28.120Z",
+  "first_scraped": "2026-03-20T09:31:28.120Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pain relief, Energy boost, Initial impressions, Antioxidant support, Neutralize radicals, Quality assurance, Type 2 diabetes support, Cheap and effective. Some note: No visible effect.",
+    "tags": [
+      {
+        "name": "Pain relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Initial impressions",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Antioxidant support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutralize radicals",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality assurance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Type 2 diabetes support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cheap and effective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No visible effect",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Liver disease",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:31:28.120Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

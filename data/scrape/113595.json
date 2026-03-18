@@ -1,0 +1,68 @@
+{
+  "iherb_id": 113595,
+  "last_updated": "2026-03-20T09:58:40.951Z",
+  "first_scraped": "2026-03-20T09:58:40.951Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: More energy, Fast acting, Mind blowing, Good taste, Clean energy, Delicious flavor, Intense focus, Noticeable increase.",
+    "tags": [
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast acting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mind blowing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intense focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable increase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not over sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:40.951Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

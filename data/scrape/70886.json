@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70886,
+  "last_updated": "2026-03-20T09:24:14.677Z",
+  "first_scraped": "2026-03-20T09:24:14.677Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Powerful duo, Memory improvement, Effective supplement, Heart health, Great combination, Brain health, Good ingredients, Mitochondria support. Some note: Not sure, Fastest shipping.",
+    "tags": [
+      {
+        "name": "Powerful duo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mitochondria support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Fastest shipping",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:14.677Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107898,
+  "last_updated": "2026-03-20T10:25:46.016Z",
+  "first_scraped": "2026-03-20T10:25:46.016Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient individual pouches, Tastes ok, Flavor good, Easy to take, Convenient packages, Clean ingredients, Brighter skin, Individual packets, Tasty vitamins. Some note: No noticeable change.",
+    "tags": [
+      {
+        "name": "Convenient individual pouches",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes ok",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Flavor good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packages",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brighter skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Individual packets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No noticeable change",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:46.016Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

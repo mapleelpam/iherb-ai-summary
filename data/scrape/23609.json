@@ -1,0 +1,68 @@
+{
+  "iherb_id": 23609,
+  "last_updated": "2026-03-20T09:20:43.813Z",
+  "first_scraped": "2026-03-20T09:20:43.813Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Vegan capsules, Affordable and well-packed, Easy absorb, Excellent vitamins, Affordable option, Clean ingredients, Good concentrate, Natural ingredients. Some note: Neutral taste, Gentle stomach.",
+    "tags": [
+      {
+        "name": "Vegan capsules",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable and well-packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy absorb",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good concentrate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Gentle stomach",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:20:43.813Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

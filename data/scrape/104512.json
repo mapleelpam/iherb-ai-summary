@@ -1,0 +1,68 @@
+{
+  "iherb_id": 104512,
+  "last_updated": "2026-03-20T10:16:34.361Z",
+  "first_scraped": "2026-03-20T10:16:34.361Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty gummies, Fresh cap, Feeling better, Budget-friendly option, Cold season, Vitamin C, Convenient and enjoyable, Love the taste. Some note: Sour candy.",
+    "tags": [
+      {
+        "name": "Tasty gummies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh cap",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Budget-friendly option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cold season",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin C",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient and enjoyable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sour candy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not like",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:34.361Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 125585,
+  "last_updated": "2026-03-20T09:43:35.541Z",
+  "first_scraped": "2026-03-20T09:43:35.541Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Powerful improvement, Improved immunity, Skin maintenance, High absorption, Neutral taste, Works fine, Good effects, Effective supplement. Some note: Selenium conversion.",
+    "tags": [
+      {
+        "name": "Powerful improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin maintenance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works fine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not healed",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Selenium conversion",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:43:35.541Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

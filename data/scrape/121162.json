@@ -1,0 +1,68 @@
+{
+  "iherb_id": 121162,
+  "last_updated": "2026-03-20T10:20:27.804Z",
+  "first_scraped": "2026-03-20T10:20:27.804Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Favorite supplement, Works great, Works better, Competitive price, Life comfortable, Boost immune, Expensive but worth, Life changing.",
+    "tags": [
+      {
+        "name": "Favorite supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Competitive price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life comfortable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immune",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but worth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Life changing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Did nothing",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Tasted awful",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:20:27.804Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

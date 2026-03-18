@@ -1,0 +1,68 @@
+{
+  "iherb_id": 118878,
+  "last_updated": "2026-03-20T10:18:17.792Z",
+  "first_scraped": "2026-03-20T10:18:17.792Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Less moody, Feel better, Effective blend, Regulate systems, Surprised wonderful, Stop nausea, Mild cramp relief, More calm, energetic. Some note: Trial item.",
+    "tags": [
+      {
+        "name": "Less moody",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feel better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate systems",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Surprised wonderful",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stop nausea",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild cramp relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More calm, energetic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No results",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Trial item",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:17.792Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

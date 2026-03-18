@@ -1,0 +1,63 @@
+{
+  "iherb_id": 75975,
+  "last_updated": "2026-03-20T09:51:28.534Z",
+  "first_scraped": "2026-03-20T09:51:28.534Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Love this flavor, Amazing taste, Excellent choice, Prefer chocolate peanut, Works for me, Fast shipping, Muscle gain. Some note: Smooth flavor, Trusted brand.",
+    "tags": [
+      {
+        "name": "Love this flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prefer chocolate peanut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle gain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth flavor",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:28.534Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

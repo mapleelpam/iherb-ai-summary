@@ -1,0 +1,68 @@
+{
+  "iherb_id": 72622,
+  "last_updated": "2026-03-20T10:16:00.268Z",
+  "first_scraped": "2026-03-20T10:16:00.268Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Delicious flavor, Mocha flavor, Morning boost, Good taste, Adds to, Selected ingredients, Great supplement, Energy supply.",
+    "tags": [
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mocha flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Adds to",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Selected ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Artificial taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Waste MCT oil",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:16:00.268Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

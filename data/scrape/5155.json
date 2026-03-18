@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5155,
+  "last_updated": "2026-03-20T10:00:53.484Z",
+  "first_scraped": "2026-03-20T10:00:53.484Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great benefits, Reduces symptoms, Alcohol-free tincture, Relieves allergies, Happy overall, Effective brand, Eye infection, Effective supplement. Some note: No improvement, Great results.",
+    "tags": [
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduces symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Alcohol-free tincture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves allergies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy overall",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye infection",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great results",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:53.484Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

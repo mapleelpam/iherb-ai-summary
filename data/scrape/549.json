@@ -1,0 +1,68 @@
+{
+  "iherb_id": 549,
+  "last_updated": "2026-03-20T10:31:51.937Z",
+  "first_scraped": "2026-03-20T10:31:51.937Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Highly recommend, Revved me up, Noticeable improvement, Convenient, easy, Potent, Iced option, Beneficial herbal, Cleansing tea. Some note: Taste acceptable.",
+    "tags": [
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Revved me up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient, easy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Iced option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial herbal",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleansing tea",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plastic bottle",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Taste acceptable",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:31:51.937Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

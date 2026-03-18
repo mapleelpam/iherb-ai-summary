@@ -1,0 +1,68 @@
+{
+  "iherb_id": 98665,
+  "last_updated": "2026-03-20T10:09:23.710Z",
+  "first_scraped": "2026-03-20T10:09:23.710Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Good ingredients, Reduced inflammation, Improved well-being, Great addition, Increased absorption, Consistency fixed, Good taste.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reduced inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved well-being",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Consistency fixed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "High price",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:23.710Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

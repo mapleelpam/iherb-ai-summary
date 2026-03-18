@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85010,
+  "last_updated": "2026-03-20T10:15:51.271Z",
+  "first_scraped": "2026-03-20T10:15:51.271Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tiny and soft, Hair improvement, Easy to take, Satisfied, Nice dosage size, Clean ingredients, Skin improvement, Absorption benefits, Decreased frequency.",
+    "tags": [
+      {
+        "name": "Tiny and soft",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice dosage size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Absorption benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decreased frequency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acne issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:51.271Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

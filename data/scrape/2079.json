@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2079,
+  "last_updated": "2026-03-20T10:24:17.837Z",
+  "first_scraped": "2026-03-20T10:24:17.837Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Definite keeper, Heal us well, Trusted brand, Improvement noticed, Mood improvement, Uplifts feelings, Natural antidepressant, Easy swallow. Some note: Natural mood enhancer, No better effects.",
+    "tags": [
+      {
+        "name": "Definite keeper",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heal us well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement noticed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Uplifts feelings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural antidepressant",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural mood enhancer",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No better effects",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:24:17.837Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

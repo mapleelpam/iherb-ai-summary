@@ -1,0 +1,68 @@
+{
+  "iherb_id": 8305,
+  "last_updated": "2026-03-20T09:19:37.574Z",
+  "first_scraped": "2026-03-20T09:19:37.574Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Very satisfied, Heart health, Big package, Lowers BP, Better blood circulation, High omega 3, Improved health, High benefits. Some note: Repeat purchase, Effective supplement.",
+    "tags": [
+      {
+        "name": "Very satisfied",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lowers BP",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better blood circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High omega 3",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat purchase",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:19:37.574Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

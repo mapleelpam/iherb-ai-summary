@@ -1,0 +1,68 @@
+{
+  "iherb_id": 5235,
+  "last_updated": "2026-03-20T09:38:08.392Z",
+  "first_scraped": "2026-03-20T09:38:08.392Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boost effects, Regular period, Skin problems, Cleaning effect, Sinus drainage, Menopause relief, Natural alternative, Recommend for. Some note: Joint pains.",
+    "tags": [
+      {
+        "name": "Boost effects",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regular period",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin problems",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cleaning effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sinus drainage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Menopause relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend for",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach pain",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Joint pains",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:08.392Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

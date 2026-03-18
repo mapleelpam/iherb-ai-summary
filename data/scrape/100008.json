@@ -1,0 +1,68 @@
+{
+  "iherb_id": 100008,
+  "last_updated": "2026-03-20T10:07:34.803Z",
+  "first_scraped": "2026-03-20T10:07:34.803Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes great, Good scent, Improved digestion, Natural options, Big size bottle, Stomach improvement, Delightful twist, Tasty option. Some note: Weight loss.",
+    "tags": [
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good scent",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural options",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stomach improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delightful twist",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sweet",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Weight loss",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:34.803Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 126570,
+  "last_updated": "2026-03-20T10:18:23.842Z",
+  "first_scraped": "2026-03-20T10:18:23.842Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps sleep, Fall asleep, Quality improvement, Deeper sleep, Stress relief, Sleep improvement, Overall well-being, Affordable option. Some note: Mild effect, No real effect.",
+    "tags": [
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fall asleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quality improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Deeper sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Overall well-being",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild effect",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No real effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:18:23.842Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

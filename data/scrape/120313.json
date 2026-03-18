@@ -1,0 +1,68 @@
+{
+  "iherb_id": 120313,
+  "last_updated": "2026-03-20T09:59:03.868Z",
+  "first_scraped": "2026-03-20T09:59:03.868Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great supplement, Great flavor, Mineral composition, Good benefits, Hydrating product, Good taste, Great hydration, Effective electrolyte. Some note: Convenient packaging.",
+    "tags": [
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mineral composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydrating product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective electrolyte",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too sugary",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:59:03.868Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

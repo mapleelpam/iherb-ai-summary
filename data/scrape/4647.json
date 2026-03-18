@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4647,
+  "last_updated": "2026-03-20T09:53:02.335Z",
+  "first_scraped": "2026-03-20T09:53:02.335Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hormone balance, Clear instructions, Beneficial product, Hair loss, Fast shipping, Acne cleared, Improved movement, Energy boost. Some note: Hair fortifying, Clean ingredients.",
+    "tags": [
+      {
+        "name": "Hormone balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear instructions",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair loss",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acne cleared",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved movement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair fortifying",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:53:02.335Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

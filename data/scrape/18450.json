@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18450,
+  "last_updated": "2026-03-20T09:28:33.517Z",
+  "first_scraped": "2026-03-20T09:28:33.517Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Insulin resistance, Improved metabolism, Helped with cravings, Control blood sugar, Blood sugar, Effective ingredient, Improve overall, Trusted brand. Some note: Improving energy, No noticeable effect.",
+    "tags": [
+      {
+        "name": "Insulin resistance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved metabolism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped with cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve overall",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving energy",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No noticeable effect",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:28:33.517Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

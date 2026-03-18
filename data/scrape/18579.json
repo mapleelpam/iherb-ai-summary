@@ -1,0 +1,68 @@
+{
+  "iherb_id": 18579,
+  "last_updated": "2026-03-20T09:39:21.410Z",
+  "first_scraped": "2026-03-20T09:39:21.410Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps sleep, Trusted brand, Quick effect, Clean formula, Speedy delivery, Works for me, Easy to swallow, Dosage just right. Some note: Reliable service, Fall asleep.",
+    "tags": [
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quick effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Speedy delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dosage just right",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reliable service",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Fall asleep",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:39:21.410Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

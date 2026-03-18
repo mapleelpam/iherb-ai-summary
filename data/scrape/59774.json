@@ -1,0 +1,68 @@
+{
+  "iherb_id": 59774,
+  "last_updated": "2026-03-20T09:57:57.143Z",
+  "first_scraped": "2026-03-20T09:57:57.143Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High CP value, Natural ingredients, Good results, Timeless taste, Muscle recovery, Reasonable price, Fine ingredients, Slow digesting. Some note: Effective protein.",
+    "tags": [
+      {
+        "name": "High CP value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Timeless taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fine ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow digesting",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Upset stomach",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Effective protein",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:57.143Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

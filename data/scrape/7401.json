@@ -1,0 +1,68 @@
+{
+  "iherb_id": 7401,
+  "last_updated": "2026-03-20T09:50:47.372Z",
+  "first_scraped": "2026-03-20T09:50:47.372Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Lighter legs, Varicose veins, Fast shipment, Great supplement, Trust natural factors, Swollen feet, Good for veins. Some note: Circulation support.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lighter legs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Varicose veins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipment",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust natural factors",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Swollen feet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for veins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Circulation support",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Leg pain",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:50:47.372Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

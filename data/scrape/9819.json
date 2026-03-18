@@ -1,0 +1,68 @@
+{
+  "iherb_id": 9819,
+  "last_updated": "2026-03-20T09:40:52.273Z",
+  "first_scraped": "2026-03-20T09:40:52.273Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Extra boost, Supports muscles, Top option, Feeling good, Easy to use, Muscle recovery, Effective supplement, Digestion support.",
+    "tags": [
+      {
+        "name": "Extra boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports muscles",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Top option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Feeling good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low doses",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Encourages cancer",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:52.273Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

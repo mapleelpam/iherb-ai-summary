@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1096,
+  "last_updated": "2026-03-20T09:44:25.525Z",
+  "first_scraped": "2026-03-20T09:44:25.525Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Absorbed well, Bioactive calcium, Bone density, Impressed with information, Recommend for everyone, Nice package, Unique form, Benefit enjoyed.",
+    "tags": [
+      {
+        "name": "Absorbed well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioactive calcium",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone density",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Impressed with information",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recommend for everyone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Unique form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit enjoyed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stuck in chest",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Difficult to swallow",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:44:25.525Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

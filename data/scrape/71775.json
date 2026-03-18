@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71775,
+  "last_updated": "2026-03-20T09:30:08.611Z",
+  "first_scraped": "2026-03-20T09:30:08.611Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Reduce inflammation, Gut health benefits, Digestive comfort, Convenient packaging, Fast delivery, Improved bowel system, Marked improvement, Works great. Some note: Not sure, Stomach/spleen.",
+    "tags": [
+      {
+        "name": "Reduce inflammation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive comfort",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved bowel system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Marked improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Stomach/spleen",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:08.611Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

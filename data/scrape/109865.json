@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109865,
+  "last_updated": "2026-03-20T09:57:47.286Z",
+  "first_scraped": "2026-03-20T09:57:47.286Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Gene support, More energy, Clean ingredients, Energy boost, Improves energy levels, Easy to take, Supports nervous system, Happy switch. Some note: Tastes nice.",
+    "tags": [
+      {
+        "name": "Gene support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports nervous system",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy switch",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes nice",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Reaction on third day",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:57:47.286Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

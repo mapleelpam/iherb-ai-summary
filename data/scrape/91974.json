@@ -1,0 +1,68 @@
+{
+  "iherb_id": 91974,
+  "last_updated": "2026-03-20T10:15:42.867Z",
+  "first_scraped": "2026-03-20T10:15:42.867Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Improving focus, Sharper and focused, Mental agility, Energetic thinking, Remain on task, Expensive but worth, Memory improved.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improving focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sharper and focused",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental agility",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energetic thinking",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Remain on task",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Expensive but worth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fishy scent",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Not impressed",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:42.867Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

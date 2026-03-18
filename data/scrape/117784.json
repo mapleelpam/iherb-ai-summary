@@ -1,0 +1,68 @@
+{
+  "iherb_id": 117784,
+  "last_updated": "2026-03-20T10:15:17.053Z",
+  "first_scraped": "2026-03-20T10:15:17.053Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Boosts energy, Heals psoriasis, Love this, Skin change, Fresh and clean, Less red skin, Improved bloating, Skin benefits, Detox support. Some note: Urinary health.",
+    "tags": [
+      {
+        "name": "Boosts energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heals psoriasis",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin change",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh and clean",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less red skin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved bloating",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Detox support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Urinary health",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:17.053Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

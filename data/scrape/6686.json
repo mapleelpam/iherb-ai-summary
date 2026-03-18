@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6686,
+  "last_updated": "2026-03-20T09:41:25.646Z",
+  "first_scraped": "2026-03-20T09:41:25.646Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient packing, Safe to use, Good taste, Very healing, Pleasant taste, Strong mint taste, Trusted brand, Beneficial product. Some note: Good choice, Helps cough.",
+    "tags": [
+      {
+        "name": "Convenient packing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very healing",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pleasant taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strong mint taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good choice",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Helps cough",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:41:25.646Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

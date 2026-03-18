@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2944,
+  "last_updated": "2026-03-20T10:06:21.841Z",
+  "first_scraped": "2026-03-20T10:06:21.841Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Health benefits, Effective allergies, Increased energy, Real nettle smell, Fast shipping, Prostate health, Powerful inhibitor, Allergy relief. Some note: Fresh potency.",
+    "tags": [
+      {
+        "name": "Health benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective allergies",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real nettle smell",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Prostate health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful inhibitor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Allergy relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh potency",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "No benefits",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:21.841Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

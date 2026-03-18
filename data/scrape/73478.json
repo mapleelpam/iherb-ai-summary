@@ -1,0 +1,68 @@
+{
+  "iherb_id": 73478,
+  "last_updated": "2026-03-20T10:26:18.257Z",
+  "first_scraped": "2026-03-20T10:26:18.257Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tasty coffee, Delicious flavor, Hits the spot, Good taste, Better than expected, Very sweet, Huge tub, Convenient option.",
+    "tags": [
+      {
+        "name": "Tasty coffee",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hits the spot",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better than expected",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very sweet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Huge tub",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Raises blood sugar",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Sweetness issue",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:18.257Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

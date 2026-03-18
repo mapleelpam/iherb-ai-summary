@@ -1,0 +1,68 @@
+{
+  "iherb_id": 15368,
+  "last_updated": "2026-03-20T10:05:38.886Z",
+  "first_scraped": "2026-03-20T10:05:38.886Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Natural remedy, Effective brand, Less stressed, Easy relaxation, Balances cortisol, Calming effect, Convenient size, Well packed.",
+    "tags": [
+      {
+        "name": "Natural remedy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Less stressed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy relaxation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balances cortisol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Calming effect",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stressful mornings",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Strong detoxifying effect",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:38.886Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

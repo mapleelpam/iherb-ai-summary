@@ -1,0 +1,68 @@
+{
+  "iherb_id": 105065,
+  "last_updated": "2026-03-20T10:10:06.064Z",
+  "first_scraped": "2026-03-20T10:10:06.064Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Electrolytes good, Staple item, More energized, Refreshing drink, Convenient packaging, Good taste, Hangover relief, Good hydration. Some note: Feels like.",
+    "tags": [
+      {
+        "name": "Electrolytes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Staple item",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energized",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing drink",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hangover relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sweet taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Feels like",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:06.064Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

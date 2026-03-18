@@ -1,0 +1,68 @@
+{
+  "iherb_id": 302,
+  "last_updated": "2026-03-20T09:34:29.970Z",
+  "first_scraped": "2026-03-20T09:34:29.970Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good source, Fast recovery, Easy to swallow, Better choice, More energy, Effective balance, Bone health, Important for bone.",
+    "tags": [
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bone health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Important for bone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No vit d3",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Blood pressure",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:34:29.970Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

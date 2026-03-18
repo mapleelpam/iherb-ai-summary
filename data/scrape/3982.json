@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3982,
+  "last_updated": "2026-03-20T09:23:19.872Z",
+  "first_scraped": "2026-03-20T09:23:19.872Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Effective for immunity, Real fruits, Highly recommend, Good multivitamin, Nice glass bottle, Skin light, Work great, Nice price. Some note: Effective brand.",
+    "tags": [
+      {
+        "name": "Effective for immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Real fruits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice glass bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin light",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Work great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Changes taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:19.872Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

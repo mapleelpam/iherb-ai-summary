@@ -1,0 +1,68 @@
+{
+  "iherb_id": 77062,
+  "last_updated": "2026-03-20T09:26:27.352Z",
+  "first_scraped": "2026-03-20T09:26:27.352Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: No taste, Best choice, Heart health, High potency, Small size, Excellent complex, High-quality B vitamins, Great combination. Some note: Lowering homocysteine.",
+    "tags": [
+      {
+        "name": "No taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best choice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Heart health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High potency",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent complex",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High-quality B vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased risk",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Lowering homocysteine",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:26:27.352Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

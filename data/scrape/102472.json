@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102472,
+  "last_updated": "2026-03-20T09:58:00.110Z",
+  "first_scraped": "2026-03-20T09:58:00.110Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Healthy alternative, Dark chocolate, Chocolate crunch, Daily indulgence, Convenient package, Chunky texture, Rich flavor, Yummy and versatile.",
+    "tags": [
+      {
+        "name": "Healthy alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dark chocolate",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chocolate crunch",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily indulgence",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chunky texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yummy and versatile",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No flavor",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Very bitter",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:00.110Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

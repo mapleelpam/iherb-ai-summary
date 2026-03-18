@@ -1,0 +1,68 @@
+{
+  "iherb_id": 86582,
+  "last_updated": "2026-03-20T10:26:43.448Z",
+  "first_scraped": "2026-03-20T10:26:43.448Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good taste, Beneficial product, Boosting fat, Dynamic duo, Nice price, Respiratory function, Slow steady, Fast results. Some note: Avoiding tea.",
+    "tags": [
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Beneficial product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boosting fat",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dynamic duo",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Respiratory function",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slow steady",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Null effect",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Avoiding tea",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:26:43.448Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

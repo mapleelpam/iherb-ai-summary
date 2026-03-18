@@ -1,0 +1,68 @@
+{
+  "iherb_id": 70999,
+  "last_updated": "2026-03-20T09:58:15.054Z",
+  "first_scraped": "2026-03-20T09:58:15.054Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Powerful punch, Refreshing taste, Good ingredients, Transparency in ingredients, Energy boost, Good pump, Powerful support, Nice preworkout.",
+    "tags": [
+      {
+        "name": "Powerful punch",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Refreshing taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Transparency in ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good pump",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice preworkout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Too potent",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Caffeine sensitivity",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:15.054Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

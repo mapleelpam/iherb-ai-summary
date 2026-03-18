@@ -1,0 +1,68 @@
+{
+  "iherb_id": 85109,
+  "last_updated": "2026-03-20T09:47:44.418Z",
+  "first_scraped": "2026-03-20T09:47:44.418Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes good, Boost of energy, Increases stamina, Big size, Easy way, Performance enhancement, Good taste, Love the dosage. Some note: Gets job done.",
+    "tags": [
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increases stamina",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Big size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy way",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Performance enhancement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love the dosage",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hated taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Gets job done",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:47:44.418Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

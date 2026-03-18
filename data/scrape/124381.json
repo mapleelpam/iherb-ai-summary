@@ -1,0 +1,68 @@
+{
+  "iherb_id": 124381,
+  "last_updated": "2026-03-20T10:05:43.871Z",
+  "first_scraped": "2026-03-20T10:05:43.871Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast relief, Works wonders, Relieves constipation, Improve health, Potent product, Clear ingredients, Effective supplement, Digestive help. Some note: Not sure.",
+    "tags": [
+      {
+        "name": "Fast relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works wonders",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Relieves constipation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Potent product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clear ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestive help",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:05:43.871Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

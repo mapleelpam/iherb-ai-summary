@@ -1,0 +1,68 @@
+{
+  "iherb_id": 52490,
+  "last_updated": "2026-03-20T09:37:09.056Z",
+  "first_scraped": "2026-03-20T09:37:09.056Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Pink coloring, Delicious taste, Comparable prize, Keto friendly, Easy purchase, Natural taste, Effective muscle gain, Tastes good. Some note: Fast receive.",
+    "tags": [
+      {
+        "name": "Pink coloring",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comparable prize",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Keto friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective muscle gain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No spoon",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fast receive",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:37:09.056Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

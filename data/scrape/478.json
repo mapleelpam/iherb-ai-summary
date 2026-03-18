@@ -1,0 +1,68 @@
+{
+  "iherb_id": 478,
+  "last_updated": "2026-03-20T09:21:16.692Z",
+  "first_scraped": "2026-03-20T09:21:16.692Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Nice package, No stomach upset, Effective brand, Small tablets, Economical product, Reasonable price, Easy to swallow, Boost immunity. Some note: Essential nutrient.",
+    "tags": [
+      {
+        "name": "Nice package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No stomach upset",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small tablets",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economical product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Acne issue",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Essential nutrient",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:21:16.692Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

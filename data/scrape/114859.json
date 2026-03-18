@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114859,
+  "last_updated": "2026-03-20T10:06:34.597Z",
+  "first_scraped": "2026-03-20T10:06:34.597Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Winter essential, Affordable option, Tastes great, Good taste, Must-have supplement, Small tablet, Chewable option, Noticeable package, Vegetarian friendly.",
+    "tags": [
+      {
+        "name": "Winter essential",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Must-have supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small tablet",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Chewable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Noticeable package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegetarian friendly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very expensive",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:34.597Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

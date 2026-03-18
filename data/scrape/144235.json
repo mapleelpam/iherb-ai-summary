@@ -1,0 +1,68 @@
+{
+  "iherb_id": 144235,
+  "last_updated": "2026-03-20T09:52:15.085Z",
+  "first_scraped": "2026-03-20T09:52:15.085Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good formula, Natural ingredient, Helps sleep, Better than melatonin, Restful sleep, Sleep like, Aid PMS symptoms, Good alternative. Some note: Mood improvement.",
+    "tags": [
+      {
+        "name": "Good formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helps sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Better than melatonin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Restful sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sleep like",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Aid PMS symptoms",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood improvement",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Bad dreams",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:15.085Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

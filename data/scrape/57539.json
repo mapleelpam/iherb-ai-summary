@@ -1,0 +1,68 @@
+{
+  "iherb_id": 57539,
+  "last_updated": "2026-03-20T10:07:12.383Z",
+  "first_scraped": "2026-03-20T10:07:12.383Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fast shipping, Energy benefits, Good taste, New favorite, Delicious flavor, No artificial colors, Great energy, Daily routine. Some note: Love this, Mild tingling.",
+    "tags": [
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "New favorite",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delicious flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No artificial colors",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Daily routine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Mild tingling",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:12.383Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

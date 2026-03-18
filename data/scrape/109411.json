@@ -1,0 +1,68 @@
+{
+  "iherb_id": 109411,
+  "last_updated": "2026-03-20T10:10:36.417Z",
+  "first_scraped": "2026-03-20T10:10:36.417Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Diet-friendly option, Good mixability, Smooth texture, Good taste, No added sugar, Plant-based protein, Sugar-free option, Rich peanut flavor. Some note: Tasty flavor.",
+    "tags": [
+      {
+        "name": "Diet-friendly option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good mixability",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth texture",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No added sugar",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant-based protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sugar-free option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rich peanut flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty flavor",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Weak flavor",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:36.417Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

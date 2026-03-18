@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116931,
+  "last_updated": "2026-03-20T10:13:09.479Z",
+  "first_scraped": "2026-03-20T10:13:09.479Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Athletic performance, Good composition, Codeage products, Plant based, Complete ingredients, Immediate impact, Muscles recovery, Animal sterol, Pumped up.",
+    "tags": [
+      {
+        "name": "Athletic performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good composition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Codeage products",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Plant based",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Complete ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscles recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Animal sterol",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pumped up",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Didn't notice",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:13:09.479Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

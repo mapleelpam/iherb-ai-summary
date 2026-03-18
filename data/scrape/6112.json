@@ -1,0 +1,68 @@
+{
+  "iherb_id": 6112,
+  "last_updated": "2026-03-20T10:00:32.186Z",
+  "first_scraped": "2026-03-20T10:00:32.186Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Complete package, Easy swallow, Good formula, Best vitamins, Eye twitch, Fast shipping, First choices, Boost of energy. Some note: Additional supplementation.",
+    "tags": [
+      {
+        "name": "Complete package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best vitamins",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eye twitch",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "First choices",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High cholesterol",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Additional supplementation",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:00:32.186Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

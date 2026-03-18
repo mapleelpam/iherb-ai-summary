@@ -1,0 +1,68 @@
+{
+  "iherb_id": 71125,
+  "last_updated": "2026-03-20T09:51:42.564Z",
+  "first_scraped": "2026-03-20T09:51:42.564Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Smooth movement, Effective supplement, Improved digestion, Gut health, Travel essential, Good relief, Happy days, Stable probiotic. Some note: Easy intake.",
+    "tags": [
+      {
+        "name": "Smooth movement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved digestion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gut health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Travel essential",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Happy days",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stable probiotic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy intake",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Price higher",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:51:42.564Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

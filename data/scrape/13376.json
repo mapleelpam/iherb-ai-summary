@@ -1,0 +1,68 @@
+{
+  "iherb_id": 13376,
+  "last_updated": "2026-03-20T09:22:49.340Z",
+  "first_scraped": "2026-03-20T09:22:49.340Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good for candida, Sustained release, Effective supplement, Healthy gut, Fight bacteria, Convenient option, Improves health, Seems promising. Some note: Good ingredients, Not sure.",
+    "tags": [
+      {
+        "name": "Good for candida",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustained release",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy gut",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fight bacteria",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Seems promising",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:22:49.340Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

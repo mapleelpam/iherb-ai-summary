@@ -1,0 +1,68 @@
+{
+  "iherb_id": 24530,
+  "last_updated": "2026-03-20T10:28:20.729Z",
+  "first_scraped": "2026-03-20T10:28:20.729Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved dryness, Skin hydration, Great benefits, Best available, Youthful appearance, Skin benefit, Vegan hydration, Safer option.",
+    "tags": [
+      {
+        "name": "Improved dryness",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Best available",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Youthful appearance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan hydration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safer option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No MSM",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "No improvement",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:20.729Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

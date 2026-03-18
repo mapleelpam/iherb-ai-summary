@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115429,
+  "last_updated": "2026-03-20T10:22:46.685Z",
+  "first_scraped": "2026-03-20T10:22:46.685Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great energy, Nice flavor, Boost blood flow, Convenient, affordable, Liver health, Effective ingredient, Clean product, Good alternative, Healthy taste.",
+    "tags": [
+      {
+        "name": "Great energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost blood flow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient, affordable",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Liver health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredient",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clean product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No scoop",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:22:46.685Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

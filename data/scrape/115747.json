@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115747,
+  "last_updated": "2026-03-20T09:15:48.195Z",
+  "first_scraped": "2026-03-20T09:15:48.195Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Iron supplement, Helped anemia, Good ingredients, Excellent combination, Gentle on stomach, Nutritional support, Improved energy, Boost ferritin. Some note: Increase iron, Effective blend.",
+    "tags": [
+      {
+        "name": "Iron supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helped anemia",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Excellent combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Gentle on stomach",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutritional support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost ferritin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase iron",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Effective blend",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:15:48.195Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

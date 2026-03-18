@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1631,
+  "last_updated": "2026-03-20T09:52:47.624Z",
+  "first_scraped": "2026-03-20T09:52:47.624Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Hormonal balance, Good source, Good results, Digestion aid, Convenient size, Glass bottle, Eco-friendly packaging, Cognitive support. Some note: Cool shopping.",
+    "tags": [
+      {
+        "name": "Hormonal balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good results",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Digestion aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Glass bottle",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Eco-friendly packaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cognitive support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Upset stomach",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Cool shopping",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:52:47.624Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

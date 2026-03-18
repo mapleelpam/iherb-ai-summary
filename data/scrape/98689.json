@@ -1,0 +1,68 @@
+{
+  "iherb_id": 98689,
+  "last_updated": "2026-03-20T09:23:56.068Z",
+  "first_scraped": "2026-03-20T09:23:56.068Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Tastes nice, Tasty electrolyte, Dissolves well, Convenient size, Lemony taste, Hydrate quickly, Easy to use, Recovery aid. Some note: Decent taste.",
+    "tags": [
+      {
+        "name": "Tastes nice",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tasty electrolyte",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dissolves well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lemony taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hydrate quickly",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Recovery aid",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Decent taste",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Didn't like",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:23:56.068Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102871,
+  "last_updated": "2026-03-20T09:38:06.345Z",
+  "first_scraped": "2026-03-20T09:38:06.345Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved focus, Clearer thoughts, Brain boost, Nice supplement, Sharper mind, Easy to swallow, Lasting boost, Morning boost.",
+    "tags": [
+      {
+        "name": "Improved focus",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clearer thoughts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Brain boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nice supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sharper mind",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Lasting boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Morning boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pricey product",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Severe nausea",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:06.345Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

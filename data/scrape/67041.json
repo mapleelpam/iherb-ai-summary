@@ -1,0 +1,68 @@
+{
+  "iherb_id": 67041,
+  "last_updated": "2026-03-20T10:07:18.263Z",
+  "first_scraped": "2026-03-20T10:07:18.263Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Inner energy, More energy, Post-surgery recovery, Cellular vitality, Repeat purchase, Scientific formula, Mental work, Natural energy. Some note: Hard to know.",
+    "tags": [
+      {
+        "name": "Inner energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Post-surgery recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cellular vitality",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Repeat purchase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Scientific formula",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mental work",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hard to know",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not working",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:18.263Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

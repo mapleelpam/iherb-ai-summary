@@ -1,0 +1,68 @@
+{
+  "iherb_id": 115953,
+  "last_updated": "2026-03-20T10:02:25.920Z",
+  "first_scraped": "2026-03-20T10:02:25.920Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High price, Highly recommend, Muscle gains, Convenient supply, Mixes well, Satisfied product, Easy to use, Strength increase, Benefit.",
+    "tags": [
+      {
+        "name": "High price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle gains",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient supply",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Satisfied product",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Strength increase",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Benefit",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Not dissolve well",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:02:25.920Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116330,
+  "last_updated": "2026-03-20T09:33:28.950Z",
+  "first_scraped": "2026-03-20T09:33:28.950Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Relief kicks in, Supports circulation, Pain disappeared, Works for me, Blood flow, Helpful supplement, Significant improvement, Effective ingredients. Some note: Takes time.",
+    "tags": [
+      {
+        "name": "Relief kicks in",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports circulation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Pain disappeared",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works for me",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood flow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Helpful supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Significant improvement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No effects",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Takes time",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:33:28.950Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 2627,
+  "last_updated": "2026-03-20T09:24:07.948Z",
+  "first_scraped": "2026-03-20T09:24:07.948Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Electrolyte balance, Works great, Effective brand, Improved health, Easy to swallow, Supports health, Regulate fluid balance, Good ingredients. Some note: Fast shipping, Not sure.",
+    "tags": [
+      {
+        "name": "Electrolyte balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Regulate fluid balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:24:07.948Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

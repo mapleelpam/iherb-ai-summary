@@ -1,0 +1,68 @@
+{
+  "iherb_id": 116267,
+  "last_updated": "2026-03-20T09:40:55.404Z",
+  "first_scraped": "2026-03-20T09:40:55.404Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Skin health, Thicker hair, Affordable option, Easy swallow, Hair growth, Maintains eyelashes, Highly recommend, High care, Burst of energy. Some note: Improves hair.",
+    "tags": [
+      {
+        "name": "Skin health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Thicker hair",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Affordable option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hair growth",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintains eyelashes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High care",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Burst of energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves hair",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:40:55.404Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

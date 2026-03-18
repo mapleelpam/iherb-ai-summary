@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4242,
+  "last_updated": "2026-03-20T10:21:37.987Z",
+  "first_scraped": "2026-03-20T10:21:37.987Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good combination, More energy, Effective ginseng, Slight energy, Control cravings, Love this brand, Highly recommend, Sustained energy. Some note: Wild-crafted herbs, Not sure.",
+    "tags": [
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "More energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective ginseng",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Slight energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Control cravings",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Love this brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Sustained energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wild-crafted herbs",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not sure",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:37.987Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

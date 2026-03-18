@@ -1,0 +1,68 @@
+{
+  "iherb_id": 55075,
+  "last_updated": "2026-03-20T09:58:38.020Z",
+  "first_scraped": "2026-03-20T09:58:38.020Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Fewer hot flashes, Convenient option, Efficient delivery, High concentration, Increased energy, Stress resistance, Menopause signs, Energy levels. Some note: Very timely delivery, Great for menopause.",
+    "tags": [
+      {
+        "name": "Fewer hot flashes",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Convenient option",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Efficient delivery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High concentration",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress resistance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Menopause signs",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very timely delivery",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Great for menopause",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:38.020Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

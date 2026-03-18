@@ -1,0 +1,68 @@
+{
+  "iherb_id": 30713,
+  "last_updated": "2026-03-20T10:10:34.336Z",
+  "first_scraped": "2026-03-20T10:10:34.336Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: High fiber, Game-changer, Boost fiber content, Wonderful service, Smell good, Wonderful fiber, Nutritious breakfast, Good source. Some note: Must-have balance, Digestion help.",
+    "tags": [
+      {
+        "name": "High fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Game-changer",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost fiber content",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wonderful service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smell good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Wonderful fiber",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Nutritious breakfast",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Must-have balance",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Digestion help",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:10:34.336Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

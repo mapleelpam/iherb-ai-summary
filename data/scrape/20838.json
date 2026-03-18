@@ -1,0 +1,68 @@
+{
+  "iherb_id": 20838,
+  "last_updated": "2026-03-20T10:15:25.657Z",
+  "first_scraped": "2026-03-20T10:15:25.657Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Krill oil, Immune support, Early arrival, I find this, Small size, Reordering another, Healthy benefits, Fewer cramps.",
+    "tags": [
+      {
+        "name": "Krill oil",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Early arrival",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "I find this",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reordering another",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Healthy benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fewer cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "No difference",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Pricier",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:15:25.657Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

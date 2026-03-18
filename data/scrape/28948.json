@@ -1,0 +1,68 @@
+{
+  "iherb_id": 28948,
+  "last_updated": "2026-03-20T10:27:36.797Z",
+  "first_scraped": "2026-03-20T10:27:36.797Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Clean taste, Mixes well, Fast service, High protein, Tastes great, Dairy substitute, Post-workout fuel, Vegan alternative. Some note: Neutral flavor.",
+    "tags": [
+      {
+        "name": "Clean taste",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mixes well",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast service",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High protein",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Tastes great",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Dairy substitute",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Post-workout fuel",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vegan alternative",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Neutral flavor",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Waste resources",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:27:36.797Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

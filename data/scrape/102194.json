@@ -1,0 +1,68 @@
+{
+  "iherb_id": 102194,
+  "last_updated": "2026-03-20T09:38:54.676Z",
+  "first_scraped": "2026-03-20T09:38:54.676Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Good ingredients, Boost immunity, Safe daily use, Trust brand, High absorption, Good combination, Fast shipping, Vitamin D. Some note: Convenient packaging.",
+    "tags": [
+      {
+        "name": "Good ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost immunity",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Safe daily use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trust brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast shipping",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Vitamin D",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fillers present",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Convenient packaging",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:54.676Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

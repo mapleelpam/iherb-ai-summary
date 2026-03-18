@@ -1,0 +1,68 @@
+{
+  "iherb_id": 3640,
+  "last_updated": "2026-03-20T10:28:18.678Z",
+  "first_scraped": "2026-03-20T10:28:18.678Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Cardiologist recommended, Natural ingredients, Immediate impact, Good therapy, Maintain normal counts, Works better, Cholesterol levels, Good skin tone. Some note: Blood test, Just bought.",
+    "tags": [
+      {
+        "name": "Cardiologist recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immediate impact",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good therapy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Maintain normal counts",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Works better",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cholesterol levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good skin tone",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Blood test",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Just bought",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:28:18.678Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

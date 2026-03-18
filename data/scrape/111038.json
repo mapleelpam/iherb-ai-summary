@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111038,
+  "last_updated": "2026-03-20T09:35:57.042Z",
+  "first_scraped": "2026-03-20T09:35:57.042Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Everyday use, High benefits, Improved mood, Skin improved, Low price, Great supplement, Mild acne, Bioavailable form. Some note: Easy to swallow, Immune support.",
+    "tags": [
+      {
+        "name": "Everyday use",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Skin improved",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Low price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Great supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mild acne",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Bioavailable form",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Immune support",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:35:57.042Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

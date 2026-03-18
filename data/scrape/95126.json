@@ -1,0 +1,68 @@
+{
+  "iherb_id": 95126,
+  "last_updated": "2026-03-20T10:21:23.607Z",
+  "first_scraped": "2026-03-20T10:21:23.607Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Helps relax, Mood enhancement, Respectful brand, Energy boost, Stress relief, Support mental, Natural supplement, Balance of mood. Some note: Quantity concern, Comparable brands.",
+    "tags": [
+      {
+        "name": "Helps relax",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mood enhancement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Respectful brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy boost",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Stress relief",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Support mental",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Balance of mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Quantity concern",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Comparable brands",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:21:23.607Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

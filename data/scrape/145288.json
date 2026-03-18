@@ -1,0 +1,68 @@
+{
+  "iherb_id": 145288,
+  "last_updated": "2026-03-20T09:58:13.145Z",
+  "first_scraped": "2026-03-20T09:58:13.145Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to mix, Delay in murmur, Value size, Enhance energy, Effective dosages, Easy dissolve, Economic substitution, Mitochondria support, Muscle fatigue. Some note: Normal raw.",
+    "tags": [
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Delay in murmur",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Enhance energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective dosages",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy dissolve",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Economic substitution",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Mitochondria support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Muscle fatigue",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Normal raw",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:58:13.145Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

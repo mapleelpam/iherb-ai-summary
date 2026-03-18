@@ -1,0 +1,68 @@
+{
+  "iherb_id": 98384,
+  "last_updated": "2026-03-20T10:07:13.400Z",
+  "first_scraped": "2026-03-20T10:07:13.400Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Easy to swallow, Reasonable price, Capsules size, Added digestion blend, Trusted brand, Natural supplement, Easy addition, Comfortable multivitamin. Some note: Ingredients check.",
+    "tags": [
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Capsules size",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Added digestion blend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Trusted brand",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural supplement",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy addition",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Comfortable multivitamin",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Rebate issue",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Ingredients check",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:07:13.400Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

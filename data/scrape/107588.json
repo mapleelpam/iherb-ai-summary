@@ -1,0 +1,68 @@
+{
+  "iherb_id": 107588,
+  "last_updated": "2026-03-20T09:30:06.662Z",
+  "first_scraped": "2026-03-20T09:30:06.662Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Convenient powder, Easy to mix, Joint pain, Good for bones, Anti-aging benefits, Good absorption, Highly recommend, Supports joints.",
+    "tags": [
+      {
+        "name": "Convenient powder",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to mix",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Joint pain",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good for bones",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Anti-aging benefits",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Supports joints",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Doesn't dissolve",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Fishy taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:30:06.662Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

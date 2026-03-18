@@ -1,0 +1,68 @@
+{
+  "iherb_id": 4234,
+  "last_updated": "2026-03-20T10:25:02.278Z",
+  "first_scraped": "2026-03-20T10:25:02.278Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Works consistently, Protective, Ideal ingredients, Highly recommend, Fast recovery, Immune booster, Powerful combination, Natural energy. Some note: Bitter but bearable.",
+    "tags": [
+      {
+        "name": "Works consistently",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Protective",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Ideal ingredients",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Highly recommend",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast recovery",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Immune booster",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Powerful combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Natural energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Clumped content",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bitter but bearable",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:25:02.278Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

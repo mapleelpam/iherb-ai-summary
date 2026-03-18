@@ -1,0 +1,68 @@
+{
+  "iherb_id": 114928,
+  "last_updated": "2026-03-20T10:06:26.704Z",
+  "first_scraped": "2026-03-20T10:06:26.704Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Great package, Well packed, Hugely recommended, Whole organism, Fresh flavor, Transparent dosaging, High energy, Improves value.",
+    "tags": [
+      {
+        "name": "Great package",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Well packed",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Hugely recommended",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Whole organism",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fresh flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Transparent dosaging",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "High energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improves value",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Awful taste",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Decreases testosterone",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:26.704Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

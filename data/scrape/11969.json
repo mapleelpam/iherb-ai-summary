@@ -1,0 +1,68 @@
+{
+  "iherb_id": 11969,
+  "last_updated": "2026-03-20T09:18:11.193Z",
+  "first_scraped": "2026-03-20T09:18:11.193Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved sleep, Good combination, Improve health, Reasonable price, Easy to swallow, Good basic, Energy levels, Very reliable order. Some note: Yellow urine, Convenient way.",
+    "tags": [
+      {
+        "name": "Improved sleep",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good combination",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improve health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Reasonable price",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to swallow",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good basic",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Energy levels",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Very reliable order",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Yellow urine",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Convenient way",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:18:11.193Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

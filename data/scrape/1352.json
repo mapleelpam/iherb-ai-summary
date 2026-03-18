@@ -1,0 +1,68 @@
+{
+  "iherb_id": 1352,
+  "last_updated": "2026-03-20T10:06:21.841Z",
+  "first_scraped": "2026-03-20T10:06:21.841Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Improved mood, Fast absorption, Effective source, Cherry flavor, Miracle energy, Boost in energy, Easy to take, Memory support. Some note: Small dose.",
+    "tags": [
+      {
+        "name": "Improved mood",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fast absorption",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Effective source",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Cherry flavor",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Miracle energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost in energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Easy to take",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Memory support",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Small dose",
+        "classification": 1,
+        "count": 0
+      },
+      {
+        "name": "Not helping",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:06:21.841Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "iherb_id": 111029,
+  "last_updated": "2026-03-20T09:38:18.273Z",
+  "first_scraped": "2026-03-20T09:38:18.273Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Balancing electrolyte, Leg cramps, Improvement in health, Essential mineral, Fluid balance, Good absorbtion, Increased urine, Value for money. Some note: Love the price.",
+    "tags": [
+      {
+        "name": "Balancing electrolyte",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Leg cramps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Improvement in health",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Essential mineral",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Fluid balance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Good absorbtion",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increased urine",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Value for money",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Kidney stones",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Love the price",
+        "classification": 1,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T09:38:18.273Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}

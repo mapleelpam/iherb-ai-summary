@@ -1,0 +1,68 @@
+{
+  "iherb_id": 30456,
+  "last_updated": "2026-03-20T10:09:41.170Z",
+  "first_scraped": "2026-03-20T10:09:41.170Z",
+  "source": "fetch-ai-tags",
+  "data": {
+    "summary": "Customers highlight: Enhanced performance, Intense pre-workout, Increase energy, Smooth energy, Insane pumps, Boost good, Incredible energy, Amazing sensation.",
+    "tags": [
+      {
+        "name": "Enhanced performance",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Intense pre-workout",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Increase energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Smooth energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Insane pumps",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Boost good",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Incredible energy",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Amazing sensation",
+        "classification": 0,
+        "count": 0
+      },
+      {
+        "name": "Migraines",
+        "classification": 2,
+        "count": 0
+      },
+      {
+        "name": "Bad taste",
+        "classification": 2,
+        "count": 0
+      }
+    ],
+    "rating": null
+  },
+  "history": [
+    {
+      "scraped_at": "2026-03-20T10:09:41.170Z",
+      "source": "fetch-ai-tags"
+    }
+  ]
+}
